@@ -54,7 +54,8 @@ Every field except `id`, `title` and `score` may be null/omitted when the publis
 | `score_reasons` | object? | Additive breakdown of `score` (coverage, ig_reach, ig_likes, viral, search, fresh, …). |
 | `first_published` | int | Unix seconds of the earliest report in the cluster. |
 | `last_published` | int | Unix seconds of the latest update. |
-| `outlets` | object | `{total, updates, names[]}`: how widely the story is covered and by whom. |
+| `credibility` | object | `{status, independent_newsrooms, official_sources[], tier_mix{}, aggregators[], cluster_outlets, notice}`: **how far the evidence goes**. `Confirmed` = ≥2 independent B-tier newsrooms or one official feed (NWS, USGS, NIFC, NHC, FEMA, FBI, FDA) reported it; `Developing` = carried by feeds but thin independent confirmation; `Unverified` = one outlet so far. This is consensus accounting, not an independent fact-check. |
+| `outlets` | object | `{total, cluster, updates, names[]}`: `total` = distinct newsrooms reporting the story **as titled** (aggregators excluded), `cluster` = every feed in the publisher's cluster (looser). |
 | `lead` | object? | `{outlet, title, url, published}`: the earliest strong report, i.e. who had it first. |
 | `sources` | array | `[{outlet, title, url, published, niche?, via?}]`, earliest first, one entry per outlet. `via` names an aggregator (e.g. Google News) when the outlet itself is the origin. |
 | `instagram` | object | `{accounts, posts, likes, comments, viral_x?, watchlist[], top[]}`. `top[]` is `[{account, url, caption, posted_at, likes, comments, viral_x, date_only, lag_minutes}]`: who posted it, where, when and how it performed. `lag_minutes` is the delay after the first news report. |

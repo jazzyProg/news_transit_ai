@@ -55,9 +55,23 @@
         "outlets": {
           "type": "object",
           "properties": {
-            "total": {"type": "integer", "minimum": 0},
+            "total": {"type": "integer", "minimum": 0, "description": "Distinct newsrooms/feeds reporting the story as titled (aggregators excluded)."},
+            "cluster": {"type": "integer", "minimum": 0, "description": "All feeds in the publisher's story cluster, including loosely related updates."},
             "updates": {"type": "integer", "minimum": 0},
             "names": {"type": "array", "items": {"type": "string"}}
+          }
+        },
+        "credibility": {
+          "type": "object",
+          "description": "How far the evidence goes: consensus, not an independent fact-check.",
+          "properties": {
+            "status": {"type": "string", "enum": ["Confirmed", "Developing", "Unverified"]},
+            "independent_newsrooms": {"type": "integer", "minimum": 0},
+            "official_sources": {"type": "array", "items": {"type": "string"}},
+            "tier_mix": {"type": "object", "additionalProperties": {"type": "integer"}},
+            "aggregators": {"type": "array", "items": {"type": "string"}},
+            "cluster_outlets": {"type": "integer", "minimum": 0},
+            "notice": {"type": ["string", "null"]}
           }
         },
         "lead": {

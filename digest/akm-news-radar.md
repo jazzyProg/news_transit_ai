@@ -1,40 +1,45 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 17:26 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 17:30 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
-| # | Story | Score | Outlets | IG pages | Links |
-|---|---|---:|---:|---:|---|
-| 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 214 | 18 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
-| 2 | Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth | 188 | 20 | 2 | [Live Science](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future) |
-| 3 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 183 | 28 | 3 | [CBS News](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/) |
-| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 178 | 21 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
-| 5 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 154 | 20 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
-| 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 153 | 5 | 9 | [Deadline](https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1JuY2VNZk0tMWNILU9McldkcDZraDlyci1mZzFhNk41RjY5YUhyV0RnVTZYbWloNklYOUw4V19pakt5T00wTWc2YmkzdG90dHhvU0cyRlMxWGd2MTY0WFJJQ1BqeTlUS19adFZ3Nm1SN0NHdExJSnZ2dExKejJVejJja09DYktiZDY5Y3VQdkRvMWZlSTlaX01TNXhXV2QweWN1eGg3REtLMXI5ZVhN?oc=5) |
-| 7 | Waymo suspends freeway rides nationwide after California DMV order | 142 | 22 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
-| 8 | Top Nvidia lawyer agrees to testify before Congress | 140 | 11 | 7 | [The Verge](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china) |
-| 9 | Customers report difficulty accessing online services at major US banks | 140 | 17 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
-| 10 | McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items | 130 | 10 | 5 | [Dexerto](https://www.dexerto.com/food/mcdonalds-reveals-home-alone-meal-with-pizza-flavored-fries-and-collectible-socks-3428779/) |
-| 11 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 130 | 13 | 3 | [The Hill](https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/) |
-| 12 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | 3 | 13 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
-| 13 | Mamdani disbanding controversial NYPD unit | 117 | 13 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
-| 14 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 113 | 9 | 2 | [r/Fauxmoi](https://www.reddit.com/r/Fauxmoi/comments/1xxql4y/raye_rosalía_phoebe_bridgers_miranda_lambert_ella/) |
-| 15 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 112 | 7 | 5 | [Deadline](https://news.google.com/rss/articles/CBMingFBVV95cUxOVUhuMmtvc0Q5OG5iMDZSME1fa3NybjMxV0FNZURPOWJjY21HdGVRdXAzWmpaVkJHTXRoUEtvYW00WDM3UTREYWRTV0w3WFRTQXJlcVg3MDBtNkhFcjAzSERTeUlwMk5nUDQxWGxVX3VrNWVnWl8wVlVaYjdIOVhIbjZPRmtSN2N1eGVOWWtlS1lMTmx3allwZ2RpTDU0dw?oc=5) |
-| 16 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 112 | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
-| 17 | Apple hit by widespread outages as tech problems continue | 112 | 9 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
-| 18 | US officially loses measles elimination status, PAHO says | 110 | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
-| 19 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 110 | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
-| 20 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 110 | 13 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
-| 21 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 109 | 23 | 0 | [Newsweek](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWw5dVlxYnV0N2NrZjZLYWt4ZDF3cHhBbTJBVXUxMEoyUWNuYTdvRkJpZ0VCZVRpTGprVlRVOVJRV1RvOFZQczFiNVVDak8xZk8wcTRxV3N0bjRzRERxQ2FCcG55S3I1ejhkbkhodlEtR1JiSUZWSnNRTGFyeTNwLW9ETmVoaUE1Y3EyN3piQWVwdGc0U0pBbURn?oc=5) |
-| 22 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 108 | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
-| 23 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
-| 24 | ‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse | 104 | 3 | 1 | [Deadline](https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/) |
-| 25 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 104 | 2 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/paris-hilton-begs-lawmakers-to-pass-defiance-act-vows-not-to-stop-until-its-law/) |
+| # | Story | Score | Status | Outlets | IG pages | Links |
+|---|---|---:|---|---:|---:|---|
+| 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 210 | Confirmed | 17 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
+| 2 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 183 | Confirmed | 25 | 3 | [CBS News](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/) |
+| 3 | Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth | 180 | Confirmed | 18 | 2 | [Live Science](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future) |
+| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 170 | Confirmed | 19 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
+| 5 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 150 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
+| 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 149 | Developing | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
+| 7 | Top Nvidia lawyer agrees to testify before Congress | 136 | Confirmed | 10 | 7 | [The Verge](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china) |
+| 8 | Customers report difficulty accessing online services at major US banks | 136 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
+| 9 | Waymo suspends freeway rides nationwide after California DMV order | 134 | Confirmed | 20 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
+| 10 | McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items | 130 | Confirmed | 10 | 5 | [Dexerto](https://www.dexerto.com/food/mcdonalds-reveals-home-alone-meal-with-pizza-flavored-fries-and-collectible-socks-3428779/) |
+| 11 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 126 | Confirmed | 12 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
+| 12 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 13 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
+| 13 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 112 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
+| 14 | US officially loses measles elimination status, PAHO says | 110 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
+| 15 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 110 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
+| 16 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 108 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
+| 17 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | Developing | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
+| 18 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 108 | Confirmed | 6 | 5 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
+| 19 | Apple hit by widespread outages as tech problems continue | 108 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
+| 20 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 106 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
+| 21 | Mamdani disbanding controversial NYPD unit | 105 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
+| 22 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 105 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
+| 23 | ‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse | 104 | Developing | 3 | 1 | [Deadline](https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/) |
+| 24 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 104 | Developing | 2 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/paris-hilton-begs-lawmakers-to-pass-defiance-act-vows-not-to-stop-until-its-law/) |
+| 25 | Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More | 103 | Unverified | 1 | 6 | [Us Weekly](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/) |
+
+**Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far. Read `credibility` in the JSON for the exact mix.
+
 
 ## Details
 
 ### 1. Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos
 
-**Score** 214 · **Category** trending · **First seen** 2026-11-16 17:42 UTC · **Last update** 2026-11-18 16:58 UTC
+**Score** 210 · **Category** trending · **First seen** 2026-11-16 17:42 UTC · **Last update** 2026-11-18 16:58 UTC
+
+**Status** Confirmed · independent newsrooms: 13 · official: none · feeds: 48
 
 Amazon founder and chairman Jeff Bezos revealed during a recent appearance at Semafor’s Silicon Valley & The World event that he was “heavily involved” in Amazon MGM casting Robert Pattinson as the next James Bond. Bezos said that because Bond is traditionally a star-making role, they were at first “slightly biased” against casting Pattinson because […]
 
@@ -47,13 +52,13 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 - 2026-11-17 22:18 UTC · IGN · [Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos](https://www.ign.com/articles/robert-pattinsons-james-bond-casting-process-details-revealed-by-amazons-jeff-bezos)
 - 2026-11-17 22:38 UTC · The Verge · [Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond](https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon)
 - 2026-11-17 22:57 UTC · Hollywood Reporter · [Jeff Bezos Says He Was “Heavily Involved” in Casting Robert Pattinson as James Bond](https://www.hollywoodreporter.com/movies/movie-news/jeff-bezos-chose-robert-pattinson-as-james-bond-amazon-mgm-1236757909/)
-- 2026-11-17 23:03 UTC · Variety via Google News: Top US · [Jeff Bezos Was 'Heavily Involved' in Casting Robert Pattinson as Bond](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWxLSktjaXhzMTZUUGx2LXpIMXRoSGwwQ2RCWUFkc1hmckJWTnpGdnA5N1NJektwMHUyTFZ1SzB2TmpGSWNUQzVrdi15LWRzc2NLQVJSd1k1SG5XLV96MmxUQkRuY2NDQWJZNUNoS2ljTVJhcFkyLWZRRTNtN25BTFdad0NkOUhKMnJicnZLMDNjTjZ0YmZxTFhmMVE4Y3FwanNQcw?oc=5)
 - 2026-11-17 23:03 UTC · Variety · [Jeff Bezos Was ‘Heavily Involved’ in Casting Robert Pattinson as James Bond and Admits Initial Fears ‘Because He’s Already So Famous’](https://variety.com/2026/film/news/jeff-bezos-involved-casting-robert-pattinson-james-bond-1236950970/)
 - 2026-11-18 00:07 UTC · Just Jared · [Jeff Bezos Reveals New James Bond Casting Details, Explains Why They Picked Robert Pattinson](https://www.justjared.com/2026/11/17/jeff-bezos-reveals-new-james-bond-casting-details-explains-why-they-picked-robert-pattinson/)
-- 2026-11-18 00:08 UTC · Deadline via Google News: Top US · [Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond](https://news.google.com/rss/articles/CBMijgFBVV95cUxNYm1INU5oTXZZa3M5QTlQbTNlVzlPMmEyaWxSVUt2NHhBRDhtU3c3Qm1CLWJCdmRZcl9nTnJZX1ZjSnNIeWg2Zk9INlRIUmZoa3J1a1BCQWw2QlFtSS1XSDlVM3FiZGtqNVkzVzV2Sm5CeW5laHFBRjAtTWlmak9lNDRMOHJrd2N2V2pFSXNR?oc=5)
 - 2026-11-18 00:08 UTC · Deadline · [Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond](https://deadline.com/2026/11/jeff-bezos-chose-robert-pattinson-james-bond-1237227282/)
 - 2026-11-18 02:17 UTC · New York Post · [Jeff Bezos reveals that Robert Pattinson wasn’t selected as new James Bond until Friday](https://pagesix.com/2026/11/17/entertainment/jeff-bezos-reveals-that-robert-pattinson-wasnt-selected-as-new-james-bond-until-friday/)
 - 2026-11-18 09:53 UTC · NBC News · [Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond](https://www.nbcnews.com/pop-culture/pop-culture-news/jeff-bezos-heavily-involved-casting-robert-pattinson-james-bond-amazon-rcna609958)
+- 2026-11-18 11:28 UTC · Daily Mail US · [Jeff Bezos confirms he was 'heavily involved' in the Bond casting process and initially thought Robert Pattinson was 'too famous' for 007 role](https://www.dailymail.com/tvshowbiz/article-16301903/Jeff-Bezos-heavily-involved-Bond-casting-process.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-18 12:30 UTC · E! News · [Jeff Bezos Reveals Process of Casting Robert Pattinson as James Bond](https://www.eonline.com/news/1438207/jeff-bezos-reveals-process-of-casting-robert-pattinson-as-james-bond?cmpid=rss-syndicate-genericrss-us-top_stories)
 
 **Who posted it on Instagram** (23 pages, 1,048,248 likes, 45 posts)
 
@@ -64,37 +69,11 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 - [@nugget](https://www.instagram.com/p/Dfz_lNPoHYm/) · 24,153 likes · 776 comments · +42 min after first report · Pierce Brosnan’s time as James Bond came to an unexpected end after four films, making him one of the few actors to publicly describe being dropped from the iconic role rather than choosing to leave. 
 - [@forbes](https://www.instagram.com/p/Dfzp4qvkwwA/) · 21,747 likes · 763 comments · 523 min before first report · The next James Bond has officially been revealed. ⁣ ⁣ Robert Pattinson, best known for his roles in Twilight and The Batman, is set to take over as 007, succeeding Daniel Craig after years of speculat
 
-### 2. Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth
-
-**Score** 188 · **First seen** 2026-11-15 20:00 UTC · **Last update** 2026-11-18 17:12 UTC
-
-Nearly 50 years after launch, NASA's Voyager 1 probe will pass the one light-day mark on Nov. 18, a symbolic milestone for the agency's longest-running mission. Scientists reflect on the Voyager program's legacy and what comes next.
-
-Lead: [Live Science — 'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future)
-
-**Where it was published**
-
-- 2026-11-15 20:00 UTC · Live Science · ['Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future)
-- 2026-11-15 20:00 UTC · Live Science via Google News: Top US · [As Voyager 1 reaches one light-day from Earth, scientists reflect on its incredible 50-year legacy](https://news.google.com/rss/articles/CBMiiAJBVV95cUxObmtMbDhOY0hqZzNtbVcyRHJVMnNISVlkQ2JpVU1sN3FXb2FBa1BUZ215RjFxTC1SeElLT1NmXzh1MmY3YXNFZC0xME43M0VCZkQyUDRDOGFpTEZDRU9NZFROTVdEc1VJSVl2R3dfcW0tMVlCN0Y5NXA1d0wyMXhXd1NQTkwyb3RBTDRNd0VscW81SXJHbUtWbS05QkZlSVFXZXRUSkNZeGdjeDQ5WTBXSUwyLW5sbFRXVTREY2dRckdoZFMxMEt1aHhHdkRva2lXbENlaHBaZ1ZtZEFVMjhrMXIxa3VxWTVubFNxS1h5VHpMWHFfeUk3WmpYMHA3Y0VpcElkdEFBbmQ?oc=5)
-- 2026-11-15 21:19 UTC · ABC7 LA (CA) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
-- 2026-11-15 21:19 UTC · ABC13 Houston (TX) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc13.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
-- 2026-11-15 21:19 UTC · ABC7 NY (NY) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7ny.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
-- 2026-11-15 21:19 UTC · ABC7 Chicago (IL) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7chicago.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
-- 2026-11-15 21:19 UTC · 6abc Philly (PA) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://6abc.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
-- 2026-11-15 22:41 UTC · NPR · [Far from home. Voyager 1 is now farther than anything man has sent into space](https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space)
-- 2026-11-16 11:00 UTC · Space via Google News: Top US · [NASA's interstellar Voyager 1 probe is about to reach 1 light-day from Earth after nearly 50 years in space](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZkNxMk55c0NhYzNNVW5ySEVUbHdTQWlGVm00dFgzdlA1Ukc1UlBPcENPWEJDbFV5ekRNb29YN1p5VHA0Q2w1Q3UzNU9fcERuUUNFVENZUTdQcWZDMDBLU3BLdjEySjY5WG5mUzBfWVhfYkhrVGxoejhhQXBlY2NEQ3ltLXM5TXlnY3NGS0FNeGw0bW1vTFlyNjZSY0JjZ3lCQXFxbERmSXRLUnI0VWVfcE9oSWJwcTcwdDVaeHVqUG5lZjhDNm95d2paUHJlMTZvUGxDVG5jUk1XWEc3R1BtT2ZBSVZ2ajJLRnc?oc=5)
-- 2026-11-16 17:43 UTC · DW.com via Google News: Top US · [The first human-made object to travel one light-day from Earth: Make sense of NASA's Voyager 1](https://news.google.com/rss/articles/CBMijAFBVV95cUxPY21ETU1ZUU1rMnhxT2JaV0EtT3dTeWF3a0tCRW5PUTRHendkZ2JOeGJSZmZ6YjZtX0pVWlBmd2dUU0pLWWVOYWVNMXN5RWtfclBLdXl1S2dUU2UzbFZVREY4ME5taW1hNU4xZVhaUXBWQmNjWElKak5nQmMtd3lKbWxyelc3MC16d0FWadIBjAFBVV95cUxQX193M2lUT3Z3VGZfbVFHWjFLZFhvN0s1THU3TTZpQTFmeG9EMTlTM1ZlTUhncUZvV1VDTmt1cG1LYkhlSWUwN1Nza0dsZV9PYmgyUU5wTFlLZ2pJTTc0WEs4WlN1OXZYZnQxZ3Y0aXZzWXBJUmhOZFdPbEl3UFVjdHpsdVNQbnhOLXJEZA?oc=5)
-- 2026-11-17 02:02 UTC · ScienceAlert via Google News: Top US · [Voyager 1 Has Traveled Through Space at 38,000 Mph Since 1977. This Wednesday, It Will Finally Reach 1 Light-Day From Earth.](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1FXWjhiSEVEaFRZdnkzOTZ2ZkZIbndFd1F0M1poVmpkUnZJVmtzZVN2NW41ei00c1FlYUloU3BzLXpIVDRiU0JqSjIzUnRYTFN0TnVBSmNIZ0xYaFBwNVBjWVBlbmQ4c3VTTlF5QTVXX2pPTkFGMnYzc0FmWUZ4eDJJb0dndkJESkxlRm50bXVJRVd4T0tVdC0yekl5YXBMYlhEdzhEaGd1aXJjWDdIOVN0V0ppOEdraGkwY1pQNk43TW5QcVRpaDdGNWlmeGphd0FQLUtR?oc=5)
-- 2026-11-17 09:02 UTC · USA Today via Google News: Top US · [Voyager 1 spacecraft nears historic one light-day from Earth](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnlRc0h3NGZkNUFrcUVMZ1Rfc1N4YnprckFUNHVkVGQtS3o2THJ4cVdRS2hQUFFTUkYzdjhjM1VuaW14YWtIUHFYNEU5cTRvdU5MUW42YjdvMEtfYnZaZ29LZEhnQm94Slk4anRZbFlXTjYzT0RtWUpRajNMTVBRUjZ1TVhhVHFSR2lzOW9LSUZ1NXdjNXJ1VGNn?oc=5)
-
-**Who posted it on Instagram** (2 pages, 24,409 likes, 2 posts)
-
-- [@complex](https://www.instagram.com/p/DfzMyC0pWsr/) · 15,862 likes · 367 comments · +900 min after first report · The Moon is slowly leaving us. 🌕🌎 According to NASA, the Moon moves about 1.5 inches farther away from Earth every year. Scientists have been tracking this movement for decades using lasers reflected 
-- [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · +1385 min after first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
-
-### 3. A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city
+### 2. A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city
 
 **Score** 183 · **First seen** 2026-11-16 01:55 UTC · **Last update** 2026-11-18 14:08 UTC
+
+**Status** Confirmed · independent newsrooms: 21 · official: none · feeds: 30
 
 Pope Leo wrapped up a historic visit to South America. He flew by helicopter to a mountainous area of Peru to celebrate Mass, where he once served as a missionary. Chris Livesay is traveling with the pontiff and has more.
 
@@ -103,17 +82,17 @@ Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a mi
 **Where it was published**
 
 - 2026-11-16 01:55 UTC · CBS News · [Pope Leo revisits Peruvian city where he once served as a missionary, bishop](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/)
-- 2026-11-16 07:10 UTC · AP News via Google News: AP · [A home for older residents eagerly awaits Pope Leo XIV’s return to Peruvian port city](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2pSSmhpRW5YRW51dnM5Q3ZCTGtVRjd6RU4tMDRNNnRMejgzQzhQUzNQcVhDcWFBY3lsQzV1TUtUeDJ4MlZLWFIyUDRWN0NBM3RTZE9wRzdHakV6R3EtU2ZhU3oxNVZEcV9hNXl1SktNcmlKalVyV0h5N3phV2ZFVy1kZ2w0eFV5VFl0RWNwLTl6dTVzWWNaSUhR?oc=5)
 - 2026-11-16 11:21 UTC · Daily Star Weird · [Biohacker Bryan Johnson hits back after Pope slams rich tech bros trying to cheat death](https://www.dailystar.co.uk/news/latest-news/biohacker-bryan-johnson-hits-back-37880882)
 - 2026-11-16 12:21 UTC · ABC7 LA (CA) · [A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city](https://abc7.com/story/home-older-residents-eagerly-awaits-pope-leo-xivs-return-peruvian-port-city/20044167/)
 - 2026-11-16 12:21 UTC · ABC13 Houston (TX) · [A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city](https://abc13.com/story/home-older-residents-eagerly-awaits-pope-leo-xivs-return-peruvian-port-city/20044167/)
 - 2026-11-16 12:21 UTC · ABC7 NY (NY) · [A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city](https://abc7ny.com/story/home-older-residents-eagerly-awaits-pope-leo-xivs-return-peruvian-port-city/20044167/)
 - 2026-11-16 12:21 UTC · ABC7 Chicago (IL) · [A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city](https://abc7chicago.com/story/home-older-residents-eagerly-awaits-pope-leo-xivs-return-peruvian-port-city/20044167/)
 - 2026-11-16 16:02 UTC · NBC News · [Highlights from Pope Leo’s historic, 12-day tour of South America](https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513)
-- 2026-11-16 16:02 UTC · NBC News via Google News: Top US · [Photos: Highlights from Pope Leo’s historic, 12-day tour of South America](https://news.google.com/rss/articles/CBMiugFBVV95cUxNaDZUanZ5VHY1clo3UlZyOURxV2pBb2dTUnRXZHRfdVZzLU5sc0NyVENBeTdDN3ByVmZIak1UQ1A2d0dOTUFGcGstNHp4clNWLUp2M2U3TUVscFp5YnR6U2JtYkV1U2VDU1VQeDhILUVMQ1V5SzFIS1hBZkJicjk4cXhsYnJWUlY0eGlFbGJJMXhuTmFSNVFmTlRmZ2lsYmRFUDdYVGhhWE95ZnBkV21nVVB3aks3bXItLVE?oc=5)
-- 2026-11-16 19:39 UTC · Reuters via Google News: Reuters · [Pope Leo misses the catch as rosary from crowd hits his eye in Peru](https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2FLd3hqa2NhZzVyWkNPMXhZWlZ0NGZzcUJoNmlOOGlCSnNtVXlfbGgwdWxYb0hpbWVCc1dtLTc2Mmt0MzJTUjRkRVpqWWNBa1g1bV9JYmU1N19XSDk0eVk3elJOY0p6cWZnSVpMd2JSajNZRHR4THJ0MjZSVkFXM1NZdE1RVmhONGhHVUNidG5USmxNbUVBRHFHZnh2VWJ1NlIyVVp3?oc=5)
 - 2026-11-16 19:47 UTC · UPI Top · [Pope Leo XIV ends South American tour with calls for peace, justice](https://www.upi.com/Top_News/World-News/2026/11/16/latam-peru-pope-leo-concludes-visit/3861794857791/)
 - 2026-11-16 20:17 UTC · WCPO Cincinnati (OH) · [Pope bids 'hasta luego' to his second homeland of Peru as he wraps up marathon South American trip](https://www.wcpo.com/life/faith-and-religion/pope-bids-hasta-luego-to-his-second-homeland-of-peru-as-he-wraps-up-marathon-south-american-trip)
+- 2026-11-16 21:12 UTC · BBC US & Canada · [Pope Leo hit by flying rosary while waving to crowds in Peru](https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss)
+- 2026-11-17 00:23 UTC · KHOU (TX) · [Pope Leo gets hit in face with rosary while wrapping marathon South America trip](https://www.khou.com/article/news/nation-world/pope-leo-hit-in-face-rosary-south-america-trip/507-415bf1c7-1706-48e1-9fba-67d3639411ed)
+- 2026-11-17 00:23 UTC · WFAA Dallas (TX) · [Pope Leo gets hit in face with rosary while wrapping marathon South America trip](https://www.wfaa.com/article/news/nation-world/pope-leo-hit-in-face-rosary-south-america-trip/507-415bf1c7-1706-48e1-9fba-67d3639411ed)
 
 **Who posted it on Instagram** (3 pages, 171,279 likes, 4 posts)
 
@@ -121,9 +100,41 @@ Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a mi
 - [@dailymail](https://www.instagram.com/p/DfzDRnCgU54/) · 5,428 likes · 101 comments · +463 min after first report · Pope Leo was greeted by children as he arrived at the Shrine of St Tiribius in Peru. A group of young children ran towards the Pope before surrounding him with open arms to hug the pontiff. #peru #pop
 - [@nypost](https://www.instagram.com/p/Df0mjqjjxFz/) · 2,830 likes · 196 comments · +1370 min after first report · Pope Leo’s run of successfully catching items tossed to him by crowds came to an end, as what appeared to be a rosary thrown in his direction struck him near the eye.
 
+### 3. Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth
+
+**Score** 180 · **First seen** 2026-11-15 20:00 UTC · **Last update** 2026-11-18 17:12 UTC
+
+**Status** Confirmed · independent newsrooms: 15 · official: none · feeds: 21
+
+Nearly 50 years after launch, NASA's Voyager 1 probe will pass the one light-day mark on Nov. 18, a symbolic milestone for the agency's longest-running mission. Scientists reflect on the Voyager program's legacy and what comes next.
+
+Lead: [Live Science — 'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future)
+
+**Where it was published**
+
+- 2026-11-15 20:00 UTC · Live Science · ['Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future)
+- 2026-11-15 21:19 UTC · ABC7 LA (CA) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
+- 2026-11-15 21:19 UTC · ABC13 Houston (TX) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc13.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
+- 2026-11-15 21:19 UTC · ABC7 NY (NY) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7ny.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
+- 2026-11-15 21:19 UTC · ABC7 Chicago (IL) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7chicago.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
+- 2026-11-15 21:19 UTC · 6abc Philly (PA) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://6abc.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
+- 2026-11-15 22:41 UTC · NPR · [Far from home. Voyager 1 is now farther than anything man has sent into space](https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space)
+- 2026-11-17 12:14 UTC · ABC13 Houston (TX) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · ABC7 NY (NY) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7ny.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · ABC7 Chicago (IL) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7chicago.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · 6abc Philly (PA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://6abc.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · ABC7 LA (CA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+
+**Who posted it on Instagram** (2 pages, 24,409 likes, 2 posts)
+
+- [@complex](https://www.instagram.com/p/DfzMyC0pWsr/) · 15,862 likes · 367 comments · +900 min after first report · The Moon is slowly leaving us. 🌕🌎 According to NASA, the Moon moves about 1.5 inches farther away from Earth every year. Scientists have been tracking this movement for decades using lasers reflected 
+- [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · +1385 min after first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
+
 ### 4. Trump heads to Asia ahead of high-stakes meeting with Xi and Putin
 
-**Score** 178 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 15:39 UTC
+**Score** 170 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 15:39 UTC
+
+**Status** Confirmed · independent newsrooms: 16 · official: none · feeds: 21
 
 Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts Xi Jinping and Vladimir…
 
@@ -140,9 +151,9 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 - 2026-11-16 17:55 UTC · Fox News · [Trump brings two divided Cabinet heavyweights to China as controversy hangs over high-stakes talks](https://www.foxnews.com/politics/trump-brings-two-divided-cabinet-heavyweights-china-controversy-hangs-over-high-stakes-talks)
 - 2026-11-16 23:48 UTC · Fox News · [Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change)
 - 2026-11-17 00:43 UTC · CBS News · [Trump traveling to China amid Nvidia scandal fallout](https://www.cbsnews.com/video/trump-traveling-china-amid-nvidia-scandal-fallout/)
-- 2026-11-17 01:26 UTC · Reuters via Google News: Reuters · [Trump to kick off Asia trip with Quad talks in Manila ahead of China visit](https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0l1bEVvMnNwMHJqM01iVWVDR2JJQmRvaU51TmJQdGRLVnVKUENDTWlLTW5wVEdSVG5uTFEtYktLMUlDWjU4ZXJ3U0ROcjZtMEZNVlZCZFBiMTNGTldnMVBEX09UMkhLS0pQSlVqMmlXMTllMGdxZ3BsU2xrM1lvU0JDWHdSYzh3QjJhRVFUc3N2YW5xLUpXOGNWdG10cTM5R3BYNWtjLTNFN01oaGo2UzVvRQ?oc=5)
-- 2026-11-17 05:18 UTC · CNN via Google News: Top US · [Trump heads to Asia ahead of historic talks with Xi and Putin](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ25JQjBlM1VSNTUtOE5XcGJSU05pOThhUDRZTVdwUWZEYXdTcDNYYnNDcDRMazdqMUxHV0Z3WHlMem5DNklqVnhvOTlDOGJnYVp1eWdkN3RKUFZhNzI0Q0VIMW5sUUpaT2Vnc0xoRTVYZ0NWWjNWUnF2SGc2S1A4TDkzSENTZw?oc=5)
 - 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
+- 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
+- 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
 
 **Who posted it on Instagram** (3 pages, 12,490 likes, 4 posts)
 
@@ -152,7 +163,9 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 
 ### 5. ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know
 
-**Score** 154 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
+**Score** 150 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
+
+**Status** Confirmed · independent newsrooms: 17 · official: none · feeds: 22
 
 Government agencies and TV broadcasters are telling Americans not to be alarmed by a nationwide Emergency Alert System test taking place on Tuesday.
 
@@ -181,16 +194,18 @@ Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert Syste
 
 ### 6. Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!
 
-**Score** 153 · **Category** trending · **First seen** 2026-11-16 23:29 UTC · **Last update** 2026-11-18 17:15 UTC
+**Score** 149 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 17:15 UTC
+
+**Status** Developing · independent newsrooms: 1 · official: none · feeds: 16
+
+> Carried by 4 feeds but fewer than two independent newsrooms; details may change.
 
 Katniss and Peeta are together again! Jennifer Lawrence reunited with Josh Hutcherson at the premiere of The Hunger Games: Sunrise […] The post Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
-Lead: [Deadline — 'The Hunger Games: Sunrise On The Reaping' NYC Premiere Red Carpet Photos: Jennifer Lawrence, Mckenna Grace, Rachel Zegler & More](https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1JuY2VNZk0tMWNILU9McldkcDZraDlyci1mZzFhNk41RjY5YUhyV0RnVTZYbWloNklYOUw4V19pakt5T00wTWc2YmkzdG90dHhvU0cyRlMxWGd2MTY0WFJJQ1BqeTlUS19adFZ3Nm1SN0NHdExJSnZ2dExKejJVejJja09DYktiZDY5Y3VQdkRvMWZlSTlaX01TNXhXV2QweWN1eGg3REtLMXI5ZVhN?oc=5)
+Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/)
 
 **Where it was published**
 
-- 2026-11-16 23:29 UTC · Deadline via Google News: Top US · ['The Hunger Games: Sunrise On The Reaping' NYC Premiere Red Carpet Photos: Jennifer Lawrence, Mckenna Grace, Rachel Zegler & More](https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1JuY2VNZk0tMWNILU9McldkcDZraDlyci1mZzFhNk41RjY5YUhyV0RnVTZYbWloNklYOUw4V19pakt5T00wTWc2YmkzdG90dHhvU0cyRlMxWGd2MTY0WFJJQ1BqeTlUS19adFZ3Nm1SN0NHdExJSnZ2dExKejJVejJja09DYktiZDY5Y3VQdkRvMWZlSTlaX01TNXhXV2QweWN1eGg3REtLMXI5ZVhN?oc=5)
-- 2026-11-17 00:32 UTC · Variety via Google News: Top US · [Jennifer Lawrence Stuns as 'Hunger Games Sunrise on the Reaping' Premiere](https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0hlX2VROWZ4NjdQT2NjX2xhc1BfOE9PblJmdXVXdHdiWXRJYlY1MWNmNWg5dUZJcUc1MjJ1WEZ0bUFGeVlqZjNOV2ZRdTRscm95a2gwR0I0a3BhSmszZTVDTVlIU2lRX1RMOXdCdUhiSGwxc3Byblp2WkN5MWVYVFh4Tm1CUTJEbHBfbHZHNGthU2JjcFRzRW15b05rN21fUU16OFBQcW1FMTl5TlE?oc=5)
 - 2026-11-17 00:32 UTC · Variety · [Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/)
 - 2026-11-17 01:08 UTC · Just Jared · [Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!](https://www.justjared.com/2026/11/16/jennifer-lawrence-josh-hutcherson-reunite-at-sunrise-at-the-reaping-nyc-premiere-more-original-hunger-games-stars-also-attend/)
 - 2026-11-17 02:46 UTC · E! News · [Hunger Games’ Jennifer Lawrence, Josh Hutcherson Reunite on Red Carpet](https://www.eonline.com/news/1438170/hunger-games-jennifer-lawrence-josh-hutcherson-reunite-on-red-carpet?cmpid=rss-syndicate-genericrss-us-top_stories)
@@ -200,43 +215,18 @@ Lead: [Deadline — 'The Hunger Games: Sunrise On The Reaping' NYC Premiere Red 
 
 **Who posted it on Instagram** (9 pages, 406,862 likes, 20 posts)
 
-- [@hollywoodreporter](https://www.instagram.com/reel/Df0qL6xp71-/) · 117,484 likes · 716 comments · +70 min after first report · #JoshHutcherson and #JenniferLawrence reunite at #TheHungerGames : Sunrise on the Reaping premiere
-- [@relationships.usa](https://www.instagram.com/reel/Df1G8fHOgjZ/) · 81,148 likes · 261 comments · +571 min after first report · AS SHE SHOULD Rachel Zegler and Tom Blyth share a sweet hand-holding moment at the New York premiere of “The Hunger Games: Sunrise on the Reaping.” The former co-stars pose alongside their franchise c
-- [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · +239 min after first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
-- [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · +72 min after first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
-- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,380 likes · 52 comments · +664 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
-- [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +991 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
+- [@hollywoodreporter](https://www.instagram.com/reel/Df0qL6xp71-/) · 117,484 likes · 716 comments · +6 min after first report · #JoshHutcherson and #JenniferLawrence reunite at #TheHungerGames : Sunrise on the Reaping premiere
+- [@relationships.usa](https://www.instagram.com/reel/Df1G8fHOgjZ/) · 81,148 likes · 261 comments · +507 min after first report · AS SHE SHOULD Rachel Zegler and Tom Blyth share a sweet hand-holding moment at the New York premiere of “The Hunger Games: Sunrise on the Reaping.” The former co-stars pose alongside their franchise c
+- [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · +175 min after first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
+- [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · +8 min after first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
+- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,380 likes · 52 comments · +600 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
+- [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +927 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 
-### 7. Waymo suspends freeway rides nationwide after California DMV order
+### 7. Top Nvidia lawyer agrees to testify before Congress
 
-**Score** 142 · **State** CA · **First seen** 2026-11-17 19:38 UTC · **Last update** 2026-11-18 16:20 UTC
+**Score** 136 · **First seen** 2026-11-15 19:15 UTC · **Last update** 2026-11-18 16:14 UTC
 
-California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th. The crackdown follows two recent high-profile Bay Area incidents, in which Waymo robotaxis drove into an active construction […]
-
-Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways after string of traffic incidents](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/)
-
-**Where it was published**
-
-- 2026-11-17 19:38 UTC · KTLA (CA) · [California DMV bans Waymo from operating on state freeways after string of traffic incidents](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/)
-- 2026-11-17 19:38 UTC · The Verge · [California just banned Waymo from all state freeways](https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety)
-- 2026-11-17 19:49 UTC · TechCrunch · [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
-- 2026-11-17 21:06 UTC · AP News via Google News: AP · [California bans Waymo autonomous vehicles from state freeways, saying they pose an 'imminent hazard'](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDB2R0RQRGVXUFMtd0M3YUoyRXlSaDZVWVBWRVBKT3gwc3MxQjN3a01fREpMdDFwWXRJaFZuQ0sxTUJzYXkyMGMwOGs5YVUxeUwwd2owRnRuRFl0NWxuT0VHZ2k0eHF1Q0tTc0NoVi1mYTQtM1NrQUUyZ0VzcngzQjZ1M1d6QWRwNzlnQm5qQ0JUVmNXN2NEQ3U5eFpJN3pGSTVUTmRtN1VHc1E?oc=5)
-- 2026-11-17 21:57 UTC · Engadget · [Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'](https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/)
-- 2026-11-17 23:24 UTC · NBC News · [Waymo robotaxis banned from California freeways](https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917)
-- 2026-11-18 00:18 UTC · Reuters via Google News: Reuters · [Waymo pauses robotaxi rides on US freeways after California ban](https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkw0bE5kQUlYTVp4amxvbkwtbnc3ZmZTc0FUaWtiUmtmbkF6SldmOXpGOUt0T3BHRk0zOVN3QXpLQ0d3UDRwakVSblEwT3h1NHV5ekdyVHhCMDJBOGtsZEdaZDJzUGlYTlMxRGxXWjZmRDU5dnh1Y1NyY0duUlFmNEF5YjVxQV85aVBhTUw3UGptQ1hBSFJQSXpVRkg4VXd4VEdlak9MTDdjM1FOTVdzaHB4djl1Y21VSGtLU1hLcS1OTTdl?oc=5)
-- 2026-11-18 02:07 UTC · KHOU (TX) · [Waymo suspends rides on all freeways in the US](https://www.khou.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
-- 2026-11-18 02:07 UTC · WFAA Dallas (TX) · [Waymo suspends rides on all freeways in the US](https://www.wfaa.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
-- 2026-11-18 02:07 UTC · 9News Denver (CO) · [Waymo suspends rides on all freeways in the US](https://www.9news.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
-- 2026-11-18 02:07 UTC · KING5 Seattle (WA) · [Waymo suspends rides on all freeways in the US](https://www.king5.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
-- 2026-11-18 11:11 UTC · ABC News · [Waymo driverless cars barred from California freeways following troubling incidents](https://abcnews.com/US/waymo-driverless-cars-barred-california-freeways-series-troubling/story?id=138221652)
-
-**Who posted it on Instagram** (1 pages, 1,048 likes, 1 posts)
-
-- [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +964 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
-
-### 8. Top Nvidia lawyer agrees to testify before Congress
-
-**Score** 140 · **First seen** 2026-11-15 19:15 UTC · **Last update** 2026-11-18 16:14 UTC
+**Status** Confirmed · independent newsrooms: 9 · official: none · feeds: 34
 
 Jensen Huang and Nvidia general counsel Tim Teter will officially testify before Congress in early December, lawmakers announced Tuesday. Why it matters: Lawmakers are seeking answers about whether Nvidia's powerful AI chips were compromised by Chinese intelligence and whether the company did enough to protect sensitive American technology. Huang and Teter will participate in transcribed, closed-door interviews with…
 
@@ -246,7 +236,6 @@ Lead: [The Verge — Congress wants to tighten export rules on AI chips after Nv
 
 - 2026-11-15 19:15 UTC · The Verge · [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
 - 2026-11-16 13:14 UTC · PC Gamer · [Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition](https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/)
-- 2026-11-17 14:44 UTC · House.gov via Google News: Top US · [Jensen Huang and Nvidia Agree to Appear Before Congress](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmJ5bV9salF6c3VaSUlmTHlXWTZTeVAtRDhjbGhYN2tTYWplTm5JVkRpY3JJLXU4dWlyenBQS1B5Qk9jUk1RUHVYQmhUM0FGellUR1gySjgyaWFseHQ2WHZFUGFwYnZFYVVldk1RVDk4OEo0TDF4WFhuVFlnbDVQRDNxUXByUTM3Vi1BMG92Y3NPQXljV0tMdi1pUlZRVjFuZlZtOGxOY0Z0eHNY?oc=5)
 - 2026-11-17 15:24 UTC · CBS News · [Ex-Nvidia CEO Jensen Huang agrees to testify to Congress amid affair probe](https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/)
 - 2026-11-17 15:37 UTC · Axios · [Jensen Huang agrees to face Congress over Nvidia scandal](https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates)
 - 2026-11-17 15:40 UTC · New York Post · [Disgraced ex-Nvidia CEO Jensen Huang to testify before Congress next month](https://nypost.com/2026/11/17/business/disgraced-ex-nvidia-ceo-jensen-huang-to-testify-before-congress-next-month/)
@@ -256,6 +245,7 @@ Lead: [The Verge — Congress wants to tighten export rules on AI chips after Nv
 - 2026-11-17 17:05 UTC · UPI Top · [Former Nvidia CEO Jensen Huang agrees to testify before Congress](https://www.upi.com/Top_News/US/2026/11/17/nvidia-huang-congress-house-national-security/9761794933298/)
 - 2026-11-17 17:36 UTC · NPR · [Huang says he'd be "honored" to return to Nvidia as he agrees to testify to Congress](https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress)
 - 2026-11-17 17:58 UTC · Guardian US · [Jensen Huang to testify before Congress on ‘potential breach of national security’](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy)
+- 2026-11-17 19:07 UTC · CBS News · [Jensen Huang says he's willing to return as Nvidia CEO](https://www.cbsnews.com/video/jensen-huang-says-hes-willing-to-return-as-nvidia-ceo/)
 
 **Who posted it on Instagram** (7 pages, 305,008 likes, 11 posts)
 
@@ -266,9 +256,11 @@ Lead: [The Verge — Congress wants to tighten export rules on AI chips after Nv
 - [@explainscience.ai](https://www.instagram.com/p/Dfw5I4KkhfP/) · 334 likes · 1 comments · 616 min before first report · The internet always delivers. The New York Times reports Jensen Huang had a second relationship, this time with Kimberly Powell, a Nvidia vice president who reports to him. Which reaction wins? Follow
 - [@movieshowtime](https://www.instagram.com/p/Df0YVWRHXRX/) · 122 likes · 0 comments · +2264 min after first report · Man 😭 A U.S. intelligence memo alleged Nvidia CEO Jensen Huang had a romantic relationship with a tech executive believed to have been recruited by China's Ministry of State Security, per the Financia
 
-### 9. Customers report difficulty accessing online services at major US banks
+### 8. Customers report difficulty accessing online services at major US banks
 
-**Score** 140 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-17 17:45 UTC
+**Score** 136 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-17 17:45 UTC
+
+**Status** Confirmed · independent newsrooms: 13 · official: none · feeds: 17
 
 Thousands of customers at some of the nation's largest banks reported difficulty accessing their online accounts and the money transfer service Zelle on Monday. Downdetector.com showed issues were reported by customers trying to access Chase, Bank of America, U.S. Bank, Wells Fargo and Zelle online. A Chase spokesperson said, "JPMorganChase has experienced a temporary issue [...]
 
@@ -285,9 +277,9 @@ Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Repor
 - 2026-11-16 19:09 UTC · WGN (IL) · [Chase says 'software bug' disrupted online banking for major US banks](https://wgntv.com/news/customers-of-major-us-banks-report-online-outages/)
 - 2026-11-16 19:32 UTC · NBC News · [Chase says transactions back to normal after outage online and at some branches](https://www.nbcnews.com/business/consumer/outages-chase-banking-online-branches-rcna609673)
 - 2026-11-16 20:59 UTC · The Hill · [Chase, Bank of America, Wells Fargo customers report trouble accessing accounts](https://thehill.com/policy/technology/6223551-chase-wells-fargo-boa-access-problems/)
-- 2026-11-16 21:53 UTC · The Independent via Google News: Top US · [Chase Bank outage sparks issues for customers at several major US banks](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUdtOWppRUF4RGN4cm10aU1PRTZZaWRVVGpoUFJjRFpFeW9BV3hEYm9zV0NMQ0djNDhIY2V6Mm9Zb3pWOXp0cHVjVUljQUdxeFhqdnhJRDRHNklJb0tWOWRoc1dNc1VoLW80Rm1tVl9vaHBjTTBFTGM1T1pIUzVUUW9JN1Q2Vm9aMGRaamdNalRnUQ?oc=5)
 - 2026-11-16 22:01 UTC · Guardian US · [Customers report difficulty accessing online services at major US banks](https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo)
 - 2026-11-16 22:08 UTC · ABC7 LA (CA) · [A technical issue at JPMorgan Chase triggers online banking delays across major US banks](https://abc7.com/post/customers-nations-largest-banks-are-reporting-difficulty-accessing-accounts-online/20045188/)
+- 2026-11-16 23:30 UTC · CBS News · [11/16: CBS Evening News](https://www.cbsnews.com/video/111626-cbs-evening-news/)
 
 **Who posted it on Instagram** (5 pages, 71,397 likes, 5 posts)
 
@@ -297,9 +289,40 @@ Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Repor
 - [@hollywoodunlocked](https://www.instagram.com/p/Df2PeFcKZqe/) · 7,299 likes · 1,312 comments · +1263 min after first report · HU Staff: Kecia Gayle @kecia.kae Between the Microsoft meltdown, the grounded planes and the banking apps acting brand new, it’s safe to say a lot of folks are concerned. But on Monday night, Vice Pre
 - [@onlyindade](https://www.instagram.com/p/Df0hSXMoYU8/) · 1,877 likes · 88 comments · +299 min after first report · Did you have issues with your bank account today?💰👀\| #ONLYinDADE *🗞️ Customers of Chase, Bank of America, Wells Fargo and U.S. Bank reported issues accessing their accounts and completing transaction
 
+### 9. Waymo suspends freeway rides nationwide after California DMV order
+
+**Score** 134 · **State** CA · **First seen** 2026-11-17 19:38 UTC · **Last update** 2026-11-18 16:20 UTC
+
+**Status** Confirmed · independent newsrooms: 20 · official: none · feeds: 22
+
+California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th. The crackdown follows two recent high-profile Bay Area incidents, in which Waymo robotaxis drove into an active construction […]
+
+Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways after string of traffic incidents](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/)
+
+**Where it was published**
+
+- 2026-11-17 19:38 UTC · KTLA (CA) · [California DMV bans Waymo from operating on state freeways after string of traffic incidents](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/)
+- 2026-11-17 19:38 UTC · The Verge · [California just banned Waymo from all state freeways](https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety)
+- 2026-11-17 19:49 UTC · TechCrunch · [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
+- 2026-11-17 21:57 UTC · Engadget · [Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'](https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/)
+- 2026-11-17 23:24 UTC · NBC News · [Waymo robotaxis banned from California freeways](https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917)
+- 2026-11-18 02:07 UTC · KHOU (TX) · [Waymo suspends rides on all freeways in the US](https://www.khou.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
+- 2026-11-18 02:07 UTC · WFAA Dallas (TX) · [Waymo suspends rides on all freeways in the US](https://www.wfaa.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
+- 2026-11-18 02:07 UTC · 9News Denver (CO) · [Waymo suspends rides on all freeways in the US](https://www.9news.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
+- 2026-11-18 02:07 UTC · KING5 Seattle (WA) · [Waymo suspends rides on all freeways in the US](https://www.king5.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
+- 2026-11-18 11:11 UTC · ABC News · [Waymo driverless cars barred from California freeways following troubling incidents](https://abcnews.com/US/waymo-driverless-cars-barred-california-freeways-series-troubling/story?id=138221652)
+- 2026-11-18 11:33 UTC · ABC7 LA (CA) · [Waymo driverless cars barred from California freeways following series of troubling incidents](https://abc7.com/story/waymo-driverless-cars-barred-california-freeways-following-series-troubling-incidents/20050911/)
+- 2026-11-18 11:33 UTC · ABC13 Houston (TX) · [Waymo driverless cars barred from California freeways following series of troubling incidents](https://abc13.com/story/waymo-driverless-cars-barred-california-freeways-following-series-troubling-incidents/20050911/)
+
+**Who posted it on Instagram** (1 pages, 1,048 likes, 1 posts)
+
+- [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +964 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
+
 ### 10. McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items
 
 **Score** 130 · **Category** trending · **First seen** 2026-11-17 13:00 UTC · **Last update** 2026-11-18 16:24 UTC
+
+**Status** Confirmed · independent newsrooms: 8 · official: none · feeds: 11
 
 Kevin McAllister, the famous abandoned tyke from the popular “Home Alone” movies is back on screens — though probably not in the way anybody expected. Macaulay Culkin, the actor who played the role in the landmark 1990 film and its sequel, has revived a decidedly older version of the character in a new commercial for […]
 
@@ -329,15 +352,16 @@ Lead: [Dexerto — McDonald’s reveals Home Alone Meal with pizza-flavored frie
 
 ### 11. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
 
-**Score** 130 · **Category** public-safety · **First seen** 2026-11-15 17:27 UTC · **Last update** 2026-11-18 15:14 UTC
+**Score** 126 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 15:14 UTC
+
+**Status** Confirmed · independent newsrooms: 10 · official: none · feeds: 24
 
 President Trump said Monday that he doesn’t take any responsibility for the Federal Aviation Administration’s nationwide ground stop last week, instead blaming the old equipment and past administrations. “I don’t take any responsibility,” he told reporters outside the White House before departing for Asia. “They did a great job — [Transportation] Secretary [Sean] Duffy —…
 
-Lead: [The Hill — Duffy says he ‘can’t cancel’ contract with firm behind FAA outage](https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/)
+Lead: [9News Denver (CO) — 'Baffling to me': Aviation expert says FAA's explanation that a router issue led to ground stop doesn't make sense](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8)
 
 **Where it was published**
 
-- 2026-11-15 17:27 UTC · The Hill · [Duffy says he ‘can’t cancel’ contract with firm behind FAA outage](https://thehill.com/policy/transportation/6221409-duffy-cannot-cancel-l3harris/)
 - 2026-11-16 04:31 UTC · 9News Denver (CO) · ['Baffling to me': Aviation expert says FAA's explanation that a router issue led to ground stop doesn't make sense](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8)
 - 2026-11-16 12:08 UTC · NPR · [FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia](https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip)
 - 2026-11-16 14:37 UTC · NBC News · [Trump blames FAA's nationwide ground stop on 'old equipment'](https://www.nbcnews.com/now/video/trump-blames-faa-s-nationwide-ground-stop-on-old-equipment-273576517733)
@@ -349,16 +373,19 @@ Lead: [The Hill — Duffy says he ‘can’t cancel’ contract with firm behind
 - 2026-11-16 22:44 UTC · The Hill · [The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress](https://thehill.com/homenews/analysis/6223711-duffy-pushes-air-traffic-upgrades/)
 - 2026-11-17 02:06 UTC · CBS News · [Explaining the FAA's modernization efforts amid Friday's nationwide ground stop](https://www.cbsnews.com/video/explaining-faa-modernization-efforts-duffy-says-caused-ground-stop/)
 - 2026-11-17 04:37 UTC · CBS News · [Experts and reporters break down FAA meltdown, explaining what's responsible](https://www.cbsnews.com/video/experts-reporters-break-down-faa-meltdown-responsible/)
+- 2026-11-17 05:50 UTC · Fox News · [Duffy vows to modernize aging air traffic system after nationwide ground stop](https://www.foxnews.com/travel/duffy-vows-modernize-aging-air-traffic-system-nationwide-ground-stop)
 
 **Who posted it on Instagram** (3 pages, 11,319 likes, 3 posts)
 
-- [@onlyindade](https://www.instagram.com/p/DfziSaJIaHx/) · 5,845 likes · 207 comments · +1241 min after first report · West Palm Beach just became MIA’s newest terminal #ONLYinDADE A router had a bad day and the whole country stayed on the ground. The FAA called a rare nationwide ground stop on Friday, and three days 
-- [@thedailyshow](https://www.instagram.com/reel/Df1WNW5A-6N/) · 5,031 likes · 74 comments · +2615 min after first report · @jonstewart on Sean Duffy blaming a router: "I can't even order a Crunchwrap Supreme without 2-factor authentication, but somehow, there's a 'Turn Off America' switch somewhere in f**kin Arkansas?"
-- [@nypost](https://www.instagram.com/p/DfxKR_bk9qq/) · 443 likes · 31 comments · 85 min before first report · Transportation Secretary Sean Duffy said that air travel disruptions caused by the FAA’s nationwide ground stop Friday should resolve by the end of the day Monday at the latest. Duffy offered an optim
+- [@onlyindade](https://www.instagram.com/p/DfziSaJIaHx/) · 5,845 likes · 207 comments · +577 min after first report · West Palm Beach just became MIA’s newest terminal #ONLYinDADE A router had a bad day and the whole country stayed on the ground. The FAA called a rare nationwide ground stop on Friday, and three days 
+- [@thedailyshow](https://www.instagram.com/reel/Df1WNW5A-6N/) · 5,031 likes · 74 comments · +1951 min after first report · @jonstewart on Sean Duffy blaming a router: "I can't even order a Crunchwrap Supreme without 2-factor authentication, but somehow, there's a 'Turn Off America' switch somewhere in f**kin Arkansas?"
+- [@nypost](https://www.instagram.com/p/DfxKR_bk9qq/) · 443 likes · 31 comments · 749 min before first report · Transportation Secretary Sean Duffy said that air travel disruptions caused by the FAA’s nationwide ground stop Friday should resolve by the end of the day Monday at the latest. Duffy offered an optim
 
 ### 12. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
 
-**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 17:00 UTC
+**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 17:24 UTC
+
+**Status** Confirmed · independent newsrooms: 3 · official: none · feeds: 41
 
 Some fans who came to South Florida to celebrate the release of “Grand Theft Auto: VI” have been enamored by the city’s cross-promotions with the...
 
@@ -381,90 +408,13 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - [@wasted](https://www.instagram.com/p/Df2QniVh0jJ/) · 7,178 likes · 66 comments · +1571 min after first report · 🧐 Grand Theft Auto VI, developed and published by Rockstar Games, is the highly anticipated eighth main entry in the Grand Theft Auto series. Set in the fictional state of Leonida—a sun-soaked, satir
 - [@dexerto](https://www.instagram.com/p/DfzdNA2mxf9/) · 4,287 likes · 51 comments · +3 min after first report · Reddit user u/NakedSnake21 has gone viral for recreating the same photo with three generations of Grand Theft Auto, capturing 18 years of his life in three pictures. He first posed with GTA 4 in 2008 
 
-### 13. Mamdani disbanding controversial NYPD unit
-
-**Score** 117 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 16:00 UTC
-
-“During our campaign for mayor, I promised to disband the NYPD's strategic response group, known as the SRG. Today, we are keeping that promise. I am disbanding the SRG. SRG was tasked with both counterterrorism enforcement and protest response. Those are not the same, and they should be separated. Government has a responsibility to both protect New Yorkers' constitutional rights and keep our communities safe. Those…
-
-Lead: [ABC7 NY (NY) — Exclusive: Mayor Mamdani, Commissioner Tisch on disbanding NYPD's Strategic Response Group](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/)
-
-**Where it was published**
-
-- 2026-11-16 11:00 UTC · ABC7 NY (NY) · [Exclusive: Mayor Mamdani, Commissioner Tisch on disbanding NYPD's Strategic Response Group](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/)
-- 2026-11-16 11:01 UTC · CNN via Google News: Top US · [SRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise](https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2w3WE5SbnZKbDFYMG9HQVZtenYwc0o1U0R1UUkwQVRiWlhrMHpyQS1JVzJJZkU5LW5qX2hJMWdJanJTdkhvZ19TQmdWb1R0Q2I4bHhUREQzaXNER1JqWFJYcXNFSDlvNXZyV3RMRHJJVjQzcmI2QnpFbGZsc3dUREc0ME45c3MzRUE?oc=5)
-- 2026-11-16 11:08 UTC · New York Post · [Mamdani restructures NYPD’s controversial Strategic Response Group, announces new ‘civilian-led approach’ to protests](https://nypost.com/2026/11/16/us-news/mamdani-restructures-nypds-controversial-strategic-response-group-announces-new-civilian-led-approach-to-protests/)
-- 2026-11-16 11:23 UTC · PIX11 (NY) · [Mayor Mamdani disbands NYPD's Strategic Response Group](https://pix11.com/news/morning/mayor-mamdani-disbands-nypds-strategic-response-group/)
-- 2026-11-16 12:37 UTC · r/Fauxmoi · [Zohran Mamdani announces the disbandment of the NYPD's Strategic Response Group, pledging a more community-centred approach to public safety.](https://www.reddit.com/r/Fauxmoi/comments/1xxob1g/zohran_mamdani_announces_the_disbandment_of_the/)
-- 2026-11-16 12:44 UTC · ABC7 New York via Google News: Top US · [Mamdani, Tisch disband NYPD's Strategic Response Group](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGNVVk40aXN4dlBjQUhaSnFvQkxvUWxOZXY3dHBycWRheDh3cEFsQXVWMU81R2xrUzlNTndnRE5YWjQwWEtfUFB3bkZBUzRwQjlVSjU5bHFKaUF3STdBaUxndUN1V2s1R1lldXhGbnZEN29vRHJsTmhlbVdIR0cwSFprdDNsQjc1YkJGSDQ4QmV2dDNlTktiV29UOWdSNm5HYnpTa0ZURUwtdk81ZGppNHJnd3Q5R0tXTWlndmpwSlB0RWZvSWVYX2V4TFRGcTc5TUY2U1RBTHA2VE5N0gHiAUFVX3lxTE9wWER3dDRBZXZLb1pXUWl2cHNLRkVtc2diU29Xd3pneXJBMm4xTWVfQVMxVm9jR2lVYW8waEtLTG9KNHFIamdyOUJIc1JzRm9ZSGE3RDIzVFVYUWJ4Z3p6bXlpRmRHdTF5Ulp5QjFXUGdTdjZzcjdxLVFrSlV6a2tZRnl0cExva1FGenBTblRXOXRGRjhPamZGc0dmOEE1R0tpWG9rdFd6SHR1cTE2ZEl1NnBuYmhGejNqZDl2cjRKU2VxNlRxcUdEdWVxeTBhQTBWdlFKNGVScUh4SmhvenJ4cUE?oc=5)
-- 2026-11-16 12:59 UTC · r/news · [Mamdani disbands controversial NYPD Strategic Response Group unit](https://www.reddit.com/r/news/comments/1xxopun/mamdani_disbands_controversial_nypd_strategic/)
-- 2026-11-16 14:20 UTC · Daily Mail US · [New York's woke mayor Mamdani disbands elite police unit and launches new 'civilian friendly' approach to rowdy protesters](https://www.dailymail.com/news/article-16296259/new-york-mamdani-disbands-police-unit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-16 14:23 UTC · The Hill · [Mamdani disbanding controversial NYPD unit](https://thehill.com/homenews/state-watch/6222110-zohran-mamdani-disbands-nypd-strategic-response-group/)
-- 2026-11-16 14:57 UTC · Guardian US · [Mamdani disbands controversial NYPD unit accused of using excessive force](https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani)
-- 2026-11-16 16:23 UTC · UPI Top · [Mayor Zohran Mamdani announces disbandment of NYPD's Strategic Response Group](https://www.upi.com/Top_News/US/2026/11/16/nyc-nypd-strategic-response-group-mamdani/4821794844155/)
-- 2026-11-16 16:53 UTC · WSJ via Google News: Top US · [Mamdani Disbands Controversial NYPD Protest Unit](https://news.google.com/rss/articles/CBMijwFBVV95cUxNXzRveVl1LUFDVFliMm9NU2huenhiQlRTbS1NQ2t1eTRPN0czZUJHZDNVNksyWldCZ3hwdDByS1U4c04yOTJNbG9FamJKblg0MHdfdXBRR0lQLTZRUFYzQVNWQnMwWEVCZ3FUR2lsZjFBeFVPQmpmMkJDdXdteDJrN3c3QW92VUxCcVJocmh4aw?oc=5)
-
-**Who posted it on Instagram** (1 pages, 17,978 likes, 2 posts)
-
-- [@dailymail](https://www.instagram.com/p/DfzR62QE3YM/) · 10,959 likes · 488 comments · +45 min after first report · New York City Mayor Zohran Mamdani is launching a two-day video game development competition, NYC Game Jam, challenging young New Yorkers to create an original game in just 48 hours. Participants will
-
-### 14. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
-
-**Score** 113 · **Category** trending · **First seen** 2026-11-16 14:22 UTC · **Last update** 2026-11-18 01:17 UTC
-
-The 2027 Grammy nominations are in, with Raye leading the pack at 11 nods and women dominating the top categories. Which nominees stood out to you this year?
-
-Lead: [r/Fauxmoi — Raye, Rosalía, Phoebe Bridgers, Miranda Lambert, Ella Langley and Olivia Rodrigo Top a Women-Led 2027 Grammys Field](https://www.reddit.com/r/Fauxmoi/comments/1xxql4y/raye_rosalía_phoebe_bridgers_miranda_lambert_ella/)
-
-**Where it was published**
-
-- 2026-11-16 14:22 UTC · r/Fauxmoi · [Raye, Rosalía, Phoebe Bridgers, Miranda Lambert, Ella Langley and Olivia Rodrigo Top a Women-Led 2027 Grammys Field](https://www.reddit.com/r/Fauxmoi/comments/1xxql4y/raye_rosalía_phoebe_bridgers_miranda_lambert_ella/)
-- 2026-11-16 15:14 UTC · WCPO Cincinnati (OH) · [Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more)
-- 2026-11-16 15:33 UTC · AP News via Google News: AP · [Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1NvZzlpbVRQamxpSTdrUXF3NDlBenR6MEJPTXdiZjRlTkxJc2V3V3hUU1NKTWV6dmV6NE8yb3dIclNwNXBsYlZpNmd0dGVFVDhVXzlWV0hoTGJxel9tRDVfS0VXUlFVanpVc2VSZGx1MGFqekJSRm9DN2taZWgyR2RpYzFFc1gzMy13?oc=5)
-- 2026-11-16 15:54 UTC · ABC7 LA (CA) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
-- 2026-11-16 15:54 UTC · ABC13 Houston (TX) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc13.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
-- 2026-11-16 15:54 UTC · ABC7 NY (NY) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7ny.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
-- 2026-11-16 15:54 UTC · ABC7 Chicago (IL) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7chicago.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
-- 2026-11-16 15:54 UTC · 6abc Philly (PA) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://6abc.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
-- 2026-11-17 13:31 UTC · NBC News · [Grammy Nominees Revealed: Olivia Dean, Raye, Rosalía, More](https://www.today.com/video/grammy-snubs-see-the-names-missing-from-nominations-list-273636421884)
-
-**Who posted it on Instagram** (2 pages, 5,396 likes, 3 posts)
-
-- [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · +113 min after first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
-- [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · +14 min after first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
-
-### 15. David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions
-
-**Score** 112 · **Category** trending · **First seen** 2026-11-17 02:32 UTC · **Last update** 2026-11-17 23:45 UTC
-
-David Fincher, Brad Pitt and Quentin Tarantino’s long-awaited “Once Upon a Time in Hollywood” sequel movie, officially titled “The Further Mis-Adventures of Cliff Booth,” has been unveiled to members of the film press, who are calling the Netflix-backed tentpole a “wildly entertaining” “hangout movie” that is already one of the year’s best. “David Fincher’s The […]
-
-Lead: [Deadline — 'The Further Mis-Adventures Of Cliff Booth' Premiere Red Carpet Photos: Brad Pitt & More](https://news.google.com/rss/articles/CBMingFBVV95cUxOVUhuMmtvc0Q5OG5iMDZSME1fa3NybjMxV0FNZURPOWJjY21HdGVRdXAzWmpaVkJHTXRoUEtvYW00WDM3UTREYWRTV0w3WFRTQXJlcVg3MDBtNkhFcjAzSERTeUlwMk5nUDQxWGxVX3VrNWVnWl8wVlVaYjdIOVhIbjZPRmtSN2N1eGVOWWtlS1lMTmx3allwZ2RpTDU0dw?oc=5)
-
-**Where it was published**
-
-- 2026-11-17 02:32 UTC · Deadline via Google News: Top US · ['The Further Mis-Adventures Of Cliff Booth' Premiere Red Carpet Photos: Brad Pitt & More](https://news.google.com/rss/articles/CBMingFBVV95cUxOVUhuMmtvc0Q5OG5iMDZSME1fa3NybjMxV0FNZURPOWJjY21HdGVRdXAzWmpaVkJHTXRoUEtvYW00WDM3UTREYWRTV0w3WFRTQXJlcVg3MDBtNkhFcjAzSERTeUlwMk5nUDQxWGxVX3VrNWVnWl8wVlVaYjdIOVhIbjZPRmtSN2N1eGVOWWtlS1lMTmx3allwZ2RpTDU0dw?oc=5)
-- 2026-11-17 02:57 UTC · Page Six via Google News: Top US · [‘The Further Mis-Adventures of Cliff Booth’ LA premiere red carpet: Brad Pitt, Elizabeth Debicki and more](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZE8tSEdac0hQQ2F2TlhiMTNEcEM2OVpZQk9HdnRpYXlfb2lBNlNTal85V0pybTlBbm1EbkFHaHc3S182VklLWDhwNWRGVU1pYUtXQ09KMzg0NkQ3d0cxNXlBVlItcHNHeGNvRFdHdlk4N2huVjNyUmlMTkNlR0VhSDRpdGZNUEpnVUtqTVV2NEdVWHFtOUdOVDRGTU9IREdFTmhxMzVFSFd2elBhMGJrcGJ2ZUVvTWp3azZlTXVTUkhIUE1YMjNfVk5SRHRrcUhqQWloUF9KQQ?oc=5)
-- 2026-11-17 02:57 UTC · Page Six · [‘The Further Mis-Adventures of Cliff Booth’ LA premiere red carpet: Brad Pitt, Elizabeth Debicki and more](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/)
-- 2026-11-17 03:40 UTC · Just Jared · [Brad Pitt Gets Girlfriend Ines de Ramon’s Support at ‘Cliff Booth’ L.A. Red Carpet Premiere!](https://www.justjared.com/2026/11/16/brad-pitt-gets-girlfriend-ines-de-ramons-support-at-cliff-booth-l-a-red-carpet-premiere/)
-- 2026-11-17 04:19 UTC · New York Post · [Brad Pitt and girlfriend Ines de Ramon hit red carpet for premiere of ‘The Further Mis-Adventures of Cliff Booth’](https://nypost.com/2026/11/16/us-news/brad-pitt-and-girlfriend-ines-de-ramon-hit-red-carpet-for-premiere-of-the-further-mis-adventures-of-cliff-booth/)
-- 2026-11-17 05:45 UTC · Hollywood Reporter · [David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions](https://www.hollywoodreporter.com/movies/movie-news/david-fincher-brad-pitt-cliff-booth-first-reactions-1236755981/)
-- 2026-11-17 06:23 UTC · Variety · [‘Cliff Booth’ First Reactions: Brad Pitt’s Sequel Is an ‘Absolute Triumph’ and a ‘Wildly Entertaining’ ‘Love Letter’ to Hollywood](https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975/)
-- 2026-11-17 06:58 UTC · IndieWire via Google News: Top US · ['The Further Mis-Adventures of Cliff Booth' First Reactions](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUw0M2ZzSVFyS3d5cU9SMElFN0QzSUVwVDRnZ0lWel9hYXBvR055bERJRmJUU0VoRUJhN0EtQWMydDc4Z2h0dzFpSzdyVy14dEtUVFA4dXZjMUQ1RmhhLXVYOTJ1aUR1LXdrSXdZSEFOLXd1WVZCdXpMSVdrczlsc2E0anhiWUZnaThlRkVMcWlKSldlbnJGdV9vTjBnd0dWME1SNDI5eXA2elRtVEY4dV9pWQ?oc=5)
-- 2026-11-17 08:46 UTC · The Hollywood Reporter via Google News: Top US · [David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions](https://news.google.com/rss/articles/CBMitgFBVV95cUxONDlJTU9jc0dmdkRDU1kyWFYycGNHaHlLaUpfZ0EySHMwYldjM05FbEZaZC1hV05FVUVubG9CYWk2Q0RDZHFjNWlwY3dpZkpJRmhIdEJaT3pmdmlwcHV6eWlRbWVhRUFmVGRVNHktTWN1Tm1QQ1dYZXRhTGxoWEN0aDZlOVgtc1l4NGQ5cjA5Zy1DNWpBeG5CaGlpUkZlV2szM0tfbzVGRnl2czZnR0RiNVRNNEtWZw?oc=5)
-- 2026-11-17 23:45 UTC · E! News · [Why Leonardo DiCaprio Didn’t Return for Brad Pitt’s Cliff Booth Movie](https://www.eonline.com/news/1438194/brad-pitt-explains-why-leonardo-dicaprio-isnt-in-cliff-booth-movie?cmpid=rss-syndicate-genericrss-us-top_stories)
-
-**Who posted it on Instagram** (5 pages, 445,715 likes, 8 posts)
-
-- [@complex](https://www.instagram.com/p/Df1GvR_u_4p/) · 368,051 likes · 3,246 comments · +135 min after first report · Brad Pitt is all set on Robert as James Bond 👀 Would yall want to see Brad as the villain in the next James Bond?
-- [@pubity](https://www.instagram.com/p/Df3BgYah3OW/) · 65,110 likes · 506 comments · +1208 min after first report · Robert Pattinson has officially been cast as the next James Bond, with Amazon MGM Studios confirming the news on November 16. He becomes the 7th actor to take on the role, with Denis Villeneuve set to
-- [@dailymail](https://www.instagram.com/p/Df4ob0nCF7j/) · 4,465 likes · 84 comments · +2107 min after first report · Brad Pitt is throwing his name into the running to become the next Bond villain 👀 The actor told Complex he’d love to take on the role opposite Robert Pattinson’s 007, even calling on director Denis V
-- [@imax](https://www.instagram.com/p/Df2zAfJGiDV/) · 1,723 likes · 11 comments · +1080 min after first report · Word on the street? Cliff Booth is back and turning heads. See THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH first only in IMAX November 25. Get tickets now at the link in bio.
-- [@pagesix](https://www.instagram.com/p/Df2XYYdE6Nh/) · 360 likes · 6 comments · +959 min after first report · Brad Pitt just gave an "Ocean's 14" production update 👀 📸: Getty, 🎤: comments via Variety/X
-
-### 16. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
+### 13. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
 
 **Score** 112 · **First seen** 2026-11-18 00:40 UTC · **Last update** 2026-11-18 16:48 UTC
+
+**Status** Unverified · independent newsrooms: 0 · official: none · feeds: 14
+
+> Reported by a single outlet so far; not independently confirmed. Only one outlet on record: treat as unconfirmed until a second one reports it.
 
 The country needs answers. But it seems the White House isn't telling us everything, or much of anything at all. Karoline Leavitt boldly said as much on Fox News Tuesday morning.
 
@@ -481,37 +431,11 @@ Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth abou
 - [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,054 likes · 934 comments · 1739 min before first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
 - [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · 1556 min before first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
 
-### 17. Apple hit by widespread outages as tech problems continue
-
-**Score** 112 · **Category** weather · **First seen** 2026-11-17 15:45 UTC · **Last update** 2026-11-18 02:17 UTC
-
-Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdetector.
-
-Lead: [Engadget — How to sideload apps on iOS (even if you're in the US)](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/)
-
-**Where it was published**
-
-- 2026-11-17 15:45 UTC · Engadget · [How to sideload apps on iOS (even if you're in the US)](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/)
-- 2026-11-17 17:33 UTC · 9to5Mac via Google News: Top US · [iCloud, App Store, and other Apple services hit by ongoing outage](https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUhnQW02ZVhIQVh4SHhzS0lxS3p0dzhNTWF0eHRiVXJRU1NrTFllU2RLTEpXNnczcW5fc1lXa1QwVHhCa1A4QXo1WXN4a2ZjNWt3U3pUWmFITEFrdGQwMTFwSWN1TlBpQ3FUcVhrcGpzN2tNemRlaTc5UEZQai0tR2NkTDlfVVVVT2lBdEJ4VHBLZHVPUjNaZ01Ubw?oc=5)
-- 2026-11-17 17:56 UTC · Yahoo Tech via Google News: Top US · [Apple confirms iCloud outage as users report issues with Apple Pay, App Store and other services](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTXlSYms4U0dyYmVKNnlYSTFHVmFCWWt2XzZ0Zkp5TmV2N1lta3VRN3hJN3I4ZHd2dS1VdzBMMGZyUDFFcXBCbzdvZ1c2NFRRd2tMQTJ2dlVzdXVZRklhTGNFZ1E2bkVjUzVrVjIzTWZzTkc4Tk9kTE9OTF9wLXRpTWF0MzIyRi1oZktobTEwOVdTSHRBdWVqLWgyUlFxTUI0SWJoM2NWTkJMQ0hxTEE3TG5VZFlsNXF0bmVzRmM0RC00UFQ0Y3RYRmJUeDUxcWgtMUNDaDVZTHJlRW9rN012NGZWMzk3NnZTNVZJNzFXS2FuM01ZeWc?oc=5)
-- 2026-11-17 18:05 UTC · New York Post · [Apple services down, as Apple Pay, App Store and Apple Support experience outages](https://nypost.com/2026/11/17/business/apple-services-down-as-apple-pay-app-store-and-apple-support-experience-outages/)
-- 2026-11-17 18:44 UTC · WSB-TV Atlanta (GA) · [Apple users report issues with some systems](https://www.wsbtv.com/news/trending/apple-users-report-issues-with-some-systems/LKLOJTVYMJFNTHYWCBG5VJDP24/)
-- 2026-11-17 18:51 UTC · WCPO Cincinnati (OH) · [Apple services hit by outages, including App Store and Music](https://www.wcpo.com/life/tech-tips/apple-services-hit-by-outages-including-app-store-and-music)
-- 2026-11-17 18:55 UTC · TechCrunch · [Apple services, including iCloud, App Store, and Apple Music, hit by outage](https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/)
-- 2026-11-17 18:55 UTC · TechCrunch via Google News: Top US · [Apple services, including iCloud, App Store, Apple Music, and more, hit by outage](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk8wWVhKbFhaQ0ZxVGNYUmlERkotWEFkOFNkLWFCaDlJbmRSdDYxMnVaREVLSVh6WGJxMURwR25uM2E3ZWROU2VGUkFHRGlEcVBfR2pnWWtzNUQwWGwyVUtCVy0yNmRIQkdaWWZ1eXZsRDB1Sm1nZVllZ2VmSVQ2b1FoN21kTldteDJidE85YkZmMW9ZNGZ1VmNVMVd2NlZBdWFlTi1qdE1nQQ?oc=5)
-- 2026-11-17 19:05 UTC · KTLA (CA) · [Is Apple down? Users report problems accessing services](https://ktla.com/news/nationworld/is-apple-down-users-report-problems-accessing-services/)
-- 2026-11-17 22:17 UTC · UPI Top · [Apple blames internal update for outage affecting iCloud, Apple Pay](https://www.upi.com/Top_News/US/2026/11/17/apple-outage-icloud-pay-store/3741794952559/)
-- 2026-11-18 00:18 UTC · NBC News · [Apple hit by widespread outages as tech problems continue](https://www.nbcnews.com/nightly-news/video/apple-hit-by-widespread-outages-as-tech-problems-continue-273687109562)
-- 2026-11-18 02:17 UTC · 9to5Mac via Google News: Top US · [Apple announces App Store price changes in multiple countries, new California tax rules](https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkNOay1TVE5TdUt1RlV3bjBZUHlSSDRBUVo0UzZBOGg0eHh2bG5hb19GbGhqSzgxWXdiSkMtekEwU25vQkRQRWkwWGtMUDFmMldMdkZIZTRJeTRzU2JKNWUxR0FYY3ZZamlzOXpqdkRHRjlDelpvSWpNdERxZENFS290bnFOSllnZWdUdllrb3pJX2ExRHlQczJqWFVoS0h6b2VkLUlQX1RNdDd5YVA3ZDludkhybWpXS1E?oc=5)
-
-**Who posted it on Instagram** (2 pages, 50,485 likes, 2 posts)
-
-- [@dailymail](https://www.instagram.com/p/Df2mEWsglYo/) · 43,733 likes · 1,228 comments · +174 min after first report · Apple has been hit by a widespread outage, leaving some iPhone users unable to access their accounts. The tech giant’s system status page flagged a problem with ‘iCloud Account & Sign In,’ warning: ‘A
-- [@nypost](https://www.instagram.com/p/Df2jBwjE_0_/) · 6,752 likes · 276 comments · +148 min after first report · BREAKING: Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdete
-
-### 18. US officially loses measles elimination status, PAHO says
+### 14. US officially loses measles elimination status, PAHO says
 
 **Score** 110 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
+
+**Status** Confirmed · independent newsrooms: 13 · official: none · feeds: 14
 
 The U.S. on Tuesday officially lost its measles elimination status for the first time since it gained this distinction more than 25 years ago, with a count of more than 7,700 cases in the past two years and more than 10 deaths reported by states since 2025. The Pan American Health Organization (PAHO) made the [...]
 
@@ -536,9 +460,13 @@ Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threa
 
 - [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 433 likes · 95 comments · +3090 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
 
-### 19. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
+### 15. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
 
 **Score** 110 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-18 10:43 UTC
+
+**Status** Unverified · independent newsrooms: 0 · official: none · feeds: 4
+
+> Reported by a single outlet so far; not independently confirmed. Only one outlet on record: treat as unconfirmed until a second one reports it.
 
 Although I’ve lived in New York for 11 years, I’ve never adopted the all-black wardrobe the city is typically known for. What can I say? My clothes need to be colorful and whimsical! I find plenty of ways to incorporate color into my fits and admire when people add electric pops. Jennifer Lawrence gave me […]
 
@@ -556,59 +484,13 @@ Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tir
 - [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 7,998 likes · 28 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
 - [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 16 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
 
-### 20. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
-
-**Score** 110 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-18 13:07 UTC
-
-Saturday Night Live alum Heidi Gardner‘s boyfriend, filmmaker Ray Tintori, has reportedly died. He was 43. The New York City Office of Chief Medical Examiner confirmed to TMZ on Monday, November 16, that Tintori’s death is currently under investigation. A cause of death has not yet been determined by investigators. Us has reached out to […]
-
-Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.com/2026/11/16/ray-tintori-dead/)
-
-**Where it was published**
-
-- 2026-11-17 00:02 UTC · TMZ · ['SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.com/2026/11/16/ray-tintori-dead/)
-- 2026-11-17 00:52 UTC · Just Jared · [‘SNL’ Alum Heidi Gardner’s Boyfriend, Filmmaker Ray Tintori, Dies at 43](https://www.justjared.com/2026/11/16/snl-alum-heidi-gardners-boyfriend-filmmaker-ray-tintori-dies-at-43/)
-- 2026-11-17 01:24 UTC · E! News · [SNL Alum Heidi Gardner’s Boyfriend Ray Tintori Dead at 43](https://www.eonline.com/news/1438165/ray-tintori-dead-heidi-gardners-boyfriend-dies-at-43?cmpid=rss-syndicate-genericrss-us-top_stories)
-- 2026-11-17 02:14 UTC · Page Six · [Heidi Gardner’s boyfriend Ray Tintori shared emotional tribute to ‘angel’ SNL star before death at 43](https://pagesix.com/2026/11/16/celebrity-news/heidi-gardners-boyfriend-ray-tintori-shared-emotional-tribute-to-angel-snl-star-before-death-at-43/)
-- 2026-11-17 02:26 UTC · Us Weekly · ['SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43](https://www.usmagazine.com/celebrity-news/news/snl-alum-heidi-gardners-boyfriend-ray-tintori-dead-at-43/)
-- 2026-11-17 02:41 UTC · Daily Mail US · [Saturday Night Live alum Heidi Gardner's boyfriend Ray Tintori dies at 43 as probe is launched](https://www.dailymail.com/tvshowbiz/article-16298179/heidi-gardner-boyfriend-died-ray-tintori-snl.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-17 02:57 UTC · Page Six · [See ‘SNL’ alum Heidi Gardner’s last photos with boyfriend Ray Tintori before his death at 43](https://pagesix.com/2026/11/16/celebrity-news/see-snl-alum-heidi-gardners-last-photos-with-boyfriend-ray-tintori-before-his-death-at-43/)
-- 2026-11-17 03:27 UTC · Los Angeles Times via Google News: Top US · [Ray Tintori, filmmaker and boyfriend of ‘SNL’ alum Heidi Gardner, has died at 43](https://news.google.com/rss/articles/CBMivwFBVV95cUxPakFwLTNKcDFRZWZVTzRwQWNOc3RBVnVORTNadHAzUEsxcFpaZGEtRUZESHFlU0QxSGlCZ2p4Mmp2d1NxaFRkN3UzVW94YV93ZGxOVC1GVG5zMnZOakJ4TV83eHJRbWlTUGdSZUtSMThhSHQxeHpvekdoa240d082djdnSkJoMy1WS0tsRXJOMGlDS010Q3JTUC14eTFZejkyaXp3MzJLeDNhRDZWVDMtOXV0U1JfRTdtcVVKYjgxNA?oc=5)
-- 2026-11-17 13:58 UTC · Page Six · [Who was Ray Tintori? Meet ‘SNL’ star Heidi Gardner’s late boyfriend after tragic death at 43](https://pagesix.com/celebrity-news/who-was-ray-tintori/)
-- 2026-11-17 15:02 UTC · Us Weekly · [Who Is Ray Tintori? What to Know About Heidi Gardner's Boyfriend After Death](https://www.usmagazine.com/celebrity-news/news/who-is-heidi-gardners-boyfriend-ray-tintori-details-after-death/)
-- 2026-11-17 15:15 UTC · New York Post · [Mother of Heidi Gardner’s late boyfriend, Ray Tintori, tragically died one year before his passing](https://pagesix.com/2026/11/17/celebrity-news/mother-of-heidi-gardners-late-boyfriend-ray-tintori-died-one-year-before-his-passing/)
-- 2026-11-17 16:52 UTC · New York Post · [Heidi Gardner leaning on friends amid shocking death of boyfriend Ray Tintori at 43](https://pagesix.com/2026/11/17/celebrity-news/heidi-gardner-leaning-on-friends-amid-shocking-death-of-boyfriend-ray-tintori-at-43/)
-
-**Who posted it on Instagram** (1 pages, 3,240 likes, 1 posts)
-
-- [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
-
-### 21. Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects
-
-**Score** 109 · **First seen** 2026-11-16 03:41 UTC · **Last update** 2026-11-18 15:50 UTC
-
-Former Rep. Mary Peltola (D-Alaska) continues to pull ahead of incumbent Sen. Dan S. Sullivan (R-Alaska) in the last Senate race to be called from November’s midterms. The latest ballot drop from Alaska’s Division of Elections reported Peltola is in the lead with 141,637 votes, followed by the incumbent with 130,162 votes, Republican Gerald L.…
-
-Lead: [Newsweek — Mary Peltola Closes in on 50% Threshold in Alaska Senate Race](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWw5dVlxYnV0N2NrZjZLYWt4ZDF3cHhBbTJBVXUxMEoyUWNuYTdvRkJpZ0VCZVRpTGprVlRVOVJRV1RvOFZQczFiNVVDak8xZk8wcTRxV3N0bjRzRERxQ2FCcG55S3I1ejhkbkhodlEtR1JiSUZWSnNRTGFyeTNwLW9ETmVoaUE1Y3EyN3piQWVwdGc0U0pBbURn?oc=5)
-
-**Where it was published**
-
-- 2026-11-16 03:41 UTC · Newsweek via Google News: Top US · [Mary Peltola Closes in on 50% Threshold in Alaska Senate Race](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWw5dVlxYnV0N2NrZjZLYWt4ZDF3cHhBbTJBVXUxMEoyUWNuYTdvRkJpZ0VCZVRpTGprVlRVOVJRV1RvOFZQczFiNVVDak8xZk8wcTRxV3N0bjRzRERxQ2FCcG55S3I1ejhkbkhodlEtR1JiSUZWSnNRTGFyeTNwLW9ETmVoaUE1Y3EyN3piQWVwdGc0U0pBbURn?oc=5)
-- 2026-11-16 03:41 UTC · Newsweek · [Mary Peltola Closes in on 50% Threshold in Alaska Senate Race](https://www.newsweek.com/mary-peltola-closes-in-on-50-threshold-in-alaska-senate-race-12718013)
-- 2026-11-17 02:07 UTC · CBS News · [Democrat Mary Peltola leads ongoing Alaska Senate race](https://www.cbsnews.com/video/democrat-mary-peltola-leads-alaska-senate-race-still-remains-uncalled/)
-- 2026-11-17 02:38 UTC · BBC US & Canada · [Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?](https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss)
-- 2026-11-17 03:49 UTC · The Hill · [Peltola expands lead over Sullivan in latest ballot drop](https://thehill.com/homenews/campaign/6224075-peltola-leads-alaska-senate-race/)
-- 2026-11-17 04:15 UTC · Newsweek · [Dan Sullivan Breaks Silence as Alaska Senate Race Nears Showdown](https://www.newsweek.com/dan-sullivan-breaks-silence-as-alaska-senate-race-nears-showdown-12725062)
-- 2026-11-17 04:18 UTC · Anchorage Daily News via Google News: Top US · [Peltola approaches victory in Alaska’s U.S. Senate race](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVm9DQk5NQkhrWDBVQjNFVksxYlo0SGhDVjlTOTljT0l6M2V4ZTZHTTBqQl9YQ25Zclk5R0ZQWnRDUnhzYnN0Ql9sY3RmMG1aV1JucmlUNlB0OWRKaXFocllyNm9EQll1cWJwYmpYZndmejl3UlFlTml2MFZlcUNzNkRTbzRxZndESkc3TVU1X01MSXpJWkw5TQ?oc=5)
-- 2026-11-17 11:50 UTC · The Guardian via Google News: Top US · [Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0VvVnM3Qk1hUVpPYTVMOXdQOG9ocmRrcVo4ZW12OFNrTEEwaDZOREp2YTJyUGRTS2VNbGVZb2hLQ2RWRWd1WldTdm1vRzRuaURwaTBTTldDeTNiZ0tkSzRMVEYwTUFkdjdCdVVOUHFQN0xJQWo5UWIyLXdDN1hvSmhxYXo1d1VuQlhMTTV2U2h6My1wcHJPbjVNVU53MGUwYmlySm8wSGN0dmk1S09keXk3enVOTjNPb1l4QW1fZzB3ZmxoQldGeTk1eGM3N2ZN?oc=5)
-- 2026-11-17 11:50 UTC · Guardian US · [Democrats’ Peltola ahead as counting nears end in Alaska Senate race – US politics live](https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates)
-- 2026-11-17 20:52 UTC · The Hill · [Why an Alaska win by Peltola is so important to Democrats](https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/)
-- 2026-11-18 03:14 UTC · CNN via Google News: Top US · [Democrat Mary Peltola will oust GOP Sen. Dan Sullivan in Alaska Senate race, CNN projects](https://news.google.com/rss/articles/CBMie0FVX3lxTFBmbS11SDdYWlZsSkp5dHNnU1JrbktwRVNLS2pma0p6aWtyWXRjNzJZZ2dnMUszeE12UnZqRzhWbFJJT0p0SWhYWUtNN0tneTRJdnRUa3gzVVBuWnpXWkFUczdPLUZxUlllZUZ6UGR6dmhzeHVqZU1QRUN6RQ?oc=5)
-- 2026-11-18 03:19 UTC · NBC News via Google News: Top US · [Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUFXQnhSVW81NVFKVmppNzlvajVabHFkWnVxZmdPQXVVemM3dWpIMkQ2c2ZmSFNiR1JrbXFuRmVVM3psNEdUSE9YcGZmeUJRVFI1MzJLdG1zNHlkRTBzbFBhOVBaQUxSRU1VWUMtY1VmbVRmaElHdjhHYUdJamt4NGJEVnFINEU3TkFSM2NfRGNyeld3ZGFOdDlfOTMtM1FGTmJkWTlORnctUlJVV3I2OENiRFRQZw?oc=5)
-
-### 22. Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album
+### 16. Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album
 
 **Score** 108 · **Category** trending · **First seen** 2026-11-17 06:56 UTC · **Last update** 2026-11-18 00:38 UTC
+
+**Status** Unverified · independent newsrooms: 0 · official: none · feeds: 4
+
+> Reported by a single outlet so far; not independently confirmed. Only one outlet on record: treat as unconfirmed until a second one reports it.
 
 Cara Paige is a first-time Grammy Award nominee, nearly five years after she first went viral for her song “Ur […] The post Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
@@ -626,9 +508,13 @@ Lead: [Just Jared — Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy N
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 980 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
 - [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · +489 min after first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
 
-### 23. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
+### 17. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
 
 **Score** 108 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 16:45 UTC
+
+**Status** Developing · independent newsrooms: 1 · official: none · feeds: 3
+
+> Carried by 3 feeds but fewer than two independent newsrooms; details may change.
 
 Carly Stern, Wellness Editor at the New York Post, sits down with Dr. Caren Behar, Co-Director of the Mignone Women’s Health Collaborative and Medical Director at NYU Langone’s Joan H. Tisch Center for Women’s Health, to separate health fact from social media fiction. From quick “movement snacks” and better sleep habits to supplements and viral...
 
@@ -655,9 +541,149 @@ Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s 
 - [@nypost](https://www.instagram.com/p/Df0vPJHsZy4/) · 3,883 likes · 31 comments · +862 min after first report · The Empire State Building is shining red in celebration of the New York Post’s 225th anniversary!🗽 Founded by Alexander Hamilton in 1801, the Post has been part of New York City’s story for more than 
 - [@pagesix](https://www.instagram.com/p/Df0JgnIt00m/) · 3,065 likes · 315 comments · +533 min after first report · Martha Stewart and Gov. Kathy Hochul join Editor-in-Chief Keith Poole to light the Empire State Building for New York Post’s 225 Anniversary 🗞️
 
-### 24. ‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse
+### 18. David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions
+
+**Score** 108 · **Category** trending · **First seen** 2026-11-17 02:57 UTC · **Last update** 2026-11-17 23:45 UTC
+
+**Status** Confirmed · independent newsrooms: 2 · official: none · feeds: 10
+
+David Fincher, Brad Pitt and Quentin Tarantino’s long-awaited “Once Upon a Time in Hollywood” sequel movie, officially titled “The Further Mis-Adventures of Cliff Booth,” has been unveiled to members of the film press, who are calling the Netflix-backed tentpole a “wildly entertaining” “hangout movie” that is already one of the year’s best. “David Fincher’s The […]
+
+Lead: [Page Six — ‘The Further Mis-Adventures of Cliff Booth’ LA premiere red carpet: Brad Pitt, Elizabeth Debicki and more](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/)
+
+**Where it was published**
+
+- 2026-11-17 02:57 UTC · Page Six · [‘The Further Mis-Adventures of Cliff Booth’ LA premiere red carpet: Brad Pitt, Elizabeth Debicki and more](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/)
+- 2026-11-17 03:40 UTC · Just Jared · [Brad Pitt Gets Girlfriend Ines de Ramon’s Support at ‘Cliff Booth’ L.A. Red Carpet Premiere!](https://www.justjared.com/2026/11/16/brad-pitt-gets-girlfriend-ines-de-ramons-support-at-cliff-booth-l-a-red-carpet-premiere/)
+- 2026-11-17 04:19 UTC · New York Post · [Brad Pitt and girlfriend Ines de Ramon hit red carpet for premiere of ‘The Further Mis-Adventures of Cliff Booth’](https://nypost.com/2026/11/16/us-news/brad-pitt-and-girlfriend-ines-de-ramon-hit-red-carpet-for-premiere-of-the-further-mis-adventures-of-cliff-booth/)
+- 2026-11-17 05:45 UTC · Hollywood Reporter · [David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions](https://www.hollywoodreporter.com/movies/movie-news/david-fincher-brad-pitt-cliff-booth-first-reactions-1236755981/)
+- 2026-11-17 06:23 UTC · Variety · [‘Cliff Booth’ First Reactions: Brad Pitt’s Sequel Is an ‘Absolute Triumph’ and a ‘Wildly Entertaining’ ‘Love Letter’ to Hollywood](https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975/)
+- 2026-11-17 23:45 UTC · E! News · [Why Leonardo DiCaprio Didn’t Return for Brad Pitt’s Cliff Booth Movie](https://www.eonline.com/news/1438194/brad-pitt-explains-why-leonardo-dicaprio-isnt-in-cliff-booth-movie?cmpid=rss-syndicate-genericrss-us-top_stories)
+
+**Who posted it on Instagram** (5 pages, 445,715 likes, 8 posts)
+
+- [@complex](https://www.instagram.com/p/Df1GvR_u_4p/) · 368,051 likes · 3,246 comments · +109 min after first report · Brad Pitt is all set on Robert as James Bond 👀 Would yall want to see Brad as the villain in the next James Bond?
+- [@pubity](https://www.instagram.com/p/Df3BgYah3OW/) · 65,110 likes · 506 comments · +1182 min after first report · Robert Pattinson has officially been cast as the next James Bond, with Amazon MGM Studios confirming the news on November 16. He becomes the 7th actor to take on the role, with Denis Villeneuve set to
+- [@dailymail](https://www.instagram.com/p/Df4ob0nCF7j/) · 4,465 likes · 84 comments · +2081 min after first report · Brad Pitt is throwing his name into the running to become the next Bond villain 👀 The actor told Complex he’d love to take on the role opposite Robert Pattinson’s 007, even calling on director Denis V
+- [@imax](https://www.instagram.com/p/Df2zAfJGiDV/) · 1,723 likes · 11 comments · +1054 min after first report · Word on the street? Cliff Booth is back and turning heads. See THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH first only in IMAX November 25. Get tickets now at the link in bio.
+- [@pagesix](https://www.instagram.com/p/Df2XYYdE6Nh/) · 360 likes · 6 comments · +933 min after first report · Brad Pitt just gave an "Ocean's 14" production update 👀 📸: Getty, 🎤: comments via Variety/X
+
+### 19. Apple hit by widespread outages as tech problems continue
+
+**Score** 108 · **Category** weather · **First seen** 2026-11-17 15:45 UTC · **Last update** 2026-11-18 02:17 UTC
+
+**Status** Confirmed · independent newsrooms: 7 · official: none · feeds: 10
+
+Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdetector.
+
+Lead: [Engadget — How to sideload apps on iOS (even if you're in the US)](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/)
+
+**Where it was published**
+
+- 2026-11-17 15:45 UTC · Engadget · [How to sideload apps on iOS (even if you're in the US)](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/)
+- 2026-11-17 18:05 UTC · New York Post · [Apple services down, as Apple Pay, App Store and Apple Support experience outages](https://nypost.com/2026/11/17/business/apple-services-down-as-apple-pay-app-store-and-apple-support-experience-outages/)
+- 2026-11-17 18:44 UTC · WSB-TV Atlanta (GA) · [Apple users report issues with some systems](https://www.wsbtv.com/news/trending/apple-users-report-issues-with-some-systems/LKLOJTVYMJFNTHYWCBG5VJDP24/)
+- 2026-11-17 18:51 UTC · WCPO Cincinnati (OH) · [Apple services hit by outages, including App Store and Music](https://www.wcpo.com/life/tech-tips/apple-services-hit-by-outages-including-app-store-and-music)
+- 2026-11-17 18:55 UTC · TechCrunch · [Apple services, including iCloud, App Store, and Apple Music, hit by outage](https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/)
+- 2026-11-17 19:05 UTC · KTLA (CA) · [Is Apple down? Users report problems accessing services](https://ktla.com/news/nationworld/is-apple-down-users-report-problems-accessing-services/)
+- 2026-11-17 22:17 UTC · UPI Top · [Apple blames internal update for outage affecting iCloud, Apple Pay](https://www.upi.com/Top_News/US/2026/11/17/apple-outage-icloud-pay-store/3741794952559/)
+- 2026-11-18 00:18 UTC · NBC News · [Apple hit by widespread outages as tech problems continue](https://www.nbcnews.com/nightly-news/video/apple-hit-by-widespread-outages-as-tech-problems-continue-273687109562)
+
+**Who posted it on Instagram** (2 pages, 50,485 likes, 2 posts)
+
+- [@dailymail](https://www.instagram.com/p/Df2mEWsglYo/) · 43,733 likes · 1,228 comments · +174 min after first report · Apple has been hit by a widespread outage, leaving some iPhone users unable to access their accounts. The tech giant’s system status page flagged a problem with ‘iCloud Account & Sign In,’ warning: ‘A
+- [@nypost](https://www.instagram.com/p/Df2jBwjE_0_/) · 6,752 likes · 276 comments · +148 min after first report · BREAKING: Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdete
+
+### 20. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
+
+**Score** 106 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-18 13:07 UTC
+
+**Status** Confirmed · independent newsrooms: 5 · official: none · feeds: 16
+
+Saturday Night Live alum Heidi Gardner‘s boyfriend, filmmaker Ray Tintori, has reportedly died. He was 43. The New York City Office of Chief Medical Examiner confirmed to TMZ on Monday, November 16, that Tintori’s death is currently under investigation. A cause of death has not yet been determined by investigators. Us has reached out to […]
+
+Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.com/2026/11/16/ray-tintori-dead/)
+
+**Where it was published**
+
+- 2026-11-17 00:02 UTC · TMZ · ['SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.com/2026/11/16/ray-tintori-dead/)
+- 2026-11-17 00:52 UTC · Just Jared · [‘SNL’ Alum Heidi Gardner’s Boyfriend, Filmmaker Ray Tintori, Dies at 43](https://www.justjared.com/2026/11/16/snl-alum-heidi-gardners-boyfriend-filmmaker-ray-tintori-dies-at-43/)
+- 2026-11-17 01:24 UTC · E! News · [SNL Alum Heidi Gardner’s Boyfriend Ray Tintori Dead at 43](https://www.eonline.com/news/1438165/ray-tintori-dead-heidi-gardners-boyfriend-dies-at-43?cmpid=rss-syndicate-genericrss-us-top_stories)
+- 2026-11-17 02:14 UTC · Page Six · [Heidi Gardner’s boyfriend Ray Tintori shared emotional tribute to ‘angel’ SNL star before death at 43](https://pagesix.com/2026/11/16/celebrity-news/heidi-gardners-boyfriend-ray-tintori-shared-emotional-tribute-to-angel-snl-star-before-death-at-43/)
+- 2026-11-17 02:26 UTC · Us Weekly · ['SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43](https://www.usmagazine.com/celebrity-news/news/snl-alum-heidi-gardners-boyfriend-ray-tintori-dead-at-43/)
+- 2026-11-17 02:41 UTC · Daily Mail US · [Saturday Night Live alum Heidi Gardner's boyfriend Ray Tintori dies at 43 as probe is launched](https://www.dailymail.com/tvshowbiz/article-16298179/heidi-gardner-boyfriend-died-ray-tintori-snl.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 02:57 UTC · Page Six · [See ‘SNL’ alum Heidi Gardner’s last photos with boyfriend Ray Tintori before his death at 43](https://pagesix.com/2026/11/16/celebrity-news/see-snl-alum-heidi-gardners-last-photos-with-boyfriend-ray-tintori-before-his-death-at-43/)
+- 2026-11-17 13:58 UTC · Page Six · [Who was Ray Tintori? Meet ‘SNL’ star Heidi Gardner’s late boyfriend after tragic death at 43](https://pagesix.com/celebrity-news/who-was-ray-tintori/)
+- 2026-11-17 15:02 UTC · Us Weekly · [Who Is Ray Tintori? What to Know About Heidi Gardner's Boyfriend After Death](https://www.usmagazine.com/celebrity-news/news/who-is-heidi-gardners-boyfriend-ray-tintori-details-after-death/)
+- 2026-11-17 15:15 UTC · New York Post · [Mother of Heidi Gardner’s late boyfriend, Ray Tintori, tragically died one year before his passing](https://pagesix.com/2026/11/17/celebrity-news/mother-of-heidi-gardners-late-boyfriend-ray-tintori-died-one-year-before-his-passing/)
+- 2026-11-17 16:52 UTC · New York Post · [Heidi Gardner leaning on friends amid shocking death of boyfriend Ray Tintori at 43](https://pagesix.com/2026/11/17/celebrity-news/heidi-gardner-leaning-on-friends-amid-shocking-death-of-boyfriend-ray-tintori-at-43/)
+- 2026-11-17 18:37 UTC · New York Post · [Tragic new details in Heidi Gardner’s boyfriend Ray Tintori’s sudden death revealed](https://pagesix.com/2026/11/17/celebrity-news/tragic-new-details-in-heidi-gardners-boyfriend-ray-tintoris-sudden-death-revealed/)
+
+**Who posted it on Instagram** (1 pages, 3,240 likes, 1 posts)
+
+- [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
+
+### 21. Mamdani disbanding controversial NYPD unit
+
+**Score** 105 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 16:00 UTC
+
+**Status** Confirmed · independent newsrooms: 8 · official: none · feeds: 15
+
+“During our campaign for mayor, I promised to disband the NYPD's strategic response group, known as the SRG. Today, we are keeping that promise. I am disbanding the SRG. SRG was tasked with both counterterrorism enforcement and protest response. Those are not the same, and they should be separated. Government has a responsibility to both protect New Yorkers' constitutional rights and keep our communities safe. Those…
+
+Lead: [ABC7 NY (NY) — Exclusive: Mayor Mamdani, Commissioner Tisch on disbanding NYPD's Strategic Response Group](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/)
+
+**Where it was published**
+
+- 2026-11-16 11:00 UTC · ABC7 NY (NY) · [Exclusive: Mayor Mamdani, Commissioner Tisch on disbanding NYPD's Strategic Response Group](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/)
+- 2026-11-16 11:08 UTC · New York Post · [Mamdani restructures NYPD’s controversial Strategic Response Group, announces new ‘civilian-led approach’ to protests](https://nypost.com/2026/11/16/us-news/mamdani-restructures-nypds-controversial-strategic-response-group-announces-new-civilian-led-approach-to-protests/)
+- 2026-11-16 11:23 UTC · PIX11 (NY) · [Mayor Mamdani disbands NYPD's Strategic Response Group](https://pix11.com/news/morning/mayor-mamdani-disbands-nypds-strategic-response-group/)
+- 2026-11-16 14:20 UTC · Daily Mail US · [New York's woke mayor Mamdani disbands elite police unit and launches new 'civilian friendly' approach to rowdy protesters](https://www.dailymail.com/news/article-16296259/new-york-mamdani-disbands-police-unit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-16 14:23 UTC · The Hill · [Mamdani disbanding controversial NYPD unit](https://thehill.com/homenews/state-watch/6222110-zohran-mamdani-disbands-nypd-strategic-response-group/)
+- 2026-11-16 14:57 UTC · Guardian US · [Mamdani disbands controversial NYPD unit accused of using excessive force](https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani)
+- 2026-11-16 16:23 UTC · UPI Top · [Mayor Zohran Mamdani announces disbandment of NYPD's Strategic Response Group](https://www.upi.com/Top_News/US/2026/11/16/nyc-nypd-strategic-response-group-mamdani/4821794844155/)
+- 2026-11-16 17:58 UTC · ABC7 NY (NY) · [Backlash grows against Mamdani's decision to disband NYPD's SRG unit](https://abc7ny.com/post/srg-nyc-backlash-grows-mamdanis-disbandment-nypd-unit/20044932/)
+- 2026-11-17 07:19 UTC · New York Post · [‘Dangerous, ideological betrayal of public safety,’ Jewish groups say of Mamdani nixing specialized NYPD unit](https://nypost.com/2026/11/17/us-news/dangerous-ideological-betrayal-of-public-safety-jewish-groups-say-of-mamdani-nixing-specialized-nypd-unit/)
+- 2026-11-17 14:37 UTC · Daily Mail US · [New Yorkers spooked by woke mayor's latest video as he drops fun fresh look for dictatorial vibe while announcing plans to disband NYPD unit](https://www.dailymail.com/news/article-16299463/Mamdani-appearance-video-moustache-NYPD-disband-unit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 16:04 UTC · Newsweek · [Mamdani's New York Has a Plan for Police Violence. What About Rioters?](https://www.newsweek.com/mamdani-nypd-strategic-response-group-riots-protests-12728156)
+- 2026-11-17 19:03 UTC · CBS News · [Mamdani disbands NYPD unit accused of excessive force, keeping campaign promise](https://www.cbsnews.com/video/mamdani-keeps-campaign-promise-disbands-nypd-unit-accused-of-excessive-force/)
+
+**Who posted it on Instagram** (1 pages, 17,978 likes, 2 posts)
+
+- [@dailymail](https://www.instagram.com/p/DfzR62QE3YM/) · 10,959 likes · 488 comments · +45 min after first report · New York City Mayor Zohran Mamdani is launching a two-day video game development competition, NYC Game Jam, challenging young New Yorkers to create an original game in just 48 hours. Participants will
+
+### 22. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
+
+**Score** 105 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-18 01:17 UTC
+
+**Status** Confirmed · independent newsrooms: 7 · official: none · feeds: 12
+
+The 2027 Grammy nominations are in, with Raye leading the pack at 11 nods and women dominating the top categories. Which nominees stood out to you this year?
+
+Lead: [WCPO Cincinnati (OH) — Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more)
+
+**Where it was published**
+
+- 2026-11-16 15:14 UTC · WCPO Cincinnati (OH) · [Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more)
+- 2026-11-16 15:54 UTC · ABC7 LA (CA) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · ABC13 Houston (TX) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc13.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · ABC7 NY (NY) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7ny.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · ABC7 Chicago (IL) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7chicago.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · 6abc Philly (PA) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://6abc.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-17 13:31 UTC · NBC News · [Grammy Nominees Revealed: Olivia Dean, Raye, Rosalía, More](https://www.today.com/video/grammy-snubs-see-the-names-missing-from-nominations-list-273636421884)
+
+**Who posted it on Instagram** (2 pages, 5,396 likes, 3 posts)
+
+- [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · +60 min after first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
+- [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 39 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
+
+### 23. ‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse
 
 **Score** 104 · **Category** trending · **First seen** 2026-11-18 14:00 UTC · **Last update** 2026-11-18 15:30 UTC
+
+**Status** Developing · independent newsrooms: 1 · official: none · feeds: 4
+
+> Carried by 3 feeds but fewer than two independent newsrooms; details may change.
 
 Jason Voorhees is finally headed back to the big screen in a brand new 13th feature film, and Bloody Disgusting’s parent company Cineverse will unleash the film in theaters August 13, 2027. Titled JASON, the brand new movie will be directed by franchise legacy director Steve Miner, who first put the machete in Jason’s hands […] The post ‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from…
 
@@ -673,9 +699,13 @@ Lead: [Deadline — New ‘Friday The 13th’ Movie Unveils Cast, Title & Releas
 
 - [@feelthroughwords](https://www.instagram.com/p/Df3wjkCOaO5/) · 0 likes · 384 comments · 510 min before first report · Send this to yourself right now 🧿❤️ . . 🎬 : Pooja Meri Jaan. Pooja Meri Jaan follows Pooja Dogra (Mrunal Thakur), a spirited young woman whose life spirals into a nightmare after firmly turning down a
 
-### 25. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
+### 24. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
 
 **Score** 104 · **Category** trending · **First seen** 2026-11-17 23:46 UTC · **Last update** 2026-11-18 11:00 UTC
+
+**Status** Developing · independent newsrooms: 0 · official: none · feeds: 13
+
+> Carried by 2 feeds but fewer than two independent newsrooms; details may change.
 
 Paris Hilton returned to Capitol Hill this week with U.S. Rep. Alexandria Ocasio-Cortez. The 45-year-old former reality star spoke during […] The post Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
@@ -689,6 +719,31 @@ Lead: [New York Post — Paris Hilton and AOC team up in Capitol crusade to stop
 **Who posted it on Instagram** (1 pages, 32,819 likes, 1 posts)
 
 - [@npr](https://www.instagram.com/reel/Df3NnmSlQF9/) · 32,819 likes · 587 comments · +41 min after first report · When Paris Hilton (@parishilton) was 19, her ex-boyfriend shared an intimate video of her without her consent.⁠ ⁠ More than two decades later, Hilton says she’s being revictimized as her image now spr
+
+### 25. Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More
+
+**Score** 103 · **Category** trending · **First seen** 2026-11-17 01:18 UTC · **Last update** 2026-11-18 04:45 UTC
+
+**Status** Unverified · independent newsrooms: 0 · official: none · feeds: 8
+
+> Reported by a single outlet so far; not independently confirmed. Only one outlet on record: treat as unconfirmed until a second one reports it.
+
+Beyoncé and Taylor Swift are just a few of the big names who have broken Grammy records over the course of the awards show’s history. In 2023, Beyoncé became the most-awarded artist in Grammys history with the 32nd trophy of her career, taking home the trophy for Best Dance/Electronic Album for Renaissance. It was her […]
+
+Lead: [Us Weekly — Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/)
+
+**Where it was published**
+
+- 2026-11-17 01:18 UTC · Us Weekly · [Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/)
+
+**Who posted it on Instagram** (6 pages, 202,954 likes, 10 posts)
+
+- [@theshaderoom](https://www.instagram.com/p/DfzgX0iBVAl/) · 97,962 likes · 5,538 comments · 686 min before first report · Congratulations to the 2027 Grammy Nominees for Best Rap Album! 💿 ‘DILLAGENCE II’ - @bustarhymes (& J DILLA) 💿 ‘AM I THE DRAMA?’ - @iamcardib 💿 ‘GOD GOTTA AFRO & GOLD HOOPS’ - @rapsody 💿 ‘OCTANE’ - @d
+- [@hollywoodunlocked](https://www.instagram.com/p/Dfzn_U1qz7K/) · 18,839 likes · 597 comments · 620 min before first report · Join us in congratulating #CardiB who earned 4 Grammy nominations 👏🏾💙: Best Rap Performance: “Errtime” Best Melodic Rap Performance: “Safe” Best Rap Song: “Errtime” Best Rap Album: ‘Am I the Drama?’
+- [@theneighborhoodtalk](https://www.instagram.com/p/Df0K3wmH3Ce/) · 9,236 likes · 1,343 comments · 316 min before first report · TNHT Staff: @YesThatsDee _______________ Neighbors, the nominations for the 2027 Grammy Awards have officially been announced, and the competition is looking GOOD! _______________ Some of the biggest 
+- [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · 544 min before first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
+- [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 643 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
+- [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · +826 min after first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).
