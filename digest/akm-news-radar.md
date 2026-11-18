@@ -1,6 +1,6 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 17:43 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 17:46 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
@@ -8,27 +8,27 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 | 2 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 183 | Confirmed | 25 | 3 | [CBS News](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/) |
 | 3 | Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth | 180 | Confirmed | 18 | 2 | [Live Science](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future) |
 | 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 179 | Confirmed | 19 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
-| 5 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 150 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
+| 5 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 149 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
 | 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 149 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
 | 7 | Top Nvidia lawyer agrees to testify before Congress | 136 | Confirmed | 10 | 7 | [The Verge](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china) |
-| 8 | Customers report difficulty accessing online services at major US banks | 135 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
-| 9 | Waymo suspends freeway rides nationwide after California DMV order | 134 | Confirmed | 20 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
-| 10 | McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items | 130 | Confirmed | 10 | 5 | [Dexerto](https://www.dexerto.com/food/mcdonalds-reveals-home-alone-meal-with-pizza-flavored-fries-and-collectible-socks-3428779/) |
-| 11 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 126 | Confirmed | 12 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
-| 12 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 13 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
-| 13 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 112 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
-| 14 | US officially loses measles elimination status, PAHO says | 110 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
-| 15 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 110 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
-| 16 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 108 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
-| 17 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
-| 18 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 108 | Confirmed | 6 | 5 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
-| 19 | Apple hit by widespread outages as tech problems continue | 107 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
-| 20 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 106 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
-| 21 | Mamdani disbanding controversial NYPD unit | 105 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
-| 22 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 105 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
-| 23 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 104 | Developing | 2 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/paris-hilton-begs-lawmakers-to-pass-defiance-act-vows-not-to-stop-until-its-law/) |
-| 24 | Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More | 103 | Unverified | 1 | 6 | [Us Weekly](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/) |
-| 25 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 103 | Developing | 1 | 8 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
+| 8 | Waymo suspends freeway rides nationwide after California DMV order | 134 | Confirmed | 20 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
+| 9 | McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items | 130 | Confirmed | 10 | 5 | [Dexerto](https://www.dexerto.com/food/mcdonalds-reveals-home-alone-meal-with-pizza-flavored-fries-and-collectible-socks-3428779/) |
+| 10 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 126 | Confirmed | 12 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
+| 11 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 13 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
+| 12 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 112 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
+| 13 | US officially loses measles elimination status, PAHO says | 110 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
+| 14 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 110 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
+| 15 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 108 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
+| 16 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
+| 17 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 108 | Confirmed | 6 | 5 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
+| 18 | Apple hit by widespread outages as tech problems continue | 107 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
+| 19 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 106 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
+| 20 | Mamdani disbanding controversial NYPD unit | 105 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
+| 21 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 105 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
+| 22 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 104 | Developing | 2 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/paris-hilton-begs-lawmakers-to-pass-defiance-act-vows-not-to-stop-until-its-law/) |
+| 23 | Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More | 103 | Unverified | 1 | 6 | [Us Weekly](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/) |
+| 24 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 103 | Developing | 1 | 8 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
+| 25 | Bully judge punished over video of him screaming at courthouse worker after his computer crashed | 102 | Developing | 8 | 1 | [ABC13 Houston (TX)](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -40,6 +40,10 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 **Score** 210 · **Category** trending · **First seen** 2026-11-16 17:42 UTC · **Last update** 2026-11-18 16:58 UTC
 
 **Status** Confirmed · independent reports: 11 of 19 feeds · official: none · independent newsrooms: 8
+
+**Duplicates collapsed**: 8 of 19 feeds repeat the same report.
+
+> 19 feeds carry 11 independent reports (the rest are duplicates).
 
 Amazon founder and chairman Jeff Bezos revealed during a recent appearance at Semafor’s Silicon Valley & The World event that he was “heavily involved” in Amazon MGM casting Robert Pattinson as the next James Bond. Bezos said that because Bond is traditionally a star-making role, they were at first “slightly biased” against casting Pattinson because […]
 
@@ -77,7 +81,7 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 
 **Wire copies collapsed**: Associated Press ×5.
 
-> 8 of the 17 independent reports in the cluster cover related updates, not this headline. 28 feeds carry 17 independent reports (wire copies of Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original.
+> 8 of the 17 independent reports in the cluster cover related updates, not this headline. 28 feeds carry 17 independent reports (wire copies: Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original.
 
 Pope Leo wrapped up a historic visit to South America. He flew by helicopter to a mountainous area of Peru to celebrate Mass, where he once served as a missionary. Chris Livesay is traveling with the pontiff and has more.
 
@@ -110,7 +114,9 @@ Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a mi
 
 **Status** Confirmed · independent reports: 9 of 31 feeds · official: none · independent newsrooms: 7
 
-> 5 of the 14 independent reports in the cluster cover related updates, not this headline.
+**Duplicates collapsed**: 17 of 31 feeds repeat the same report.
+
+> 5 of the 14 independent reports in the cluster cover related updates, not this headline. 31 feeds carry 14 independent reports (the rest are duplicates).
 
 Nearly 50 years after launch, NASA's Voyager 1 probe will pass the one light-day mark on Nov. 18, a symbolic milestone for the agency's longest-running mission. Scientists reflect on the Voyager program's legacy and what comes next.
 
@@ -142,7 +148,9 @@ Lead: [Live Science — 'Out there, moving into the unknown': As Voyager 1 reach
 
 **Status** Confirmed · independent reports: 23 of 40 feeds · official: none · independent newsrooms: 20
 
-> 11 of the 34 independent reports in the cluster cover related updates, not this headline.
+**Duplicates collapsed**: 6 of 40 feeds repeat the same report.
+
+> 11 of the 34 independent reports in the cluster cover related updates, not this headline. 40 feeds carry 34 independent reports (the rest are duplicates).
 
 Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts Xi Jinping and Vladimir…
 
@@ -171,9 +179,13 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 
 ### 5. ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know
 
-**Score** 150 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
+**Score** 149 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
 
 **Status** Confirmed · independent reports: 11 of 22 feeds · official: none · independent newsrooms: 7
+
+**Duplicates collapsed**: 11 of 22 feeds repeat the same report.
+
+> 22 feeds carry 11 independent reports (the rest are duplicates).
 
 Government agencies and TV broadcasters are telling Americans not to be alarmed by a nationwide Emergency Alert System test taking place on Tuesday.
 
@@ -234,6 +246,8 @@ Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Jo
 
 **Status** Confirmed · independent reports: 6 of 13 feeds · official: none · independent newsrooms: 5
 
+**Duplicates collapsed**: 1 of 13 feeds repeat the same report.
+
 > 6 of the 12 independent reports in the cluster cover related updates, not this headline.
 
 Jensen Huang and Nvidia general counsel Tim Teter will officially testify before Congress in early December, lawmakers announced Tuesday. Why it matters: Lawmakers are seeking answers about whether Nvidia's powerful AI chips were compromised by Chinese intelligence and whether the company did enough to protect sensitive American technology. Huang and Teter will participate in transcribed, closed-door interviews with…
@@ -264,42 +278,7 @@ Lead: [The Verge — Congress wants to tighten export rules on AI chips after Nv
 - [@explainscience.ai](https://www.instagram.com/p/Dfw5I4KkhfP/) · 334 likes · 1 comments · 616 min before first report · The internet always delivers. The New York Times reports Jensen Huang had a second relationship, this time with Kimberly Powell, a Nvidia vice president who reports to him. Which reaction wins? Follow
 - [@movieshowtime](https://www.instagram.com/p/Df0YVWRHXRX/) · 122 likes · 0 comments · +2264 min after first report · Man 😭 A U.S. intelligence memo alleged Nvidia CEO Jensen Huang had a romantic relationship with a tech executive believed to have been recruited by China's Ministry of State Security, per the Financia
 
-### 8. Customers report difficulty accessing online services at major US banks
-
-**Score** 135 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-17 17:45 UTC
-
-**Status** Confirmed · independent reports: 7 of 18 feeds · official: none · independent newsrooms: 4
-
-> 9 of the 16 independent reports in the cluster cover related updates, not this headline.
-
-Thousands of customers at some of the nation's largest banks reported difficulty accessing their online accounts and the money transfer service Zelle on Monday. Downdetector.com showed issues were reported by customers trying to access Chase, Bank of America, U.S. Bank, Wells Fargo and Zelle online. A Chase spokesperson said, "JPMorganChase has experienced a temporary issue [...]
-
-Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Reporting Outages](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/)
-
-**Where it was published**
-
-- 2026-11-16 18:20 UTC · TMZ · [Chase, Bank of America, Wells Fargo and U.S. Bank Users All Reporting Outages](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/)
-- 2026-11-16 18:32 UTC · New York Post · [Chase, Bank of America and Wells Fargo customers report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
-- 2026-11-16 18:32 UTC · Daily Mail US · [Widespread banking outage at Chase, Bank of America and Wells Fargo as customers are locked out of their accounts](https://www.dailymail.com/news/article-16297371/chase-bank-america-wells-fargo-accounts-down.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-16 18:38 UTC · Newsweek · [Are Chase, Wells Fargo Down? Latest Update on Bank Outages](https://www.newsweek.com/are-chase-wells-fargo-down-latest-update-on-bank-outages-12722872)
-- 2026-11-16 18:54 UTC · WCPO Cincinnati (OH) · [Technical issue at JPMorgan Chase triggers online delays for other major banks](https://www.wcpo.com/us-news/customers-at-some-of-the-nations-largest-banks-are-reporting-difficulty-accessing-accounts-online)
-- 2026-11-16 19:07 UTC · KTLA (CA) · [Customers at Chase, other banks report difficulty accessing accounts online](https://ktla.com/news/nationworld/bank-outage-chase-bank-of-america/)
-- 2026-11-16 19:09 UTC · WGN (IL) · [Chase says 'software bug' disrupted online banking for major US banks](https://wgntv.com/news/customers-of-major-us-banks-report-online-outages/)
-- 2026-11-16 19:32 UTC · NBC News · [Chase says transactions back to normal after outage online and at some branches](https://www.nbcnews.com/business/consumer/outages-chase-banking-online-branches-rcna609673)
-- 2026-11-16 20:59 UTC · The Hill · [Chase, Bank of America, Wells Fargo customers report trouble accessing accounts](https://thehill.com/policy/technology/6223551-chase-wells-fargo-boa-access-problems/)
-- 2026-11-16 22:01 UTC · Guardian US · [Customers report difficulty accessing online services at major US banks](https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo)
-- 2026-11-16 22:08 UTC · ABC7 LA (CA) · [A technical issue at JPMorgan Chase triggers online banking delays across major US banks](https://abc7.com/post/customers-nations-largest-banks-are-reporting-difficulty-accessing-accounts-online/20045188/)
-- 2026-11-16 23:30 UTC · CBS News · [11/16: CBS Evening News](https://www.cbsnews.com/video/111626-cbs-evening-news/)
-
-**Who posted it on Instagram** (5 pages, 71,397 likes, 5 posts)
-
-- [@pubity](https://www.instagram.com/p/Df0YsfZjSHH/) · 34,660 likes · 1,306 comments · +224 min after first report · Several major U.S. banks are dealing with reported outages, leaving customers struggling to access their accounts. 👀 Chase, Wells Fargo, Bank of America, and Truist customers have reported issues with
-- [@theneighborhoodtalk](https://www.instagram.com/p/Df0HlJLx0rC/) · 15,859 likes · 2,487 comments · +75 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, customers at Chase, Bank of America, Capital One and Wells Fargo began reporting outages, with some saying they’re unable to access their banking
-- [@dailymail](https://www.instagram.com/p/Df0IVifkrRh/) · 11,702 likes · 598 comments · +82 min after first report · Americans have been locked out of their accounts as Chase, Bank of America and Wells Fargo are all experiencing outages - just three days after major service failures at Microsoft and the Federal Avia
-- [@hollywoodunlocked](https://www.instagram.com/p/Df2PeFcKZqe/) · 7,299 likes · 1,312 comments · +1263 min after first report · HU Staff: Kecia Gayle @kecia.kae Between the Microsoft meltdown, the grounded planes and the banking apps acting brand new, it’s safe to say a lot of folks are concerned. But on Monday night, Vice Pre
-- [@onlyindade](https://www.instagram.com/p/Df0hSXMoYU8/) · 1,877 likes · 88 comments · +299 min after first report · Did you have issues with your bank account today?💰👀\| #ONLYinDADE *🗞️ Customers of Chase, Bank of America, Wells Fargo and U.S. Bank reported issues accessing their accounts and completing transaction
-
-### 9. Waymo suspends freeway rides nationwide after California DMV order
+### 8. Waymo suspends freeway rides nationwide after California DMV order
 
 **Score** 134 · **State** CA · **First seen** 2026-11-17 19:38 UTC · **Last update** 2026-11-18 16:20 UTC
 
@@ -307,7 +286,7 @@ Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Repor
 
 **Wire copies collapsed**: Associated Press ×2.
 
-> 3 of the 10 independent reports in the cluster cover related updates, not this headline.
+> 3 of the 10 independent reports in the cluster cover related updates, not this headline. 20 feeds carry 10 independent reports (wire copies: Associated Press).
 
 California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th. The crackdown follows two recent high-profile Bay Area incidents, in which Waymo robotaxis drove into an active construction […]
 
@@ -332,13 +311,15 @@ Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways 
 
 - [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +964 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
 
-### 10. McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items
+### 9. McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items
 
 **Score** 130 · **Category** trending · **First seen** 2026-11-17 13:00 UTC · **Last update** 2026-11-18 16:24 UTC
 
 **Status** Confirmed · independent reports: 5 of 11 feeds · official: none · independent newsrooms: 4
 
-> 3 of the 8 independent reports in the cluster cover related updates, not this headline.
+**Duplicates collapsed**: 3 of 11 feeds repeat the same report.
+
+> 3 of the 8 independent reports in the cluster cover related updates, not this headline. 11 feeds carry 8 independent reports (the rest are duplicates).
 
 Kevin McAllister, the famous abandoned tyke from the popular “Home Alone” movies is back on screens — though probably not in the way anybody expected. Macaulay Culkin, the actor who played the role in the landmark 1990 film and its sequel, has revived a decidedly older version of the character in a new commercial for […]
 
@@ -366,13 +347,15 @@ Lead: [Dexerto — McDonald’s reveals Home Alone Meal with pizza-flavored frie
 - [@markets](https://www.instagram.com/p/Df2V5nNjp7x/) · 0 likes · 4 comments · 240 min before first report · Home Alone 2: Lost in New York is one of the most beloved Christmas movies ever, but some of its secrets might surprise even the biggest fans. From Macaulay Culkin earning a record breaking $4.5 milli
 - [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 948 comments · +432 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
 
-### 11. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
+### 10. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
 
 **Score** 126 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 15:14 UTC
 
 **Status** Confirmed · independent reports: 6 of 30 feeds · official: none · independent newsrooms: 3
 
-> 21 of the 27 independent reports in the cluster cover related updates, not this headline.
+**Duplicates collapsed**: 3 of 30 feeds repeat the same report.
+
+> 21 of the 27 independent reports in the cluster cover related updates, not this headline. 30 feeds carry 27 independent reports (the rest are duplicates).
 
 President Trump said Monday that he doesn’t take any responsibility for the Federal Aviation Administration’s nationwide ground stop last week, instead blaming the old equipment and past administrations. “I don’t take any responsibility,” he told reporters outside the White House before departing for Asia. “They did a great job — [Transportation] Secretary [Sean] Duffy —…
 
@@ -399,7 +382,7 @@ Lead: [9News Denver (CO) — 'Baffling to me': Aviation expert says FAA's explan
 - [@thedailyshow](https://www.instagram.com/reel/Df1WNW5A-6N/) · 5,031 likes · 74 comments · +1951 min after first report · @jonstewart on Sean Duffy blaming a router: "I can't even order a Crunchwrap Supreme without 2-factor authentication, but somehow, there's a 'Turn Off America' switch somewhere in f**kin Arkansas?"
 - [@nypost](https://www.instagram.com/p/DfxKR_bk9qq/) · 443 likes · 31 comments · 749 min before first report · Transportation Secretary Sean Duffy said that air travel disruptions caused by the FAA’s nationwide ground stop Friday should resolve by the end of the day Monday at the latest. Duffy offered an optim
 
-### 12. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
+### 11. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
 
 **Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 17:24 UTC
 
@@ -426,7 +409,7 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - [@wasted](https://www.instagram.com/p/Df2QniVh0jJ/) · 7,178 likes · 66 comments · +1571 min after first report · 🧐 Grand Theft Auto VI, developed and published by Rockstar Games, is the highly anticipated eighth main entry in the Grand Theft Auto series. Set in the fictional state of Leonida—a sun-soaked, satir
 - [@dexerto](https://www.instagram.com/p/DfzdNA2mxf9/) · 4,287 likes · 51 comments · +3 min after first report · Reddit user u/NakedSnake21 has gone viral for recreating the same photo with three generations of Grand Theft Auto, capturing 18 years of his life in three pictures. He first posed with GTA 4 in 2008 
 
-### 13. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
+### 12. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
 
 **Score** 112 · **First seen** 2026-11-18 00:40 UTC · **Last update** 2026-11-18 16:48 UTC
 
@@ -449,13 +432,15 @@ Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth abou
 - [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,054 likes · 934 comments · 1739 min before first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
 - [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · 1556 min before first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
 
-### 14. US officially loses measles elimination status, PAHO says
+### 13. US officially loses measles elimination status, PAHO says
 
 **Score** 110 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
 
 **Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 6
 
-> 5 of the 12 independent reports in the cluster cover related updates, not this headline.
+**Duplicates collapsed**: 7 of 19 feeds repeat the same report.
+
+> 5 of the 12 independent reports in the cluster cover related updates, not this headline. 19 feeds carry 12 independent reports (the rest are duplicates).
 
 The U.S. on Tuesday officially lost its measles elimination status for the first time since it gained this distinction more than 25 years ago, with a count of more than 7,700 cases in the past two years and more than 10 deaths reported by states since 2025. The Pan American Health Organization (PAHO) made the [...]
 
@@ -480,7 +465,7 @@ Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threa
 
 - [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 433 likes · 95 comments · +3090 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
 
-### 15. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
+### 14. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
 
 **Score** 110 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-18 10:43 UTC
 
@@ -504,7 +489,7 @@ Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tir
 - [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 7,998 likes · 28 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
 - [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 16 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
 
-### 16. Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album
+### 15. Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album
 
 **Score** 108 · **Category** trending · **First seen** 2026-11-17 06:56 UTC · **Last update** 2026-11-18 00:38 UTC
 
@@ -528,7 +513,7 @@ Lead: [Just Jared — Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy N
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 980 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
 - [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · +489 min after first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
 
-### 17. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
+### 16. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
 
 **Score** 108 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 16:45 UTC
 
@@ -561,7 +546,7 @@ Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s 
 - [@nypost](https://www.instagram.com/p/Df0vPJHsZy4/) · 3,883 likes · 31 comments · +862 min after first report · The Empire State Building is shining red in celebration of the New York Post’s 225th anniversary!🗽 Founded by Alexander Hamilton in 1801, the Post has been part of New York City’s story for more than 
 - [@pagesix](https://www.instagram.com/p/Df0JgnIt00m/) · 3,065 likes · 315 comments · +533 min after first report · Martha Stewart and Gov. Kathy Hochul join Editor-in-Chief Keith Poole to light the Empire State Building for New York Post’s 225 Anniversary 🗞️
 
-### 18. David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions
+### 17. David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions
 
 **Score** 108 · **Category** trending · **First seen** 2026-11-17 02:57 UTC · **Last update** 2026-11-17 23:45 UTC
 
@@ -588,7 +573,7 @@ Lead: [Page Six — ‘The Further Mis-Adventures of Cliff Booth’ LA premiere 
 - [@imax](https://www.instagram.com/p/Df2zAfJGiDV/) · 1,723 likes · 11 comments · +1054 min after first report · Word on the street? Cliff Booth is back and turning heads. See THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH first only in IMAX November 25. Get tickets now at the link in bio.
 - [@pagesix](https://www.instagram.com/p/Df2XYYdE6Nh/) · 360 likes · 6 comments · +933 min after first report · Brad Pitt just gave an "Ocean's 14" production update 👀 📸: Getty, 🎤: comments via Variety/X
 
-### 19. Apple hit by widespread outages as tech problems continue
+### 18. Apple hit by widespread outages as tech problems continue
 
 **Score** 107 · **Category** weather · **First seen** 2026-11-17 15:45 UTC · **Last update** 2026-11-18 02:17 UTC
 
@@ -616,11 +601,15 @@ Lead: [Engadget — How to sideload apps on iOS (even if you're in the US)](http
 - [@dailymail](https://www.instagram.com/p/Df2mEWsglYo/) · 43,733 likes · 1,228 comments · +174 min after first report · Apple has been hit by a widespread outage, leaving some iPhone users unable to access their accounts. The tech giant’s system status page flagged a problem with ‘iCloud Account & Sign In,’ warning: ‘A
 - [@nypost](https://www.instagram.com/p/Df2jBwjE_0_/) · 6,752 likes · 276 comments · +148 min after first report · BREAKING: Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdete
 
-### 20. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
+### 19. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
 
 **Score** 106 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-18 13:07 UTC
 
 **Status** Confirmed · independent reports: 19 of 25 feeds · official: none · independent newsrooms: 2
+
+**Duplicates collapsed**: 6 of 25 feeds repeat the same report.
+
+> 25 feeds carry 19 independent reports (the rest are duplicates).
 
 Saturday Night Live alum Heidi Gardner‘s boyfriend, filmmaker Ray Tintori, has reportedly died. He was 43. The New York City Office of Chief Medical Examiner confirmed to TMZ on Monday, November 16, that Tintori’s death is currently under investigation. A cause of death has not yet been determined by investigators. Us has reached out to […]
 
@@ -645,7 +634,7 @@ Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.
 
 - [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
 
-### 21. Mamdani disbanding controversial NYPD unit
+### 20. Mamdani disbanding controversial NYPD unit
 
 **Score** 105 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 16:00 UTC
 
@@ -676,11 +665,15 @@ Lead: [ABC7 NY (NY) — Exclusive: Mayor Mamdani, Commissioner Tisch on disbandi
 
 - [@dailymail](https://www.instagram.com/p/DfzR62QE3YM/) · 10,959 likes · 488 comments · +45 min after first report · New York City Mayor Zohran Mamdani is launching a two-day video game development competition, NYC Game Jam, challenging young New Yorkers to create an original game in just 48 hours. Participants will
 
-### 22. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
+### 21. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
 
 **Score** 105 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-18 01:17 UTC
 
 **Status** Confirmed · independent reports: 3 of 7 feeds · official: none · independent newsrooms: 3
+
+**Duplicates collapsed**: 4 of 7 feeds repeat the same report.
+
+> 7 feeds carry 3 independent reports (the rest are duplicates).
 
 The 2027 Grammy nominations are in, with Raye leading the pack at 11 nods and women dominating the top categories. Which nominees stood out to you this year?
 
@@ -701,7 +694,7 @@ Lead: [WCPO Cincinnati (OH) — Raye leads 2027 Grammy nominations, followed by 
 - [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · +60 min after first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 39 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
 
-### 23. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
+### 22. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
 
 **Score** 104 · **Category** trending · **First seen** 2026-11-17 23:46 UTC · **Last update** 2026-11-18 11:00 UTC
 
@@ -722,7 +715,7 @@ Lead: [New York Post — Paris Hilton and AOC team up in Capitol crusade to stop
 
 - [@npr](https://www.instagram.com/reel/Df3NnmSlQF9/) · 32,819 likes · 587 comments · +41 min after first report · When Paris Hilton (@parishilton) was 19, her ex-boyfriend shared an intimate video of her without her consent.⁠ ⁠ More than two decades later, Hilton says she’s being revictimized as her image now spr
 
-### 24. Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More
+### 23. Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More
 
 **Score** 103 · **Category** trending · **First seen** 2026-11-17 01:18 UTC · **Last update** 2026-11-18 04:45 UTC
 
@@ -747,7 +740,7 @@ Lead: [Us Weekly — Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 643 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
 - [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · +826 min after first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
 
-### 25. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
+### 24. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
 
 **Score** 103 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-18 14:37 UTC
 
@@ -771,6 +764,39 @@ Lead: [Deadline — Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4,
 - [@nypost](https://www.instagram.com/p/DfzrnDQEyR8/) · 6,504 likes · 148 comments · 1087 min before first report · Johnny Depp turns to the Bahamas to experience a private life. During an interview with the Wall Street Journal, Depp opened up about craving privacy and not being able to have it in the United States
 - [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +765 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
 - [@clips](https://www.instagram.com/p/Df3P1owKr_o/) · 385 likes · 6 comments · +788 min after first report · The Wolf of Wall Street (2013) tells the story of Jordan Belfort, played by Leonardo DiCaprio, a stockbroker who builds a massive fortune through corruption, fraud, extravagant parties, and outrageous
+
+### 25. Bully judge punished over video of him screaming at courthouse worker after his computer crashed
+
+**Score** 102 · **Category** accidents · **First seen** 2026-11-16 17:45 UTC · **Last update** 2026-11-18 06:44 UTC
+
+**Status** Developing · independent reports: 2 of 12 feeds · official: none · independent newsrooms: 1
+
+**Duplicates collapsed**: 5 of 12 feeds repeat the same report.
+
+> 2 independent reports only; details may still change. 5 of the 7 independent reports in the cluster cover related updates, not this headline. 12 feeds carry 7 independent reports (the rest are duplicates).
+
+The Harris County Precinct 1 Constable's Office said it is searching for a suspect after 41 birds were rescued from a north Houston home in a cock-fighting investigation.
+
+Lead: [ABC13 Houston (TX) — Texas officials issue warning to Harris County judge from viral video of confrontation with IT tech](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/)
+
+**Where it was published**
+
+- 2026-11-16 17:45 UTC · ABC13 Houston (TX) · [Texas officials issue warning to Harris County judge from viral video of confrontation with IT tech](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/)
+- 2026-11-17 10:24 UTC · KHOU (TX) · [8-month-old recovering after shooting at Harris County apartment, deputies say](https://www.khou.com/article/news/local/crossroads-park-drive-apartment-infant-shot-accidental/285-d0ed7a2d-243a-4b1c-8f25-c7f036c21324)
+- 2026-11-17 19:15 UTC · Daily Mail US · [Bully judge punished over video of him screaming at courthouse worker after his computer crashed](https://www.dailymail.com/news/article-16299703/Bully-judge-punished-video-screaming-courthouse-worker-computer-crashed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 20:24 UTC · ABC13 Houston (TX) · [41 birds rescued from north Houston home in cock-fighting investigation, suspect search underway, Harris County Precinct 1 Constable's Office says](https://abc13.com/story/41-birds-rescued-north-houston-home-cock-fighting-investigation-suspect-search-underway-harris-county-precinct-1-constables-office-says/20048626/)
+- 2026-11-17 21:00 UTC · ABC7 LA (CA) · [Texas officials issue warning to Harris County Judge Nathan Milliron from viral video of confrontation with IT tech](https://abc7.com/story/texas-officials-issue-warning-harris-county-judge-nathan-milliron-viral-video-confrontation-tech/20048798/)
+- 2026-11-17 21:00 UTC · ABC13 Houston (TX) · [Texas officials issue warning to Harris County Judge Nathan Milliron from viral video of confrontation with IT tech](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-nathan-milliron-viral-video-confrontation-tech/20048798/)
+- 2026-11-17 21:00 UTC · ABC7 NY (NY) · [Texas officials issue warning to Harris County Judge Nathan Milliron from viral video of confrontation with IT tech](https://abc7ny.com/story/texas-officials-issue-warning-harris-county-judge-nathan-milliron-viral-video-confrontation-tech/20048798/)
+- 2026-11-17 21:00 UTC · ABC7 Chicago (IL) · [Texas officials issue warning to Harris County Judge Nathan Milliron from viral video of confrontation with IT tech](https://abc7chicago.com/story/texas-officials-issue-warning-harris-county-judge-nathan-milliron-viral-video-confrontation-tech/20048798/)
+- 2026-11-17 21:00 UTC · 6abc Philly (PA) · [Texas officials issue warning to Harris County Judge Nathan Milliron from viral video of confrontation with IT tech](https://6abc.com/story/texas-officials-issue-warning-harris-county-judge-nathan-milliron-viral-video-confrontation-tech/20048798/)
+- 2026-11-17 23:33 UTC · ABC13 Houston (TX) · [Timmy Chan's restaurant closed for several days after thieves stole copper wire from business](https://abc13.com/post/timmy-chans-restaurant-closed-several-days-thieves-stole-copper-wire-business-manager-says/20049149/)
+- 2026-11-18 01:50 UTC · ABC13 Houston (TX) · [12-year-old injured in electric dirt bike crash in north Harris County, Precinct 4 deputies say](https://abc13.com/post/child-injured-electric-dirt-bike-crash-earlmist-drive-north-harris-county-precinct-4-deputies-say/20049498/)
+- 2026-11-18 06:44 UTC · New York Post · [Hot-headed Texas judge issued public warning for tearing into IT worker in viral meltdown](https://nypost.com/2026/11/18/us-news/judge-nathan-milliron-issued-public-warning-by-texas-state-commission-on-judicial-conduct-after-viral-it-worker-video/)
+
+**Who posted it on Instagram** (1 pages, 8,820 likes, 1 posts)
+
+- [@theneighborhoodtalk](https://www.instagram.com/p/Df21zzaMwPW/) · 8,820 likes · 1,093 comments · +1632 min after first report · TNHT Staff: @fashionswarrior _________ Neighbors, things got so heated in a Georgia courtroom that a prosecutor challenged Brian Steel to take it outside by the courthouse Christmas tree! According to
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).

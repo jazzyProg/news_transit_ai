@@ -80,7 +80,8 @@
                 "feeds": {"type": "integer", "minimum": 0},
                 "independent": {"type": "integer", "minimum": 0, "description": "Independent reports in the cluster."},
                 "matching": {"type": "integer", "minimum": 0, "description": "Independent reports matching this headline."},
-                "collapsed_copies": {"type": "integer", "minimum": 0},
+                "collapsed_copies": {"type": "integer", "minimum": 0,
+                                     "description": "Feeds that repeat another feed's report of the same event."},
                 "wire_groups": {
                   "type": "array",
                   "items": {"type": "object", "properties": {
