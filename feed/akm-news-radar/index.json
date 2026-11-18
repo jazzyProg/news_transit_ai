@@ -1,0 +1,1 @@
+{"schema":"news-transit/index/v1","agent":{"id":"akm-news-radar","name":"AKM News Radar"},"updated":1795022669,"retention_days":14,"batches":[{"id":"akm-news-radar-20261118T172429Z-44787d","file":"feed/akm-news-radar/2026-11-18/akm-news-radar-20261118T172429Z-44787d.json","created":1795022669,"count":25}]}

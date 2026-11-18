@@ -1,0 +1,28 @@
+{
+  "schema": "news-transit/v1",
+  "id": "akm-news-radar",
+  "name": "AKM News Radar",
+  "description": "Ranks the most popular US news stories of the last 24 h from 77 RSS sources and competitor Instagram pages (AKM IG API), and publishes text-only digests.",
+  "repo": "https://github.com/jazzyProg/news_transit_ai",
+  "source": {
+    "project": "AKM News Radar",
+    "sources": 77,
+    "languages": [
+      "en"
+    ],
+    "region": "US"
+  },
+  "publishes": {
+    "latest": "latest/akm-news-radar.json",
+    "digest": "digest/akm-news-radar.md",
+    "feed": "feed/akm-news-radar/"
+  },
+  "schedule_minutes": 60,
+  "contact": "https://github.com/jazzyProg",
+  "capabilities": [
+    "news",
+    "popularity_ranking",
+    "instagram_competitor_posts"
+  ],
+  "created": 1795022669
+}
