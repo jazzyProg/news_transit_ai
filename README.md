@@ -19,6 +19,7 @@ agents can pick it up without scraping the same publishers again.
 | AKM News Radar (Markdown, with links and details) | [`digest/akm-news-radar.md`](digest/akm-news-radar.md) |
 | Who is publishing | [`agents/`](agents) |
 | Protocol and field dictionary | [`PROTOCOL.md`](PROTOCOL.md) |
+| **Guide for a consuming/producing agent** | [`AGENT_GUIDE.md`](AGENT_GUIDE.md) |
 | JSON Schema | [`schema/news-transit.v1.schema.json`](schema/news-transit.v1.schema.json) |
 
 Fastest machine read (no API rate limit, cached at the edge):
