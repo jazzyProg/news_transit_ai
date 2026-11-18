@@ -1,34 +1,34 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 22:21 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 23:22 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
-| 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 225 | Confirmed | 21 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
-| 2 | NASA Voyager Reaches One Full Light Day From Earth | 192 | Confirmed | 21 | 2 | [NPR](https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space) |
-| 3 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 181 | Confirmed | 25 | 3 | [UPI Top](https://www.upi.com/Top_News/World-News/2026/11/15/latam-peru-pope-day-four/1671794780191/) |
-| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 159 | Confirmed | 17 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
-| 5 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 149 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
-| 6 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 148 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
-| 7 | Customers report difficulty accessing online services at major US banks | 144 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
-| 8 | Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer] | 141 | Unverified | 1 | 22 | [Bloody Disgusting](https://bloody-disgusting.com/?p=3975814) |
+| 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 226 | Confirmed | 21 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
+| 2 | NASA Voyager Reaches One Full Light Day From Earth | 188 | Confirmed | 20 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
+| 3 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 180 | Confirmed | 25 | 3 | [CBS News](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/) |
+| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 162 | Confirmed | 17 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
+| 5 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 148 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
+| 6 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 147 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
+| 7 | Customers report difficulty accessing online services at major US banks | 143 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
+| 8 | Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer] | 140 | Unverified | 1 | 22 | [Bloody Disgusting](https://bloody-disgusting.com/?p=3975814) |
 | 9 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 134 | Confirmed | 14 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
 | 10 | Waymo suspends freeway rides nationwide after California DMV order | 130 | Confirmed | 19 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
-| 11 | Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’ | 126 | Developing | 3 | 6 | [NBC News](https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487) |
-| 12 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 14 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
-| 13 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 122 | Confirmed | 9 | 4 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
-| 14 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 114 | Confirmed | 6 | 5 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
-| 15 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 111 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
-| 16 | Miami Heat Reveal “Vice City” Court For GTA VI Game Release | 109 | Confirmed | 4 | 6 | [GameSpot](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/) |
-| 17 | US officially loses measles elimination status, PAHO says | 108 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
-| 18 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
-| 19 | Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards | 108 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/jennifer-lawrence-rocks-the-wet-hair-trend-for-wwds-beauty-inc-awards/) |
-| 20 | Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More | 107 | Unverified | 1 | 6 | [Us Weekly](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/) |
-| 21 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 107 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
-| 22 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 107 | Developing | 1 | 9 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
-| 23 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 106 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
-| 24 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 106 | Confirmed | 6 | 5 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
-| 25 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 106 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
+| 11 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 14 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
+| 12 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 121 | Confirmed | 9 | 4 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
+| 13 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 113 | Confirmed | 6 | 5 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
+| 14 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 111 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
+| 15 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 110 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
+| 16 | US officially loses measles elimination status, PAHO says | 108 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
+| 17 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
+| 18 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 108 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
+| 19 | Caitlin Clark reveals what made Taylor Swift ‘nervous’ during Chiefs game | 107 | Confirmed | 1 | 6 | [Yahoo Sports](https://sports.yahoo.com/articles/linda-cohn-uses-taylor-swift-115628730.html) |
+| 20 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 107 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
+| 21 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 107 | Developing | 1 | 9 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
+| 22 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 106 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
+| 23 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 106 | Confirmed | 6 | 5 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
+| 24 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 106 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
+| 25 | Apple hit by widespread outages as tech problems continue | 105 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -37,7 +37,7 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 
 ### 1. Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos
 
-**Score** 225 · **Category** trending · **First seen** 2026-11-16 17:42 UTC · **Last update** 2026-11-18 19:17 UTC
+**Score** 226 · **Category** trending · **First seen** 2026-11-16 17:42 UTC · **Last update** 2026-11-18 22:58 UTC
 
 **Status** Confirmed · independent reports: 11 of 23 feeds · official: none · independent newsrooms: 8
 
@@ -82,28 +82,26 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 
 ### 2. NASA Voyager Reaches One Full Light Day From Earth
 
-**Score** 192 · **First seen** 2026-11-15 22:41 UTC · **Last update** 2026-11-18 21:31 UTC
+**Score** 188 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-18 21:31 UTC
 
-**Status** Confirmed · independent reports: 9 of 23 feeds · official: none · independent newsrooms: 7
+**Status** Confirmed · independent reports: 9 of 22 feeds · official: none · independent newsrooms: 7
 
-**Duplicates collapsed**: 9 of 23 feeds repeat the same report.
+**Duplicates collapsed**: 9 of 22 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- NASA launched the Voyager 1 space probe in 1977. — support: 5
-- Voyager 1 is the furthest man-made object from Earth. — support: 1
-- Voyager 1 is reaching a distance of 1 light-day from Earth. — support: 5
-- Voyager 1 is reaching a distance of 16 billion miles from Earth. — support: 1
+- NASA launched the Voyager 1 space probe in 1977 — support: 6
+- Voyager 1 will reach a distance of one light-day from Earth — support: 6
+- Voyager 1 will reach the one light-day milestone on November 18 — support: 1
 
-> 5 of the 14 independent reports in the cluster cover related updates, not this headline. 23 feeds carry 14 independent reports (the rest are duplicates). Reports provide different metrics for the distance of Voyager 1 from Earth, citing either 16 billion miles or 1 light-day. 2 key claims stated by a single report: “Voyager 1 is the furthest man-made object from Earth.”; “Voyager 1 is reaching a distance of 16 billion miles from Earth.”
+> 4 of the 13 independent reports in the cluster cover related updates, not this headline. 22 feeds carry 13 independent reports (the rest are duplicates). Report 6 specifies the date of the milestone as November 18 while reports 1 through 5 do not provide a date. 1 key claim stated by a single report: “Voyager 1 will reach the one light-day milestone on November 18”
 
-NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.
+In 1977, NASA launched Voyager 1, a robotic space probe built to explore the farthest reaches of our solar system.
 
-Lead: [NPR — Far from home. Voyager 1 is now farther than anything man has sent into space](https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space)
+Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
 
 **Where it was published**
 
-- 2026-11-15 22:41 UTC · NPR · [Far from home. Voyager 1 is now farther than anything man has sent into space](https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space)
 - 2026-11-17 12:14 UTC · ABC13 Houston (TX) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
 - 2026-11-17 12:14 UTC · ABC7 NY (NY) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7ny.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
 - 2026-11-17 12:14 UTC · ABC7 Chicago (IL) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7chicago.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
@@ -115,36 +113,36 @@ Lead: [NPR — Far from home. Voyager 1 is now farther than anything man has sen
 - 2026-11-17 21:37 UTC · KING5 Seattle (WA) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 18](https://www.king5.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-18/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
 - 2026-11-17 21:37 UTC · 9News Denver (CO) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 18](https://www.9news.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-18/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
 - 2026-11-18 11:49 UTC · Engadget · [NASA's Voyager 1 space probe is now one light-day away from Earth](https://www.engadget.com/2320267/nasa-voyager-1-space-probe-one-light-day-away-from-earth/)
+- 2026-11-18 12:03 UTC · The Verge · [NASA’s Voyager 1 probe is now one light-day away](https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone)
 
 **Who posted it on Instagram** (2 pages, 24,409 likes, 2 posts)
 
-- [@complex](https://www.instagram.com/p/DfzMyC0pWsr/) · 15,862 likes · 367 comments · +739 min after first report · The Moon is slowly leaving us. 🌕🌎 According to NASA, the Moon moves about 1.5 inches farther away from Earth every year. Scientists have been tracking this movement for decades using lasers reflected 
-- [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · +1224 min after first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
+- [@complex](https://www.instagram.com/p/DfzMyC0pWsr/) · 15,862 likes · 367 comments · 1514 min before first report · The Moon is slowly leaving us. 🌕🌎 According to NASA, the Moon moves about 1.5 inches farther away from Earth every year. Scientists have been tracking this movement for decades using lasers reflected 
+- [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · 1029 min before first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
 
 ### 3. A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city
 
-**Score** 181 · **First seen** 2026-11-15 23:11 UTC · **Last update** 2026-11-18 14:08 UTC
+**Score** 180 · **First seen** 2026-11-16 01:55 UTC · **Last update** 2026-11-18 14:08 UTC
 
-**Status** Confirmed · independent reports: 10 of 29 feeds · official: none · independent newsrooms: 10
+**Status** Confirmed · independent reports: 9 of 28 feeds · official: none · independent newsrooms: 9
 
 **Wire copies collapsed**: Associated Press ×5.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Pope Leo XIV is currently on an apostolic journey in Peru. — support: 6
-- Pope Leo XIV visited a home for older residents run by Catholic sisters in a Peruvian port city. — support: 3
+- Pope Leo is visiting Peru as part of a tour of South America. — support: 6
+- The Pope is visiting a home for older residents in a Peruvian port city run by Catholic sisters. — support: 4
 - Pope Leo criticized wealthy individuals seeking immortality while others suffer from poverty. — support: 1
-- Pope Leo XIV traveled from the Andes to the Amazon on the fourth day of his visit. — support: 1
+- Biohacker Bryan Johnson responded to the Pope's comments on X. — support: 1
 
-> 8 of the 18 independent reports in the cluster cover related updates, not this headline. 29 feeds carry 18 independent reports (wire copies: Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. Reports provide different details regarding the specific locations and activities of the Pope's visit. 2 key claims stated by a single report: “Pope Leo criticized wealthy individuals seeking immortality while othe”; “Pope Leo XIV traveled from the Andes to the Amazon on the fourth day o”
+> 8 of the 17 independent reports in the cluster cover related updates, not this headline. 28 feeds carry 17 independent reports (wire copies: Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. Reports disagree on the name of the Pope, referring to him as either Pope Leo or Pope Leo XIV. 2 key claims stated by a single report: “Pope Leo criticized wealthy individuals seeking immortality while othe”; “Biohacker Bryan Johnson responded to the Pope's comments on X.”
 
 Pope Leo wrapped up a historic visit to South America. He flew by helicopter to a mountainous area of Peru to celebrate Mass, where he once served as a missionary. Chris Livesay is traveling with the pontiff and has more.
 
-Lead: [UPI Top — Pope Leo XIV travels from Andes to Amazon on Day 4 of Peruvian visit](https://www.upi.com/Top_News/World-News/2026/11/15/latam-peru-pope-day-four/1671794780191/)
+Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a missionary, bishop](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/)
 
 **Where it was published**
 
-- 2026-11-15 23:11 UTC · UPI Top · [Pope Leo XIV travels from Andes to Amazon on Day 4 of Peruvian visit](https://www.upi.com/Top_News/World-News/2026/11/15/latam-peru-pope-day-four/1671794780191/)
 - 2026-11-16 01:55 UTC · CBS News · [Pope Leo revisits Peruvian city where he once served as a missionary, bishop](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/)
 - 2026-11-16 11:21 UTC · Daily Star Weird · [Biohacker Bryan Johnson hits back after Pope slams rich tech bros trying to cheat death](https://www.dailystar.co.uk/news/latest-news/biohacker-bryan-johnson-hits-back-37880882)
 - 2026-11-16 12:21 UTC · ABC7 LA (CA) · [A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city](https://abc7.com/story/home-older-residents-eagerly-awaits-pope-leo-xivs-return-peruvian-port-city/20044167/)
@@ -156,29 +154,30 @@ Lead: [UPI Top — Pope Leo XIV travels from Andes to Amazon on Day 4 of Peruvia
 - 2026-11-16 20:17 UTC · WCPO Cincinnati (OH) · [Pope bids 'hasta luego' to his second homeland of Peru as he wraps up marathon South American trip](https://www.wcpo.com/life/faith-and-religion/pope-bids-hasta-luego-to-his-second-homeland-of-peru-as-he-wraps-up-marathon-south-american-trip)
 - 2026-11-16 21:12 UTC · BBC US & Canada · [Pope Leo hit by flying rosary while waving to crowds in Peru](https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss)
 - 2026-11-17 00:23 UTC · KHOU (TX) · [Pope Leo gets hit in face with rosary while wrapping marathon South America trip](https://www.khou.com/article/news/nation-world/pope-leo-hit-in-face-rosary-south-america-trip/507-415bf1c7-1706-48e1-9fba-67d3639411ed)
+- 2026-11-17 00:23 UTC · WFAA Dallas (TX) · [Pope Leo gets hit in face with rosary while wrapping marathon South America trip](https://www.wfaa.com/article/news/nation-world/pope-leo-hit-in-face-rosary-south-america-trip/507-415bf1c7-1706-48e1-9fba-67d3639411ed)
 
 **Who posted it on Instagram** (3 pages, 180,570 likes, 4 posts)
 
-- [@nugget](https://www.instagram.com/p/Df0KPEaIm3E/) · 167,312 likes · 283 comments · +1246 min after first report · photo of a young Pope Leo XIV celebrating his 40th birthday in 1995 has resurfaced, showing him years before becoming the leader of the Catholic Church. Born Robert Francis Prevost in Chicago, he spen
-- [@dailymail](https://www.instagram.com/p/DfzDRnCgU54/) · 5,428 likes · 101 comments · +626 min after first report · Pope Leo was greeted by children as he arrived at the Shrine of St Tiribius in Peru. A group of young children ran towards the Pope before surrounding him with open arms to hug the pontiff. #peru #pop
-- [@nypost](https://www.instagram.com/p/Df0mjqjjxFz/) · 2,830 likes · 196 comments · +1533 min after first report · Pope Leo’s run of successfully catching items tossed to him by crowds came to an end, as what appeared to be a rosary thrown in his direction struck him near the eye.
+- [@nugget](https://www.instagram.com/p/Df0KPEaIm3E/) · 167,312 likes · 283 comments · +1083 min after first report · photo of a young Pope Leo XIV celebrating his 40th birthday in 1995 has resurfaced, showing him years before becoming the leader of the Catholic Church. Born Robert Francis Prevost in Chicago, he spen
+- [@dailymail](https://www.instagram.com/p/DfzDRnCgU54/) · 5,428 likes · 101 comments · +463 min after first report · Pope Leo was greeted by children as he arrived at the Shrine of St Tiribius in Peru. A group of young children ran towards the Pope before surrounding him with open arms to hug the pontiff. #peru #pop
+- [@nypost](https://www.instagram.com/p/Df0mjqjjxFz/) · 2,830 likes · 196 comments · +1370 min after first report · Pope Leo’s run of successfully catching items tossed to him by crowds came to an end, as what appeared to be a rosary thrown in his direction struck him near the eye.
 
 ### 4. Trump heads to Asia ahead of high-stakes meeting with Xi and Putin
 
-**Score** 159 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 20:33 UTC
+**Score** 162 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 23:09 UTC
 
-**Status** Confirmed · independent reports: 23 of 42 feeds · official: none · independent newsrooms: 20
+**Status** Confirmed · independent reports: 23 of 53 feeds · official: none · independent newsrooms: 20
 
-**Duplicates collapsed**: 6 of 42 feeds repeat the same report.
+**Wire copies collapsed**: Associated Press ×6.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
 - President Donald Trump is traveling to Asia for a series of meetings with world leaders. — support: 6
-- President Trump is scheduled to meet with Russian President Vladimir Putin and Chinese President Xi Jinping. — support: 5
+- President Trump is scheduled to meet with Russian President Vladimir Putin and Chinese President Xi Jinping. — support: 4
 - President Trump departed for his Asia trip on Monday. — support: 1
-- The trip includes a potential meeting with North Korean leader Kim Jong Un. — support: 2
+- Air Force One diverted its refueling stop in Alaska from Anchorage to Fairbanks due to weather. — support: 1
 
-> 13 of the 36 independent reports in the cluster cover related updates, not this headline. 42 feeds carry 36 independent reports (the rest are duplicates). 1 key claim stated by a single report: “President Trump departed for his Asia trip on Monday.”
+> 20 of the 43 independent reports in the cluster cover related updates, not this headline. 53 feeds carry 43 independent reports (wire copies: Associated Press). Reports differ on the specific nature of the meetings, with some describing them as summits and others as three-way nuclear talks. 2 key claims stated by a single report: “President Trump departed for his Asia trip on Monday.”; “Air Force One diverted its refueling stop in Alaska from Anchorage to ”
 
 Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts Xi Jinping and Vladimir…
 
@@ -191,23 +190,23 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 - 2026-11-16 16:17 UTC · The Hill · [Live updates: Trump en route to Asia; Nvdia scandal, national groundstop fallout loom large](https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/)
 - 2026-11-16 16:20 UTC · CBS News · [Trump praises Duffy after FAA ground stop, says he wouldn't mind if Jensen Huang returns to Nvidia](https://www.cbsnews.com/video/trump-praises-duffy-after-faa-ground-stop-says-he-wouldnt-mind-if-jensen-huang-returns-to-nvidia/)
 - 2026-11-16 16:24 UTC · WSVN Miami (FL) · [Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting](https://wsvn.com/news/politics/trump-asia-trip-china-russia/)
+- 2026-11-16 23:48 UTC · Fox News · [Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change)
+- 2026-11-17 00:17 UTC · Daily Mail US · [Qatari-gifted Air Force One carrying Trump to Asia makes unplanned diversion in Alaska amid 'extreme' weather conditions... with old presidential jet on its tail](https://www.dailymail.com/news/article-16297935/qatari-air-force-one-diverted-refueling-weather.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 - 2026-11-17 00:43 UTC · CBS News · [Trump traveling to China amid Nvidia scandal fallout](https://www.cbsnews.com/video/trump-traveling-china-amid-nvidia-scandal-fallout/)
 - 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
 - 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
 - 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
 - 2026-11-17 10:17 UTC · New York Post · [Trump arrives in Philippines to kick off Asia trip ahead of historic three-way nuclear talks with Xi and Putin](https://nypost.com/2026/11/17/us-news/trump-arrives-in-philippines-to-kick-off-asia-trip-ahead-of-historic-three-way-nuclear-talks-with-xi-and-putin/)
-- 2026-11-17 10:43 UTC · NPR · [Trump arrives in Philippines to kick off Asia trip](https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines)
-- 2026-11-17 11:00 UTC · The Hill · [What Trump, Putin and Xi want from superpower summit](https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/)
 
-**Who posted it on Instagram** (3 pages, 9,632 likes, 3 posts)
+**Who posted it on Instagram** (3 pages, 12,510 likes, 4 posts)
 
 - [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,895 likes · 424 comments · +1694 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
 - [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +2149 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · +1925 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
+- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,059 likes · 934 comments · +520 min after first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
 
 ### 5. Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!
 
-**Score** 149 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 21:35 UTC
+**Score** 148 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 21:35 UTC
 
 **Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -244,7 +243,7 @@ Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Jo
 
 ### 6. ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know
 
-**Score** 148 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
+**Score** 147 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
 
 **Status** Confirmed · independent reports: 11 of 22 feeds · official: none · independent newsrooms: 7
 
@@ -285,7 +284,7 @@ Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert Syste
 
 ### 7. Customers report difficulty accessing online services at major US banks
 
-**Score** 144 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
+**Score** 143 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
 
 **Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 4
 
@@ -329,7 +328,7 @@ Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Repor
 
 ### 8. Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]
 
-**Score** 141 · **Category** trending · **First seen** 2026-11-16 16:30 UTC · **Last update** 2026-11-18 11:21 UTC
+**Score** 140 · **Category** trending · **First seen** 2026-11-16 16:30 UTC · **Last update** 2026-11-18 11:21 UTC
 
 **Status** Unverified · independent reports: 1 of 2 feeds · official: none · independent newsrooms: 0
 
@@ -444,56 +443,22 @@ Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways 
 
 - [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +964 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
 
-### 11. Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’
+### 11. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
 
-**Score** 126 · **First seen** 2026-11-15 23:12 UTC · **Last update** 2026-11-18 21:24 UTC
+**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 23:00 UTC
 
-**Status** Developing · independent reports: 2 of 4 feeds · official: none · independent newsrooms: 1
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- President Donald Trump is traveling to Asia. — support: 3
-- President Donald Trump is using a Qatari-gifted jet for his trip to Asia. — support: 3
-- The presidential jet made an unplanned refueling diversion in Alaska due to extreme weather. — support: 2
-- The flight diverted from Anchorage to Fairbanks for refueling. — support: 1
-
-> 2 independent reports only; details may still change. 2 of the 4 independent reports in the cluster cover related updates, not this headline. Reports 3 and 4 agree on a weather-related diversion in Alaska, but report 3 specifies the change was from Anchorage to Fairbanks. 1 key claim stated by a single report: “The flight diverted from Anchorage to Fairbanks for refueling.”
-
-President Donald Trump is expected to take the Qatari-gifted Air Force One to Asia on Monday as questions linger about upgrades the White House said were needed after a security threat from Iran forced the president to fly home from Turkey on a secret military plane in July, according to two U.S. officials.
-
-Lead: [NBC News — Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’](https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487)
-
-**Where it was published**
-
-- 2026-11-15 23:12 UTC · NBC News · [Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’](https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487)
-- 2026-11-16 16:18 UTC · Daily Mail US · [Trump blames old tech that had a 'heart attack' for FAA ground stop as he jets off to Asia on problematic Qatar-gifted jet amid security fears](https://www.dailymail.com/news/article-16296735/Trump-blames-old-tech-heart-attack-FAA-ground-stop-jets-Asia-problematic-Qatar-gifted-jet-amid-security-fears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-16 23:48 UTC · Fox News · [Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change)
-- 2026-11-17 00:17 UTC · Daily Mail US · [Qatari-gifted Air Force One carrying Trump to Asia makes unplanned diversion in Alaska amid 'extreme' weather conditions... with old presidential jet on its tail](https://www.dailymail.com/news/article-16297935/qatari-air-force-one-diverted-refueling-weather.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-
-**Who posted it on Instagram** (6 pages, 102,202 likes, 11 posts)
-
-- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · +1060 min after first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
-- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,760 likes · 2,410 comments · +2324 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
-- [@nypost](https://www.instagram.com/p/Df1785FGCbX/) · 2,860 likes · 267 comments · +2283 min after first report · President Trump said Tuesday that an alleged plot by Iran to detonate a so-called dirty bomb in Washington, DC, is being taken “very seriously” — all but confirming a report that US officials believe 
-- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +2858 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · +1218 min after first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
-- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · +1412 min after first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
-
-### 12. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
-
-**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 21:54 UTC
-
-**Status** Confirmed · independent reports: 5 of 5 feeds · official: none · independent newsrooms: 5
+**Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 6
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- The Miami Heat unveiled a Vice City themed basketball court and new uniforms. — support: 3
-- The Miami Heat are hosting an event called A Night in Vice City. — support: 2
-- The Grand Theft Auto VI video game is scheduled for release in two to three days. — support: 2
+- The Miami Heat unveiled a Vice City themed court and uniforms to promote the release of Grand Theft Auto VI — support: 4
+- The Miami Heat are hosting an event titled A Night in Vice City — support: 3
+- The release of Grand Theft Auto VI is imminent — support: 6
+- The game is set to launch in either two or three days — support: 2
 
-> Reports disagree on whether the game release is in two or three days.
+> Reports disagree on whether the game launches in two or three days.
 
-Some fans who came to South Florida to celebrate the release of “Grand Theft Auto: VI” have been enamored by the city’s cross-promotions with the...
+Legendary game franchise Grand Theft Auto has taken over South Florida ahead of its latest release, and all-day downpours aren’t keeping fans from the fun....
 
 Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of game’s highly anticipated release](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/)
 
@@ -504,6 +469,7 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - 2026-11-17 22:51 UTC · WSVN Miami (FL) · [Heat launch ‘GTA VI’-inspired merch ahead of ‘A Night in Vice City’ collaboration for global release](https://wsvn.com/entertainment/vice-city-night-miami-heat/)
 - 2026-11-17 23:08 UTC · PC Gamer · [Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game](https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game/)
 - 2026-11-18 03:59 UTC · WSVN Miami (FL) · [Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’](https://wsvn.com/entertainment/rockstar-games-vice-city-promotion/)
+- 2026-11-18 22:30 UTC · WSVN Miami (FL) · [Grand Theft Auto VI fans brave stormy weather for awaited ‘A Night in Vice City’ Heat event](https://wsvn.com/sports/miami-heat/grand-theft-auto-vi-fans-brave-stormy-weather-for-awaited-a-night-in-vice-city-heat-event/)
 
 **Who posted it on Instagram** (14 pages, 185,085 likes, 16 posts)
 
@@ -514,9 +480,9 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - [@wasted](https://www.instagram.com/p/Df2QniVh0jJ/) · 7,178 likes · 66 comments · +1571 min after first report · 🧐 Grand Theft Auto VI, developed and published by Rockstar Games, is the highly anticipated eighth main entry in the Grand Theft Auto series. Set in the fictional state of Leonida—a sun-soaked, satir
 - [@dexerto](https://www.instagram.com/p/DfzdNA2mxf9/) · 4,287 likes · 51 comments · +3 min after first report · Reddit user u/NakedSnake21 has gone viral for recreating the same photo with three generations of Grand Theft Auto, capturing 18 years of his life in three pictures. He first posed with GTA 4 in 2008 
 
-### 13. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
+### 12. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
 
-**Score** 122 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
+**Score** 121 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
 
 **Status** Confirmed · independent reports: 5 of 10 feeds · official: none · independent newsrooms: 3
 
@@ -554,9 +520,9 @@ Lead: [NBC News — Nvidia board does not intend to reinstate Jensen Huang, chai
 - [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +114 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
 - [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · 202 min before first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 
-### 14. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
+### 13. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
 
-**Score** 114 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-18 20:50 UTC
+**Score** 113 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-18 20:50 UTC
 
 **Status** Confirmed · independent reports: 2 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -591,9 +557,37 @@ Lead: [IGN — Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Me
 - [@markets](https://www.instagram.com/p/Df2V5nNjp7x/) · 0 likes · 4 comments · 443 min before first report · Home Alone 2: Lost in New York is one of the most beloved Christmas movies ever, but some of its secrets might surprise even the biggest fans. From Macaulay Culkin earning a record breaking $4.5 milli
 - [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 1,002 comments · +229 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
 
+### 14. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
+
+**Score** 111 · **First seen** 2026-11-18 00:40 UTC · **Last update** 2026-11-18 20:56 UTC
+
+**Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Karoline Leavitt appeared on Fox News on Tuesday morning. — support: 1
+- Karoline Leavitt stated that the White House is not providing full information regarding cyber chaos. — support: 1
+
+> One independent report so far; not independently confirmed. 2 key claims stated by a single report: “Karoline Leavitt appeared on Fox News on Tuesday morning.”; “Karoline Leavitt stated that the White House is not providing full inf”
+
+The country needs answers. But it seems the White House isn't telling us everything, or much of anything at all. Karoline Leavitt boldly said as much on Fox News Tuesday morning.
+
+Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+
+**Where it was published**
+
+- 2026-11-18 00:40 UTC · Daily Mail US · [Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+
+**Who posted it on Instagram** (4 pages, 85,281 likes, 5 posts)
+
+- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · 1908 min before first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
+- [@nypost](https://www.instagram.com/p/Df0Dhd5EUVk/) · 2,283 likes · 595 comments · 1705 min before first report · President Trump defended the White House restoration work, saying he has a responsibility to maintain the historic building before criticizing a reporter’s questions about the project.
+- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,059 likes · 934 comments · 1739 min before first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
+- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · 1556 min before first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
+
 ### 15. Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me”
 
-**Score** 111 · **First seen** 2026-11-16 08:54 UTC · **Last update** 2026-11-18 18:50 UTC
+**Score** 110 · **First seen** 2026-11-16 08:54 UTC · **Last update** 2026-11-18 18:50 UTC
 
 **Status** Confirmed · independent reports: 3 of 3 feeds · official: none · independent newsrooms: 2
 
@@ -622,46 +616,7 @@ Lead: [Deadline — Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +1866 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 - [@clips](https://www.instagram.com/p/Dfz2B2YIjNk/) · 9,640 likes · 198 comments · +488 min after first report · Robert Pattinson — Starring in Harry Potter and the Goblet of Fire, Twilight, The Lighthouse, and The Batman, this internationally acclaimed English actor has captivated millions with his transformati
 
-### 16. Miami Heat Reveal “Vice City” Court For GTA VI Game Release
-
-**Score** 109 · **Category** trending · **First seen** 2026-11-16 16:00 UTC · **Last update** 2026-11-18 20:58 UTC
-
-**Status** Confirmed · independent reports: 7 of 8 feeds · official: none · independent newsrooms: 7
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- The Miami Heat are partnering with Rockstar Games to celebrate the release of GTA 6. — support: 4
-- The Miami Heat unveiled a special Vice City themed court for a home game. — support: 4
-- The Miami Heat will wear special Vice City jerseys. — support: 1
-- Take-Two Interactive and 2K Sports announced an NBA 2K27 crossover with GTA 6. — support: 1
-
-> 2 key claims stated by a single report: “The Miami Heat will wear special Vice City jerseys.”; “Take-Two Interactive and 2K Sports announced an NBA 2K27 crossover wit” Figures from one report only: $80.
-
-Ahead of the GTA 6 release this week, publisher Take-Two Interactive and 2K Sports have announced an NBA 2K27 crossover with the game. Starting November 27, Vice City will take over the digital basketball courts, and a special-edition NBA 2K27 Vice City Edition will also be released to promote GTA 6. The $80 digital-only NBA 2K27 Vice City Edition features Miami Heat player Bam Adebayo on the cover, and for that GTA…
-
-Lead: [GameSpot — NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/)
-
-**Where it was published**
-
-- 2026-11-16 16:00 UTC · GameSpot · [NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/)
-- 2026-11-17 12:45 UTC · Yahoo Sports · [‘Understand the hype’ – Why Giannis Antetokounmpo is ‘excited’ for Miami Heat’s GTA 6 theme night](https://sports.yahoo.com/articles/understand-hype-why-giannis-antetokounmpo-124500526.html)
-- 2026-11-17 21:10 UTC · Yahoo Sports · [Miami Heat ‘Vice City’ GTA 6-themed court: Photos & must-see details](https://sports.yahoo.com/articles/miami-heat-vice-city-gta-211033890.html)
-- 2026-11-17 23:51 UTC · IGN · [GTA 6 Vice City NBA Court Revealed by Miami Heat](https://www.ign.com/articles/gta-6-vice-city-nba-court-revealed-by-miami-heat)
-- 2026-11-18 03:56 UTC · Kotaku · [Miami Heat Players Flaunt Neat-Looking GTA 6-Themed PS5 Pros](https://kotaku.com/miami-heat-players-flaunt-neat-looking-gta-6-themed-ps5-pros-2000757883)
-- 2026-11-18 04:06 UTC · Yahoo Sports · [Miami Heat Reveal “Vice City” Court For GTA VI Game Release](https://sports.yahoo.com/articles/miami-heat-reveal-vice-city-040655333.html)
-- 2026-11-18 17:45 UTC · Yahoo Sports · [Heat Unveil Pink Vice City Court For Giannis Return Game](https://sports.yahoo.com/articles/heat-unveil-pink-vice-city-114500016.html)
-- 2026-11-18 18:42 UTC · Yahoo Sports · [Miami Heat embraces Vice City For GTA 6 launch collaboration](https://sports.yahoo.com/articles/miami-heat-embraces-vice-city-184228313.html)
-
-**Who posted it on Instagram** (6 pages, 78,646 likes, 8 posts)
-
-- [@onlyindade](https://www.instagram.com/p/DfziBMzsw4z/) · 38,902 likes · 302 comments · 111 min before first report · It’s GTA launch week and Vice City is ready 🌴 🌆 #gta6 #vicecity #dronepov
-- [@complex](https://www.instagram.com/p/Df30oZVDgI4/) · 20,724 likes · 236 comments · +2286 min after first report · This might be the longest 24 hours of my life 😭 ‘GTA 6’ is set to launch in less than 24 hours. After more than a decade since GTA 5, players will get to return to Vice City and explore Rockstar’s new
-- [@dexerto](https://www.instagram.com/p/Df08zJ_EcTw/) · 11,540 likes · 242 comments · +679 min after first report · Rockstar Games has explained why GTA 6 needed roughly a decade of development and nearly 5,000 staff, saying the studio could have made a cheaper, faster “GTA 5.5” but chose not to. Publishing head Je
-- [@clips](https://www.instagram.com/p/Df4xmSHILpl/) · 2,632 likes · 14 comments · +2820 min after first report · Grand Theft Auto VI (2026) — Developed and published by Rockstar Games, this monumental open-world action-adventure game returns players to the sun-drenched, neon-lit streets of Vice City and the surr
-- [@bangerbuddy](https://www.instagram.com/p/Df0fVPjkQQj/) · 1,113 likes · 7 comments · +422 min after first report · Kalshi is offering up to $135,000 for someone to play GTA VI as their full-time job. 👀 The company is hiring a remote GTA VI Researcher to livestream their entire playthrough, break down Vice City’s i
-- [@epicfunnypage](https://www.instagram.com/reel/Dfz9VjygqX9/) · 1,057 likes · 25 comments · 420 min before first report · We got before GTA 6 nostalgia before GTA 6 Grand Theft Auto VI marks the franchise's return to Vice City, the fictional location inspired by Miami that first became famous in Grand Theft Auto: Vice Ci
-
-### 17. US officially loses measles elimination status, PAHO says
+### 16. US officially loses measles elimination status, PAHO says
 
 **Score** 108 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
 
@@ -701,7 +656,7 @@ Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threa
 
 - [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 433 likes · 95 comments · +3090 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
 
-### 18. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
+### 17. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
 
 **Score** 108 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 22:05 UTC
 
@@ -739,68 +694,69 @@ Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s 
 - [@pagesix](https://www.instagram.com/p/Df0JgnIt00m/) · 3,072 likes · 315 comments · +533 min after first report · Martha Stewart and Gov. Kathy Hochul join Editor-in-Chief Keith Poole to light the Empire State Building for New York Post’s 225 Anniversary 🗞️
 - [@nypost](https://www.instagram.com/p/Df0j6-8tFWo/) · 553 likes · 29 comments · +763 min after first report · Martha Stewart, Governor Kathy Hochul and New York Post Editor-in-Chief Keith Poole flipped my switch, then enjoyed the best view of New York City from my 86th and 102nd Floor Observation Decks. The o
 
-### 19. Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards
+### 18. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
 
-**Score** 108 · **Category** trending · **First seen** 2026-11-18 01:21 UTC · **Last update** 2026-11-18 10:43 UTC
+**Score** 108 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-18 10:43 UTC
 
 **Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Jennifer Lawrence attended the WWD Beauty Inc Awards. — support: 1
-- Jennifer Lawrence launched a haircare brand named Mes. — support: 1
-- Jennifer Lawrence wore a wet hair style at the event. — support: 1
+- Jennifer Lawrence carries a bag described as a highlighter bag — support: 1
 
-> One independent report so far; not independently confirmed. 3 key claims stated by a single report: “Jennifer Lawrence attended the WWD Beauty Inc Awards.”; “Jennifer Lawrence launched a haircare brand named Mes.”
+> One independent report so far; not independently confirmed. 1 key claim stated by a single report: “Jennifer Lawrence carries a bag described as a highlighter bag”
 
-Jennifer Lawrence is now in the beauty space with her haircare brand Mes and she’s representing the brand at the […] The post Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
+Although I’ve lived in New York for 11 years, I’ve never adopted the all-black wardrobe the city is typically known for. What can I say? My clothes need to be colorful and whimsical! I find plenty of ways to incorporate color into my fits and admire when people add electric pops. Jennifer Lawrence gave me […]
 
-Lead: [Just Jared — Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards](https://www.justjared.com/2026/11/17/jennifer-lawrence-rocks-the-wet-hair-trend-for-wwds-beauty-inc-awards/)
+Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/)
 
 **Where it was published**
 
-- 2026-11-18 01:21 UTC · Just Jared · [Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards](https://www.justjared.com/2026/11/17/jennifer-lawrence-rocks-the-wet-hair-trend-for-wwds-beauty-inc-awards/)
+- 2026-11-17 09:15 UTC · Us Weekly · [Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/)
 
 **Who posted it on Instagram** (5 pages, 75,367 likes, 12 posts)
 
-- [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · 1313 min before first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
-- [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · 1480 min before first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
-- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,437 likes · 52 comments · 888 min before first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
-- [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 8,336 likes · 30 comments · 351 min before first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
-- [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 981 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
+- [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · 348 min before first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
+- [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · 515 min before first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
+- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,437 likes · 52 comments · +77 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
+- [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 8,336 likes · 30 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
+- [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 16 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
 
-### 20. Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More
+### 19. Caitlin Clark reveals what made Taylor Swift ‘nervous’ during Chiefs game
 
-**Score** 107 · **Category** trending · **First seen** 2026-11-17 01:18 UTC · **Last update** 2026-11-18 20:08 UTC
+**Score** 107 · **Category** trending · **First seen** 2026-11-17 11:56 UTC · **Last update** 2026-11-18 20:08 UTC
 
-**Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
+**Status** Confirmed · independent reports: 2 of 3 feeds · official: none · independent newsrooms: 2
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Beyonce became the most-awarded artist in Grammys history in 2023 — support: 1
-- Beyonce won her 32nd Grammy award in 2023 — support: 1
-- Beyonce won the Grammy for Best Dance/Electronic Album for Renaissance — support: 1
+- The Kansas City Chiefs defeated the Atlanta Falcons. — support: 2
+- Travis Kelce suffered an ankle injury during the game against the Atlanta Falcons. — support: 2
+- The Kansas City Chiefs won the game against the Atlanta Falcons with a score of 35-13. — support: 1
+- Linda Cohn publicly dismissed comparisons between JuJu Watkins and Caitlin Clark. — support: 1
 
-> One independent report so far; not independently confirmed. 3 key claims stated by a single report: “Beyonce became the most-awarded artist in Grammys history in 2023”; “Beyonce won her 32nd Grammy award in 2023”
+> Report 2 incorrectly identifies Taylor Swift as the wife of Travis Kelce. 2 key claims stated by a single report: “The Kansas City Chiefs won the game against the Atlanta Falcons with a”; “Linda Cohn publicly dismissed comparisons between JuJu Watkins and Cai”
 
-Beyoncé and Taylor Swift are just a few of the big names who have broken Grammy records over the course of the awards show’s history. In 2023, Beyoncé became the most-awarded artist in Grammys history with the 32nd trophy of her career, taking home the trophy for Best Dance/Electronic Album for Renaissance. It was her […]
+The Kansas City Chiefs bounced back from a brutal loss to the Denver Broncos with an utterly dominant 35-13 win over the Atlanta Falcons on Sunday. However, the win wasn’t exactly stress-free, as franchise legend Travis Kelce temporarily exited the game with an ankle injury. It wasn’t the first time an ankle injury has bothered…
 
-Lead: [Us Weekly — Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/)
+Lead: [Yahoo Sports — Linda Cohn uses Taylor Swift point to destroy JuJu Watkins’ comparisons to Caitlin Clark](https://sports.yahoo.com/articles/linda-cohn-uses-taylor-swift-115628730.html)
 
 **Where it was published**
 
-- 2026-11-17 01:18 UTC · Us Weekly · [Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/)
+- 2026-11-17 11:56 UTC · Yahoo Sports · [Linda Cohn uses Taylor Swift point to destroy JuJu Watkins’ comparisons to Caitlin Clark](https://sports.yahoo.com/articles/linda-cohn-uses-taylor-swift-115628730.html)
+- 2026-11-18 04:45 UTC · Yahoo Sports · [Travis Kelce, Taylor Swift Get Exciting News After Injury Scare](https://sports.yahoo.com/articles/travis-kelce-taylor-swift-exciting-044500899.html)
+- 2026-11-18 16:07 UTC · Yahoo Sports · [Caitlin Clark reveals what made Taylor Swift ‘nervous’ during Chiefs game](https://sports.yahoo.com/articles/caitlin-clark-reveals-made-taylor-160751019.html)
 
 **Who posted it on Instagram** (6 pages, 202,954 likes, 10 posts)
 
-- [@theshaderoom](https://www.instagram.com/p/DfzgX0iBVAl/) · 97,962 likes · 5,538 comments · 686 min before first report · Congratulations to the 2027 Grammy Nominees for Best Rap Album! 💿 ‘DILLAGENCE II’ - @bustarhymes (& J DILLA) 💿 ‘AM I THE DRAMA?’ - @iamcardib 💿 ‘GOD GOTTA AFRO & GOLD HOOPS’ - @rapsody 💿 ‘OCTANE’ - @d
-- [@hollywoodunlocked](https://www.instagram.com/p/Dfzn_U1qz7K/) · 18,839 likes · 597 comments · 620 min before first report · Join us in congratulating #CardiB who earned 4 Grammy nominations 👏🏾💙: Best Rap Performance: “Errtime” Best Melodic Rap Performance: “Safe” Best Rap Song: “Errtime” Best Rap Album: ‘Am I the Drama?’
-- [@theneighborhoodtalk](https://www.instagram.com/p/Df0K3wmH3Ce/) · 9,236 likes · 1,343 comments · 316 min before first report · TNHT Staff: @YesThatsDee _______________ Neighbors, the nominations for the 2027 Grammy Awards have officially been announced, and the competition is looking GOOD! _______________ Some of the biggest 
-- [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · 544 min before first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
-- [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 643 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
-- [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · +826 min after first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
+- [@theshaderoom](https://www.instagram.com/p/DfzgX0iBVAl/) · 97,962 likes · 5,538 comments · 1323 min before first report · Congratulations to the 2027 Grammy Nominees for Best Rap Album! 💿 ‘DILLAGENCE II’ - @bustarhymes (& J DILLA) 💿 ‘AM I THE DRAMA?’ - @iamcardib 💿 ‘GOD GOTTA AFRO & GOLD HOOPS’ - @rapsody 💿 ‘OCTANE’ - @d
+- [@hollywoodunlocked](https://www.instagram.com/p/Dfzn_U1qz7K/) · 18,839 likes · 597 comments · 1257 min before first report · Join us in congratulating #CardiB who earned 4 Grammy nominations 👏🏾💙: Best Rap Performance: “Errtime” Best Melodic Rap Performance: “Safe” Best Rap Song: “Errtime” Best Rap Album: ‘Am I the Drama?’
+- [@theneighborhoodtalk](https://www.instagram.com/p/Df0K3wmH3Ce/) · 9,236 likes · 1,343 comments · 953 min before first report · TNHT Staff: @YesThatsDee _______________ Neighbors, the nominations for the 2027 Grammy Awards have officially been announced, and the competition is looking GOOD! _______________ Some of the biggest 
+- [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · 1181 min before first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
+- [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 1280 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
+- [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · +189 min after first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
 
-### 21. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
+### 20. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
 
 **Score** 107 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-18 21:16 UTC
 
@@ -840,9 +796,9 @@ Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.
 
 - [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
 
-### 22. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
+### 21. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
 
-**Score** 107 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-18 21:57 UTC
+**Score** 107 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-18 22:16 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -872,7 +828,7 @@ Lead: [Deadline — Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4,
 - [@profgalloway](https://www.instagram.com/reel/Df0K_NiHaqX/) · 1,300 likes · 40 comments · 932 min before first report · Scott Galloway (@profgalloway) on why he's trying to get shares in the Anthropic IPO. "The greatest risk-free trade right now to the upside is in IPOs managed by these bankers because they engineer a 
 - [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +765 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
 
-### 23. Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album
+### 22. Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album
 
 **Score** 106 · **Category** trending · **First seen** 2026-11-17 06:56 UTC · **Last update** 2026-11-18 00:38 UTC
 
@@ -902,7 +858,7 @@ Lead: [Just Jared — Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy N
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 980 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
 - [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · +489 min after first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
 
-### 24. David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions
+### 23. David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions
 
 **Score** 106 · **Category** trending · **First seen** 2026-11-17 02:57 UTC · **Last update** 2026-11-17 23:45 UTC
 
@@ -937,7 +893,7 @@ Lead: [Page Six — ‘The Further Mis-Adventures of Cliff Booth’ LA premiere 
 - [@imax](https://www.instagram.com/p/Df2zAfJGiDV/) · 1,723 likes · 11 comments · +1054 min after first report · Word on the street? Cliff Booth is back and turning heads. See THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH first only in IMAX November 25. Get tickets now at the link in bio.
 - [@pagesix](https://www.instagram.com/p/Df2XYYdE6Nh/) · 360 likes · 6 comments · +933 min after first report · Brad Pitt just gave an "Ocean's 14" production update 👀 📸: Getty, 🎤: comments via Variety/X
 
-### 25. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
+### 24. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
 
 **Score** 106 · **Category** trending · **First seen** 2026-11-17 21:43 UTC · **Last update** 2026-11-18 11:00 UTC
 
@@ -965,6 +921,41 @@ Lead: [TMZ — Paris Hilton Meets with House Speaker Mike Johnson Amid Fight Aga
 **Who posted it on Instagram** (1 pages, 32,819 likes, 1 posts)
 
 - [@npr](https://www.instagram.com/reel/Df3NnmSlQF9/) · 32,819 likes · 587 comments · +164 min after first report · When Paris Hilton (@parishilton) was 19, her ex-boyfriend shared an intimate video of her without her consent.⁠ ⁠ More than two decades later, Hilton says she’s being revictimized as her image now spr
+
+### 25. Apple hit by widespread outages as tech problems continue
+
+**Score** 105 · **Category** weather · **First seen** 2026-11-17 15:45 UTC · **Last update** 2026-11-18 02:17 UTC
+
+**Status** Confirmed · independent reports: 2 of 8 feeds · official: none · independent newsrooms: 2
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Apple services including the App Store and iCloud experienced outages on Tuesday. — support: 5
+- Thousands of users reported issues with Apple services on the tracking site Downdetector. — support: 2
+- Apple has not confirmed the cause of the service outages. — support: 1
+- Reports of Apple service issues surged around 9:30 a.m. and declined by 10:40 a.m. — support: 1
+
+> 6 of the 8 independent reports in the cluster cover related updates, not this headline. 2 key claims stated by a single report: “Apple has not confirmed the cause of the service outages.”; “Reports of Apple service issues surged around 9:30 a.m. and declined b”
+
+Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdetector.
+
+Lead: [Engadget — How to sideload apps on iOS (even if you're in the US)](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/)
+
+**Where it was published**
+
+- 2026-11-17 15:45 UTC · Engadget · [How to sideload apps on iOS (even if you're in the US)](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/)
+- 2026-11-17 18:05 UTC · New York Post · [Apple services down, as Apple Pay, App Store and Apple Support experience outages](https://nypost.com/2026/11/17/business/apple-services-down-as-apple-pay-app-store-and-apple-support-experience-outages/)
+- 2026-11-17 18:44 UTC · WSB-TV Atlanta (GA) · [Apple users report issues with some systems](https://www.wsbtv.com/news/trending/apple-users-report-issues-with-some-systems/LKLOJTVYMJFNTHYWCBG5VJDP24/)
+- 2026-11-17 18:51 UTC · WCPO Cincinnati (OH) · [Apple services hit by outages, including App Store and Music](https://www.wcpo.com/life/tech-tips/apple-services-hit-by-outages-including-app-store-and-music)
+- 2026-11-17 18:55 UTC · TechCrunch · [Apple services, including iCloud, App Store, and Apple Music, hit by outage](https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/)
+- 2026-11-17 19:05 UTC · KTLA (CA) · [Is Apple down? Users report problems accessing services](https://ktla.com/news/nationworld/is-apple-down-users-report-problems-accessing-services/)
+- 2026-11-17 22:17 UTC · UPI Top · [Apple blames internal update for outage affecting iCloud, Apple Pay](https://www.upi.com/Top_News/US/2026/11/17/apple-outage-icloud-pay-store/3741794952559/)
+- 2026-11-18 00:18 UTC · NBC News · [Apple hit by widespread outages as tech problems continue](https://www.nbcnews.com/nightly-news/video/apple-hit-by-widespread-outages-as-tech-problems-continue-273687109562)
+
+**Who posted it on Instagram** (2 pages, 50,638 likes, 2 posts)
+
+- [@dailymail](https://www.instagram.com/p/Df2mEWsglYo/) · 43,883 likes · 1,229 comments · +174 min after first report · Apple has been hit by a widespread outage, leaving some iPhone users unable to access their accounts. The tech giant’s system status page flagged a problem with ‘iCloud Account & Sign In,’ warning: ‘A
+- [@nypost](https://www.instagram.com/p/Df2jBwjE_0_/) · 6,755 likes · 276 comments · +148 min after first report · BREAKING: Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdete
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).
