@@ -1,34 +1,34 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 19:17 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 20:18 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
 | 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 226 | Confirmed | 21 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
-| 2 | NASA Voyager Reaches One Full Light Day From Earth | 188 | Confirmed | 20 | 2 | [Live Science](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future) |
+| 2 | NASA Voyager Reaches One Full Light Day From Earth | 184 | Confirmed | 19 | 2 | [ABC7 LA (CA)](https://abc7.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/) |
 | 3 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 182 | Confirmed | 25 | 3 | [CBS News](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/) |
-| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 180 | Confirmed | 19 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
-| 5 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 149 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
-| 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 149 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
-| 7 | California DMV bans Waymo from operating on state freeways after string of traffic incidents | 138 | Confirmed | 21 | 1 | [New York Post](https://nypost.com/2026/11/17/lifestyle/californias-4-toughest-dmv-offices-to-pass-a-driving-test-are-in-la-county/) |
-| 8 | McDonald's brings back 'Home Alone' with a holiday meal | 134 | Confirmed | 11 | 5 | [Dexerto](https://www.dexerto.com/food/mcdonalds-reveals-home-alone-meal-with-pizza-flavored-fries-and-collectible-socks-3428779/) |
-| 9 | Top Nvidia lawyer agrees to testify before Congress | 132 | Confirmed | 9 | 7 | [PC Gamer](https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/) |
-| 10 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 126 | Confirmed | 12 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
-| 11 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 14 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
-| 12 | Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer] | 119 | Unverified | 1 | 20 | [Bloody Disgusting](https://bloody-disgusting.com/?p=3975814) |
-| 13 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 112 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
-| 14 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 112 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
-| 15 | US officially loses measles elimination status, PAHO says | 110 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
-| 16 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 109 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
-| 17 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 108 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
-| 18 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 107 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
-| 19 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 107 | Confirmed | 6 | 5 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
-| 20 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 107 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
-| 21 | Apple hit by widespread outages as tech problems continue | 107 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
-| 22 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 105 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
-| 23 | Mamdani disbanding controversial NYPD unit | 105 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
-| 24 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 104 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
-| 25 | Miami Heat Reveal “Vice City” Court For GTA VI Game Release | 103 | Confirmed | 3 | 5 | [GameSpot](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/) |
+| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 179 | Confirmed | 19 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
+| 5 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 148 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
+| 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 148 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
+| 7 | Customers report difficulty accessing online services at major US banks | 144 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
+| 8 | McDonald's brings back 'Home Alone' with a holiday meal | 138 | Confirmed | 12 | 5 | [Dexerto](https://www.dexerto.com/food/mcdonalds-reveals-home-alone-meal-with-pizza-flavored-fries-and-collectible-socks-3428779/) |
+| 9 | Waymo suspends freeway rides nationwide after California DMV order | 133 | Confirmed | 20 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
+| 10 | Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer] | 133 | Unverified | 1 | 22 | [Bloody Disgusting](https://bloody-disgusting.com/?p=3975814) |
+| 11 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 126 | Confirmed | 12 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
+| 12 | Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’ | 126 | Developing | 3 | 6 | [NBC News](https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487) |
+| 13 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 14 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
+| 14 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 123 | Confirmed | 9 | 4 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
+| 15 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 111 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
+| 16 | US officially loses measles elimination status, PAHO says | 109 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
+| 17 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 109 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
+| 18 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 107 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
+| 19 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 107 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
+| 20 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 107 | Confirmed | 6 | 5 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
+| 21 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 107 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
+| 22 | Apple hit by widespread outages as tech problems continue | 106 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
+| 23 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 105 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
+| 24 | Mamdani disbanding controversial NYPD unit | 104 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
+| 25 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 104 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -37,7 +37,7 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 
 ### 1. Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos
 
-**Score** 226 · **Category** trending · **First seen** 2026-11-16 17:42 UTC · **Last update** 2026-11-18 18:51 UTC
+**Score** 226 · **Category** trending · **First seen** 2026-11-16 17:42 UTC · **Last update** 2026-11-18 19:17 UTC
 
 **Status** Confirmed · independent reports: 11 of 23 feeds · official: none · independent newsrooms: 8
 
@@ -82,28 +82,27 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 
 ### 2. NASA Voyager Reaches One Full Light Day From Earth
 
-**Score** 188 · **First seen** 2026-11-15 20:00 UTC · **Last update** 2026-11-18 18:50 UTC
+**Score** 184 · **First seen** 2026-11-15 21:19 UTC · **Last update** 2026-11-18 18:50 UTC
 
-**Status** Confirmed · independent reports: 9 of 27 feeds · official: none · independent newsrooms: 7
+**Status** Confirmed · independent reports: 8 of 26 feeds · official: none · independent newsrooms: 7
 
-**Duplicates collapsed**: 13 of 27 feeds repeat the same report.
+**Duplicates collapsed**: 13 of 26 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- NASA's Voyager 1 probe will reach a distance of one light-day from Earth. — support: 6
-- Voyager 1 will reach the one light-day milestone on November 18. — support: 1
-- One light-day is a distance of more than 16 billion miles. — support: 5
-- Voyager 1 was launched nearly 50 years ago. — support: 1
+- NASA's Voyager 1 is the furthest man-made object from Earth — support: 6
+- Voyager 1 is approaching a distance of more than 16 billion miles from Earth — support: 6
+- Voyager 1 is set to reach the milestone of one light-day from Earth — support: 5
+- The probe will reach its distance milestone on Wednesday — support: 1
 
-> 5 of the 14 independent reports in the cluster cover related updates, not this headline. 27 feeds carry 14 independent reports (the rest are duplicates). 2 key claims stated by a single report: “Voyager 1 will reach the one light-day milestone on November 18.”; “Voyager 1 was launched nearly 50 years ago.”
+> 5 of the 13 independent reports in the cluster cover related updates, not this headline. 26 feeds carry 13 independent reports (the rest are duplicates). 1 key claim stated by a single report: “The probe will reach its distance milestone on Wednesday”
 
-Nearly 50 years after launch, NASA's Voyager 1 probe will pass the one light-day mark on Nov. 18, a symbolic milestone for the agency's longest-running mission. Scientists reflect on the Voyager program's legacy and what comes next.
+NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.
 
-Lead: [Live Science — 'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future)
+Lead: [ABC7 LA (CA) — NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
 
 **Where it was published**
 
-- 2026-11-15 20:00 UTC · Live Science · ['Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future)
 - 2026-11-15 21:19 UTC · ABC7 LA (CA) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
 - 2026-11-15 21:19 UTC · ABC13 Houston (TX) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc13.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
 - 2026-11-15 21:19 UTC · ABC7 NY (NY) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7ny.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
@@ -115,11 +114,12 @@ Lead: [Live Science — 'Out there, moving into the unknown': As Voyager 1 reach
 - 2026-11-17 12:14 UTC · ABC7 Chicago (IL) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7chicago.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
 - 2026-11-17 12:14 UTC · 6abc Philly (PA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://6abc.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
 - 2026-11-17 12:14 UTC · ABC7 LA (CA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 21:36 UTC · KING5 Seattle (WA) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 17](https://www.king5.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-17/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
 
 **Who posted it on Instagram** (2 pages, 24,409 likes, 2 posts)
 
-- [@complex](https://www.instagram.com/p/DfzMyC0pWsr/) · 15,862 likes · 367 comments · +900 min after first report · The Moon is slowly leaving us. 🌕🌎 According to NASA, the Moon moves about 1.5 inches farther away from Earth every year. Scientists have been tracking this movement for decades using lasers reflected 
-- [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · +1385 min after first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
+- [@complex](https://www.instagram.com/p/DfzMyC0pWsr/) · 15,862 likes · 367 comments · +820 min after first report · The Moon is slowly leaving us. 🌕🌎 According to NASA, the Moon moves about 1.5 inches farther away from Earth every year. Scientists have been tracking this movement for decades using lasers reflected 
+- [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · +1305 min after first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
 
 ### 3. A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city
 
@@ -165,11 +165,11 @@ Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a mi
 
 ### 4. Trump heads to Asia ahead of high-stakes meeting with Xi and Putin
 
-**Score** 180 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 19:08 UTC
+**Score** 179 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 19:08 UTC
 
-**Status** Confirmed · independent reports: 23 of 38 feeds · official: none · independent newsrooms: 20
+**Status** Confirmed · independent reports: 24 of 40 feeds · official: none · independent newsrooms: 21
 
-**Duplicates collapsed**: 5 of 38 feeds repeat the same report.
+**Duplicates collapsed**: 5 of 40 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
@@ -178,7 +178,7 @@ Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a mi
 - President Trump departed for his Asia trip on Monday. — support: 1
 - The trip includes a potential meeting with North Korean leader Kim Jong Un. — support: 2
 
-> 10 of the 33 independent reports in the cluster cover related updates, not this headline. 38 feeds carry 33 independent reports (the rest are duplicates). 1 key claim stated by a single report: “President Trump departed for his Asia trip on Monday.”
+> 11 of the 35 independent reports in the cluster cover related updates, not this headline. 40 feeds carry 35 independent reports (the rest are duplicates). 1 key claim stated by a single report: “President Trump departed for his Asia trip on Monday.”
 
 Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts Xi Jinping and Vladimir…
 
@@ -207,7 +207,7 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 
 ### 5. ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know
 
-**Score** 149 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
+**Score** 148 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
 
 **Status** Confirmed · independent reports: 11 of 22 feeds · official: none · independent newsrooms: 7
 
@@ -248,7 +248,7 @@ Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert Syste
 
 ### 6. Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!
 
-**Score** 149 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 18:48 UTC
+**Score** 148 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 18:48 UTC
 
 **Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -283,53 +283,57 @@ Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Jo
 - [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,437 likes · 52 comments · +600 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +927 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 
-### 7. California DMV bans Waymo from operating on state freeways after string of traffic incidents
+### 7. Customers report difficulty accessing online services at major US banks
 
-**Score** 138 · **State** CA · **First seen** 2026-11-17 19:14 UTC · **Last update** 2026-11-18 16:20 UTC
+**Score** 144 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
 
-**Status** Confirmed · independent reports: 8 of 21 feeds · official: none · independent newsrooms: 8
+**Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 4
 
-**Wire copies collapsed**: Associated Press ×2.
+**Duplicates collapsed**: 2 of 19 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- The California Department of Motor Vehicles banned Waymo from operating self-driving taxis on state freeways — support: 5
-- The California DMV cited safety concerns as the reason for the ban — support: 5
-- The restrictions on Waymo freeway operations took effect on November 11 — support: 2
-- Waymo suspended its freeway rides nationwide following the California DMV order — support: 2
+- Customers at Chase, Bank of America, and Wells Fargo reported experiencing banking outages on Monday. — support: 6
+- Users reported outages at U.S. Bank. — support: 2
+- Customers reported difficulty accessing the money transfer service Zelle. — support: 1
+- The cause of the outages and the timeline for restoration remain unclear. — support: 1
 
-> 3 of the 11 independent reports in the cluster cover related updates, not this headline. 21 feeds carry 11 independent reports (wire copies: Associated Press). Reports differ on whether Waymo suspended freeway rides only in California or nationwide.
+> 10 of the 17 independent reports in the cluster cover related updates, not this headline. 19 feeds carry 17 independent reports (the rest are duplicates). Reports differ on the specific list of banks affected, with some including U.S. Bank and Zelle while others do not. 2 key claims stated by a single report: “Customers reported difficulty accessing the money transfer service Zel”; “The cause of the outages and the timeline for restoration remain uncle”
 
-California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th. The crackdown follows two recent high-profile Bay Area incidents, in which Waymo robotaxis drove into an active construction […]
+Thousands of customers at some of the nation's largest banks reported difficulty accessing their online accounts and the money transfer service Zelle on Monday. Downdetector.com showed issues were reported by customers trying to access Chase, Bank of America, U.S. Bank, Wells Fargo and Zelle online. A Chase spokesperson said, "JPMorganChase has experienced a temporary issue [...]
 
-Lead: [New York Post — California’s 4 toughest DMV offices to pass a driving test are all in LA County](https://nypost.com/2026/11/17/lifestyle/californias-4-toughest-dmv-offices-to-pass-a-driving-test-are-in-la-county/)
+Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Reporting Outages](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/)
 
 **Where it was published**
 
-- 2026-11-17 19:14 UTC · New York Post · [California’s 4 toughest DMV offices to pass a driving test are all in LA County](https://nypost.com/2026/11/17/lifestyle/californias-4-toughest-dmv-offices-to-pass-a-driving-test-are-in-la-county/)
-- 2026-11-17 19:38 UTC · KTLA (CA) · [California DMV bans Waymo from operating on state freeways after string of traffic incidents](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/)
-- 2026-11-17 19:38 UTC · The Verge · [California just banned Waymo from all state freeways](https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety)
-- 2026-11-17 19:49 UTC · TechCrunch · [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
-- 2026-11-17 21:57 UTC · Engadget · [Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'](https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/)
-- 2026-11-17 23:24 UTC · NBC News · [Waymo robotaxis banned from California freeways](https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917)
-- 2026-11-18 02:07 UTC · KHOU (TX) · [Waymo suspends rides on all freeways in the US](https://www.khou.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
-- 2026-11-18 02:07 UTC · WFAA Dallas (TX) · [Waymo suspends rides on all freeways in the US](https://www.wfaa.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
-- 2026-11-18 02:07 UTC · 9News Denver (CO) · [Waymo suspends rides on all freeways in the US](https://www.9news.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
-- 2026-11-18 02:07 UTC · KING5 Seattle (WA) · [Waymo suspends rides on all freeways in the US](https://www.king5.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
-- 2026-11-18 11:11 UTC · ABC News · [Waymo driverless cars barred from California freeways following troubling incidents](https://abcnews.com/US/waymo-driverless-cars-barred-california-freeways-series-troubling/story?id=138221652)
-- 2026-11-18 11:33 UTC · ABC7 LA (CA) · [Waymo driverless cars barred from California freeways following series of troubling incidents](https://abc7.com/story/waymo-driverless-cars-barred-california-freeways-following-series-troubling-incidents/20050911/)
+- 2026-11-16 18:20 UTC · TMZ · [Chase, Bank of America, Wells Fargo and U.S. Bank Users All Reporting Outages](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/)
+- 2026-11-16 18:32 UTC · New York Post · [Chase, Bank of America and Wells Fargo customers report outages in latest tech hiccup](https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/)
+- 2026-11-16 18:32 UTC · Daily Mail US · [Widespread banking outage at Chase, Bank of America and Wells Fargo as customers are locked out of their accounts](https://www.dailymail.com/news/article-16297371/chase-bank-america-wells-fargo-accounts-down.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-16 18:38 UTC · Newsweek · [Are Chase, Wells Fargo Down? Latest Update on Bank Outages](https://www.newsweek.com/are-chase-wells-fargo-down-latest-update-on-bank-outages-12722872)
+- 2026-11-16 18:54 UTC · WCPO Cincinnati (OH) · [Technical issue at JPMorgan Chase triggers online delays for other major banks](https://www.wcpo.com/us-news/customers-at-some-of-the-nations-largest-banks-are-reporting-difficulty-accessing-accounts-online)
+- 2026-11-16 19:07 UTC · KTLA (CA) · [Customers at Chase, other banks report difficulty accessing accounts online](https://ktla.com/news/nationworld/bank-outage-chase-bank-of-america/)
+- 2026-11-16 19:09 UTC · WGN (IL) · [Chase says 'software bug' disrupted online banking for major US banks](https://wgntv.com/news/customers-of-major-us-banks-report-online-outages/)
+- 2026-11-16 19:32 UTC · NBC News · [Chase says transactions back to normal after outage online and at some branches](https://www.nbcnews.com/business/consumer/outages-chase-banking-online-branches-rcna609673)
+- 2026-11-16 20:59 UTC · The Hill · [Chase, Bank of America, Wells Fargo customers report trouble accessing accounts](https://thehill.com/policy/technology/6223551-chase-wells-fargo-boa-access-problems/)
+- 2026-11-16 22:01 UTC · Guardian US · [Customers report difficulty accessing online services at major US banks](https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo)
+- 2026-11-16 22:08 UTC · ABC7 LA (CA) · [A technical issue at JPMorgan Chase triggers online banking delays across major US banks](https://abc7.com/post/customers-nations-largest-banks-are-reporting-difficulty-accessing-accounts-online/20045188/)
+- 2026-11-16 23:30 UTC · CBS News · [11/16: CBS Evening News](https://www.cbsnews.com/video/111626-cbs-evening-news/)
 
-**Who posted it on Instagram** (1 pages, 1,048 likes, 1 posts)
+**Who posted it on Instagram** (5 pages, 71,434 likes, 5 posts)
 
-- [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +988 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
+- [@pubity](https://www.instagram.com/p/Df0YsfZjSHH/) · 34,660 likes · 1,306 comments · +224 min after first report · Several major U.S. banks are dealing with reported outages, leaving customers struggling to access their accounts. 👀 Chase, Wells Fargo, Bank of America, and Truist customers have reported issues with
+- [@theneighborhoodtalk](https://www.instagram.com/p/Df0HlJLx0rC/) · 15,859 likes · 2,487 comments · +75 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, customers at Chase, Bank of America, Capital One and Wells Fargo began reporting outages, with some saying they’re unable to access their banking
+- [@dailymail](https://www.instagram.com/p/Df0IVifkrRh/) · 11,703 likes · 598 comments · +82 min after first report · Americans have been locked out of their accounts as Chase, Bank of America and Wells Fargo are all experiencing outages - just three days after major service failures at Microsoft and the Federal Avia
+- [@hollywoodunlocked](https://www.instagram.com/p/Df2PeFcKZqe/) · 7,335 likes · 1,317 comments · +1263 min after first report · HU Staff: Kecia Gayle @kecia.kae Between the Microsoft meltdown, the grounded planes and the banking apps acting brand new, it’s safe to say a lot of folks are concerned. But on Monday night, Vice Pre
+- [@onlyindade](https://www.instagram.com/p/Df0hSXMoYU8/) · 1,877 likes · 88 comments · +299 min after first report · Did you have issues with your bank account today?💰👀\| #ONLYinDADE *🗞️ Customers of Chase, Bank of America, Wells Fargo and U.S. Bank reported issues accessing their accounts and completing transaction
 
 ### 8. McDonald's brings back 'Home Alone' with a holiday meal
 
-**Score** 134 · **Category** trending · **First seen** 2026-11-17 13:00 UTC · **Last update** 2026-11-18 19:02 UTC
+**Score** 138 · **Category** trending · **First seen** 2026-11-17 13:00 UTC · **Last update** 2026-11-18 19:50 UTC
 
-**Status** Confirmed · independent reports: 6 of 12 feeds · official: none · independent newsrooms: 5
+**Status** Confirmed · independent reports: 6 of 13 feeds · official: none · independent newsrooms: 5
 
-**Duplicates collapsed**: 3 of 12 feeds repeat the same report.
+**Duplicates collapsed**: 4 of 13 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
@@ -337,7 +341,7 @@ Lead: [New York Post — California’s 4 toughest DMV offices to pass a driving
 - The promotion marks the 36th anniversary of the film Home Alone. — support: 4
 - Macaulay Culkin appears in a McDonald's advertisement related to the Home Alone promotion. — support: 1
 
-> 3 of the 9 independent reports in the cluster cover related updates, not this headline. 12 feeds carry 9 independent reports (the rest are duplicates). Reports disagree on whether the promotion is a general holiday meal or specifically tied to the 36th anniversary of the film. 1 key claim stated by a single report: “Macaulay Culkin appears in a McDonald's advertisement related to the H”
+> 3 of the 9 independent reports in the cluster cover related updates, not this headline. 13 feeds carry 9 independent reports (the rest are duplicates). Reports disagree on whether the promotion is a general holiday meal or specifically tied to the 36th anniversary of the film. 1 key claim stated by a single report: “Macaulay Culkin appears in a McDonald's advertisement related to the H”
 
 Kevin McAllister, the famous abandoned tyke from the popular “Home Alone” movies is back on screens — though probably not in the way anybody expected. Macaulay Culkin, the actor who played the role in the landmark 1990 film and its sequel, has revived a decidedly older version of the character in a new commercial for […]
 
@@ -366,54 +370,84 @@ Lead: [Dexerto — McDonald’s reveals Home Alone Meal with pizza-flavored frie
 - [@markets](https://www.instagram.com/p/Df2V5nNjp7x/) · 0 likes · 4 comments · 240 min before first report · Home Alone 2: Lost in New York is one of the most beloved Christmas movies ever, but some of its secrets might surprise even the biggest fans. From Macaulay Culkin earning a record breaking $4.5 milli
 - [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 1,002 comments · +432 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
 
-### 9. Top Nvidia lawyer agrees to testify before Congress
+### 9. Waymo suspends freeway rides nationwide after California DMV order
 
-**Score** 132 · **First seen** 2026-11-16 13:14 UTC · **Last update** 2026-11-18 16:14 UTC
+**Score** 133 · **State** CA · **First seen** 2026-11-17 19:38 UTC · **Last update** 2026-11-18 16:20 UTC
 
-**Status** Confirmed · independent reports: 8 of 12 feeds · official: none · independent newsrooms: 7
+**Status** Confirmed · independent reports: 7 of 20 feeds · official: none · independent newsrooms: 7
 
-**Duplicates collapsed**: 1 of 12 feeds repeat the same report.
+**Wire copies collapsed**: Associated Press ×2.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Former Nvidia CEO Jensen Huang has agreed to testify before Congress in December. — support: 5
-- Lawmakers are investigating Jensen Huang regarding an alleged affair with a Chinese spy and potential security compromises. — support: 4
-- Nvidia general counsel Tim Teter has agreed to testify before Congress. — support: 3
-- Over 175,000 people have signed a petition to bring Jensen Huang back to Nvidia. — support: 1
+- The California Department of Motor Vehicles banned Waymo from operating driverless taxis on state freeways. — support: 5
+- The California DMV cited an imminent hazard to public safety as the reason for the ban. — support: 3
+- The restrictions on Waymo freeway operations took effect on November 11. — support: 2
+- Waymo suspended its freeway rides nationwide following the California DMV order. — support: 2
 
-> 3 of the 11 independent reports in the cluster cover related updates, not this headline. Reports differ on whether Tim Teter is confirmed to testify alongside Jensen Huang or if he is being requested for a separate interview. 1 key claim stated by a single report: “Over 175,000 people have signed a petition to bring Jensen Huang back ”
+> 3 of the 10 independent reports in the cluster cover related updates, not this headline. 20 feeds carry 10 independent reports (wire copies: Associated Press). Reports differ on whether the suspension of freeway rides is limited to California or applies nationwide.
 
-Jensen Huang and Nvidia general counsel Tim Teter will officially testify before Congress in early December, lawmakers announced Tuesday. Why it matters: Lawmakers are seeking answers about whether Nvidia's powerful AI chips were compromised by Chinese intelligence and whether the company did enough to protect sensitive American technology. Huang and Teter will participate in transcribed, closed-door interviews with…
+California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th. The crackdown follows two recent high-profile Bay Area incidents, in which Waymo robotaxis drove into an active construction […]
 
-Lead: [PC Gamer — Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition](https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/)
+Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways after string of traffic incidents](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/)
 
 **Where it was published**
 
-- 2026-11-16 13:14 UTC · PC Gamer · [Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition](https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/)
-- 2026-11-17 15:24 UTC · CBS News · [Ex-Nvidia CEO Jensen Huang agrees to testify to Congress amid affair probe](https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/)
-- 2026-11-17 15:37 UTC · Axios · [Jensen Huang agrees to face Congress over Nvidia scandal](https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates)
-- 2026-11-17 15:40 UTC · New York Post · [Disgraced ex-Nvidia CEO Jensen Huang to testify before Congress next month](https://nypost.com/2026/11/17/business/disgraced-ex-nvidia-ceo-jensen-huang-to-testify-before-congress-next-month/)
-- 2026-11-17 15:43 UTC · The Hill · [Top Nvidia lawyer agrees to testify before Congress](https://thehill.com/policy/technology/6225075-nvidia-counsel-teter-jensen-huang-testimony/)
-- 2026-11-17 15:44 UTC · WSVN Miami (FL) · [Former Nvidia CEO Jenson Huang to appear before Congress next month as national security questions intensify](https://wsvn.com/news/us-world/former-nvidia-ceo-jenson-huang-to-appear-before-congress-next-month-as-national-security-questions-intensify/)
-- 2026-11-17 15:44 UTC · WSVN Miami (FL) · [Former Nvidia CEO Jenson Huang to appear before Congress next month as national security questions intensify](https://wsvn.com/news/us-world/jensen-huang-congress-appearance/)
-- 2026-11-17 17:05 UTC · UPI Top · [Former Nvidia CEO Jensen Huang agrees to testify before Congress](https://www.upi.com/Top_News/US/2026/11/17/nvidia-huang-congress-house-national-security/9761794933298/)
-- 2026-11-17 17:36 UTC · NPR · [Huang says he'd be "honored" to return to Nvidia as he agrees to testify to Congress](https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress)
-- 2026-11-17 17:58 UTC · Guardian US · [Jensen Huang to testify before Congress on ‘potential breach of national security’](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy)
-- 2026-11-17 19:07 UTC · CBS News · [Jensen Huang says he's willing to return as Nvidia CEO](https://www.cbsnews.com/video/jensen-huang-says-hes-willing-to-return-as-nvidia-ceo/)
-- 2026-11-17 21:36 UTC · The Hill · [Democratic lawmakers slam Huang statement on possible Nvidia return: ‘Slow your roll’](https://thehill.com/business/6226369-democrats-oppose-huang-nvidia-return/)
+- 2026-11-17 19:38 UTC · KTLA (CA) · [California DMV bans Waymo from operating on state freeways after string of traffic incidents](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/)
+- 2026-11-17 19:38 UTC · The Verge · [California just banned Waymo from all state freeways](https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety)
+- 2026-11-17 19:49 UTC · TechCrunch · [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
+- 2026-11-17 21:57 UTC · Engadget · [Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'](https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/)
+- 2026-11-17 23:24 UTC · NBC News · [Waymo robotaxis banned from California freeways](https://www.nbcnews.com/news/us-news/waymo-robotaxis-banned-california-freeways-rcna609917)
+- 2026-11-18 02:07 UTC · KHOU (TX) · [Waymo suspends rides on all freeways in the US](https://www.khou.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
+- 2026-11-18 02:07 UTC · WFAA Dallas (TX) · [Waymo suspends rides on all freeways in the US](https://www.wfaa.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
+- 2026-11-18 02:07 UTC · 9News Denver (CO) · [Waymo suspends rides on all freeways in the US](https://www.9news.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
+- 2026-11-18 02:07 UTC · KING5 Seattle (WA) · [Waymo suspends rides on all freeways in the US](https://www.king5.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
+- 2026-11-18 11:11 UTC · ABC News · [Waymo driverless cars barred from California freeways following troubling incidents](https://abcnews.com/US/waymo-driverless-cars-barred-california-freeways-series-troubling/story?id=138221652)
+- 2026-11-18 11:33 UTC · ABC7 LA (CA) · [Waymo driverless cars barred from California freeways following series of troubling incidents](https://abc7.com/story/waymo-driverless-cars-barred-california-freeways-following-series-troubling-incidents/20050911/)
+- 2026-11-18 11:33 UTC · ABC13 Houston (TX) · [Waymo driverless cars barred from California freeways following series of troubling incidents](https://abc13.com/story/waymo-driverless-cars-barred-california-freeways-following-series-troubling-incidents/20050911/)
 
-**Who posted it on Instagram** (7 pages, 305,008 likes, 11 posts)
+**Who posted it on Instagram** (1 pages, 1,048 likes, 1 posts)
 
-- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 162,263 likes · 1,433 comments · +1639 min after first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
-- [@dailymail](https://www.instagram.com/p/DfzRknNjUQE/) · 5,545 likes · 157 comments · 92 min before first report · Jensen Huang is considering a comeback as Nvidia's chief executive, and has discussed with confidants the possibility of returning, the Financial Times reported, citing people familiar with the matter
-- [@nypost](https://www.instagram.com/p/DfxEsLakxi_/) · 866 likes · 28 comments · 1245 min before first report · “Saturday Night Live” roasted ousted Nvidia CEO Jensen Huang over his affair with a suspected Chinese spy — bringing back Bowen Yang to play the disgraced tech executive. Yang, who departed the NBC sh
-- [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +2107 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
-- [@explainscience.ai](https://www.instagram.com/p/Dfw5I4KkhfP/) · 334 likes · 1 comments · 1695 min before first report · The internet always delivers. The New York Times reports Jensen Huang had a second relationship, this time with Kimberly Powell, a Nvidia vice president who reports to him. Which reaction wins? Follow
-- [@movieshowtime](https://www.instagram.com/p/Df0YVWRHXRX/) · 122 likes · 0 comments · +1185 min after first report · Man 😭 A U.S. intelligence memo alleged Nvidia CEO Jensen Huang had a romantic relationship with a tech executive believed to have been recruited by China's Ministry of State Security, per the Financia
+- [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +964 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
 
-### 10. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
+### 10. Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]
 
-**Score** 126 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 18:30 UTC
+**Score** 133 · **Category** trending · **First seen** 2026-11-16 16:30 UTC · **Last update** 2026-11-18 12:24 UTC
+
+**Status** Unverified · independent reports: 1 of 2 feeds · official: none · independent newsrooms: 0
+
+**Duplicates collapsed**: 1 of 2 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The horror game Endacopia is coming to consoles next year — support: 2
+- Endacopia earned six nominations for The Horror Game Awards 2026 — support: 2
+- Endacopia is currently available on Steam — support: 2
+- AndyLand is the independent developer of Endacopia — support: 2
+
+> One independent report so far; not independently confirmed.
+
+After earning six nominations for The Horror Game Awards 2026, independent developer AndyLand has announced that their twisted take on children’s educational computer games in Endacopia will be coming to consoles next year. Currently available on Steam (including a demo), Endacopia is available to wishlist on the Xbox Series, PlayStation 5, and will also be […] The post Surreal Point-and-Click Horror Adventure Game…
+
+Lead: [Bloody Disgusting — Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]](https://bloody-disgusting.com/?p=3975814)
+
+**Where it was published**
+
+- 2026-11-16 16:30 UTC · Bloody Disgusting · [Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]](https://bloody-disgusting.com/?p=3975814)
+- 2026-11-16 16:30 UTC · Bloody Disgusting · [Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]](https://bloody-disgusting.com/video-games/3975814/surreal-point-and-click-horror-adventure-game-endacopia-coming-to-consoles-trailer/)
+
+**Who posted it on Instagram** (22 pages, 316,817 likes, 30 posts)
+
+- [@pubity](https://www.instagram.com/p/Df2obM0Df4a/) · 298,566 likes · 3,785 comments · +1590 min after first report · A Reddit user booked a hotel room for a full week just to play GTA 6 at launch without any interruptions. GTA 6 launched on November 19, 2026 on PS5 and Xbox Series X\|S after multiple delays, having 
+- [@dexerto](https://www.instagram.com/p/DfzWd14G7Qy/) · 16,800 likes · 238 comments · 245 min before first report · To mark 25 years of console history, Xbox released a massive nostalgia update for Series X\|S and Xbox One players. Fans can now dive into their system settings to swap out their modern startup screen
+- [@mrhandyhero](https://www.instagram.com/reel/Df2hkb_xV2K/) · 178 likes · 0 comments · +1532 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
+- [@thehomie](https://www.instagram.com/reel/Df4nuNaIDw6/) · 120 likes · 4 comments · +2703 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
+- [@fancyyhomess](https://www.instagram.com/reel/Df2n4TiOYJT/) · 116 likes · 0 comments · +1586 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
+- [@marvelmoviefacts](https://www.instagram.com/reel/Df2n_oDv2ql/) · 116 likes · 0 comments · +1587 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
+
+### 11. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
+
+**Score** 126 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 18:49 UTC
 
 **Status** Confirmed · independent reports: 6 of 30 feeds · official: none · independent newsrooms: 3
 
@@ -452,9 +486,45 @@ Lead: [9News Denver (CO) — 'Baffling to me': Aviation expert says FAA's explan
 - [@thedailyshow](https://www.instagram.com/reel/Df1WNW5A-6N/) · 5,031 likes · 74 comments · +1951 min after first report · @jonstewart on Sean Duffy blaming a router: "I can't even order a Crunchwrap Supreme without 2-factor authentication, but somehow, there's a 'Turn Off America' switch somewhere in f**kin Arkansas?"
 - [@nypost](https://www.instagram.com/p/DfxKR_bk9qq/) · 443 likes · 31 comments · 749 min before first report · Transportation Secretary Sean Duffy said that air travel disruptions caused by the FAA’s nationwide ground stop Friday should resolve by the end of the day Monday at the latest. Duffy offered an optim
 
-### 11. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
+### 12. Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’
 
-**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 18:21 UTC
+**Score** 126 · **First seen** 2026-11-15 23:12 UTC · **Last update** 2026-11-18 19:40 UTC
+
+**Status** Developing · independent reports: 2 of 5 feeds · official: none · independent newsrooms: 1
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- President Donald Trump is traveling to Asia on a Qatari-gifted jet — support: 4
+- The presidential jet made an unplanned refueling stop diversion in Alaska due to extreme weather — support: 3
+- President Donald Trump arrived in the Philippines on Tuesday evening — support: 1
+- President Donald Trump blamed half-century-old aviation equipment for a nationwide FAA ground stop — support: 1
+
+> 2 independent reports only; details may still change. 3 of the 5 independent reports in the cluster cover related updates, not this headline. 2 key claims stated by a single report: “President Donald Trump arrived in the Philippines on Tuesday evening”; “President Donald Trump blamed half-century-old aviation equipment for ”
+
+President Donald Trump is expected to take the Qatari-gifted Air Force One to Asia on Monday as questions linger about upgrades the White House said were needed after a security threat from Iran forced the president to fly home from Turkey on a secret military plane in July, according to two U.S. officials.
+
+Lead: [NBC News — Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’](https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487)
+
+**Where it was published**
+
+- 2026-11-15 23:12 UTC · NBC News · [Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’](https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487)
+- 2026-11-16 16:18 UTC · Daily Mail US · [Trump blames old tech that had a 'heart attack' for FAA ground stop as he jets off to Asia on problematic Qatar-gifted jet amid security fears](https://www.dailymail.com/news/article-16296735/Trump-blames-old-tech-heart-attack-FAA-ground-stop-jets-Asia-problematic-Qatar-gifted-jet-amid-security-fears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-16 23:48 UTC · Fox News · [Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change)
+- 2026-11-17 00:17 UTC · Daily Mail US · [Qatari-gifted Air Force One carrying Trump to Asia makes unplanned diversion in Alaska amid 'extreme' weather conditions... with old presidential jet on its tail](https://www.dailymail.com/news/article-16297935/qatari-air-force-one-diverted-refueling-weather.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 11:17 UTC · Daily Mail US · [Trump fist pumps during king's welcome in the Philippines as he kicks off high-stakes Asia trip](https://www.dailymail.com/news/article-16299087/Trump-Philippines-kicks-high-stakes-Asia-trip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+
+**Who posted it on Instagram** (6 pages, 106,147 likes, 10 posts)
+
+- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · +1060 min after first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
+- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,760 likes · 2,410 comments · +2324 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
+- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,895 likes · 424 comments · +2403 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
+- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +2858 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
+- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · +1218 min after first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
+- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · +1412 min after first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
+
+### 13. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
+
+**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 19:54 UTC
 
 **Status** Confirmed · independent reports: 5 of 5 feeds · official: none · independent newsrooms: 5
 
@@ -487,44 +557,49 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - [@wasted](https://www.instagram.com/p/Df2QniVh0jJ/) · 7,178 likes · 66 comments · +1571 min after first report · 🧐 Grand Theft Auto VI, developed and published by Rockstar Games, is the highly anticipated eighth main entry in the Grand Theft Auto series. Set in the fictional state of Leonida—a sun-soaked, satir
 - [@dexerto](https://www.instagram.com/p/DfzdNA2mxf9/) · 4,287 likes · 51 comments · +3 min after first report · Reddit user u/NakedSnake21 has gone viral for recreating the same photo with three generations of Grand Theft Auto, capturing 18 years of his life in three pictures. He first posed with GTA 4 in 2008 
 
-### 12. Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]
+### 14. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
 
-**Score** 119 · **Category** trending · **First seen** 2026-11-16 16:30 UTC · **Last update** 2026-11-18 12:24 UTC
+**Score** 123 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
 
-**Status** Unverified · independent reports: 1 of 2 feeds · official: none · independent newsrooms: 0
+**Status** Confirmed · independent reports: 5 of 10 feeds · official: none · independent newsrooms: 3
 
-**Duplicates collapsed**: 1 of 2 feeds repeat the same report.
+**Wire copies collapsed**: NBC News ×5.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- The horror game Endacopia is coming to consoles next year — support: 2
-- Endacopia earned six nominations for The Horror Game Awards 2026 — support: 2
-- Endacopia is currently available on Steam — support: 2
-- AndyLand is the independent developer of Endacopia — support: 2
+- Nvidia board chair Harvey Jones stated the board does not intend to reinstate Jensen Huang as CEO. — support: 6
+- Jensen Huang resigned from his position as CEO of Nvidia. — support: 5
+- Colette Kress is serving as the interim CEO of Nvidia. — support: 1
 
-> One independent report so far; not independently confirmed.
+> 10 feeds carry 6 independent reports (wire copies: NBC News). 1 key claim stated by a single report: “Colette Kress is serving as the interim CEO of Nvidia.”
 
-After earning six nominations for The Horror Game Awards 2026, independent developer AndyLand has announced that their twisted take on children’s educational computer games in Endacopia will be coming to consoles next year. Currently available on Steam (including a demo), Endacopia is available to wishlist on the Xbox Series, PlayStation 5, and will also be […] The post Surreal Point-and-Click Horror Adventure Game…
+Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice […]
 
-Lead: [Bloody Disgusting — Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]](https://bloody-disgusting.com/?p=3975814)
+Lead: [NBC News — Nvidia board does not intend to reinstate Jensen Huang, chairman says](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600)
 
 **Where it was published**
 
-- 2026-11-16 16:30 UTC · Bloody Disgusting · [Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]](https://bloody-disgusting.com/?p=3975814)
-- 2026-11-16 16:30 UTC · Bloody Disgusting · [Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]](https://bloody-disgusting.com/video-games/3975814/surreal-point-and-click-horror-adventure-game-endacopia-coming-to-consoles-trailer/)
+- 2026-11-17 22:27 UTC · NBC News · [Nvidia board does not intend to reinstate Jensen Huang, chairman says](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600)
+- 2026-11-17 22:32 UTC · The Verge · [Read everything that Nvidia’s board chair had to say about Jensen Huang](https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang)
+- 2026-11-17 22:45 UTC · KING5 Seattle (WA) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.king5.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
+- 2026-11-17 22:45 UTC · KHOU (TX) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.khou.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
+- 2026-11-17 22:45 UTC · WFAA Dallas (TX) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.wfaa.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
+- 2026-11-17 22:45 UTC · 9News Denver (CO) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.9news.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
+- 2026-11-17 22:57 UTC · New York Post · [Nvidia board chairman shoots down rumors disgraced Jensen Huang will return as CEO](https://nypost.com/2026/11/17/business/nvidia-board-chairman-shoots-down-rumors-disgraced-jensen-huang-will-return-as-ceo/)
+- 2026-11-18 14:03 UTC · New York Post · [Nvidia’s Jensen Huang agrees to testify before Senate, Chairman Tim Scott says](https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/)
+- 2026-11-18 14:39 UTC · The Hill · [Nvidia rejects Huang offer to return as CEO](https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/)
+- 2026-11-18 16:45 UTC · UPI Top · [Jensen Huang to testify before Senate panel](https://www.upi.com/Top_News/US/2026/11/18/jensen-huang-agrees-to-testify-before-senate-banking-committee/7721795018138/)
 
-**Who posted it on Instagram** (20 pages, 1,451 likes, 28 posts)
+**Who posted it on Instagram** (4 pages, 163,657 likes, 4 posts)
 
-- [@mrhandyhero](https://www.instagram.com/reel/Df2hkb_xV2K/) · 178 likes · 0 comments · +1532 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
-- [@thehomie](https://www.instagram.com/reel/Df4nuNaIDw6/) · 120 likes · 4 comments · +2703 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
-- [@fancyyhomess](https://www.instagram.com/reel/Df2n4TiOYJT/) · 116 likes · 0 comments · +1586 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
-- [@marvelmoviefacts](https://www.instagram.com/reel/Df2n_oDv2ql/) · 116 likes · 0 comments · +1587 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
-- [@explainscenes](https://www.instagram.com/reel/Df2fxP2x6XQ/) · 96 likes · 3 comments · +1515 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
-- [@horseehome](https://www.instagram.com/reel/Df2hkc2RLPA/) · 95 likes · 0 comments · +1530 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
+- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 162,263 likes · 1,433 comments · 354 min before first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
+- [@dailymail](https://www.instagram.com/p/Df4Un1wDpzS/) · 836 likes · 30 comments · +738 min after first report · Tech giant Nvidia has forecast $130 billion in quarterly revenue, beating analyst expectations, as its board begins searching for a permanent CEO following Jensen Huang’s departure. The board says it 
+- [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +114 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
+- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · 202 min before first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 
-### 13. Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me”
+### 15. Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me”
 
-**Score** 112 · **First seen** 2026-11-16 08:54 UTC · **Last update** 2026-11-18 18:50 UTC
+**Score** 111 · **First seen** 2026-11-16 08:54 UTC · **Last update** 2026-11-18 18:50 UTC
 
 **Status** Confirmed · independent reports: 3 of 3 feeds · official: none · independent newsrooms: 2
 
@@ -553,37 +628,9 @@ Lead: [Deadline — Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +1866 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 - [@clips](https://www.instagram.com/p/Dfz2B2YIjNk/) · 9,640 likes · 198 comments · +488 min after first report · Robert Pattinson — Starring in Harry Potter and the Goblet of Fire, Twilight, The Lighthouse, and The Batman, this internationally acclaimed English actor has captivated millions with his transformati
 
-### 14. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
+### 16. US officially loses measles elimination status, PAHO says
 
-**Score** 112 · **First seen** 2026-11-18 00:40 UTC · **Last update** 2026-11-18 18:18 UTC
-
-**Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Karoline Leavitt appeared on Fox News on Tuesday morning. — support: 1
-- Karoline Leavitt stated that the White House is not providing full information regarding cyber chaos. — support: 1
-
-> One independent report so far; not independently confirmed. 2 key claims stated by a single report: “Karoline Leavitt appeared on Fox News on Tuesday morning.”; “Karoline Leavitt stated that the White House is not providing full inf”
-
-The country needs answers. But it seems the White House isn't telling us everything, or much of anything at all. Karoline Leavitt boldly said as much on Fox News Tuesday morning.
-
-Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-
-**Where it was published**
-
-- 2026-11-18 00:40 UTC · Daily Mail US · [Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-
-**Who posted it on Instagram** (4 pages, 85,281 likes, 5 posts)
-
-- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · 1908 min before first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
-- [@nypost](https://www.instagram.com/p/Df0Dhd5EUVk/) · 2,283 likes · 595 comments · 1705 min before first report · President Trump defended the White House restoration work, saying he has a responsibility to maintain the historic building before criticizing a reporter’s questions about the project.
-- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,059 likes · 934 comments · 1739 min before first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
-- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · 1556 min before first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
-
-### 15. US officially loses measles elimination status, PAHO says
-
-**Score** 110 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
+**Score** 109 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
 
 **Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 6
 
@@ -621,7 +668,7 @@ Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threa
 
 - [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 433 likes · 95 comments · +3090 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
 
-### 16. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
+### 17. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
 
 **Score** 109 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-18 10:43 UTC
 
@@ -649,9 +696,9 @@ Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tir
 - [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 8,336 likes · 30 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
 - [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 16 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
 
-### 17. Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album
+### 18. Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album
 
-**Score** 108 · **Category** trending · **First seen** 2026-11-17 06:56 UTC · **Last update** 2026-11-18 00:38 UTC
+**Score** 107 · **Category** trending · **First seen** 2026-11-17 06:56 UTC · **Last update** 2026-11-18 00:38 UTC
 
 **Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
@@ -679,7 +726,7 @@ Lead: [Just Jared — Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy N
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 980 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
 - [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · +489 min after first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
 
-### 18. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
+### 19. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
 
 **Score** 107 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 16:45 UTC
 
@@ -717,7 +764,7 @@ Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s 
 - [@nypost](https://www.instagram.com/p/Df0vPJHsZy4/) · 3,883 likes · 31 comments · +862 min after first report · The Empire State Building is shining red in celebration of the New York Post’s 225th anniversary!🗽 Founded by Alexander Hamilton in 1801, the Post has been part of New York City’s story for more than 
 - [@pagesix](https://www.instagram.com/p/Df0JgnIt00m/) · 3,072 likes · 315 comments · +533 min after first report · Martha Stewart and Gov. Kathy Hochul join Editor-in-Chief Keith Poole to light the Empire State Building for New York Post’s 225 Anniversary 🗞️
 
-### 19. David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions
+### 20. David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions
 
 **Score** 107 · **Category** trending · **First seen** 2026-11-17 02:57 UTC · **Last update** 2026-11-17 23:45 UTC
 
@@ -752,7 +799,7 @@ Lead: [Page Six — ‘The Further Mis-Adventures of Cliff Booth’ LA premiere 
 - [@imax](https://www.instagram.com/p/Df2zAfJGiDV/) · 1,723 likes · 11 comments · +1054 min after first report · Word on the street? Cliff Booth is back and turning heads. See THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH first only in IMAX November 25. Get tickets now at the link in bio.
 - [@pagesix](https://www.instagram.com/p/Df2XYYdE6Nh/) · 360 likes · 6 comments · +933 min after first report · Brad Pitt just gave an "Ocean's 14" production update 👀 📸: Getty, 🎤: comments via Variety/X
 
-### 20. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
+### 21. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
 
 **Score** 107 · **Category** trending · **First seen** 2026-11-17 21:43 UTC · **Last update** 2026-11-18 11:00 UTC
 
@@ -781,9 +828,9 @@ Lead: [TMZ — Paris Hilton Meets with House Speaker Mike Johnson Amid Fight Aga
 
 - [@npr](https://www.instagram.com/reel/Df3NnmSlQF9/) · 32,819 likes · 587 comments · +164 min after first report · When Paris Hilton (@parishilton) was 19, her ex-boyfriend shared an intimate video of her without her consent.⁠ ⁠ More than two decades later, Hilton says she’s being revictimized as her image now spr
 
-### 21. Apple hit by widespread outages as tech problems continue
+### 22. Apple hit by widespread outages as tech problems continue
 
-**Score** 107 · **Category** weather · **First seen** 2026-11-17 15:45 UTC · **Last update** 2026-11-18 02:17 UTC
+**Score** 106 · **Category** weather · **First seen** 2026-11-17 15:45 UTC · **Last update** 2026-11-18 02:17 UTC
 
 **Status** Confirmed · independent reports: 2 of 8 feeds · official: none · independent newsrooms: 2
 
@@ -816,7 +863,7 @@ Lead: [Engadget — How to sideload apps on iOS (even if you're in the US)](http
 - [@dailymail](https://www.instagram.com/p/Df2mEWsglYo/) · 43,883 likes · 1,229 comments · +174 min after first report · Apple has been hit by a widespread outage, leaving some iPhone users unable to access their accounts. The tech giant’s system status page flagged a problem with ‘iCloud Account & Sign In,’ warning: ‘A
 - [@nypost](https://www.instagram.com/p/Df2jBwjE_0_/) · 6,755 likes · 276 comments · +148 min after first report · BREAKING: Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdete
 
-### 22. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
+### 23. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
 
 **Score** 105 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-18 13:07 UTC
 
@@ -856,9 +903,9 @@ Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.
 
 - [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
 
-### 23. Mamdani disbanding controversial NYPD unit
+### 24. Mamdani disbanding controversial NYPD unit
 
-**Score** 105 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 16:00 UTC
+**Score** 104 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 16:00 UTC
 
 **Status** Confirmed · independent reports: 9 of 15 feeds · official: none · independent newsrooms: 7
 
@@ -894,7 +941,7 @@ Lead: [ABC7 NY (NY) — Exclusive: Mayor Mamdani, Commissioner Tisch on disbandi
 
 - [@dailymail](https://www.instagram.com/p/DfzR62QE3YM/) · 10,959 likes · 488 comments · +45 min after first report · New York City Mayor Zohran Mamdani is launching a two-day video game development competition, NYC Game Jam, challenging young New Yorkers to create an original game in just 48 hours. Participants will
 
-### 24. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
+### 25. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
 
 **Score** 104 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-18 01:17 UTC
 
@@ -929,42 +976,6 @@ Lead: [WCPO Cincinnati (OH) — Raye leads 2027 Grammy nominations, followed by 
 
 - [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · +60 min after first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 39 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
-
-### 25. Miami Heat Reveal “Vice City” Court For GTA VI Game Release
-
-**Score** 103 · **Category** trending · **First seen** 2026-11-16 16:00 UTC · **Last update** 2026-11-18 18:42 UTC
-
-**Status** Confirmed · independent reports: 5 of 6 feeds · official: none · independent newsrooms: 5
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- The Miami Heat have partnered with Rockstar Games to celebrate the launch of GTA 6 — support: 3
-- The Miami Heat unveiled a special edition Vice City themed basketball court — support: 4
-- NBA 2K27 will feature a crossover with GTA 6 starting November 27 — support: 1
-- The Miami Heat court will make its only appearance of the season this week — support: 1
-
-> 2 key claims stated by a single report: “NBA 2K27 will feature a crossover with GTA 6 starting November 27”; “The Miami Heat court will make its only appearance of the season this ” Figures from one report only: $80.
-
-Ahead of the GTA 6 release this week, publisher Take-Two Interactive and 2K Sports have announced an NBA 2K27 crossover with the game. Starting November 27, Vice City will take over the digital basketball courts, and a special-edition NBA 2K27 Vice City Edition will also be released to promote GTA 6. The $80 digital-only NBA 2K27 Vice City Edition features Miami Heat player Bam Adebayo on the cover, and for that GTA…
-
-Lead: [GameSpot — NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/)
-
-**Where it was published**
-
-- 2026-11-16 16:00 UTC · GameSpot · [NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/)
-- 2026-11-17 21:10 UTC · Yahoo Sports · [Miami Heat ‘Vice City’ GTA 6-themed court: Photos & must-see details](https://sports.yahoo.com/articles/miami-heat-vice-city-gta-211033890.html)
-- 2026-11-18 03:56 UTC · Kotaku · [Miami Heat Players Flaunt Neat-Looking GTA 6-Themed PS5 Pros](https://kotaku.com/miami-heat-players-flaunt-neat-looking-gta-6-themed-ps5-pros-2000757883)
-- 2026-11-18 04:06 UTC · Yahoo Sports · [Miami Heat Reveal “Vice City” Court For GTA VI Game Release](https://sports.yahoo.com/articles/miami-heat-reveal-vice-city-040655333.html)
-- 2026-11-18 17:45 UTC · Yahoo Sports · [Heat Unveil Pink Vice City Court For Giannis Return Game](https://sports.yahoo.com/articles/heat-unveil-pink-vice-city-114500016.html)
-- 2026-11-18 18:42 UTC · Yahoo Sports · [Miami Heat embraces Vice City For GTA 6 launch collaboration](https://sports.yahoo.com/articles/miami-heat-embraces-vice-city-184228313.html)
-
-**Who posted it on Instagram** (5 pages, 75,256 likes, 6 posts)
-
-- [@onlyindade](https://www.instagram.com/p/DfziBMzsw4z/) · 38,902 likes · 302 comments · 111 min before first report · It’s GTA launch week and Vice City is ready 🌴 🌆 #gta6 #vicecity #dronepov
-- [@complex](https://www.instagram.com/p/Df30oZVDgI4/) · 20,724 likes · 236 comments · +2286 min after first report · This might be the longest 24 hours of my life 😭 ‘GTA 6’ is set to launch in less than 24 hours. After more than a decade since GTA 5, players will get to return to Vice City and explore Rockstar’s new
-- [@dexerto](https://www.instagram.com/p/Df08zJ_EcTw/) · 11,540 likes · 242 comments · +679 min after first report · Rockstar Games has explained why GTA 6 needed roughly a decade of development and nearly 5,000 staff, saying the studio could have made a cheaper, faster “GTA 5.5” but chose not to. Publishing head Je
-- [@bangerbuddy](https://www.instagram.com/p/Df0fVPjkQQj/) · 1,113 likes · 7 comments · +422 min after first report · Kalshi is offering up to $135,000 for someone to play GTA VI as their full-time job. 👀 The company is hiring a remote GTA VI Researcher to livestream their entire playthrough, break down Vice City’s i
-- [@epicfunnypage](https://www.instagram.com/reel/Dfz9VjygqX9/) · 1,057 likes · 25 comments · 420 min before first report · We got before GTA 6 nostalgia before GTA 6 Grand Theft Auto VI marks the franchise's return to Vice City, the fictional location inspired by Miami that first became famous in Grand Theft Auto: Vice Ci
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).
