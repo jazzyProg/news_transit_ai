@@ -63,14 +63,63 @@
         },
         "credibility": {
           "type": "object",
-          "description": "How far the evidence goes: consensus, not an independent fact-check.",
+          "description": "How far the evidence goes: consensus and mechanical checks, not an independent fact-check.",
           "properties": {
-            "status": {"type": "string", "enum": ["Confirmed", "Developing", "Unverified"]},
+            "status": {"type": "string", "enum": ["Confirmed", "Developing", "Unverified", "Disputed"]},
+            "independent_reports": {"type": "integer", "minimum": 0,
+                                    "description": "Independent accounts matching this item's framing, after collapsing wire copies."},
             "independent_newsrooms": {"type": "integer", "minimum": 0},
             "official_sources": {"type": "array", "items": {"type": "string"}},
             "tier_mix": {"type": "object", "additionalProperties": {"type": "integer"}},
             "aggregators": {"type": "array", "items": {"type": "string"}},
             "cluster_outlets": {"type": "integer", "minimum": 0},
+            "syndication": {
+              "type": "object",
+              "description": "Layer A: how many feeds carry how many independent reports.",
+              "properties": {
+                "feeds": {"type": "integer", "minimum": 0},
+                "independent": {"type": "integer", "minimum": 0, "description": "Independent reports in the cluster."},
+                "matching": {"type": "integer", "minimum": 0, "description": "Independent reports matching this headline."},
+                "collapsed_copies": {"type": "integer", "minimum": 0},
+                "wire_groups": {
+                  "type": "array",
+                  "items": {"type": "object", "properties": {
+                    "wire": {"type": ["string", "null"]},
+                    "outlets": {"type": "array", "items": {"type": "string"}},
+                    "count": {"type": "integer", "minimum": 0}}}
+                }
+              }
+            },
+            "numbers": {
+              "type": "array",
+              "description": "Layer B: every significant figure in the summary and how many independent reports carry it.",
+              "items": {"type": "object", "properties": {
+                "value": {"type": "string"},
+                "support": {"type": "integer", "minimum": 0},
+                "outlets": {"type": "array", "items": {"type": "string"}}}}
+            },
+            "corrections": {
+              "type": "array",
+              "description": "Layer D: later reports that retract, debunk, clarify or walk back this story.",
+              "items": {"type": "object", "properties": {
+                "title": {"type": "string"},
+                "outlet": {"type": "string"},
+                "url": {"type": "string", "format": "uri"},
+                "published": {"type": "integer"}}}
+            },
+            "claims": {
+              "type": ["array", "null"],
+              "description": "Layer C (optional, needs an LLM): key claims and how many of the numbered reports state each.",
+              "items": {"type": "object", "properties": {
+                "text": {"type": "string"},
+                "support": {"type": "integer", "minimum": 0},
+                "reports": {"type": "array", "items": {"type": "integer"}},
+                "kind": {"type": "string", "enum": ["fact", "number", "conflict"]}}}
+            },
+            "claims_checked": {"type": ["integer", "null"]},
+            "claims_model": {"type": ["string", "null"]},
+            "claims_error": {"type": ["string", "null"],
+                             "description": "Why layer C did not run: no key, quota, timeout. Layers A, B and D still ran."},
             "notice": {"type": ["string", "null"]}
           }
         },

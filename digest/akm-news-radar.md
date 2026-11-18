@@ -1,17 +1,17 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 17:30 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 17:43 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
 | 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 210 | Confirmed | 17 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
 | 2 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 183 | Confirmed | 25 | 3 | [CBS News](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/) |
 | 3 | Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth | 180 | Confirmed | 18 | 2 | [Live Science](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future) |
-| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 170 | Confirmed | 19 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
+| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 179 | Confirmed | 19 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
 | 5 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 150 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
-| 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 149 | Developing | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
+| 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 149 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
 | 7 | Top Nvidia lawyer agrees to testify before Congress | 136 | Confirmed | 10 | 7 | [The Verge](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china) |
-| 8 | Customers report difficulty accessing online services at major US banks | 136 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
+| 8 | Customers report difficulty accessing online services at major US banks | 135 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
 | 9 | Waymo suspends freeway rides nationwide after California DMV order | 134 | Confirmed | 20 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
 | 10 | McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items | 130 | Confirmed | 10 | 5 | [Dexerto](https://www.dexerto.com/food/mcdonalds-reveals-home-alone-meal-with-pizza-flavored-fries-and-collectible-socks-3428779/) |
 | 11 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 126 | Confirmed | 12 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
@@ -20,17 +20,17 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 | 14 | US officially loses measles elimination status, PAHO says | 110 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
 | 15 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 110 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
 | 16 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 108 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
-| 17 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | Developing | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
+| 17 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
 | 18 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 108 | Confirmed | 6 | 5 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
-| 19 | Apple hit by widespread outages as tech problems continue | 108 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
+| 19 | Apple hit by widespread outages as tech problems continue | 107 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
 | 20 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 106 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
 | 21 | Mamdani disbanding controversial NYPD unit | 105 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
 | 22 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 105 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
-| 23 | ‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse | 104 | Developing | 3 | 1 | [Deadline](https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/) |
-| 24 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 104 | Developing | 2 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/paris-hilton-begs-lawmakers-to-pass-defiance-act-vows-not-to-stop-until-its-law/) |
-| 25 | Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More | 103 | Unverified | 1 | 6 | [Us Weekly](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/) |
+| 23 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 104 | Developing | 2 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/paris-hilton-begs-lawmakers-to-pass-defiance-act-vows-not-to-stop-until-its-law/) |
+| 24 | Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More | 103 | Unverified | 1 | 6 | [Us Weekly](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/) |
+| 25 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 103 | Developing | 1 | 8 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
 
-**Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far. Read `credibility` in the JSON for the exact mix.
+**Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
 
 ## Details
@@ -39,7 +39,7 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 
 **Score** 210 · **Category** trending · **First seen** 2026-11-16 17:42 UTC · **Last update** 2026-11-18 16:58 UTC
 
-**Status** Confirmed · independent newsrooms: 13 · official: none · feeds: 48
+**Status** Confirmed · independent reports: 11 of 19 feeds · official: none · independent newsrooms: 8
 
 Amazon founder and chairman Jeff Bezos revealed during a recent appearance at Semafor’s Silicon Valley & The World event that he was “heavily involved” in Amazon MGM casting Robert Pattinson as the next James Bond. Bezos said that because Bond is traditionally a star-making role, they were at first “slightly biased” against casting Pattinson because […]
 
@@ -73,7 +73,11 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 
 **Score** 183 · **First seen** 2026-11-16 01:55 UTC · **Last update** 2026-11-18 14:08 UTC
 
-**Status** Confirmed · independent newsrooms: 21 · official: none · feeds: 30
+**Status** Confirmed · independent reports: 9 of 28 feeds · official: none · independent newsrooms: 9
+
+**Wire copies collapsed**: Associated Press ×5.
+
+> 8 of the 17 independent reports in the cluster cover related updates, not this headline. 28 feeds carry 17 independent reports (wire copies of Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original.
 
 Pope Leo wrapped up a historic visit to South America. He flew by helicopter to a mountainous area of Peru to celebrate Mass, where he once served as a missionary. Chris Livesay is traveling with the pontiff and has more.
 
@@ -104,7 +108,9 @@ Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a mi
 
 **Score** 180 · **First seen** 2026-11-15 20:00 UTC · **Last update** 2026-11-18 17:12 UTC
 
-**Status** Confirmed · independent newsrooms: 15 · official: none · feeds: 21
+**Status** Confirmed · independent reports: 9 of 31 feeds · official: none · independent newsrooms: 7
+
+> 5 of the 14 independent reports in the cluster cover related updates, not this headline.
 
 Nearly 50 years after launch, NASA's Voyager 1 probe will pass the one light-day mark on Nov. 18, a symbolic milestone for the agency's longest-running mission. Scientists reflect on the Voyager program's legacy and what comes next.
 
@@ -132,9 +138,11 @@ Lead: [Live Science — 'Out there, moving into the unknown': As Voyager 1 reach
 
 ### 4. Trump heads to Asia ahead of high-stakes meeting with Xi and Putin
 
-**Score** 170 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 15:39 UTC
+**Score** 179 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 15:39 UTC
 
-**Status** Confirmed · independent newsrooms: 16 · official: none · feeds: 21
+**Status** Confirmed · independent reports: 23 of 40 feeds · official: none · independent newsrooms: 20
+
+> 11 of the 34 independent reports in the cluster cover related updates, not this headline.
 
 Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts Xi Jinping and Vladimir…
 
@@ -148,12 +156,12 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 - 2026-11-16 16:20 UTC · CBS News · [Trump praises Duffy after FAA ground stop, says he wouldn't mind if Jensen Huang returns to Nvidia](https://www.cbsnews.com/video/trump-praises-duffy-after-faa-ground-stop-says-he-wouldnt-mind-if-jensen-huang-returns-to-nvidia/)
 - 2026-11-16 16:24 UTC · WSVN Miami (FL) · [Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting](https://wsvn.com/news/politics/trump-asia-trip-china-russia/)
 - 2026-11-16 16:26 UTC · WCPO Cincinnati (OH) · [Trump opens door to meeting with Kim Jong Un as he heads to Asia](https://www.wcpo.com/politics/the-president/trump-opens-door-to-meeting-with-kim-jong-un-as-he-heads-to-asia)
-- 2026-11-16 17:55 UTC · Fox News · [Trump brings two divided Cabinet heavyweights to China as controversy hangs over high-stakes talks](https://www.foxnews.com/politics/trump-brings-two-divided-cabinet-heavyweights-china-controversy-hangs-over-high-stakes-talks)
 - 2026-11-16 23:48 UTC · Fox News · [Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change)
 - 2026-11-17 00:43 UTC · CBS News · [Trump traveling to China amid Nvidia scandal fallout](https://www.cbsnews.com/video/trump-traveling-china-amid-nvidia-scandal-fallout/)
 - 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
 - 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
 - 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
+- 2026-11-17 10:17 UTC · New York Post · [Trump arrives in Philippines to kick off Asia trip ahead of historic three-way nuclear talks with Xi and Putin](https://nypost.com/2026/11/17/us-news/trump-arrives-in-philippines-to-kick-off-asia-trip-ahead-of-historic-three-way-nuclear-talks-with-xi-and-putin/)
 
 **Who posted it on Instagram** (3 pages, 12,490 likes, 4 posts)
 
@@ -165,7 +173,7 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 
 **Score** 150 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
 
-**Status** Confirmed · independent newsrooms: 17 · official: none · feeds: 22
+**Status** Confirmed · independent reports: 11 of 22 feeds · official: none · independent newsrooms: 7
 
 Government agencies and TV broadcasters are telling Americans not to be alarmed by a nationwide Emergency Alert System test taking place on Tuesday.
 
@@ -196,9 +204,7 @@ Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert Syste
 
 **Score** 149 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 17:15 UTC
 
-**Status** Developing · independent newsrooms: 1 · official: none · feeds: 16
-
-> Carried by 4 feeds but fewer than two independent newsrooms; details may change.
+**Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 2
 
 Katniss and Peeta are together again! Jennifer Lawrence reunited with Josh Hutcherson at the premiere of The Hunger Games: Sunrise […] The post Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
@@ -226,7 +232,9 @@ Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Jo
 
 **Score** 136 · **First seen** 2026-11-15 19:15 UTC · **Last update** 2026-11-18 16:14 UTC
 
-**Status** Confirmed · independent newsrooms: 9 · official: none · feeds: 34
+**Status** Confirmed · independent reports: 6 of 13 feeds · official: none · independent newsrooms: 5
+
+> 6 of the 12 independent reports in the cluster cover related updates, not this headline.
 
 Jensen Huang and Nvidia general counsel Tim Teter will officially testify before Congress in early December, lawmakers announced Tuesday. Why it matters: Lawmakers are seeking answers about whether Nvidia's powerful AI chips were compromised by Chinese intelligence and whether the company did enough to protect sensitive American technology. Huang and Teter will participate in transcribed, closed-door interviews with…
 
@@ -258,9 +266,11 @@ Lead: [The Verge — Congress wants to tighten export rules on AI chips after Nv
 
 ### 8. Customers report difficulty accessing online services at major US banks
 
-**Score** 136 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-17 17:45 UTC
+**Score** 135 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-17 17:45 UTC
 
-**Status** Confirmed · independent newsrooms: 13 · official: none · feeds: 17
+**Status** Confirmed · independent reports: 7 of 18 feeds · official: none · independent newsrooms: 4
+
+> 9 of the 16 independent reports in the cluster cover related updates, not this headline.
 
 Thousands of customers at some of the nation's largest banks reported difficulty accessing their online accounts and the money transfer service Zelle on Monday. Downdetector.com showed issues were reported by customers trying to access Chase, Bank of America, U.S. Bank, Wells Fargo and Zelle online. A Chase spokesperson said, "JPMorganChase has experienced a temporary issue [...]
 
@@ -293,7 +303,11 @@ Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Repor
 
 **Score** 134 · **State** CA · **First seen** 2026-11-17 19:38 UTC · **Last update** 2026-11-18 16:20 UTC
 
-**Status** Confirmed · independent newsrooms: 20 · official: none · feeds: 22
+**Status** Confirmed · independent reports: 7 of 20 feeds · official: none · independent newsrooms: 7
+
+**Wire copies collapsed**: Associated Press ×2.
+
+> 3 of the 10 independent reports in the cluster cover related updates, not this headline.
 
 California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th. The crackdown follows two recent high-profile Bay Area incidents, in which Waymo robotaxis drove into an active construction […]
 
@@ -322,7 +336,9 @@ Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways 
 
 **Score** 130 · **Category** trending · **First seen** 2026-11-17 13:00 UTC · **Last update** 2026-11-18 16:24 UTC
 
-**Status** Confirmed · independent newsrooms: 8 · official: none · feeds: 11
+**Status** Confirmed · independent reports: 5 of 11 feeds · official: none · independent newsrooms: 4
+
+> 3 of the 8 independent reports in the cluster cover related updates, not this headline.
 
 Kevin McAllister, the famous abandoned tyke from the popular “Home Alone” movies is back on screens — though probably not in the way anybody expected. Macaulay Culkin, the actor who played the role in the landmark 1990 film and its sequel, has revived a decidedly older version of the character in a new commercial for […]
 
@@ -354,7 +370,9 @@ Lead: [Dexerto — McDonald’s reveals Home Alone Meal with pizza-flavored frie
 
 **Score** 126 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 15:14 UTC
 
-**Status** Confirmed · independent newsrooms: 10 · official: none · feeds: 24
+**Status** Confirmed · independent reports: 6 of 30 feeds · official: none · independent newsrooms: 3
+
+> 21 of the 27 independent reports in the cluster cover related updates, not this headline.
 
 President Trump said Monday that he doesn’t take any responsibility for the Federal Aviation Administration’s nationwide ground stop last week, instead blaming the old equipment and past administrations. “I don’t take any responsibility,” he told reporters outside the White House before departing for Asia. “They did a great job — [Transportation] Secretary [Sean] Duffy —…
 
@@ -385,7 +403,7 @@ Lead: [9News Denver (CO) — 'Baffling to me': Aviation expert says FAA's explan
 
 **Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 17:24 UTC
 
-**Status** Confirmed · independent newsrooms: 3 · official: none · feeds: 41
+**Status** Confirmed · independent reports: 5 of 5 feeds · official: none · independent newsrooms: 5
 
 Some fans who came to South Florida to celebrate the release of “Grand Theft Auto: VI” have been enamored by the city’s cross-promotions with the...
 
@@ -412,9 +430,9 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 
 **Score** 112 · **First seen** 2026-11-18 00:40 UTC · **Last update** 2026-11-18 16:48 UTC
 
-**Status** Unverified · independent newsrooms: 0 · official: none · feeds: 14
+**Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
-> Reported by a single outlet so far; not independently confirmed. Only one outlet on record: treat as unconfirmed until a second one reports it.
+> One independent report so far; not independently confirmed.
 
 The country needs answers. But it seems the White House isn't telling us everything, or much of anything at all. Karoline Leavitt boldly said as much on Fox News Tuesday morning.
 
@@ -435,7 +453,9 @@ Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth abou
 
 **Score** 110 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
 
-**Status** Confirmed · independent newsrooms: 13 · official: none · feeds: 14
+**Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 6
+
+> 5 of the 12 independent reports in the cluster cover related updates, not this headline.
 
 The U.S. on Tuesday officially lost its measles elimination status for the first time since it gained this distinction more than 25 years ago, with a count of more than 7,700 cases in the past two years and more than 10 deaths reported by states since 2025. The Pan American Health Organization (PAHO) made the [...]
 
@@ -464,9 +484,9 @@ Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threa
 
 **Score** 110 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-18 10:43 UTC
 
-**Status** Unverified · independent newsrooms: 0 · official: none · feeds: 4
+**Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
-> Reported by a single outlet so far; not independently confirmed. Only one outlet on record: treat as unconfirmed until a second one reports it.
+> One independent report so far; not independently confirmed.
 
 Although I’ve lived in New York for 11 years, I’ve never adopted the all-black wardrobe the city is typically known for. What can I say? My clothes need to be colorful and whimsical! I find plenty of ways to incorporate color into my fits and admire when people add electric pops. Jennifer Lawrence gave me […]
 
@@ -488,9 +508,9 @@ Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tir
 
 **Score** 108 · **Category** trending · **First seen** 2026-11-17 06:56 UTC · **Last update** 2026-11-18 00:38 UTC
 
-**Status** Unverified · independent newsrooms: 0 · official: none · feeds: 4
+**Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
-> Reported by a single outlet so far; not independently confirmed. Only one outlet on record: treat as unconfirmed until a second one reports it.
+> One independent report so far; not independently confirmed.
 
 Cara Paige is a first-time Grammy Award nominee, nearly five years after she first went viral for her song “Ur […] The post Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
@@ -512,9 +532,9 @@ Lead: [Just Jared — Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy N
 
 **Score** 108 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 16:45 UTC
 
-**Status** Developing · independent newsrooms: 1 · official: none · feeds: 3
+**Status** Unverified · independent reports: 1 of 12 feeds · official: none · independent newsrooms: 0
 
-> Carried by 3 feeds but fewer than two independent newsrooms; details may change.
+> One independent report so far; not independently confirmed. 11 of the 12 independent reports in the cluster cover related updates, not this headline.
 
 Carly Stern, Wellness Editor at the New York Post, sits down with Dr. Caren Behar, Co-Director of the Mignone Women’s Health Collaborative and Medical Director at NYU Langone’s Joan H. Tisch Center for Women’s Health, to separate health fact from social media fiction. From quick “movement snacks” and better sleep habits to supplements and viral...
 
@@ -545,7 +565,7 @@ Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s 
 
 **Score** 108 · **Category** trending · **First seen** 2026-11-17 02:57 UTC · **Last update** 2026-11-17 23:45 UTC
 
-**Status** Confirmed · independent newsrooms: 2 · official: none · feeds: 10
+**Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 2
 
 David Fincher, Brad Pitt and Quentin Tarantino’s long-awaited “Once Upon a Time in Hollywood” sequel movie, officially titled “The Further Mis-Adventures of Cliff Booth,” has been unveiled to members of the film press, who are calling the Netflix-backed tentpole a “wildly entertaining” “hangout movie” that is already one of the year’s best. “David Fincher’s The […]
 
@@ -570,9 +590,11 @@ Lead: [Page Six — ‘The Further Mis-Adventures of Cliff Booth’ LA premiere 
 
 ### 19. Apple hit by widespread outages as tech problems continue
 
-**Score** 108 · **Category** weather · **First seen** 2026-11-17 15:45 UTC · **Last update** 2026-11-18 02:17 UTC
+**Score** 107 · **Category** weather · **First seen** 2026-11-17 15:45 UTC · **Last update** 2026-11-18 02:17 UTC
 
-**Status** Confirmed · independent newsrooms: 7 · official: none · feeds: 10
+**Status** Confirmed · independent reports: 2 of 8 feeds · official: none · independent newsrooms: 2
+
+> 6 of the 8 independent reports in the cluster cover related updates, not this headline.
 
 Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdetector.
 
@@ -598,7 +620,7 @@ Lead: [Engadget — How to sideload apps on iOS (even if you're in the US)](http
 
 **Score** 106 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-18 13:07 UTC
 
-**Status** Confirmed · independent newsrooms: 5 · official: none · feeds: 16
+**Status** Confirmed · independent reports: 19 of 25 feeds · official: none · independent newsrooms: 2
 
 Saturday Night Live alum Heidi Gardner‘s boyfriend, filmmaker Ray Tintori, has reportedly died. He was 43. The New York City Office of Chief Medical Examiner confirmed to TMZ on Monday, November 16, that Tintori’s death is currently under investigation. A cause of death has not yet been determined by investigators. Us has reached out to […]
 
@@ -627,7 +649,9 @@ Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.
 
 **Score** 105 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 16:00 UTC
 
-**Status** Confirmed · independent newsrooms: 8 · official: none · feeds: 15
+**Status** Confirmed · independent reports: 9 of 15 feeds · official: none · independent newsrooms: 7
+
+> 6 of the 15 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: Top US, r/Fauxmoi, r/news); open the original.
 
 “During our campaign for mayor, I promised to disband the NYPD's strategic response group, known as the SRG. Today, we are keeping that promise. I am disbanding the SRG. SRG was tasked with both counterterrorism enforcement and protest response. Those are not the same, and they should be separated. Government has a responsibility to both protect New Yorkers' constitutional rights and keep our communities safe. Those…
 
@@ -656,7 +680,7 @@ Lead: [ABC7 NY (NY) — Exclusive: Mayor Mamdani, Commissioner Tisch on disbandi
 
 **Score** 105 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-18 01:17 UTC
 
-**Status** Confirmed · independent newsrooms: 7 · official: none · feeds: 12
+**Status** Confirmed · independent reports: 3 of 7 feeds · official: none · independent newsrooms: 3
 
 The 2027 Grammy nominations are in, with Raye leading the pack at 11 nods and women dominating the top categories. Which nominees stood out to you this year?
 
@@ -677,35 +701,13 @@ Lead: [WCPO Cincinnati (OH) — Raye leads 2027 Grammy nominations, followed by 
 - [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · +60 min after first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 39 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
 
-### 23. ‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse
-
-**Score** 104 · **Category** trending · **First seen** 2026-11-18 14:00 UTC · **Last update** 2026-11-18 15:30 UTC
-
-**Status** Developing · independent newsrooms: 1 · official: none · feeds: 4
-
-> Carried by 3 feeds but fewer than two independent newsrooms; details may change.
-
-Jason Voorhees is finally headed back to the big screen in a brand new 13th feature film, and Bloody Disgusting’s parent company Cineverse will unleash the film in theaters August 13, 2027. Titled JASON, the brand new movie will be directed by franchise legacy director Steve Miner, who first put the machete in Jason’s hands […] The post ‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from…
-
-Lead: [Deadline — New ‘Friday The 13th’ Movie Unveils Cast, Title & Release Date](https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/)
-
-**Where it was published**
-
-- 2026-11-18 14:00 UTC · Deadline · [New ‘Friday The 13th’ Movie Unveils Cast, Title & Release Date](https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/)
-- 2026-11-18 14:33 UTC · Bloody Disgusting · [‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse](https://bloody-disgusting.com/movie/3976124/jason-13th-official-movie-will-release-in-theaters-august-13-2027-from-cineverse/)
-- 2026-11-18 15:21 UTC · Just Jared · [New ‘Friday the 13th’ Movie Reveals Cast, Official Title & Release Date, Including Who’s Playing Jason Voorhees!](https://www.justjared.com/2026/11/18/new-friday-the-13th-movie-jason-cast-release-date-schuyler-white/)
-
-**Who posted it on Instagram** (1 pages, 0 likes, 1 posts)
-
-- [@feelthroughwords](https://www.instagram.com/p/Df3wjkCOaO5/) · 0 likes · 384 comments · 510 min before first report · Send this to yourself right now 🧿❤️ . . 🎬 : Pooja Meri Jaan. Pooja Meri Jaan follows Pooja Dogra (Mrunal Thakur), a spirited young woman whose life spirals into a nightmare after firmly turning down a
-
-### 24. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
+### 23. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
 
 **Score** 104 · **Category** trending · **First seen** 2026-11-17 23:46 UTC · **Last update** 2026-11-18 11:00 UTC
 
-**Status** Developing · independent newsrooms: 0 · official: none · feeds: 13
+**Status** Developing · independent reports: 2 of 2 feeds · official: none · independent newsrooms: 0
 
-> Carried by 2 feeds but fewer than two independent newsrooms; details may change.
+> 2 independent reports only; details may still change.
 
 Paris Hilton returned to Capitol Hill this week with U.S. Rep. Alexandria Ocasio-Cortez. The 45-year-old former reality star spoke during […] The post Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
@@ -720,13 +722,13 @@ Lead: [New York Post — Paris Hilton and AOC team up in Capitol crusade to stop
 
 - [@npr](https://www.instagram.com/reel/Df3NnmSlQF9/) · 32,819 likes · 587 comments · +41 min after first report · When Paris Hilton (@parishilton) was 19, her ex-boyfriend shared an intimate video of her without her consent.⁠ ⁠ More than two decades later, Hilton says she’s being revictimized as her image now spr
 
-### 25. Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More
+### 24. Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More
 
 **Score** 103 · **Category** trending · **First seen** 2026-11-17 01:18 UTC · **Last update** 2026-11-18 04:45 UTC
 
-**Status** Unverified · independent newsrooms: 0 · official: none · feeds: 8
+**Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
-> Reported by a single outlet so far; not independently confirmed. Only one outlet on record: treat as unconfirmed until a second one reports it.
+> One independent report so far; not independently confirmed.
 
 Beyoncé and Taylor Swift are just a few of the big names who have broken Grammy records over the course of the awards show’s history. In 2023, Beyoncé became the most-awarded artist in Grammys history with the 32nd trophy of her career, taking home the trophy for Best Dance/Electronic Album for Renaissance. It was her […]
 
@@ -744,6 +746,31 @@ Lead: [Us Weekly — Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift
 - [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · 544 min before first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 643 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
 - [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · +826 min after first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
+
+### 25. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
+
+**Score** 103 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-18 14:37 UTC
+
+**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
+
+> 1 independent report only; details may still change. Figures from one report only: $1.11, $1.77, $25.16, $25.95b, 16%.
+
+Disney’s studio, streaming operation and theme parks all posted stellar results in the company’s fiscal fourth quarter, handily beating Wall Street forecasts. Total revenue surged 16% over the year-earlier period, hitting $25.95 billion. Earnings per share excluding certain items shot up to $1.77 from $1.11 a year ago. Analysts had been expecting revenue of $25.16 […]
+
+Lead: [Deadline — Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/)
+
+**Where it was published**
+
+- 2026-11-17 11:37 UTC · Deadline · [Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/)
+
+**Who posted it on Instagram** (8 pages, 226,398 likes, 9 posts)
+
+- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 162,263 likes · 1,433 comments · +297 min after first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
+- [@fboy](https://www.instagram.com/p/Df2MPetxZ-h/) · 40,095 likes · 341 comments · 157 min before first report · Dakota Johnson revealed that she can sleep up to 14 HOURS a day, and people are saying the real secret to her beauty is being a MILLIONAIRE. 😭💀 In a 2023 interview with The Wall Street Journal, the ac
+- [@worldstar](https://www.instagram.com/p/Df2T3ZlG9wW/) · 16,142 likes · 555 comments · +263 min after first report · #WorldstarBirthdays - Happy 84th Birthday to the legendary Martin Scorsese! 🐐🔥 One of the greatest filmmakers of all time, Scorsese has given us timeless classics like Goodfellas, Raging Bull, Casino,
+- [@nypost](https://www.instagram.com/p/DfzrnDQEyR8/) · 6,504 likes · 148 comments · 1087 min before first report · Johnny Depp turns to the Bahamas to experience a private life. During an interview with the Wall Street Journal, Depp opened up about craving privacy and not being able to have it in the United States
+- [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +765 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
+- [@clips](https://www.instagram.com/p/Df3P1owKr_o/) · 385 likes · 6 comments · +788 min after first report · The Wolf of Wall Street (2013) tells the story of Jordan Belfort, played by Leonardo DiCaprio, a stockbroker who builds a massive fortune through corruption, fraud, extravagant parties, and outrageous
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).
