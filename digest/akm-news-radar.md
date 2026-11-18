@@ -1,6 +1,6 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 17:24 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 17:25 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Outlets | IG pages | Links |
 |---|---|---:|---:|---:|---|
@@ -21,10 +21,10 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 | 15 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 112 | 7 | 5 | [Deadline](https://news.google.com/rss/articles/CBMingFBVV95cUxOVUhuMmtvc0Q5OG5iMDZSME1fa3NybjMxV0FNZURPOWJjY21HdGVRdXAzWmpaVkJHTXRoUEtvYW00WDM3UTREYWRTV0w3WFRTQXJlcVg3MDBtNkhFcjAzSERTeUlwMk5nUDQxWGxVX3VrNWVnWl8wVlVaYjdIOVhIbjZPRmtSN2N1eGVOWWtlS1lMTmx3allwZ2RpTDU0dw?oc=5) |
 | 16 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 112 | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
 | 17 | Apple hit by widespread outages as tech problems continue | 112 | 9 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
-| 18 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 110 | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
-| 19 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 110 | 13 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
-| 20 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 109 | 23 | 0 | [Newsweek](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWw5dVlxYnV0N2NrZjZLYWt4ZDF3cHhBbTJBVXUxMEoyUWNuYTdvRkJpZ0VCZVRpTGprVlRVOVJRV1RvOFZQczFiNVVDak8xZk8wcTRxV3N0bjRzRERxQ2FCcG55S3I1ejhkbkhodlEtR1JiSUZWSnNRTGFyeTNwLW9ETmVoaUE1Y3EyN3piQWVwdGc0U0pBbURn?oc=5) |
-| 21 | US officially loses measles elimination status, PAHO says | 109 | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
+| 18 | US officially loses measles elimination status, PAHO says | 110 | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
+| 19 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 110 | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
+| 20 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 110 | 13 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
+| 21 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 109 | 23 | 0 | [Newsweek](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWw5dVlxYnV0N2NrZjZLYWt4ZDF3cHhBbTJBVXUxMEoyUWNuYTdvRkJpZ0VCZVRpTGprVlRVOVJRV1RvOFZQczFiNVVDak8xZk8wcTRxV3N0bjRzRERxQ2FCcG55S3I1ejhkbkhodlEtR1JiSUZWSnNRTGFyeTNwLW9ETmVoaUE1Y3EyN3piQWVwdGc0U0pBbURn?oc=5) |
 | 22 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 108 | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
 | 23 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
 | 24 | ‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse | 104 | 3 | 1 | [Deadline](https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827/) |
@@ -55,13 +55,13 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 - 2026-11-18 02:17 UTC · New York Post · [Jeff Bezos reveals that Robert Pattinson wasn’t selected as new James Bond until Friday](https://pagesix.com/2026/11/17/entertainment/jeff-bezos-reveals-that-robert-pattinson-wasnt-selected-as-new-james-bond-until-friday/)
 - 2026-11-18 09:53 UTC · NBC News · [Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond](https://www.nbcnews.com/pop-culture/pop-culture-news/jeff-bezos-heavily-involved-casting-robert-pattinson-james-bond-amazon-rcna609958)
 
-**Who posted it on Instagram** (23 pages, 1,035,157 likes, 43 posts)
+**Who posted it on Instagram** (23 pages, 1,048,248 likes, 45 posts)
 
-- [@complex](https://www.instagram.com/p/Df1GvR_u_4p/) · 367,380 likes · 3,238 comments · +664 min after first report · Brad Pitt is all set on Robert as James Bond 👀 Would yall want to see Brad as the villain in the next James Bond?
-- [@pubity](https://www.instagram.com/p/Df0RdSnETUM/) · 203,585 likes · 1,921 comments · +197 min after first report · Robert Pattinson has officially been announced as the next James Bond, becoming the 7th actor to play 007 in EON Productions history. He’ll star in the franchise’s 26th film, directed by Denis Villene
+- [@complex](https://www.instagram.com/p/Df1GvR_u_4p/) · 368,051 likes · 3,246 comments · +664 min after first report · Brad Pitt is all set on Robert as James Bond 👀 Would yall want to see Brad as the villain in the next James Bond?
+- [@pubity](https://www.instagram.com/p/Df0RdSnETUM/) · 204,517 likes · 1,924 comments · +197 min after first report · Robert Pattinson has officially been announced as the next James Bond, becoming the 7th actor to play 007 in EON Productions history. He’ll star in the franchise’s 26th film, directed by Denis Villene
 - [@fboy](https://www.instagram.com/reel/Dfzt8CVxJbb/) · 47,453 likes · 903 comments · 523 min before first report · Robert Pattinson’s performance in TENET (2020) feels like the perfect JAMES BOND audition now that he’s officially been cast as 007. 😭🔥 In Christopher Nolan’s mind-bending spy thriller, Pattinson play
 - [@fuckinggoodmovies](https://www.instagram.com/p/Dfz27A_EZjt/) · 39,098 likes · 505 comments · 523 min before first report · From ‘𝐇𝐚𝐫𝐫𝐲 𝐏𝐨𝐭𝐭𝐞𝐫’ and ‘𝐓𝐰𝐢𝐥𝐢𝐠𝐡𝐭’ to ‘The 𝐁𝐚𝐭𝐦𝐚𝐧,’ ‘𝐃𝐮𝐧𝐞,’ and ‘𝐓𝐡𝐞 𝐎𝐝𝐲𝐬𝐬𝐞𝐲,’ Pattinson is now set to take on another legendary role as the next James Bond, succeeding Daniel Craig in the 007 franchi
-- [@nugget](https://www.instagram.com/p/Dfz_lNPoHYm/) · 23,924 likes · 765 comments · +42 min after first report · Pierce Brosnan’s time as James Bond came to an unexpected end after four films, making him one of the few actors to publicly describe being dropped from the iconic role rather than choosing to leave. 
+- [@nugget](https://www.instagram.com/p/Dfz_lNPoHYm/) · 24,153 likes · 776 comments · +42 min after first report · Pierce Brosnan’s time as James Bond came to an unexpected end after four films, making him one of the few actors to publicly describe being dropped from the iconic role rather than choosing to leave. 
 - [@forbes](https://www.instagram.com/p/Dfzp4qvkwwA/) · 21,747 likes · 763 comments · 523 min before first report · The next James Bond has officially been revealed. ⁣ ⁣ Robert Pattinson, best known for his roles in Twilight and The Batman, is set to take over as 007, succeeding Daniel Craig after years of speculat
 
 ### 2. Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth
@@ -115,11 +115,11 @@ Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a mi
 - 2026-11-16 19:47 UTC · UPI Top · [Pope Leo XIV ends South American tour with calls for peace, justice](https://www.upi.com/Top_News/World-News/2026/11/16/latam-peru-pope-leo-concludes-visit/3861794857791/)
 - 2026-11-16 20:17 UTC · WCPO Cincinnati (OH) · [Pope bids 'hasta luego' to his second homeland of Peru as he wraps up marathon South American trip](https://www.wcpo.com/life/faith-and-religion/pope-bids-hasta-luego-to-his-second-homeland-of-peru-as-he-wraps-up-marathon-south-american-trip)
 
-**Who posted it on Instagram** (3 pages, 166,795 likes, 4 posts)
+**Who posted it on Instagram** (3 pages, 171,279 likes, 4 posts)
 
-- [@nugget](https://www.instagram.com/p/Df0KPEaIm3E/) · 153,543 likes · 276 comments · +1083 min after first report · photo of a young Pope Leo XIV celebrating his 40th birthday in 1995 has resurfaced, showing him years before becoming the leader of the Catholic Church. Born Robert Francis Prevost in Chicago, he spen
+- [@nugget](https://www.instagram.com/p/Df0KPEaIm3E/) · 158,021 likes · 279 comments · +1083 min after first report · photo of a young Pope Leo XIV celebrating his 40th birthday in 1995 has resurfaced, showing him years before becoming the leader of the Catholic Church. Born Robert Francis Prevost in Chicago, he spen
 - [@dailymail](https://www.instagram.com/p/DfzDRnCgU54/) · 5,428 likes · 101 comments · +463 min after first report · Pope Leo was greeted by children as he arrived at the Shrine of St Tiribius in Peru. A group of young children ran towards the Pope before surrounding him with open arms to hug the pontiff. #peru #pop
-- [@nypost](https://www.instagram.com/p/Df0mjqjjxFz/) · 2,824 likes · 196 comments · +1370 min after first report · Pope Leo’s run of successfully catching items tossed to him by crowds came to an end, as what appeared to be a rosary thrown in his direction struck him near the eye.
+- [@nypost](https://www.instagram.com/p/Df0mjqjjxFz/) · 2,830 likes · 196 comments · +1370 min after first report · Pope Leo’s run of successfully catching items tossed to him by crowds came to an end, as what appeared to be a rosary thrown in his direction struck him near the eye.
 
 ### 4. Trump heads to Asia ahead of high-stakes meeting with Xi and Putin
 
@@ -144,11 +144,11 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 - 2026-11-17 05:18 UTC · CNN via Google News: Top US · [Trump heads to Asia ahead of historic talks with Xi and Putin](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ25JQjBlM1VSNTUtOE5XcGJSU05pOThhUDRZTVdwUWZEYXdTcDNYYnNDcDRMazdqMUxHV0Z3WHlMem5DNklqVnhvOTlDOGJnYVp1eWdkN3RKUFZhNzI0Q0VIMW5sUUpaT2Vnc0xoRTVYZ0NWWjNWUnF2SGc2S1A4TDkzSENTZw?oc=5)
 - 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
 
-**Who posted it on Instagram** (3 pages, 12,385 likes, 4 posts)
+**Who posted it on Instagram** (3 pages, 12,490 likes, 4 posts)
 
-- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,805 likes · 417 comments · +1694 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
+- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,880 likes · 422 comments · +1694 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
 - [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +2149 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,053 likes · 931 comments · +520 min after first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
+- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,054 likes · 934 comments · +520 min after first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
 
 ### 5. ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know
 
@@ -173,11 +173,11 @@ Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert Syste
 - 2026-11-17 11:13 UTC · WFAA Dallas (TX) · [Nationwide test of emergency alert to sound on TV, radio. Here's what to know](https://www.wfaa.com/article/news/nation-world/nationwide-emergency-alert-tv-radio-fcc-fema-tuesday-november-17/507-d3a6eb8e-4d10-495e-b2b5-6ffd4d759c61)
 - 2026-11-17 11:13 UTC · 9News Denver (CO) · [Nationwide test of emergency alert to sound on TV, radio. Here's what to know](https://www.9news.com/article/news/nation-world/nationwide-emergency-alert-tv-radio-fcc-fema-tuesday-november-17/507-d3a6eb8e-4d10-495e-b2b5-6ffd4d759c61)
 
-**Who posted it on Instagram** (3 pages, 44,425 likes, 4 posts)
+**Who posted it on Instagram** (3 pages, 44,457 likes, 4 posts)
 
 - [@worldstar](https://www.instagram.com/p/Df0nkQqM-vH/) · 29,473 likes · 1,592 comments · +267 min after first report · #NEWS: FEMA and the FCC will conduct a nationwide test of the Emergency Alert System on November 17 at 2:20 PM ET. Radio and television programming will be briefly interrupted as officials test the sy
 - [@onlyindade](https://www.instagram.com/p/Df2GSPDoa0M/) · 9,470 likes · 243 comments · +1094 min after first report · FEMA said one minute test. The family WhatsApp said end of the world #ONLYinDADE Around 2:20 this afternoon, FEMA and the FCC are running the first nationwide Emergency Alert System test since October
-- [@nypost](https://www.instagram.com/p/Df2ohCEk4fl/) · 3,259 likes · 299 comments · +1397 min after first report · BREAKING: Yes, the alarms will sound — but there’s no need to panic. At 2:20 p.m. EST today, the Federal Emergency Management Agency (FEMA) will conduct a nationwide test of the Emergency Alert System
+- [@nypost](https://www.instagram.com/p/Df2ohCEk4fl/) · 3,278 likes · 300 comments · +1397 min after first report · BREAKING: Yes, the alarms will sound — but there’s no need to panic. At 2:20 p.m. EST today, the Federal Emergency Management Agency (FEMA) will conduct a nationwide test of the Emergency Alert System
 
 ### 6. Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!
 
@@ -198,13 +198,13 @@ Lead: [Deadline — 'The Hunger Games: Sunrise On The Reaping' NYC Premiere Red 
 - 2026-11-17 21:51 UTC · E! News · [Hunger Games Director Reacts to Jennifer Lawrence’s Reunion With Cast](https://www.eonline.com/news/1438192/hunger-games-director-reacts-to-jennifer-lawrence-josh-hutcherson-return?cmpid=rss-syndicate-genericrss-us-top_stories)
 - 2026-11-17 22:43 UTC · Variety · [Jennifer Lawrence’s ‘Hunger Games’ Premiere Look Proves the Boudoir Coat Is Back: Here’s Where to Shop Similar Styles Online](https://variety.com/2026/shopping/news/jennifer-lawrence-hunger-games-premiere-dior-fur-coat-shop-1236950905/)
 
-**Who posted it on Instagram** (9 pages, 406,256 likes, 20 posts)
+**Who posted it on Instagram** (9 pages, 406,862 likes, 20 posts)
 
 - [@hollywoodreporter](https://www.instagram.com/reel/Df0qL6xp71-/) · 117,484 likes · 716 comments · +70 min after first report · #JoshHutcherson and #JenniferLawrence reunite at #TheHungerGames : Sunrise on the Reaping premiere
 - [@relationships.usa](https://www.instagram.com/reel/Df1G8fHOgjZ/) · 81,148 likes · 261 comments · +571 min after first report · AS SHE SHOULD Rachel Zegler and Tom Blyth share a sweet hand-holding moment at the New York premiere of “The Hunger Games: Sunrise on the Reaping.” The former co-stars pose alongside their franchise c
 - [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · +239 min after first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
 - [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · +72 min after first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
-- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,308 likes · 52 comments · +664 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
+- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,380 likes · 52 comments · +664 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +991 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 
 ### 7. Waymo suspends freeway rides nationwide after California DMV order
@@ -257,9 +257,9 @@ Lead: [The Verge — Congress wants to tighten export rules on AI chips after Nv
 - 2026-11-17 17:36 UTC · NPR · [Huang says he'd be "honored" to return to Nvidia as he agrees to testify to Congress](https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress)
 - 2026-11-17 17:58 UTC · Guardian US · [Jensen Huang to testify before Congress on ‘potential breach of national security’](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy)
 
-**Who posted it on Instagram** (7 pages, 299,946 likes, 11 posts)
+**Who posted it on Instagram** (7 pages, 305,008 likes, 11 posts)
 
-- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 157,201 likes · 1,400 comments · +2718 min after first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
+- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 162,263 likes · 1,433 comments · +2718 min after first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
 - [@dailymail](https://www.instagram.com/p/DfzRknNjUQE/) · 5,545 likes · 157 comments · +987 min after first report · Jensen Huang is considering a comeback as Nvidia's chief executive, and has discussed with confidants the possibility of returning, the Financial Times reported, citing people familiar with the matter
 - [@nypost](https://www.instagram.com/p/DfxEsLakxi_/) · 866 likes · 28 comments · 166 min before first report · “Saturday Night Live” roasted ousted Nvidia CEO Jensen Huang over his affair with a suspected Chinese spy — bringing back Bowen Yang to play the disgraced tech executive. Yang, who departed the NBC sh
 - [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +3186 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
@@ -289,12 +289,12 @@ Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Repor
 - 2026-11-16 22:01 UTC · Guardian US · [Customers report difficulty accessing online services at major US banks](https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo)
 - 2026-11-16 22:08 UTC · ABC7 LA (CA) · [A technical issue at JPMorgan Chase triggers online banking delays across major US banks](https://abc7.com/post/customers-nations-largest-banks-are-reporting-difficulty-accessing-accounts-online/20045188/)
 
-**Who posted it on Instagram** (5 pages, 71,285 likes, 5 posts)
+**Who posted it on Instagram** (5 pages, 71,397 likes, 5 posts)
 
-- [@pubity](https://www.instagram.com/p/Df0YsfZjSHH/) · 34,592 likes · 1,306 comments · +224 min after first report · Several major U.S. banks are dealing with reported outages, leaving customers struggling to access their accounts. 👀 Chase, Wells Fargo, Bank of America, and Truist customers have reported issues with
+- [@pubity](https://www.instagram.com/p/Df0YsfZjSHH/) · 34,660 likes · 1,306 comments · +224 min after first report · Several major U.S. banks are dealing with reported outages, leaving customers struggling to access their accounts. 👀 Chase, Wells Fargo, Bank of America, and Truist customers have reported issues with
 - [@theneighborhoodtalk](https://www.instagram.com/p/Df0HlJLx0rC/) · 15,859 likes · 2,487 comments · +75 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, customers at Chase, Bank of America, Capital One and Wells Fargo began reporting outages, with some saying they’re unable to access their banking
 - [@dailymail](https://www.instagram.com/p/Df0IVifkrRh/) · 11,702 likes · 598 comments · +82 min after first report · Americans have been locked out of their accounts as Chase, Bank of America and Wells Fargo are all experiencing outages - just three days after major service failures at Microsoft and the Federal Avia
-- [@hollywoodunlocked](https://www.instagram.com/p/Df2PeFcKZqe/) · 7,255 likes · 1,303 comments · +1263 min after first report · HU Staff: Kecia Gayle @kecia.kae Between the Microsoft meltdown, the grounded planes and the banking apps acting brand new, it’s safe to say a lot of folks are concerned. But on Monday night, Vice Pre
+- [@hollywoodunlocked](https://www.instagram.com/p/Df2PeFcKZqe/) · 7,299 likes · 1,312 comments · +1263 min after first report · HU Staff: Kecia Gayle @kecia.kae Between the Microsoft meltdown, the grounded planes and the banking apps acting brand new, it’s safe to say a lot of folks are concerned. But on Monday night, Vice Pre
 - [@onlyindade](https://www.instagram.com/p/Df0hSXMoYU8/) · 1,877 likes · 88 comments · +299 min after first report · Did you have issues with your bank account today?💰👀\| #ONLYinDADE *🗞️ Customers of Chase, Bank of America, Wells Fargo and U.S. Bank reported issues accessing their accounts and completing transaction
 
 ### 10. McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items
@@ -319,13 +319,13 @@ Lead: [Dexerto — McDonald’s reveals Home Alone Meal with pizza-flavored frie
 - 2026-11-18 12:36 UTC · New York Post · [Fired ‘Home Alone’ actor Daniel Roebuck accuses director Chris Columbus of lying about infamous axing: ‘It hurts my heart’](https://pagesix.com/2026/11/18/entertainment/fired-home-alone-actor-daniel-roebuck-accuses-director-chris-columbus-of-lying-about-infamous-axing-it-hurts-my-heart/)
 - 2026-11-18 16:24 UTC · WCPO Cincinnati (OH) · [McDonald’s brings Kevin McCallister’s love of pizza to new ‘Home Alone’ Meal](https://www.wcpo.com/business/company-news/mcdonalds-brings-kevin-mccallisters-love-of-pizza-to-new-home-alone-meal)
 
-**Who posted it on Instagram** (5 pages, 239,753 likes, 5 posts)
+**Who posted it on Instagram** (5 pages, 246,085 likes, 5 posts)
 
-- [@nypost](https://www.instagram.com/p/Df2XFsEjJYE/) · 237,127 likes · 1,910 comments · +235 min after first report · There’s a new Happy Meal in town, ya filthy animals! 🍔 McDonald’s is proving age is just a number this holiday season, treating adults to their very own Happy Meal inspired by the iconic Christmas cla
+- [@nypost](https://www.instagram.com/p/Df2XFsEjJYE/) · 243,459 likes · 1,976 comments · +235 min after first report · There’s a new Happy Meal in town, ya filthy animals! 🍔 McDonald’s is proving age is just a number this holiday season, treating adults to their very own Happy Meal inspired by the iconic Christmas cla
 - [@mindset.therapy](https://www.instagram.com/p/Df0UQ3YmZ2F/) · 2,626 likes · 17 comments · 240 min before first report · 36 years ago today, Home Alone hit theaters, introducing the world to Kevin McCallister and becoming one of the most beloved Christmas movies of all time 🎄❤️ Released on November 16, 1990, the holiday
 - [@pickuplines](https://www.instagram.com/p/Df23oQAHTXC/) · 0 likes · 21 comments · +1200 min after first report · Some Home Alone stars will never be forgotten. ❤️ More than three decades after its release, Home Alone remains a beloved Christmas tradition, bringing families together through laughter, nostalgia, a
 - [@markets](https://www.instagram.com/p/Df2V5nNjp7x/) · 0 likes · 4 comments · 240 min before first report · Home Alone 2: Lost in New York is one of the most beloved Christmas movies ever, but some of its secrets might surprise even the biggest fans. From Macaulay Culkin earning a record breaking $4.5 milli
-- [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 906 comments · +432 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
+- [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 948 comments · +432 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
 
 ### 11. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
 
@@ -372,12 +372,12 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - 2026-11-17 23:08 UTC · PC Gamer · [Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game](https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game/)
 - 2026-11-18 03:59 UTC · WSVN Miami (FL) · [Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’](https://wsvn.com/entertainment/rockstar-games-vice-city-promotion/)
 
-**Who posted it on Instagram** (13 pages, 176,774 likes, 13 posts)
+**Who posted it on Instagram** (13 pages, 178,601 likes, 14 posts)
 
 - [@technology](https://www.instagram.com/p/DfyDLFaDYYG/) · 58,490 likes · 342 comments · 261 min before first report · A Grand Theft Auto fan has recreated the same photograph across 18 years, capturing his journey from childhood to adulthood through three generations of the iconic gaming franchise 🎮📸 Reddit user u/Na
-- [@clips](https://www.instagram.com/p/Df06jE7MQCd/) · 42,842 likes · 166 comments · +819 min after first report · Grand Theft Auto VI (2026–Present) — Starring Manni L. Perez, Dylan Rourke, and Stephen Root, this long-awaited open-world action blockbuster takes players back to the sun-soaked, neon-lit streets of 
+- [@clips](https://www.instagram.com/p/Df06jE7MQCd/) · 43,438 likes · 168 comments · +819 min after first report · Grand Theft Auto VI (2026–Present) — Starring Manni L. Perez, Dylan Rourke, and Stephen Root, this long-awaited open-world action blockbuster takes players back to the sun-soaked, neon-lit streets of 
 - [@explain](https://www.instagram.com/p/DfxukgAH-LN/) · 36,065 likes · 468 comments · 964 min before first report · Grand Theft Auto V was released in September 2013, and these celebrity transformations show just how much time has passed since the game first arrived. When GTA V launched, Justin Bieber was 19, Aria
-- [@nugget](https://www.instagram.com/p/Df0uh4nIDHA/) · 22,435 likes · 149 comments · +717 min after first report · When GTA V launched in 2013, the most popular apps included Candy Crush, Temple Run, Vine, and Snapchat. Fast forward to the GTA VI era, and the digital landscape looks completely different. Artificia
+- [@nugget](https://www.instagram.com/p/Df0uh4nIDHA/) · 22,755 likes · 151 comments · +717 min after first report · When GTA V launched in 2013, the most popular apps included Candy Crush, Temple Run, Vine, and Snapchat. Fast forward to the GTA VI era, and the digital landscape looks completely different. Artificia
 - [@wasted](https://www.instagram.com/p/Df2QniVh0jJ/) · 7,178 likes · 66 comments · +1571 min after first report · 🧐 Grand Theft Auto VI, developed and published by Rockstar Games, is the highly anticipated eighth main entry in the Grand Theft Auto series. Set in the fictional state of Leonida—a sun-soaked, satir
 - [@dexerto](https://www.instagram.com/p/DfzdNA2mxf9/) · 4,287 likes · 51 comments · +3 min after first report · Reddit user u/NakedSnake21 has gone viral for recreating the same photo with three generations of Grand Theft Auto, capturing 18 years of his life in three pictures. He first posed with GTA 4 in 2008 
 
@@ -454,11 +454,11 @@ Lead: [Deadline — 'The Further Mis-Adventures Of Cliff Booth' Premiere Red Car
 - 2026-11-17 08:46 UTC · The Hollywood Reporter via Google News: Top US · [David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions](https://news.google.com/rss/articles/CBMitgFBVV95cUxONDlJTU9jc0dmdkRDU1kyWFYycGNHaHlLaUpfZ0EySHMwYldjM05FbEZaZC1hV05FVUVubG9CYWk2Q0RDZHFjNWlwY3dpZkpJRmhIdEJaT3pmdmlwcHV6eWlRbWVhRUFmVGRVNHktTWN1Tm1QQ1dYZXRhTGxoWEN0aDZlOVgtc1l4NGQ5cjA5Zy1DNWpBeG5CaGlpUkZlV2szM0tfbzVGRnl2czZnR0RiNVRNNEtWZw?oc=5)
 - 2026-11-17 23:45 UTC · E! News · [Why Leonardo DiCaprio Didn’t Return for Brad Pitt’s Cliff Booth Movie](https://www.eonline.com/news/1438194/brad-pitt-explains-why-leonardo-dicaprio-isnt-in-cliff-booth-movie?cmpid=rss-syndicate-genericrss-us-top_stories)
 
-**Who posted it on Instagram** (5 pages, 437,654 likes, 8 posts)
+**Who posted it on Instagram** (5 pages, 445,715 likes, 8 posts)
 
-- [@complex](https://www.instagram.com/p/Df1GvR_u_4p/) · 367,380 likes · 3,238 comments · +135 min after first report · Brad Pitt is all set on Robert as James Bond 👀 Would yall want to see Brad as the villain in the next James Bond?
-- [@pubity](https://www.instagram.com/p/Df3BgYah3OW/) · 59,856 likes · 494 comments · +1208 min after first report · Robert Pattinson has officially been cast as the next James Bond, with Amazon MGM Studios confirming the news on November 16. He becomes the 7th actor to take on the role, with Denis Villeneuve set to
-- [@dailymail](https://www.instagram.com/p/Df4ob0nCF7j/) · 2,329 likes · 50 comments · +2107 min after first report · Brad Pitt is throwing his name into the running to become the next Bond villain 👀 The actor told Complex he’d love to take on the role opposite Robert Pattinson’s 007, even calling on director Denis V
+- [@complex](https://www.instagram.com/p/Df1GvR_u_4p/) · 368,051 likes · 3,246 comments · +135 min after first report · Brad Pitt is all set on Robert as James Bond 👀 Would yall want to see Brad as the villain in the next James Bond?
+- [@pubity](https://www.instagram.com/p/Df3BgYah3OW/) · 65,110 likes · 506 comments · +1208 min after first report · Robert Pattinson has officially been cast as the next James Bond, with Amazon MGM Studios confirming the news on November 16. He becomes the 7th actor to take on the role, with Denis Villeneuve set to
+- [@dailymail](https://www.instagram.com/p/Df4ob0nCF7j/) · 4,465 likes · 84 comments · +2107 min after first report · Brad Pitt is throwing his name into the running to become the next Bond villain 👀 The actor told Complex he’d love to take on the role opposite Robert Pattinson’s 007, even calling on director Denis V
 - [@imax](https://www.instagram.com/p/Df2zAfJGiDV/) · 1,723 likes · 11 comments · +1080 min after first report · Word on the street? Cliff Booth is back and turning heads. See THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH first only in IMAX November 25. Get tickets now at the link in bio.
 - [@pagesix](https://www.instagram.com/p/Df2XYYdE6Nh/) · 360 likes · 6 comments · +959 min after first report · Brad Pitt just gave an "Ocean's 14" production update 👀 📸: Getty, 🎤: comments via Variety/X
 
@@ -474,11 +474,11 @@ Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth abou
 
 - 2026-11-18 00:40 UTC · Daily Mail US · [Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 
-**Who posted it on Instagram** (4 pages, 85,271 likes, 5 posts)
+**Who posted it on Instagram** (4 pages, 85,276 likes, 5 posts)
 
 - [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · 1908 min before first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
-- [@nypost](https://www.instagram.com/p/Df0Dhd5EUVk/) · 2,279 likes · 593 comments · 1705 min before first report · President Trump defended the White House restoration work, saying he has a responsibility to maintain the historic building before criticizing a reporter’s questions about the project.
-- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,053 likes · 931 comments · 1739 min before first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
+- [@nypost](https://www.instagram.com/p/Df0Dhd5EUVk/) · 2,283 likes · 595 comments · 1705 min before first report · President Trump defended the White House restoration work, saying he has a responsibility to maintain the historic building before criticizing a reporter’s questions about the project.
+- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,054 likes · 934 comments · 1739 min before first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
 - [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · 1556 min before first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
 
 ### 17. Apple hit by widespread outages as tech problems continue
@@ -504,12 +504,39 @@ Lead: [Engadget — How to sideload apps on iOS (even if you're in the US)](http
 - 2026-11-18 00:18 UTC · NBC News · [Apple hit by widespread outages as tech problems continue](https://www.nbcnews.com/nightly-news/video/apple-hit-by-widespread-outages-as-tech-problems-continue-273687109562)
 - 2026-11-18 02:17 UTC · 9to5Mac via Google News: Top US · [Apple announces App Store price changes in multiple countries, new California tax rules](https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkNOay1TVE5TdUt1RlV3bjBZUHlSSDRBUVo0UzZBOGg0eHh2bG5hb19GbGhqSzgxWXdiSkMtekEwU25vQkRQRWkwWGtMUDFmMldMdkZIZTRJeTRzU2JKNWUxR0FYY3ZZamlzOXpqdkRHRjlDelpvSWpNdERxZENFS290bnFOSllnZWdUdllrb3pJX2ExRHlQczJqWFVoS0h6b2VkLUlQX1RNdDd5YVA3ZDludkhybWpXS1E?oc=5)
 
-**Who posted it on Instagram** (2 pages, 50,260 likes, 2 posts)
+**Who posted it on Instagram** (2 pages, 50,485 likes, 2 posts)
 
-- [@dailymail](https://www.instagram.com/p/Df2mEWsglYo/) · 43,512 likes · 1,222 comments · +174 min after first report · Apple has been hit by a widespread outage, leaving some iPhone users unable to access their accounts. The tech giant’s system status page flagged a problem with ‘iCloud Account & Sign In,’ warning: ‘A
-- [@nypost](https://www.instagram.com/p/Df2jBwjE_0_/) · 6,748 likes · 276 comments · +148 min after first report · BREAKING: Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdete
+- [@dailymail](https://www.instagram.com/p/Df2mEWsglYo/) · 43,733 likes · 1,228 comments · +174 min after first report · Apple has been hit by a widespread outage, leaving some iPhone users unable to access their accounts. The tech giant’s system status page flagged a problem with ‘iCloud Account & Sign In,’ warning: ‘A
+- [@nypost](https://www.instagram.com/p/Df2jBwjE_0_/) · 6,752 likes · 276 comments · +148 min after first report · BREAKING: Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdete
 
-### 18. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
+### 18. US officially loses measles elimination status, PAHO says
+
+**Score** 110 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
+
+The U.S. on Tuesday officially lost its measles elimination status for the first time since it gained this distinction more than 25 years ago, with a count of more than 7,700 cases in the past two years and more than 10 deaths reported by states since 2025. The Pan American Health Organization (PAHO) made the [...]
+
+Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threat](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html)
+
+**Where it was published**
+
+- 2026-11-16 10:10 UTC · Medical Xpress · [WHO sounds the alarm on antimicrobial resistance threat](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html)
+- 2026-11-17 16:10 UTC · The Hill · [US loses measles elimination status after more than 25 years](https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/)
+- 2026-11-17 16:10 UTC · WGN (IL) · [US loses measles elimination status after more than 25 years](https://wgntv.com/news/us-loses-measles-elimination-status-after-more-than-25-years/)
+- 2026-11-17 16:10 UTC · WGN (IL) · [US loses measles elimination status after more than 25 years](https://wgntv.com/hill-politics/us-loses-measles-elimination-status-after-more-than-25-years/)
+- 2026-11-17 16:11 UTC · WFLA Tampa (FL) · [US loses measles elimination status after more than 25 years](https://www.wfla.com/news/national/us-loses-measles-elimination-status-after-more-than-25-years/)
+- 2026-11-17 16:21 UTC · ABC7 LA (CA) · [US officially loses measles elimination status, PAHO says](https://abc7.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/)
+- 2026-11-17 16:21 UTC · ABC13 Houston (TX) · [US officially loses measles elimination status, PAHO says](https://abc13.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/)
+- 2026-11-17 16:21 UTC · ABC7 NY (NY) · [US officially loses measles elimination status, PAHO says](https://abc7ny.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/)
+- 2026-11-17 16:21 UTC · ABC7 Chicago (IL) · [US officially loses measles elimination status, PAHO says](https://abc7chicago.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/)
+- 2026-11-17 16:21 UTC · 6abc Philly (PA) · [US officially loses measles elimination status, PAHO says](https://6abc.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/)
+- 2026-11-17 18:25 UTC · New York Post · [US officially loses measles elimination status after 26 years](https://nypost.com/2026/11/17/health/us-officially-loses-measles-elimination-status-after-26-years/)
+- 2026-11-17 19:10 UTC · Medical Xpress · [WHO says countries need to 'move from plans to delivery' on antimicrobial resistance](https://medicalxpress.com/news/2026-11-countries-delivery-antimicrobial-resistance.html)
+
+**Who posted it on Instagram** (1 pages, 433 likes, 1 posts)
+
+- [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 433 likes · 95 comments · +3090 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
+
+### 19. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
 
 **Score** 110 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-18 10:43 UTC
 
@@ -521,15 +548,15 @@ Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tir
 
 - 2026-11-17 09:15 UTC · Us Weekly · [Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/)
 
-**Who posted it on Instagram** (5 pages, 74,494 likes, 12 posts)
+**Who posted it on Instagram** (5 pages, 74,972 likes, 12 posts)
 
 - [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · 348 min before first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
 - [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · 515 min before first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
-- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,308 likes · 52 comments · +77 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
-- [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 7,592 likes · 27 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
+- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,380 likes · 52 comments · +77 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
+- [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 7,998 likes · 28 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
 - [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 16 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
 
-### 19. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
+### 20. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
 
 **Score** 110 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-18 13:07 UTC
 
@@ -556,7 +583,7 @@ Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.
 
 - [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
 
-### 20. Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects
+### 21. Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects
 
 **Score** 109 · **First seen** 2026-11-16 03:41 UTC · **Last update** 2026-11-18 15:50 UTC
 
@@ -578,33 +605,6 @@ Lead: [Newsweek — Mary Peltola Closes in on 50% Threshold in Alaska Senate Rac
 - 2026-11-17 20:52 UTC · The Hill · [Why an Alaska win by Peltola is so important to Democrats](https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/)
 - 2026-11-18 03:14 UTC · CNN via Google News: Top US · [Democrat Mary Peltola will oust GOP Sen. Dan Sullivan in Alaska Senate race, CNN projects](https://news.google.com/rss/articles/CBMie0FVX3lxTFBmbS11SDdYWlZsSkp5dHNnU1JrbktwRVNLS2pma0p6aWtyWXRjNzJZZ2dnMUszeE12UnZqRzhWbFJJT0p0SWhYWUtNN0tneTRJdnRUa3gzVVBuWnpXWkFUczdPLUZxUlllZUZ6UGR6dmhzeHVqZU1QRUN6RQ?oc=5)
 - 2026-11-18 03:19 UTC · NBC News via Google News: Top US · [Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUFXQnhSVW81NVFKVmppNzlvajVabHFkWnVxZmdPQXVVemM3dWpIMkQ2c2ZmSFNiR1JrbXFuRmVVM3psNEdUSE9YcGZmeUJRVFI1MzJLdG1zNHlkRTBzbFBhOVBaQUxSRU1VWUMtY1VmbVRmaElHdjhHYUdJamt4NGJEVnFINEU3TkFSM2NfRGNyeld3ZGFOdDlfOTMtM1FGTmJkWTlORnctUlJVV3I2OENiRFRQZw?oc=5)
-
-### 21. US officially loses measles elimination status, PAHO says
-
-**Score** 109 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
-
-The U.S. on Tuesday officially lost its measles elimination status for the first time since it gained this distinction more than 25 years ago, with a count of more than 7,700 cases in the past two years and more than 10 deaths reported by states since 2025. The Pan American Health Organization (PAHO) made the [...]
-
-Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threat](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html)
-
-**Where it was published**
-
-- 2026-11-16 10:10 UTC · Medical Xpress · [WHO sounds the alarm on antimicrobial resistance threat](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html)
-- 2026-11-17 16:10 UTC · The Hill · [US loses measles elimination status after more than 25 years](https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/)
-- 2026-11-17 16:10 UTC · WGN (IL) · [US loses measles elimination status after more than 25 years](https://wgntv.com/news/us-loses-measles-elimination-status-after-more-than-25-years/)
-- 2026-11-17 16:10 UTC · WGN (IL) · [US loses measles elimination status after more than 25 years](https://wgntv.com/hill-politics/us-loses-measles-elimination-status-after-more-than-25-years/)
-- 2026-11-17 16:11 UTC · WFLA Tampa (FL) · [US loses measles elimination status after more than 25 years](https://www.wfla.com/news/national/us-loses-measles-elimination-status-after-more-than-25-years/)
-- 2026-11-17 16:21 UTC · ABC7 LA (CA) · [US officially loses measles elimination status, PAHO says](https://abc7.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/)
-- 2026-11-17 16:21 UTC · ABC13 Houston (TX) · [US officially loses measles elimination status, PAHO says](https://abc13.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/)
-- 2026-11-17 16:21 UTC · ABC7 NY (NY) · [US officially loses measles elimination status, PAHO says](https://abc7ny.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/)
-- 2026-11-17 16:21 UTC · ABC7 Chicago (IL) · [US officially loses measles elimination status, PAHO says](https://abc7chicago.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/)
-- 2026-11-17 16:21 UTC · 6abc Philly (PA) · [US officially loses measles elimination status, PAHO says](https://6abc.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/)
-- 2026-11-17 18:25 UTC · New York Post · [US officially loses measles elimination status after 26 years](https://nypost.com/2026/11/17/health/us-officially-loses-measles-elimination-status-after-26-years/)
-- 2026-11-17 19:10 UTC · Medical Xpress · [WHO says countries need to 'move from plans to delivery' on antimicrobial resistance](https://medicalxpress.com/news/2026-11-countries-delivery-antimicrobial-resistance.html)
-
-**Who posted it on Instagram** (1 pages, 306 likes, 1 posts)
-
-- [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 306 likes · 64 comments · +3090 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
 
 ### 22. Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album
 
@@ -649,11 +649,11 @@ Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s 
 - 2026-11-17 21:19 UTC · New York Post · [Readers celebrate 225 years of The Post: Letters to the Editor — Nov. 18, 2026](https://nypost.com/2026/11/17/opinion/readers-celebrate-225-years-of-the-post-letters/)
 - 2026-11-18 16:45 UTC · New York Post · [The truth about the nationwide outages… | The Low Down](https://nypost.com/video/the-truth-about-the-nationwide-outages-the-low-down/)
 
-**Who posted it on Instagram** (3 pages, 23,400 likes, 6 posts)
+**Who posted it on Instagram** (3 pages, 23,456 likes, 6 posts)
 
 - [@theneighborhoodtalk](https://www.instagram.com/p/Df0HlJLx0rC/) · 15,859 likes · 2,487 comments · +515 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, customers at Chase, Bank of America, Capital One and Wells Fargo began reporting outages, with some saying they’re unable to access their banking
-- [@nypost](https://www.instagram.com/p/Df0vPJHsZy4/) · 3,840 likes · 30 comments · +862 min after first report · The Empire State Building is shining red in celebration of the New York Post’s 225th anniversary!🗽 Founded by Alexander Hamilton in 1801, the Post has been part of New York City’s story for more than 
-- [@pagesix](https://www.instagram.com/p/Df0JgnIt00m/) · 3,058 likes · 315 comments · +533 min after first report · Martha Stewart and Gov. Kathy Hochul join Editor-in-Chief Keith Poole to light the Empire State Building for New York Post’s 225 Anniversary 🗞️
+- [@nypost](https://www.instagram.com/p/Df0vPJHsZy4/) · 3,883 likes · 31 comments · +862 min after first report · The Empire State Building is shining red in celebration of the New York Post’s 225th anniversary!🗽 Founded by Alexander Hamilton in 1801, the Post has been part of New York City’s story for more than 
+- [@pagesix](https://www.instagram.com/p/Df0JgnIt00m/) · 3,065 likes · 315 comments · +533 min after first report · Martha Stewart and Gov. Kathy Hochul join Editor-in-Chief Keith Poole to light the Empire State Building for New York Post’s 225 Anniversary 🗞️
 
 ### 24. ‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse
 
