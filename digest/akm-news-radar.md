@@ -1,33 +1,33 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 17:46 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-18 18:16 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
 | 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 210 | Confirmed | 17 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
-| 2 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 183 | Confirmed | 25 | 3 | [CBS News](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/) |
-| 3 | Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth | 180 | Confirmed | 18 | 2 | [Live Science](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future) |
+| 2 | NASA Voyager Reaches One Full Light Day From Earth | 184 | Confirmed | 19 | 2 | [Live Science](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future) |
+| 3 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 183 | Confirmed | 25 | 3 | [CBS News](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/) |
 | 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 179 | Confirmed | 19 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
 | 5 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 149 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
 | 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 149 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
-| 7 | Top Nvidia lawyer agrees to testify before Congress | 136 | Confirmed | 10 | 7 | [The Verge](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china) |
-| 8 | Waymo suspends freeway rides nationwide after California DMV order | 134 | Confirmed | 20 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
+| 7 | Trump takes questions on FAA ground stop, Jensen Huang before heading to Asia for Xi meeting | 148 | Confirmed | 13 | 7 | [Axios](https://www.axios.com/2026/11/16/maga-jensen-huang-chinese-spy-scandal-trump) |
+| 8 | California DMV bans Waymo from operating on state freeways after string of traffic incidents | 138 | Confirmed | 21 | 1 | [New York Post](https://nypost.com/2026/11/17/lifestyle/californias-4-toughest-dmv-offices-to-pass-a-driving-test-are-in-la-county/) |
 | 9 | McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items | 130 | Confirmed | 10 | 5 | [Dexerto](https://www.dexerto.com/food/mcdonalds-reveals-home-alone-meal-with-pizza-flavored-fries-and-collectible-socks-3428779/) |
-| 10 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 126 | Confirmed | 12 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
-| 11 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 13 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
-| 12 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 112 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
+| 10 | Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’ | 126 | Developing | 3 | 6 | [NBC News](https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487) |
+| 11 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 125 | Confirmed | 12 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
+| 12 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 13 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
 | 13 | US officially loses measles elimination status, PAHO says | 110 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
 | 14 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 110 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
 | 15 | Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album | 108 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/viral-toyota-tacoma-singer-cara-paige-lands-grammy-nomination-for-her-independently-released-album/) |
 | 16 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
 | 17 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 108 | Confirmed | 6 | 5 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
 | 18 | Apple hit by widespread outages as tech problems continue | 107 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
-| 19 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 106 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
+| 19 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 105 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
 | 20 | Mamdani disbanding controversial NYPD unit | 105 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
-| 21 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 105 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
+| 21 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 104 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
 | 22 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 104 | Developing | 2 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/paris-hilton-begs-lawmakers-to-pass-defiance-act-vows-not-to-stop-until-its-law/) |
 | 23 | Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift and More | 103 | Unverified | 1 | 6 | [Us Weekly](https://www.usmagazine.com/entertainment/pictures/stars-who-have-broken-grammy-records-beyonce-adele-and-more/) |
-| 24 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 103 | Developing | 1 | 8 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
+| 24 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 102 | Developing | 1 | 8 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
 | 25 | Bully judge punished over video of him screaming at courthouse worker after his computer crashed | 102 | Developing | 8 | 1 | [ABC13 Houston (TX)](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
@@ -42,6 +42,13 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 **Status** Confirmed · independent reports: 11 of 19 feeds · official: none · independent newsrooms: 8
 
 **Duplicates collapsed**: 8 of 19 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Robert Pattinson has been cast as the next James Bond. — support: 6
+- Amazon MGM Studios is producing the next James Bond film. — support: 3
+- Jeff Bezos was heavily involved in the casting process for the new James Bond. — support: 4
+- Denis Villeneuve is the director of the next James Bond film. — support: 2
 
 > 19 feeds carry 11 independent reports (the rest are duplicates).
 
@@ -73,7 +80,48 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 - [@nugget](https://www.instagram.com/p/Dfz_lNPoHYm/) · 24,153 likes · 776 comments · +42 min after first report · Pierce Brosnan’s time as James Bond came to an unexpected end after four films, making him one of the few actors to publicly describe being dropped from the iconic role rather than choosing to leave. 
 - [@forbes](https://www.instagram.com/p/Dfzp4qvkwwA/) · 21,747 likes · 763 comments · 523 min before first report · The next James Bond has officially been revealed. ⁣ ⁣ Robert Pattinson, best known for his roles in Twilight and The Batman, is set to take over as 007, succeeding Daniel Craig after years of speculat
 
-### 2. A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city
+### 2. NASA Voyager Reaches One Full Light Day From Earth
+
+**Score** 184 · **First seen** 2026-11-15 20:00 UTC · **Last update** 2026-11-18 17:12 UTC
+
+**Status** Confirmed · independent reports: 8 of 26 feeds · official: none · independent newsrooms: 6
+
+**Duplicates collapsed**: 13 of 26 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- NASA's Voyager 1 probe will reach a distance of one light-day from Earth. — support: 6
+- Voyager 1 will reach the one light-day milestone on November 18. — support: 1
+- One light-day is a distance of more than 16 billion miles. — support: 5
+- Voyager 1 was launched nearly 50 years ago. — support: 1
+
+> 5 of the 13 independent reports in the cluster cover related updates, not this headline. 26 feeds carry 13 independent reports (the rest are duplicates). 2 key claims stated by a single report: “Voyager 1 will reach the one light-day milestone on November 18.”; “Voyager 1 was launched nearly 50 years ago.”
+
+Nearly 50 years after launch, NASA's Voyager 1 probe will pass the one light-day mark on Nov. 18, a symbolic milestone for the agency's longest-running mission. Scientists reflect on the Voyager program's legacy and what comes next.
+
+Lead: [Live Science — 'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future)
+
+**Where it was published**
+
+- 2026-11-15 20:00 UTC · Live Science · ['Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future)
+- 2026-11-15 21:19 UTC · ABC7 LA (CA) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
+- 2026-11-15 21:19 UTC · ABC13 Houston (TX) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc13.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
+- 2026-11-15 21:19 UTC · ABC7 NY (NY) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7ny.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
+- 2026-11-15 21:19 UTC · ABC7 Chicago (IL) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7chicago.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
+- 2026-11-15 21:19 UTC · 6abc Philly (PA) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://6abc.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
+- 2026-11-15 22:41 UTC · NPR · [Far from home. Voyager 1 is now farther than anything man has sent into space](https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space)
+- 2026-11-17 12:14 UTC · ABC13 Houston (TX) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · ABC7 NY (NY) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7ny.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · ABC7 Chicago (IL) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7chicago.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · 6abc Philly (PA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://6abc.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · ABC7 LA (CA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+
+**Who posted it on Instagram** (2 pages, 24,409 likes, 2 posts)
+
+- [@complex](https://www.instagram.com/p/DfzMyC0pWsr/) · 15,862 likes · 367 comments · +900 min after first report · The Moon is slowly leaving us. 🌕🌎 According to NASA, the Moon moves about 1.5 inches farther away from Earth every year. Scientists have been tracking this movement for decades using lasers reflected 
+- [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · +1385 min after first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
+
+### 3. A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city
 
 **Score** 183 · **First seen** 2026-11-16 01:55 UTC · **Last update** 2026-11-18 14:08 UTC
 
@@ -81,7 +129,14 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 
 **Wire copies collapsed**: Associated Press ×5.
 
-> 8 of the 17 independent reports in the cluster cover related updates, not this headline. 28 feeds carry 17 independent reports (wire copies: Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original.
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Pope Leo is visiting Peru as part of a tour of South America. — support: 6
+- The Pope is visiting a home for older residents in a Peruvian port city run by Catholic sisters. — support: 4
+- Pope Leo criticized wealthy individuals seeking immortality while others suffer from poverty. — support: 1
+- Biohacker Bryan Johnson responded to the Pope's comments on X. — support: 1
+
+> 8 of the 17 independent reports in the cluster cover related updates, not this headline. 28 feeds carry 17 independent reports (wire copies: Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. Reports disagree on the name of the Pope, referring to him as either Pope Leo or Pope Leo XIV. 2 key claims stated by a single report: “Pope Leo criticized wealthy individuals seeking immortality while othe”; “Biohacker Bryan Johnson responded to the Pope's comments on X.”
 
 Pope Leo wrapped up a historic visit to South America. He flew by helicopter to a mountainous area of Peru to celebrate Mass, where he once served as a missionary. Chris Livesay is traveling with the pontiff and has more.
 
@@ -108,49 +163,22 @@ Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a mi
 - [@dailymail](https://www.instagram.com/p/DfzDRnCgU54/) · 5,428 likes · 101 comments · +463 min after first report · Pope Leo was greeted by children as he arrived at the Shrine of St Tiribius in Peru. A group of young children ran towards the Pope before surrounding him with open arms to hug the pontiff. #peru #pop
 - [@nypost](https://www.instagram.com/p/Df0mjqjjxFz/) · 2,830 likes · 196 comments · +1370 min after first report · Pope Leo’s run of successfully catching items tossed to him by crowds came to an end, as what appeared to be a rosary thrown in his direction struck him near the eye.
 
-### 3. Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth
-
-**Score** 180 · **First seen** 2026-11-15 20:00 UTC · **Last update** 2026-11-18 17:12 UTC
-
-**Status** Confirmed · independent reports: 9 of 31 feeds · official: none · independent newsrooms: 7
-
-**Duplicates collapsed**: 17 of 31 feeds repeat the same report.
-
-> 5 of the 14 independent reports in the cluster cover related updates, not this headline. 31 feeds carry 14 independent reports (the rest are duplicates).
-
-Nearly 50 years after launch, NASA's Voyager 1 probe will pass the one light-day mark on Nov. 18, a symbolic milestone for the agency's longest-running mission. Scientists reflect on the Voyager program's legacy and what comes next.
-
-Lead: [Live Science — 'Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future)
-
-**Where it was published**
-
-- 2026-11-15 20:00 UTC · Live Science · ['Out there, moving into the unknown': As Voyager 1 reaches one light-day from Earth, scientists reflect on its past — and its future](https://www.livescience.com/space/space-exploration/out-there-moving-into-the-unknown-as-voyager-1-reaches-one-light-day-from-earth-scientists-reflect-on-its-past-and-its-future)
-- 2026-11-15 21:19 UTC · ABC7 LA (CA) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
-- 2026-11-15 21:19 UTC · ABC13 Houston (TX) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc13.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
-- 2026-11-15 21:19 UTC · ABC7 NY (NY) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7ny.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
-- 2026-11-15 21:19 UTC · ABC7 Chicago (IL) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://abc7chicago.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
-- 2026-11-15 21:19 UTC · 6abc Philly (PA) · [NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record](https://6abc.com/story/nasas-voyager-1-closes-light-day-interstellar-space-new-distance-record/20042574/)
-- 2026-11-15 22:41 UTC · NPR · [Far from home. Voyager 1 is now farther than anything man has sent into space](https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space)
-- 2026-11-17 12:14 UTC · ABC13 Houston (TX) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-- 2026-11-17 12:14 UTC · ABC7 NY (NY) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7ny.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-- 2026-11-17 12:14 UTC · ABC7 Chicago (IL) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7chicago.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-- 2026-11-17 12:14 UTC · 6abc Philly (PA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://6abc.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-- 2026-11-17 12:14 UTC · ABC7 LA (CA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-
-**Who posted it on Instagram** (2 pages, 24,409 likes, 2 posts)
-
-- [@complex](https://www.instagram.com/p/DfzMyC0pWsr/) · 15,862 likes · 367 comments · +900 min after first report · The Moon is slowly leaving us. 🌕🌎 According to NASA, the Moon moves about 1.5 inches farther away from Earth every year. Scientists have been tracking this movement for decades using lasers reflected 
-- [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · +1385 min after first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
-
 ### 4. Trump heads to Asia ahead of high-stakes meeting with Xi and Putin
 
 **Score** 179 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 15:39 UTC
 
-**Status** Confirmed · independent reports: 23 of 40 feeds · official: none · independent newsrooms: 20
+**Status** Confirmed · independent reports: 21 of 36 feeds · official: none · independent newsrooms: 18
 
-**Duplicates collapsed**: 6 of 40 feeds repeat the same report.
+**Duplicates collapsed**: 5 of 36 feeds repeat the same report.
 
-> 11 of the 34 independent reports in the cluster cover related updates, not this headline. 40 feeds carry 34 independent reports (the rest are duplicates).
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- President Donald Trump is traveling to Asia for a series of meetings with world leaders. — support: 6
+- President Trump is scheduled to meet with Russian President Vladimir Putin and Chinese President Xi Jinping. — support: 5
+- President Trump departed for his Asia trip on Monday. — support: 1
+- The trip includes a potential meeting with North Korean leader Kim Jong Un. — support: 2
+
+> 10 of the 31 independent reports in the cluster cover related updates, not this headline. 36 feeds carry 31 independent reports (the rest are duplicates). 1 key claim stated by a single report: “President Trump departed for his Asia trip on Monday.”
 
 Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts Xi Jinping and Vladimir…
 
@@ -163,13 +191,13 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 - 2026-11-16 16:17 UTC · The Hill · [Live updates: Trump en route to Asia; Nvdia scandal, national groundstop fallout loom large](https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/)
 - 2026-11-16 16:20 UTC · CBS News · [Trump praises Duffy after FAA ground stop, says he wouldn't mind if Jensen Huang returns to Nvidia](https://www.cbsnews.com/video/trump-praises-duffy-after-faa-ground-stop-says-he-wouldnt-mind-if-jensen-huang-returns-to-nvidia/)
 - 2026-11-16 16:24 UTC · WSVN Miami (FL) · [Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting](https://wsvn.com/news/politics/trump-asia-trip-china-russia/)
-- 2026-11-16 16:26 UTC · WCPO Cincinnati (OH) · [Trump opens door to meeting with Kim Jong Un as he heads to Asia](https://www.wcpo.com/politics/the-president/trump-opens-door-to-meeting-with-kim-jong-un-as-he-heads-to-asia)
-- 2026-11-16 23:48 UTC · Fox News · [Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change)
 - 2026-11-17 00:43 UTC · CBS News · [Trump traveling to China amid Nvidia scandal fallout](https://www.cbsnews.com/video/trump-traveling-china-amid-nvidia-scandal-fallout/)
 - 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
 - 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
 - 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
 - 2026-11-17 10:17 UTC · New York Post · [Trump arrives in Philippines to kick off Asia trip ahead of historic three-way nuclear talks with Xi and Putin](https://nypost.com/2026/11/17/us-news/trump-arrives-in-philippines-to-kick-off-asia-trip-ahead-of-historic-three-way-nuclear-talks-with-xi-and-putin/)
+- 2026-11-17 10:25 UTC · ABC News · [Trump Asia trip live updates: Trump lands in Manila ahead meetings with Asian leaders](https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702)
+- 2026-11-17 10:43 UTC · NPR · [Trump arrives in Philippines to kick off Asia trip](https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines)
 
 **Who posted it on Instagram** (3 pages, 12,490 likes, 4 posts)
 
@@ -185,7 +213,13 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 
 **Duplicates collapsed**: 11 of 22 feeds repeat the same report.
 
-> 22 feeds carry 11 independent reports (the rest are duplicates).
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- FEMA is conducting a nationwide test of the Emergency Alert System on Tuesday — support: 6
+- The test will interrupt television and radio broadcasts — support: 3
+- The test will last for about a minute — support: 1
+
+> 22 feeds carry 11 independent reports (the rest are duplicates). 1 key claim stated by a single report: “The test will last for about a minute”
 
 Government agencies and TV broadcasters are telling Americans not to be alarmed by a nationwide Emergency Alert System test taking place on Tuesday.
 
@@ -218,6 +252,15 @@ Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert Syste
 
 **Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 2
 
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Jennifer Lawrence and Josh Hutcherson reunited at the world premiere of The Hunger Games: Sunrise on the Reaping — support: 5
+- The premiere event took place in New York City — support: 3
+- Woody Harrelson attended the premiere — support: 1
+- The premiere took place on Monday night — support: 1
+
+> There is a minor discrepancy in the title of the film between Sunrise on the Reaping and Sunrise at the Reaping. 2 key claims stated by a single report: “Woody Harrelson attended the premiere”; “The premiere took place on Monday night”
+
 Katniss and Peeta are together again! Jennifer Lawrence reunited with Josh Hutcherson at the premiere of The Hunger Games: Sunrise […] The post Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
 Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/)
@@ -240,60 +283,74 @@ Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Jo
 - [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,380 likes · 52 comments · +600 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +927 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 
-### 7. Top Nvidia lawyer agrees to testify before Congress
+### 7. Trump takes questions on FAA ground stop, Jensen Huang before heading to Asia for Xi meeting
 
-**Score** 136 · **First seen** 2026-11-15 19:15 UTC · **Last update** 2026-11-18 16:14 UTC
+**Score** 148 · **Category** public-safety · **First seen** 2026-11-16 10:00 UTC · **Last update** 2026-11-18 16:14 UTC
 
-**Status** Confirmed · independent reports: 6 of 13 feeds · official: none · independent newsrooms: 5
+**Status** Confirmed · independent reports: 16 of 22 feeds · official: none · independent newsrooms: 13
 
-**Duplicates collapsed**: 1 of 13 feeds repeat the same report.
+**Wire copies collapsed**: NBC News ×2; CBS News ×2.
 
-> 6 of the 12 independent reports in the cluster cover related updates, not this headline.
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-Jensen Huang and Nvidia general counsel Tim Teter will officially testify before Congress in early December, lawmakers announced Tuesday. Why it matters: Lawmakers are seeking answers about whether Nvidia's powerful AI chips were compromised by Chinese intelligence and whether the company did enough to protect sensitive American technology. Huang and Teter will participate in transcribed, closed-door interviews with…
+- Jensen Huang resigned or was ousted as CEO of Nvidia following allegations of extramarital affairs including one with a suspected Chinese spy. — support: 4
+- President Trump stated he would not mind if Jensen Huang were reinstated as CEO of Nvidia. — support: 4
+- The Nvidia scandal is impacting political dynamics regarding President Trump's relationship with tech and his upcoming meeting with Xi Jinping. — support: 2
 
-Lead: [The Verge — Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
+> 2 of the 18 independent reports in the cluster cover related updates, not this headline. 22 feeds carry 18 independent reports (wire copies: CBS News, NBC News). Reports differ on whether Jensen Huang resigned or was ousted from his position as CEO.
+
+Prominent conservative thinkers and MAGA figures are seizing on former Nvidia CEO Jensen Huang's affair with an alleged Chinese spy to pull President Trump away from his alliance with the tech right. Why it matters: The Nvidia scandal highlights some of the political weaknesses for Trump in allowing himself to be defined by his connections to an increasingly unpopular group of companies. Right-wing players are…
+
+Lead: [Axios — MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech](https://www.axios.com/2026/11/16/maga-jensen-huang-chinese-spy-scandal-trump)
 
 **Where it was published**
 
-- 2026-11-15 19:15 UTC · The Verge · [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
-- 2026-11-16 13:14 UTC · PC Gamer · [Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition](https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/)
-- 2026-11-17 15:24 UTC · CBS News · [Ex-Nvidia CEO Jensen Huang agrees to testify to Congress amid affair probe](https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/)
-- 2026-11-17 15:37 UTC · Axios · [Jensen Huang agrees to face Congress over Nvidia scandal](https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates)
-- 2026-11-17 15:40 UTC · New York Post · [Disgraced ex-Nvidia CEO Jensen Huang to testify before Congress next month](https://nypost.com/2026/11/17/business/disgraced-ex-nvidia-ceo-jensen-huang-to-testify-before-congress-next-month/)
-- 2026-11-17 15:43 UTC · The Hill · [Top Nvidia lawyer agrees to testify before Congress](https://thehill.com/policy/technology/6225075-nvidia-counsel-teter-jensen-huang-testimony/)
-- 2026-11-17 15:44 UTC · WSVN Miami (FL) · [Former Nvidia CEO Jenson Huang to appear before Congress next month as national security questions intensify](https://wsvn.com/news/us-world/former-nvidia-ceo-jenson-huang-to-appear-before-congress-next-month-as-national-security-questions-intensify/)
-- 2026-11-17 15:44 UTC · WSVN Miami (FL) · [Former Nvidia CEO Jenson Huang to appear before Congress next month as national security questions intensify](https://wsvn.com/news/us-world/jensen-huang-congress-appearance/)
-- 2026-11-17 17:05 UTC · UPI Top · [Former Nvidia CEO Jensen Huang agrees to testify before Congress](https://www.upi.com/Top_News/US/2026/11/17/nvidia-huang-congress-house-national-security/9761794933298/)
-- 2026-11-17 17:36 UTC · NPR · [Huang says he'd be "honored" to return to Nvidia as he agrees to testify to Congress](https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress)
-- 2026-11-17 17:58 UTC · Guardian US · [Jensen Huang to testify before Congress on ‘potential breach of national security’](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy)
-- 2026-11-17 19:07 UTC · CBS News · [Jensen Huang says he's willing to return as Nvidia CEO](https://www.cbsnews.com/video/jensen-huang-says-hes-willing-to-return-as-nvidia-ceo/)
+- 2026-11-16 10:00 UTC · Axios · [MAGA figures hope Jensen Huang's spy scandal finally breaks Trump's embrace of Big Tech](https://www.axios.com/2026/11/16/maga-jensen-huang-chinese-spy-scandal-trump)
+- 2026-11-16 11:00 UTC · The Hill · [Nvidia scandals throw wrench into Trump’s meeting with Xi Jinping](https://thehill.com/homenews/administration/6219992-trump-xi-meeting-nvidia-scandals/)
+- 2026-11-16 14:50 UTC · NBC News · [Trump says he ‘would not mind’ if Jensen Huang returned as Nvidia CEO](https://www.nbcnews.com/politics/trump-administration/trump-support-jensen-huang-nvidia-ceo-rcna609597)
+- 2026-11-16 14:58 UTC · The Hill · [Trump ‘certainly would not mind’ Huang returning as Nvidia CEO](https://thehill.com/homenews/administration/6222441-tim-cook-nvda-ceo-option/)
+- 2026-11-16 15:08 UTC · NBC News · [Trump says he ‘would not mind’ if Jensen Huang returned to lead Nvidia](https://www.nbcnews.com/now/video/trump-says-he-would-not-mind-if-jensen-huang-returned-to-lead-nvidia-273579077862)
+- 2026-11-16 15:31 UTC · BBC US & Canada · [Trump says he wouldn't mind seeing Huang return to Nvidia](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
+- 2026-11-16 15:43 UTC · CBS News · [Trump takes questions on FAA ground stop, Jensen Huang before heading to Asia for Xi meeting](https://www.cbsnews.com/video/trump-takes-questions-on-faa-ground-stop-jensen-huang-before-heading-to-china-for-xi-meeting/)
+- 2026-11-16 15:48 UTC · Daily Mail US · ['I would not mind that': Trump backs return of Nvidia boss following affairs... but shares sink again ahead of crucial results](https://www.dailymail.com/money/markets/article-16296669/Nvidia-shares-sink-ahead-crucial-results-talk-boss-comeback-branded-ridiculous-following-affairs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-16 16:01 UTC · Daily Mail US · [Trump says Nvidia ex-CEO Jensen Huang should be reinstated after Chinese spy honeypot scandal: 'That's a beautiful woman'](https://www.dailymail.com/news/article-16296759/Trump-Nvidia-CEO-Chinese-spy-honeypot-says-reinstated-Thats-beautiful-woman.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-16 16:03 UTC · Newsweek · [Trump Open to Nvidia's Huang Return, Doubts China 'Spy' Ahead of Xi Talks](https://www.newsweek.com/trump-nvidia-jensen-huang-china-spy-xi-talks-12721302)
+- 2026-11-16 16:19 UTC · CBS News · [Trump says he "would not mind" if Nvidia reinstated Jensen Huang](https://www.cbsnews.com/news/trump-nvidia-jensen-huang/)
+- 2026-11-16 16:39 UTC · The Verge · [Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia](https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return)
 
 **Who posted it on Instagram** (7 pages, 305,008 likes, 11 posts)
 
-- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 162,263 likes · 1,433 comments · +2718 min after first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
-- [@dailymail](https://www.instagram.com/p/DfzRknNjUQE/) · 5,545 likes · 157 comments · +987 min after first report · Jensen Huang is considering a comeback as Nvidia's chief executive, and has discussed with confidants the possibility of returning, the Financial Times reported, citing people familiar with the matter
-- [@nypost](https://www.instagram.com/p/DfxEsLakxi_/) · 866 likes · 28 comments · 166 min before first report · “Saturday Night Live” roasted ousted Nvidia CEO Jensen Huang over his affair with a suspected Chinese spy — bringing back Bowen Yang to play the disgraced tech executive. Yang, who departed the NBC sh
-- [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +3186 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
-- [@explainscience.ai](https://www.instagram.com/p/Dfw5I4KkhfP/) · 334 likes · 1 comments · 616 min before first report · The internet always delivers. The New York Times reports Jensen Huang had a second relationship, this time with Kimberly Powell, a Nvidia vice president who reports to him. Which reaction wins? Follow
-- [@movieshowtime](https://www.instagram.com/p/Df0YVWRHXRX/) · 122 likes · 0 comments · +2264 min after first report · Man 😭 A U.S. intelligence memo alleged Nvidia CEO Jensen Huang had a romantic relationship with a tech executive believed to have been recruited by China's Ministry of State Security, per the Financia
+- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 162,263 likes · 1,433 comments · +1834 min after first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
+- [@dailymail](https://www.instagram.com/p/DfzRknNjUQE/) · 5,545 likes · 157 comments · +103 min after first report · Jensen Huang is considering a comeback as Nvidia's chief executive, and has discussed with confidants the possibility of returning, the Financial Times reported, citing people familiar with the matter
+- [@nypost](https://www.instagram.com/p/DfxEsLakxi_/) · 866 likes · 28 comments · 1050 min before first report · “Saturday Night Live” roasted ousted Nvidia CEO Jensen Huang over his affair with a suspected Chinese spy — bringing back Bowen Yang to play the disgraced tech executive. Yang, who departed the NBC sh
+- [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +2302 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
+- [@explainscience.ai](https://www.instagram.com/p/Dfw5I4KkhfP/) · 334 likes · 1 comments · 1500 min before first report · The internet always delivers. The New York Times reports Jensen Huang had a second relationship, this time with Kimberly Powell, a Nvidia vice president who reports to him. Which reaction wins? Follow
+- [@movieshowtime](https://www.instagram.com/p/Df0YVWRHXRX/) · 122 likes · 0 comments · +1380 min after first report · Man 😭 A U.S. intelligence memo alleged Nvidia CEO Jensen Huang had a romantic relationship with a tech executive believed to have been recruited by China's Ministry of State Security, per the Financia
 
-### 8. Waymo suspends freeway rides nationwide after California DMV order
+### 8. California DMV bans Waymo from operating on state freeways after string of traffic incidents
 
-**Score** 134 · **State** CA · **First seen** 2026-11-17 19:38 UTC · **Last update** 2026-11-18 16:20 UTC
+**Score** 138 · **State** CA · **First seen** 2026-11-17 19:14 UTC · **Last update** 2026-11-18 16:20 UTC
 
-**Status** Confirmed · independent reports: 7 of 20 feeds · official: none · independent newsrooms: 7
+**Status** Confirmed · independent reports: 8 of 21 feeds · official: none · independent newsrooms: 8
 
 **Wire copies collapsed**: Associated Press ×2.
 
-> 3 of the 10 independent reports in the cluster cover related updates, not this headline. 20 feeds carry 10 independent reports (wire copies: Associated Press).
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The California Department of Motor Vehicles banned Waymo from operating self-driving taxis on state freeways — support: 5
+- The California DMV cited safety concerns as the reason for the ban — support: 5
+- The restrictions on Waymo freeway operations took effect on November 11 — support: 2
+- Waymo suspended its freeway rides nationwide following the California DMV order — support: 2
+
+> 3 of the 11 independent reports in the cluster cover related updates, not this headline. 21 feeds carry 11 independent reports (wire copies: Associated Press). Reports differ on whether Waymo suspended freeway rides only in California or nationwide.
 
 California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th. The crackdown follows two recent high-profile Bay Area incidents, in which Waymo robotaxis drove into an active construction […]
 
-Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways after string of traffic incidents](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/)
+Lead: [New York Post — California’s 4 toughest DMV offices to pass a driving test are all in LA County](https://nypost.com/2026/11/17/lifestyle/californias-4-toughest-dmv-offices-to-pass-a-driving-test-are-in-la-county/)
 
 **Where it was published**
 
+- 2026-11-17 19:14 UTC · New York Post · [California’s 4 toughest DMV offices to pass a driving test are all in LA County](https://nypost.com/2026/11/17/lifestyle/californias-4-toughest-dmv-offices-to-pass-a-driving-test-are-in-la-county/)
 - 2026-11-17 19:38 UTC · KTLA (CA) · [California DMV bans Waymo from operating on state freeways after string of traffic incidents](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/)
 - 2026-11-17 19:38 UTC · The Verge · [California just banned Waymo from all state freeways](https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety)
 - 2026-11-17 19:49 UTC · TechCrunch · [Waymo suspends freeway rides nationwide after California DMV order](https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/)
@@ -305,11 +362,10 @@ Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways 
 - 2026-11-18 02:07 UTC · KING5 Seattle (WA) · [Waymo suspends rides on all freeways in the US](https://www.king5.com/article/news/nation-world/waymo-suspends-rides-freeways-us/507-fcfb4dfc-06ae-4dff-997f-513edc69d0a8)
 - 2026-11-18 11:11 UTC · ABC News · [Waymo driverless cars barred from California freeways following troubling incidents](https://abcnews.com/US/waymo-driverless-cars-barred-california-freeways-series-troubling/story?id=138221652)
 - 2026-11-18 11:33 UTC · ABC7 LA (CA) · [Waymo driverless cars barred from California freeways following series of troubling incidents](https://abc7.com/story/waymo-driverless-cars-barred-california-freeways-following-series-troubling-incidents/20050911/)
-- 2026-11-18 11:33 UTC · ABC13 Houston (TX) · [Waymo driverless cars barred from California freeways following series of troubling incidents](https://abc13.com/story/waymo-driverless-cars-barred-california-freeways-following-series-troubling-incidents/20050911/)
 
 **Who posted it on Instagram** (1 pages, 1,048 likes, 1 posts)
 
-- [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +964 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
+- [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +988 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
 
 ### 9. McDonald's celebrating 36th anniversary of 'Home Alone' with collectible socks, menu items
 
@@ -319,7 +375,13 @@ Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways 
 
 **Duplicates collapsed**: 3 of 11 feeds repeat the same report.
 
-> 3 of the 8 independent reports in the cluster cover related updates, not this headline. 11 feeds carry 8 independent reports (the rest are duplicates).
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- McDonald's is launching a holiday promotion featuring Home Alone themed menu items and collectible socks. — support: 6
+- The promotion marks the 36th anniversary of the film Home Alone. — support: 4
+- Macaulay Culkin appears in a McDonald's advertisement related to the Home Alone promotion. — support: 1
+
+> 3 of the 8 independent reports in the cluster cover related updates, not this headline. 11 feeds carry 8 independent reports (the rest are duplicates). Reports disagree on whether the promotion is a general holiday meal or specifically tied to the 36th anniversary of the film. 1 key claim stated by a single report: “Macaulay Culkin appears in a McDonald's advertisement related to the H”
 
 Kevin McAllister, the famous abandoned tyke from the popular “Home Alone” movies is back on screens — though probably not in the way anybody expected. Macaulay Culkin, the actor who played the role in the landmark 1990 film and its sequel, has revived a decidedly older version of the character in a new commercial for […]
 
@@ -347,15 +409,58 @@ Lead: [Dexerto — McDonald’s reveals Home Alone Meal with pizza-flavored frie
 - [@markets](https://www.instagram.com/p/Df2V5nNjp7x/) · 0 likes · 4 comments · 240 min before first report · Home Alone 2: Lost in New York is one of the most beloved Christmas movies ever, but some of its secrets might surprise even the biggest fans. From Macaulay Culkin earning a record breaking $4.5 milli
 - [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 948 comments · +432 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
 
-### 10. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
+### 10. Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’
 
-**Score** 126 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 15:14 UTC
+**Score** 126 · **First seen** 2026-11-15 23:12 UTC · **Last update** 2026-11-18 17:02 UTC
+
+**Status** Developing · independent reports: 2 of 5 feeds · official: none · independent newsrooms: 1
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- President Donald Trump is traveling to Asia on a Qatari-gifted jet — support: 4
+- The presidential jet made an unplanned refueling stop in Alaska due to extreme weather — support: 3
+- President Donald Trump arrived in the Philippines on Tuesday evening — support: 1
+- The refueling stop in Alaska was diverted from Anchorage to Fairbanks — support: 1
+
+> 2 independent reports only; details may still change. 3 of the 5 independent reports in the cluster cover related updates, not this headline. 2 key claims stated by a single report: “President Donald Trump arrived in the Philippines on Tuesday evening”; “The refueling stop in Alaska was diverted from Anchorage to Fairbanks”
+
+President Donald Trump is expected to take the Qatari-gifted Air Force One to Asia on Monday as questions linger about upgrades the White House said were needed after a security threat from Iran forced the president to fly home from Turkey on a secret military plane in July, according to two U.S. officials.
+
+Lead: [NBC News — Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’](https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487)
+
+**Where it was published**
+
+- 2026-11-15 23:12 UTC · NBC News · [Trump plans to take Qatari jet to Asia, but it’s unclear whether it’s been ‘maxed out’](https://www.nbcnews.com/politics/trump-administration/trump-plans-take-qatari-jet-asia-s-unclear-whether-s-maxed-rcna609487)
+- 2026-11-16 16:18 UTC · Daily Mail US · [Trump blames old tech that had a 'heart attack' for FAA ground stop as he jets off to Asia on problematic Qatar-gifted jet amid security fears](https://www.dailymail.com/news/article-16296735/Trump-blames-old-tech-heart-attack-FAA-ground-stop-jets-Asia-problematic-Qatar-gifted-jet-amid-security-fears.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-16 23:48 UTC · Fox News · [Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change)
+- 2026-11-17 00:17 UTC · Daily Mail US · [Qatari-gifted Air Force One carrying Trump to Asia makes unplanned diversion in Alaska amid 'extreme' weather conditions... with old presidential jet on its tail](https://www.dailymail.com/news/article-16297935/qatari-air-force-one-diverted-refueling-weather.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 11:17 UTC · Daily Mail US · [Trump fist pumps during king's welcome in the Philippines as he kicks off high-stakes Asia trip](https://www.dailymail.com/news/article-16299087/Trump-Philippines-kicks-high-stakes-Asia-trip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+
+**Who posted it on Instagram** (6 pages, 106,094 likes, 10 posts)
+
+- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · +1060 min after first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
+- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,727 likes · 2,400 comments · +2324 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
+- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,880 likes · 422 comments · +2403 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
+- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +2858 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
+- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · +1218 min after first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
+- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · +1412 min after first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
+
+### 11. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
+
+**Score** 125 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 15:14 UTC
 
 **Status** Confirmed · independent reports: 6 of 30 feeds · official: none · independent newsrooms: 3
 
 **Duplicates collapsed**: 3 of 30 feeds repeat the same report.
 
-> 21 of the 27 independent reports in the cluster cover related updates, not this headline. 30 feeds carry 27 independent reports (the rest are duplicates).
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The FAA issued a nationwide ground stop for flights. — support: 4
+- Transportation Secretary Sean Duffy attributed the FAA ground stop to issues with contractor routers and lack of investment. — support: 3
+- President Trump blamed the FAA ground stop on old equipment and past administrations. — support: 3
+- President Trump stated he does not take responsibility for the FAA ground stop. — support: 1
+
+> 21 of the 27 independent reports in the cluster cover related updates, not this headline. 30 feeds carry 27 independent reports (the rest are duplicates). 1 key claim stated by a single report: “President Trump stated he does not take responsibility for the FAA gro”
 
 President Trump said Monday that he doesn’t take any responsibility for the Federal Aviation Administration’s nationwide ground stop last week, instead blaming the old equipment and past administrations. “I don’t take any responsibility,” he told reporters outside the White House before departing for Asia. “They did a great job — [Transportation] Secretary [Sean] Duffy —…
 
@@ -382,11 +487,19 @@ Lead: [9News Denver (CO) — 'Baffling to me': Aviation expert says FAA's explan
 - [@thedailyshow](https://www.instagram.com/reel/Df1WNW5A-6N/) · 5,031 likes · 74 comments · +1951 min after first report · @jonstewart on Sean Duffy blaming a router: "I can't even order a Crunchwrap Supreme without 2-factor authentication, but somehow, there's a 'Turn Off America' switch somewhere in f**kin Arkansas?"
 - [@nypost](https://www.instagram.com/p/DfxKR_bk9qq/) · 443 likes · 31 comments · 749 min before first report · Transportation Secretary Sean Duffy said that air travel disruptions caused by the FAA’s nationwide ground stop Friday should resolve by the end of the day Monday at the latest. Duffy offered an optim
 
-### 11. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
+### 12. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
 
-**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 17:24 UTC
+**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 18:06 UTC
 
 **Status** Confirmed · independent reports: 5 of 5 feeds · official: none · independent newsrooms: 5
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The Miami Heat unveiled a Vice City themed basketball court and new uniforms. — support: 3
+- The Miami Heat are hosting an event called A Night in Vice City. — support: 2
+- The Grand Theft Auto VI video game is scheduled for release in two to three days. — support: 2
+
+> Reports disagree on whether the game release is in two or three days.
 
 Some fans who came to South Florida to celebrate the release of “Grand Theft Auto: VI” have been enamored by the city’s cross-promotions with the...
 
@@ -409,29 +522,6 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - [@wasted](https://www.instagram.com/p/Df2QniVh0jJ/) · 7,178 likes · 66 comments · +1571 min after first report · 🧐 Grand Theft Auto VI, developed and published by Rockstar Games, is the highly anticipated eighth main entry in the Grand Theft Auto series. Set in the fictional state of Leonida—a sun-soaked, satir
 - [@dexerto](https://www.instagram.com/p/DfzdNA2mxf9/) · 4,287 likes · 51 comments · +3 min after first report · Reddit user u/NakedSnake21 has gone viral for recreating the same photo with three generations of Grand Theft Auto, capturing 18 years of his life in three pictures. He first posed with GTA 4 in 2008 
 
-### 12. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
-
-**Score** 112 · **First seen** 2026-11-18 00:40 UTC · **Last update** 2026-11-18 16:48 UTC
-
-**Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
-
-> One independent report so far; not independently confirmed.
-
-The country needs answers. But it seems the White House isn't telling us everything, or much of anything at all. Karoline Leavitt boldly said as much on Fox News Tuesday morning.
-
-Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-
-**Where it was published**
-
-- 2026-11-18 00:40 UTC · Daily Mail US · [Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-
-**Who posted it on Instagram** (4 pages, 85,276 likes, 5 posts)
-
-- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · 1908 min before first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
-- [@nypost](https://www.instagram.com/p/Df0Dhd5EUVk/) · 2,283 likes · 595 comments · 1705 min before first report · President Trump defended the White House restoration work, saying he has a responsibility to maintain the historic building before criticizing a reporter’s questions about the project.
-- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,054 likes · 934 comments · 1739 min before first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
-- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · 1556 min before first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
-
 ### 13. US officially loses measles elimination status, PAHO says
 
 **Score** 110 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
@@ -439,6 +529,13 @@ Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth abou
 **Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 6
 
 **Duplicates collapsed**: 7 of 19 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The United States officially lost its measles elimination status on Tuesday. — support: 5
+- The Pan American Health Organization is responsible for the decision regarding measles elimination status. — support: 5
+- There have been more than 7700 measles cases in the United States in the past two years. — support: 4
+- More than 10 deaths from measles have been reported by states since 2025. — support: 4
 
 > 5 of the 12 independent reports in the cluster cover related updates, not this headline. 19 feeds carry 12 independent reports (the rest are duplicates).
 
@@ -471,7 +568,11 @@ Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threa
 
 **Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
-> One independent report so far; not independently confirmed.
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Jennifer Lawrence has been associated with a highlighter bag — support: 1
+
+> One independent report so far; not independently confirmed. 1 key claim stated by a single report: “Jennifer Lawrence has been associated with a highlighter bag”
 
 Although I’ve lived in New York for 11 years, I’ve never adopted the all-black wardrobe the city is typically known for. What can I say? My clothes need to be colorful and whimsical! I find plenty of ways to incorporate color into my fits and admire when people add electric pops. Jennifer Lawrence gave me […]
 
@@ -495,7 +596,13 @@ Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tir
 
 **Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
-> One independent report so far; not independently confirmed.
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Cara Paige received a Grammy nomination for her independently released album — support: 1
+- Cara Paige is a first-time Grammy Award nominee — support: 1
+- Cara Paige went viral for her song Ur nearly five years ago — support: 1
+
+> One independent report so far; not independently confirmed. 3 key claims stated by a single report: “Cara Paige received a Grammy nomination for her independently released”; “Cara Paige is a first-time Grammy Award nominee”
 
 Cara Paige is a first-time Grammy Award nominee, nearly five years after she first went viral for her song “Ur […] The post Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy Nomination for Her Independently Released Album appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
@@ -519,7 +626,12 @@ Lead: [Just Jared — Viral ‘Toyota Tacoma’ Singer Cara Paige Lands Grammy N
 
 **Status** Unverified · independent reports: 1 of 12 feeds · official: none · independent newsrooms: 0
 
-> One independent report so far; not independently confirmed. 11 of the 12 independent reports in the cluster cover related updates, not this headline.
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The New York Post is celebrating its 225th anniversary. — support: 5
+- The New York Post is the nation's oldest continuously published daily newspaper. — support: 1
+
+> One independent report so far; not independently confirmed. 11 of the 12 independent reports in the cluster cover related updates, not this headline. 1 key claim stated by a single report: “The New York Post is the nation's oldest continuously published daily ”
 
 Carly Stern, Wellness Editor at the New York Post, sits down with Dr. Caren Behar, Co-Director of the Mignone Women’s Health Collaborative and Medical Director at NYU Langone’s Joan H. Tisch Center for Women’s Health, to separate health fact from social media fiction. From quick “movement snacks” and better sleep habits to supplements and viral...
 
@@ -552,6 +664,14 @@ Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s 
 
 **Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 2
 
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The movie The Further Mis-Adventures of Cliff Booth held its Los Angeles premiere. — support: 3
+- Brad Pitt stars in the film The Further Mis-Adventures of Cliff Booth. — support: 6
+- The film is directed by David Fincher. — support: 2
+- Brad Pitt attended the premiere with his girlfriend Ines de Ramon. — support: 2
+- The film is a sequel to the 2019 movie Once Upon a Time in Hollywood. — support: 3
+
 David Fincher, Brad Pitt and Quentin Tarantino’s long-awaited “Once Upon a Time in Hollywood” sequel movie, officially titled “The Further Mis-Adventures of Cliff Booth,” has been unveiled to members of the film press, who are calling the Netflix-backed tentpole a “wildly entertaining” “hangout movie” that is already one of the year’s best. “David Fincher’s The […]
 
 Lead: [Page Six — ‘The Further Mis-Adventures of Cliff Booth’ LA premiere red carpet: Brad Pitt, Elizabeth Debicki and more](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/)
@@ -579,7 +699,14 @@ Lead: [Page Six — ‘The Further Mis-Adventures of Cliff Booth’ LA premiere 
 
 **Status** Confirmed · independent reports: 2 of 8 feeds · official: none · independent newsrooms: 2
 
-> 6 of the 8 independent reports in the cluster cover related updates, not this headline.
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Apple services including the App Store and iCloud experienced outages on Tuesday. — support: 5
+- Thousands of users reported issues with Apple services on the tracking site Downdetector. — support: 2
+- Apple has not confirmed the cause of the service outages. — support: 1
+- Reports of Apple service issues surged around 9:30 a.m. and declined by 10:40 a.m. — support: 1
+
+> 6 of the 8 independent reports in the cluster cover related updates, not this headline. 2 key claims stated by a single report: “Apple has not confirmed the cause of the service outages.”; “Reports of Apple service issues surged around 9:30 a.m. and declined b”
 
 Apple users were hit with widespread service disruptions Tuesday afternoon, with thousands of outage reports involving Apple Pay, iCloud and Apple Support flooding the tracking site Downdetector.
 
@@ -603,11 +730,18 @@ Lead: [Engadget — How to sideload apps on iOS (even if you're in the US)](http
 
 ### 19. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
 
-**Score** 106 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-18 13:07 UTC
+**Score** 105 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-18 13:07 UTC
 
 **Status** Confirmed · independent reports: 19 of 25 feeds · official: none · independent newsrooms: 2
 
 **Duplicates collapsed**: 6 of 25 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Filmmaker Ray Tintori has died at the age of 43. — support: 6
+- Ray Tintori was the boyfriend of Saturday Night Live alum Heidi Gardner. — support: 6
+- The New York City Office of Chief Medical Examiner is investigating the death of Ray Tintori. — support: 3
+- The cause and manner of Ray Tintori's death are currently pending or undetermined. — support: 3
 
 > 25 feeds carry 19 independent reports (the rest are duplicates).
 
@@ -640,6 +774,13 @@ Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.
 
 **Status** Confirmed · independent reports: 9 of 15 feeds · official: none · independent newsrooms: 7
 
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Mayor Zohran Mamdani announced the disbanding of the NYPD's Strategic Response Group. — support: 6
+- The decision to disband the unit was made in coordination with NYPD Commissioner Jessica Tisch. — support: 3
+- The disbanding of the Strategic Response Group was a campaign promise made by Mayor Mamdani. — support: 2
+- The city is launching a new civilian-led approach to protests following the disbandment. — support: 2
+
 > 6 of the 15 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: Top US, r/Fauxmoi, r/news); open the original.
 
 “During our campaign for mayor, I promised to disband the NYPD's strategic response group, known as the SRG. Today, we are keeping that promise. I am disbanding the SRG. SRG was tasked with both counterterrorism enforcement and protest response. Those are not the same, and they should be separated. Government has a responsibility to both protect New Yorkers' constitutional rights and keep our communities safe. Those…
@@ -667,13 +808,20 @@ Lead: [ABC7 NY (NY) — Exclusive: Mayor Mamdani, Commissioner Tisch on disbandi
 
 ### 21. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
 
-**Score** 105 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-18 01:17 UTC
+**Score** 104 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-18 01:17 UTC
 
 **Status** Confirmed · independent reports: 3 of 7 feeds · official: none · independent newsrooms: 3
 
 **Duplicates collapsed**: 4 of 7 feeds repeat the same report.
 
-> 7 feeds carry 3 independent reports (the rest are duplicates).
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Raye leads the 2027 Grammy nominations — support: 6
+- Raye received 11 Grammy nominations — support: 1
+- The 2027 Grammy Awards will be held on February 7 in Los Angeles — support: 5
+- The 2027 Grammy Awards will air on ABC — support: 5
+
+> 7 feeds carry 3 independent reports (the rest are duplicates). 1 key claim stated by a single report: “Raye received 11 Grammy nominations”
 
 The 2027 Grammy nominations are in, with Raye leading the pack at 11 nods and women dominating the top categories. Which nominees stood out to you this year?
 
@@ -700,7 +848,13 @@ Lead: [WCPO Cincinnati (OH) — Raye leads 2027 Grammy nominations, followed by 
 
 **Status** Developing · independent reports: 2 of 2 feeds · official: none · independent newsrooms: 0
 
-> 2 independent reports only; details may still change.
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Paris Hilton visited Capitol Hill with Representative Alexandria Ocasio-Cortez. — support: 2
+- The purpose of the visit was to advocate for legislation regarding AI-generated pornography or deepfakes. — support: 2
+- Paris Hilton is 45 years old. — support: 1
+
+> 2 independent reports only; details may still change. 1 key claim stated by a single report: “Paris Hilton is 45 years old.”
 
 Paris Hilton returned to Capitol Hill this week with U.S. Rep. Alexandria Ocasio-Cortez. The 45-year-old former reality star spoke during […] The post Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
@@ -721,7 +875,13 @@ Lead: [New York Post — Paris Hilton and AOC team up in Capitol crusade to stop
 
 **Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
-> One independent report so far; not independently confirmed.
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Beyonce became the most-awarded artist in Grammys history in 2023 — support: 1
+- Beyonce won her 32nd Grammy award in 2023 — support: 1
+- Beyonce won the Grammy for Best Dance/Electronic Album for Renaissance — support: 1
+
+> One independent report so far; not independently confirmed. 3 key claims stated by a single report: “Beyonce became the most-awarded artist in Grammys history in 2023”; “Beyonce won her 32nd Grammy award in 2023”
 
 Beyoncé and Taylor Swift are just a few of the big names who have broken Grammy records over the course of the awards show’s history. In 2023, Beyoncé became the most-awarded artist in Grammys history with the 32nd trophy of her career, taking home the trophy for Best Dance/Electronic Album for Renaissance. It was her […]
 
@@ -742,11 +902,18 @@ Lead: [Us Weekly — Stars Who Have Broken Grammy Records: Beyonce, Taylor Swift
 
 ### 24. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
 
-**Score** 103 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-18 14:37 UTC
+**Score** 102 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-18 14:37 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
-> 1 independent report only; details may still change. Figures from one report only: $1.11, $1.77, $25.16, $25.95b, 16%.
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Disney reported fiscal fourth quarter revenue of 25.95 billion dollars — support: 1
+- Disney total revenue increased 16 percent compared to the year-earlier period — support: 1
+- Disney studio streaming and theme parks divisions all posted positive results in the fiscal fourth quarter — support: 1
+- Disney fiscal fourth quarter financial results exceeded Wall Street forecasts — support: 1
+
+> 1 independent report only; details may still change. 4 key claims stated by a single report: “Disney reported fiscal fourth quarter revenue of 25.95 billion dollars”; “Disney total revenue increased 16 percent compared to the year-earlier” Figures from one report only: $1.11, $1.77, $25.16, $25.95b, 16%.
 
 Disney’s studio, streaming operation and theme parks all posted stellar results in the company’s fiscal fourth quarter, handily beating Wall Street forecasts. Total revenue surged 16% over the year-earlier period, hitting $25.95 billion. Earnings per share excluding certain items shot up to $1.77 from $1.11 a year ago. Analysts had been expecting revenue of $25.16 […]
 
@@ -773,7 +940,13 @@ Lead: [Deadline — Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4,
 
 **Duplicates collapsed**: 5 of 12 feeds repeat the same report.
 
-> 2 independent reports only; details may still change. 5 of the 7 independent reports in the cluster cover related updates, not this headline. 12 feeds carry 7 independent reports (the rest are duplicates).
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Texas officials issued a public warning to Harris County Judge Nathan Milliron following a viral video of him berating an IT worker. — support: 3
+- An 8-month-old child is recovering after being accidentally shot by their father at a Harris County apartment. — support: 1
+- Authorities rescued 41 birds from a north Houston home during a cock-fighting investigation. — support: 1
+
+> 2 independent reports only; details may still change. 5 of the 7 independent reports in the cluster cover related updates, not this headline. 12 feeds carry 7 independent reports (the rest are duplicates). 2 key claims stated by a single report: “An 8-month-old child is recovering after being accidentally shot by th”; “Authorities rescued 41 birds from a north Houston home during a cock-f”
 
 The Harris County Precinct 1 Constable's Office said it is searching for a suspect after 41 birds were rescued from a north Houston home in a cock-fighting investigation.
 
