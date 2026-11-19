@@ -1,34 +1,34 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 08:30 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 09:32 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
 | 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 228 | Confirmed | 22 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
-| 2 | What we know about Trump's meeting with China's Xi, Russia's Putin | 200 | Confirmed | 25 | 3 | [CBS News](https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/) |
-| 3 | NASA Voyager Reaches One Full Light Day From Earth | 191 | Confirmed | 21 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
-| 4 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 177 | Confirmed | 25 | 3 | [Daily Star Weird](https://www.dailystar.co.uk/news/latest-news/biohacker-bryan-johnson-hits-back-37880882) |
-| 5 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 145 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
-| 6 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 144 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
-| 7 | Customers report difficulty accessing online services at major US banks | 140 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
-| 8 | ‘That night was incredible’: UFC announcer praises Donald Trump’s White House event | 137 | Confirmed | 8 | 4 | [Fox News](https://www.foxnews.com/outkick-sports/bruce-buffer-calls-ufc-freedom-250-white-house-incredible-trump-marked-80th-birthday) |
-| 9 | Waymo suspends freeway rides nationwide after California DMV order | 126 | Confirmed | 19 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
-| 10 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 13 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
-| 11 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 119 | Confirmed | 12 | 2 | [UPI Top](https://www.upi.com/Top_News/US/2026/11/16/duffy-contractor-examining-routers/8211794865115/) |
-| 12 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 119 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
-| 13 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 118 | Confirmed | 9 | 4 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
-| 14 | ‘Horribly Sad News,’ ‘One of the Greatest Reporters’ — NBA World Mourns Mike Wise After Ex-ESPN Star Passes Away at 62 Following Legendary Career | 110 | Developing | 1 | 4 | [Yahoo Sports](https://sports.yahoo.com/articles/horribly-sad-news-one-greatest-032357792.html) |
-| 15 | Miami Heat Reveal “Vice City” Court For GTA VI Game Release | 110 | Confirmed | 5 | 5 | [GameSpot](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/) |
-| 16 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 110 | Confirmed | 6 | 5 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
-| 17 | Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz | 108 | Developing | 3 | 1 | [Just Jared](https://www.justjared.com/2026/11/17/timothee-chalamet-kylie-jenner-private-relationship-call-me-by-your-name-sequel-vanity-fair/) |
-| 18 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 106 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
-| 19 | Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’ | 105 | Confirmed | 2 | 4 | [WSVN Miami (FL)](https://wsvn.com/news/us-world/us-intel-indicates-iran-developing-plans-to-potentially-detonate-a-dirty-bomb-in-washington-sources-say/) |
+| 2 | NASA Voyager Reaches One Full Light Day From Earth | 190 | Confirmed | 21 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
+| 3 | What we know about Trump's meeting with China's Xi, Russia's Putin | 184 | Confirmed | 23 | 3 | [CBS News](https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/) |
+| 4 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 176 | Confirmed | 25 | 3 | [Daily Star Weird](https://www.dailystar.co.uk/news/latest-news/biohacker-bryan-johnson-hits-back-37880882) |
+| 5 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 144 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
+| 6 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 143 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
+| 7 | Customers report difficulty accessing online services at major US banks | 139 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
+| 8 | Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously" | 134 | Confirmed | 10 | 4 | [Daily Mail US](https://www.dailymail.com/news/article-16298071/Iran-dirty-bomb-attack-Trump-administration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
+| 9 | Senator questions 'odd' White House move in pulling FDA nominee | 126 | Confirmed | 17 | 1 | [Axios](https://www.axios.com/2026/11/17/heidi-overton-fda-nomination-dropped) |
+| 10 | Waymo suspends freeway rides nationwide after California DMV order | 126 | Confirmed | 19 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
+| 11 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 123 | Confirmed | 3 | 13 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
+| 12 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 119 | Confirmed | 12 | 2 | [UPI Top](https://www.upi.com/Top_News/US/2026/11/16/duffy-contractor-examining-routers/8211794865115/) |
+| 13 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 118 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
+| 14 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 117 | Confirmed | 9 | 4 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
+| 15 | ‘Horribly Sad News,’ ‘One of the Greatest Reporters’ — NBA World Mourns Mike Wise After Ex-ESPN Star Passes Away at 62 Following Legendary Career | 109 | Developing | 1 | 4 | [Yahoo Sports](https://sports.yahoo.com/articles/horribly-sad-news-one-greatest-032357792.html) |
+| 16 | Miami Heat Reveal “Vice City” Court For GTA VI Game Release | 109 | Confirmed | 5 | 5 | [GameSpot](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/) |
+| 17 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 109 | Confirmed | 6 | 5 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
+| 18 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 108 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
+| 19 | Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz | 108 | Developing | 3 | 1 | [Just Jared](https://www.justjared.com/2026/11/17/timothee-chalamet-kylie-jenner-private-relationship-call-me-by-your-name-sequel-vanity-fair/) |
 | 20 | Bully judge punished over video of him screaming at courthouse worker after his computer crashed | 105 | Developing | 8 | 1 | [ABC13 Houston (TX)](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/) |
 | 21 | US officially loses measles elimination status, PAHO says | 104 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
 | 22 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 104 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
-| 23 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 104 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
-| 24 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 102 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
-| 25 | Mamdani disbanding controversial NYPD unit | 101 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
+| 23 | Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards | 104 | Unverified | 1 | 5 | [Just Jared](https://www.justjared.com/2026/11/17/jennifer-lawrence-rocks-the-wet-hair-trend-for-wwds-beauty-inc-awards/) |
+| 24 | Nicola Coughlan Plans to Boycott the ‘Harry Potter’ TV Show: ‘Not For Me’ | 103 | Developing | 3 | 7 | [Page Six](https://pagesix.com/2026/11/16/celebrity-news/bridgerton-star-nicola-coughlan-slams-j-k-rowling-after-trans-rights-feud-vows-to-boycott-hbos-new-harry-potter-series/) |
+| 25 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 101 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -80,52 +80,9 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 - [@nugget](https://www.instagram.com/p/Dfz_lNPoHYm/) · 24,153 likes · 776 comments · +42 min after first report · Pierce Brosnan’s time as James Bond came to an unexpected end after four films, making him one of the few actors to publicly describe being dropped from the iconic role rather than choosing to leave. 
 - [@forbes](https://www.instagram.com/p/Dfzp4qvkwwA/) · 21,747 likes · 763 comments · 523 min before first report · The next James Bond has officially been revealed. ⁣ ⁣ Robert Pattinson, best known for his roles in Twilight and The Batman, is set to take over as 007, succeeding Daniel Craig after years of speculat
 
-### 2. What we know about Trump's meeting with China's Xi, Russia's Putin
+### 2. NASA Voyager Reaches One Full Light Day From Earth
 
-**Score** 200 · **First seen** 2026-11-16 15:35 UTC · **Last update** 2026-11-19 07:06 UTC
-
-**Status** Confirmed · independent reports: 33 of 56 feeds · official: none · independent newsrooms: 30
-
-**Wire copies collapsed**: CBS News ×2.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- President Donald Trump is traveling to Asia for a trip that includes meetings with world leaders. — support: 6
-- President Trump is scheduled to meet with Russian President Vladimir Putin and Chinese President Xi Jinping. — support: 6
-- The trip includes a possible meeting with North Korean leader Kim Jong Un. — support: 1
-- The meetings are described as a three-way nuclear summit. — support: 2
-- The trip is occurring amid fallout from an Nvidia scandal. — support: 3
-
-> 13 of the 46 independent reports in the cluster cover related updates, not this headline. 56 feeds carry 46 independent reports (wire copies: CBS News). Reports differ on whether the meetings with Xi and Putin are characterized as a three-way nuclear summit or general meetings with world leaders. 1 key claim stated by a single report: “The trip includes a possible meeting with North Korean leader Kim Jong”
-
-President Trump is en route to Asia where he will meet with world leaders, including Chinese President Xi Jinping and Russian President Vladimir Putin, this week. He will first attend the ASEAN summit in the Philippines before heading to China for the Asia-Pacific Economic Cooperation summit later in the week. The national security controversy surrounding Nvidia…
-
-Lead: [CBS News — Trump heads to Asia for Putin, Xi summit; possible Kim meeting](https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/)
-
-**Where it was published**
-
-- 2026-11-16 15:35 UTC · CBS News · [Trump heads to Asia for Putin, Xi summit; possible Kim meeting](https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/)
-- 2026-11-16 16:17 UTC · The Hill · [Live updates: Trump en route to Asia; Nvdia scandal, national groundstop fallout loom large](https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/)
-- 2026-11-16 16:20 UTC · CBS News · [Trump praises Duffy after FAA ground stop, says he wouldn't mind if Jensen Huang returns to Nvidia](https://www.cbsnews.com/video/trump-praises-duffy-after-faa-ground-stop-says-he-wouldnt-mind-if-jensen-huang-returns-to-nvidia/)
-- 2026-11-16 16:24 UTC · WSVN Miami (FL) · [Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting](https://wsvn.com/news/politics/trump-asia-trip-china-russia/)
-- 2026-11-17 00:43 UTC · CBS News · [Trump traveling to China amid Nvidia scandal fallout](https://www.cbsnews.com/video/trump-traveling-china-amid-nvidia-scandal-fallout/)
-- 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
-- 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
-- 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
-- 2026-11-17 10:17 UTC · New York Post · [Trump arrives in Philippines to kick off Asia trip ahead of historic three-way nuclear talks with Xi and Putin](https://nypost.com/2026/11/17/us-news/trump-arrives-in-philippines-to-kick-off-asia-trip-ahead-of-historic-three-way-nuclear-talks-with-xi-and-putin/)
-- 2026-11-17 10:25 UTC · ABC News · [Trump Asia trip live updates: Trump lands in Manila ahead meetings with Asian leaders](https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702)
-- 2026-11-17 10:43 UTC · NPR · [Trump arrives in Philippines to kick off Asia trip](https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines)
-- 2026-11-17 11:00 UTC · The Hill · [What Trump, Putin and Xi want from superpower summit](https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/)
-
-**Who posted it on Instagram** (3 pages, 9,632 likes, 3 posts)
-
-- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,895 likes · 424 comments · +1420 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
-- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +1875 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · +1651 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
-
-### 3. NASA Voyager Reaches One Full Light Day From Earth
-
-**Score** 191 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 03:55 UTC
+**Score** 190 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 03:55 UTC
 
 **Status** Confirmed · independent reports: 9 of 23 feeds · official: none · independent newsrooms: 7
 
@@ -163,9 +120,52 @@ Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exac
 - [@complex](https://www.instagram.com/p/DfzMyC0pWsr/) · 15,862 likes · 367 comments · 1514 min before first report · The Moon is slowly leaving us. 🌕🌎 According to NASA, the Moon moves about 1.5 inches farther away from Earth every year. Scientists have been tracking this movement for decades using lasers reflected 
 - [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · 1029 min before first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
 
+### 3. What we know about Trump's meeting with China's Xi, Russia's Putin
+
+**Score** 184 · **First seen** 2026-11-16 15:35 UTC · **Last update** 2026-11-19 09:20 UTC
+
+**Status** Confirmed · independent reports: 35 of 55 feeds · official: none · independent newsrooms: 32
+
+**Wire copies collapsed**: CBS News ×2.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- President Donald Trump is traveling to Asia for a trip that includes meetings with world leaders. — support: 6
+- President Trump is scheduled to meet with Russian President Vladimir Putin and Chinese President Xi Jinping. — support: 6
+- The trip includes a possible meeting with North Korean leader Kim Jong Un. — support: 1
+- The meetings are described as a three-way nuclear summit. — support: 2
+- The trip is occurring amid fallout from an Nvidia scandal. — support: 3
+
+> 11 of the 46 independent reports in the cluster cover related updates, not this headline. 55 feeds carry 46 independent reports (wire copies: CBS News). Reports differ on whether the meetings with Xi and Putin are characterized as a three-way nuclear summit or general meetings with world leaders. 1 key claim stated by a single report: “The trip includes a possible meeting with North Korean leader Kim Jong”
+
+President Trump is en route to Asia where he will meet with world leaders, including Chinese President Xi Jinping and Russian President Vladimir Putin, this week. He will first attend the ASEAN summit in the Philippines before heading to China for the Asia-Pacific Economic Cooperation summit later in the week. The national security controversy surrounding Nvidia…
+
+Lead: [CBS News — Trump heads to Asia for Putin, Xi summit; possible Kim meeting](https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/)
+
+**Where it was published**
+
+- 2026-11-16 15:35 UTC · CBS News · [Trump heads to Asia for Putin, Xi summit; possible Kim meeting](https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/)
+- 2026-11-16 16:17 UTC · The Hill · [Live updates: Trump en route to Asia; Nvdia scandal, national groundstop fallout loom large](https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/)
+- 2026-11-16 16:20 UTC · CBS News · [Trump praises Duffy after FAA ground stop, says he wouldn't mind if Jensen Huang returns to Nvidia](https://www.cbsnews.com/video/trump-praises-duffy-after-faa-ground-stop-says-he-wouldnt-mind-if-jensen-huang-returns-to-nvidia/)
+- 2026-11-16 16:24 UTC · WSVN Miami (FL) · [Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting](https://wsvn.com/news/politics/trump-asia-trip-china-russia/)
+- 2026-11-17 00:43 UTC · CBS News · [Trump traveling to China amid Nvidia scandal fallout](https://www.cbsnews.com/video/trump-traveling-china-amid-nvidia-scandal-fallout/)
+- 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
+- 2026-11-17 09:47 UTC · Fox News · [Trump arrives in Philippines ahead of Xi Jinping summit in China after GOP midterm losses](https://www.foxnews.com/politics/trump-philippines-arrival-xi-jinping-china-summit)
+- 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
+- 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
+- 2026-11-17 10:17 UTC · New York Post · [Trump arrives in Philippines to kick off Asia trip ahead of historic three-way nuclear talks with Xi and Putin](https://nypost.com/2026/11/17/us-news/trump-arrives-in-philippines-to-kick-off-asia-trip-ahead-of-historic-three-way-nuclear-talks-with-xi-and-putin/)
+- 2026-11-17 10:43 UTC · NPR · [Trump arrives in Philippines to kick off Asia trip](https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines)
+- 2026-11-17 11:00 UTC · The Hill · [What Trump, Putin and Xi want from superpower summit](https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/)
+
+**Who posted it on Instagram** (3 pages, 9,632 likes, 3 posts)
+
+- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,895 likes · 424 comments · +1420 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
+- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +1875 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
+- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · +1651 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
+
 ### 4. A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city
 
-**Score** 177 · **Category** trending · **First seen** 2026-11-16 11:21 UTC · **Last update** 2026-11-18 14:08 UTC
+**Score** 176 · **Category** trending · **First seen** 2026-11-16 11:21 UTC · **Last update** 2026-11-18 14:08 UTC
 
 **Status** Confirmed · independent reports: 9 of 27 feeds · official: none · independent newsrooms: 9
 
@@ -207,7 +207,7 @@ Lead: [Daily Star Weird — Biohacker Bryan Johnson hits back after Pope slams r
 
 ### 5. Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!
 
-**Score** 145 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 21:35 UTC
+**Score** 144 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 21:35 UTC
 
 **Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -244,7 +244,7 @@ Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Jo
 
 ### 6. ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know
 
-**Score** 144 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
+**Score** 143 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
 
 **Status** Confirmed · independent reports: 11 of 22 feeds · official: none · independent newsrooms: 7
 
@@ -285,7 +285,7 @@ Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert Syste
 
 ### 7. Customers report difficulty accessing online services at major US banks
 
-**Score** 140 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
+**Score** 139 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
 
 **Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 4
 
@@ -327,48 +327,89 @@ Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Repor
 - [@hollywoodunlocked](https://www.instagram.com/p/Df2PeFcKZqe/) · 7,335 likes · 1,317 comments · +1263 min after first report · HU Staff: Kecia Gayle @kecia.kae Between the Microsoft meltdown, the grounded planes and the banking apps acting brand new, it’s safe to say a lot of folks are concerned. But on Monday night, Vice Pre
 - [@onlyindade](https://www.instagram.com/p/Df0hSXMoYU8/) · 1,877 likes · 88 comments · +299 min after first report · Did you have issues with your bank account today?💰👀\| #ONLYinDADE *🗞️ Customers of Chase, Bank of America, Wells Fargo and U.S. Bank reported issues accessing their accounts and completing transaction
 
-### 8. ‘That night was incredible’: UFC announcer praises Donald Trump’s White House event
+### 8. Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously"
 
-**Score** 137 · **Category** trending · **First seen** 2026-11-16 15:38 UTC · **Last update** 2026-11-19 00:16 UTC
+**Score** 134 · **First seen** 2026-11-17 01:27 UTC · **Last update** 2026-11-18 18:40 UTC
 
-**Status** Confirmed · independent reports: 3 of 12 feeds · official: none · independent newsrooms: 2
+**Status** Confirmed · independent reports: 10 of 14 feeds · official: none · independent newsrooms: 8
+
+**Duplicates collapsed**: 3 of 14 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Bruce Buffer announced at a UFC event held at the White House. — support: 1
-- UFC Freedom 250 took place on the South Lawn of the White House. — support: 1
-- President Donald Trump offered Dana White the position of White House press secretary. — support: 2
-- Dana White stated he wants nothing to do with politics. — support: 1
+- US intelligence indicates Iran is developing plans to detonate a dirty bomb in Washington DC targeting Trump administration officials — support: 4
+- President Trump stated that the US is taking the reported Iranian threat very seriously — support: 4
+- There is debate among US officials regarding whether there are credible threats or if Iran can execute the plot — support: 1
+- Senior officials are relocating to military housing due to the reported plot — support: 1
 
-> 9 of the 12 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. 3 key claims stated by a single report: “Bruce Buffer announced at a UFC event held at the White House.”; “UFC Freedom 250 took place on the South Lawn of the White House.”
+> 14 feeds carry 11 independent reports (the rest are duplicates). Reports differ on whether the threat is considered credible or if it is currently being debated by officials. 2 key claims stated by a single report: “There is debate among US officials regarding whether there are credibl”; “Senior officials are relocating to military housing due to the reporte”
 
-Look past the White House renovations , the proposed arch and the golf course : President Trump's border wall project is hundreds of miles behind pace. Why it matters: " Build that wall " helped build MAGA. But with two years to go, tough terrain and mounting political resistance threaten to leave Trump's signature promise unfinished. State of play: At the current pace, the main wall won't be finished until late…
+US officials ‘continue to debate whether Iran can or will attempt to execute’ plot to detonate a ‘dirty bomb’, report says Donald Trump has claimed the US is “looking into” whether Iran is developing plans to detonate a so-called “dirty bomb” in Washington, even as the White House said there are “no credible threats” at this time. Trump said his administration takes the idea “very seriously” Continue reading...
 
-Lead: [Fox News — Bruce Buffer calls UFC Freedom 250 at the White House 'incredible' as Trump marked 80th birthday](https://www.foxnews.com/outkick-sports/bruce-buffer-calls-ufc-freedom-250-white-house-incredible-trump-marked-80th-birthday)
+Lead: [Daily Mail US — Iran plotting terrifying 'dirty bomb' attack targeting Trump administration officials in Washington DC, intelligence report says](https://www.dailymail.com/news/article-16298071/Iran-dirty-bomb-attack-Trump-administration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 
 **Where it was published**
 
-- 2026-11-16 15:38 UTC · Fox News · [Bruce Buffer calls UFC Freedom 250 at the White House 'incredible' as Trump marked 80th birthday](https://www.foxnews.com/outkick-sports/bruce-buffer-calls-ufc-freedom-250-white-house-incredible-trump-marked-80th-birthday)
-- 2026-11-16 17:21 UTC · Yahoo Sports · [‘That night was incredible’: UFC announcer praises Donald Trump’s White House event](https://sports.yahoo.com/articles/night-incredible-ufc-announcer-praises-172102633.html)
-- 2026-11-16 19:54 UTC · The Hill · [Dana White after press secretary stunt: ‘I want nothing to do with politics’](https://thehill.com/homenews/administration/6223190-dana-white-declines-press-secretary/)
-- 2026-11-16 20:00 UTC · MMA Fighting · [Dana White recounts ‘crazy’ and ‘unique’ experience being nominated as press secretary for President Donald Trump](https://www.mmafighting.com/ufc/521675/dana-white-recounts-crazy-and-unique-experience-being-nominated-as-press-secretary-for-president-donald-trump)
-- 2026-11-17 03:43 UTC · Daily Mail US · [Trump nemesis Maggie Haberman makes bold claim that he turned on Susie Wiles after her cancer diagnosis: 'Beginning of chaos'](https://www.dailymail.com/news/article-16297889/Trump-Maggie-Haberman-Susie-Wiles-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-17 10:20 UTC · Axios · [Trump's biggest project is running out of time](https://www.axios.com/2026/11/17/trump-border-wall-texas-lawsuits-big-bend)
-- 2026-11-17 16:30 UTC · Daily Mail US · [Karoline Leavitt breaks with Trump over doomsday outage as she issues direct warning to president](https://www.dailymail.com/news/article-16299803/Karoline-Leavitt-breaks-Trump-doomsday-outage-issues-direct-warning-president.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-18 00:40 UTC · Daily Mail US · [Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-18 04:31 UTC · Daily Mail US · [Trump bets are off as Kalshi will no longer let users wager on president's remarks following 'insider trading'](https://www.dailymail.com/news/article-16301331/Trump-Kalshi-remarks-insider-trading.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-18 14:45 UTC · Newsweek · [MAGA Questions Trump Administration After Wave of Tech Outages](https://www.newsweek.com/maga-trump-tech-outages-12733160)
-- 2026-11-18 15:10 UTC · The Hill · [NY Times knocks ‘tired’ White House attack on Haberman](https://thehill.com/homenews/media/6227497-ny-times-defends-haberman/)
-- 2026-11-18 18:18 UTC · NPR · [As overdose deaths fall, White House makes misleading claims about who deserves credit](https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl)
+- 2026-11-17 01:27 UTC · Daily Mail US · [Iran plotting terrifying 'dirty bomb' attack targeting Trump administration officials in Washington DC, intelligence report says](https://www.dailymail.com/news/article-16298071/Iran-dirty-bomb-attack-Trump-administration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 02:32 UTC · WSVN Miami (FL) · [US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say](https://wsvn.com/news/us-world/us-intel-indicates-iran-developing-plans-to-potentially-detonate-a-dirty-bomb-in-washington-sources-say/)
+- 2026-11-17 11:25 UTC · New York Post · [Trump responds to reported ‘dirty bomb’ threat from Iran: ‘They happen to be crazy’](https://nypost.com/2026/11/17/us-news/trump-responds-to-reported-dirty-bomb-threat-from-iran-they-happen-to-be-crazy/)
+- 2026-11-17 12:50 UTC · Fox News · [Trump warns Iran about reported plot against admin officials: 'We take it very seriously'](https://www.foxnews.com/politics/trump-warns-iran-reported-plot-against-admin-officials-take-very-seriously)
+- 2026-11-17 16:03 UTC · Guardian US · [Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’](https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington)
+- 2026-11-17 16:56 UTC · CBS News · [Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously"](https://www.cbsnews.com/video/trump-says-us-taking-iranian-dirty-bomb-threat-very-seriously/)
+- 2026-11-17 18:45 UTC · WFAA Dallas (TX) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.wfaa.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
+- 2026-11-17 18:45 UTC · KHOU (TX) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.khou.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
+- 2026-11-17 18:45 UTC · KING5 Seattle (WA) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.king5.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
+- 2026-11-17 18:45 UTC · 9News Denver (CO) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.9news.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
+- 2026-11-17 21:11 UTC · Fox News · [Iran's latest dirty bomb news builds on decades of threats to attack America at home](https://www.foxnews.com/politics/irans-latest-dirty-bomb-news-builds-decades-threats-attack-america-home)
+- 2026-11-17 21:11 UTC · Fox News · [Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’](https://www.foxnews.com/politics/senior-us-official-undercuts-cnns-alarming-iran-dirty-bomb-report-its-not-new)
 
-**Who posted it on Instagram** (4 pages, 85,281 likes, 5 posts)
+**Who posted it on Instagram** (4 pages, 28,979 likes, 8 posts)
 
-- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · +73 min after first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
-- [@nypost](https://www.instagram.com/p/Df0Dhd5EUVk/) · 2,283 likes · 595 comments · +276 min after first report · President Trump defended the White House restoration work, saying he has a responsibility to maintain the historic building before criticizing a reporter’s questions about the project.
-- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,059 likes · 934 comments · +242 min after first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
-- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · +425 min after first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
+- [@nypost](https://www.instagram.com/p/Df0Z1nrDsyp/) · 9,999 likes · 655 comments · 133 min before first report · In a recent exchange with the press, President Trump was asked whether he was concerned about Iranian drones targeting him personally.
+- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,760 likes · 2,410 comments · +748 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
+- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +1282 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
+- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · 358 min before first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
 
-### 9. Waymo suspends freeway rides nationwide after California DMV order
+### 9. Senator questions 'odd' White House move in pulling FDA nominee
+
+**Score** 126 · **First seen** 2026-11-17 23:56 UTC · **Last update** 2026-11-18 18:05 UTC
+
+**Status** Confirmed · independent reports: 9 of 18 feeds · official: none · independent newsrooms: 8
+
+**Wire copies collapsed**: CBS News ×3.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The White House has withdrawn the nomination of Heidi Overton to lead the Food and Drug Administration — support: 6
+- The nomination was withdrawn due to a lack of congressional or bipartisan support — support: 3
+- The White House confirmed the withdrawal of the nomination on Tuesday — support: 3
+
+> 18 feeds carry 9 independent reports (wire copies: CBS News).
+
+The White House is dropping Heidi Overton 's nomination to lead the Food and Drug Administration because of a lack of congressional support, Axios has learned. Why it matters: The decision means the Trump administration will have to find a new candidate to lead the FDA as HHS Secretary Robert F. Kennedy Jr. looks to advance his Make America Healthy Again agenda. "FDA nominee Heidi Overton lacks the support on the…
+
+Lead: [Axios — Scoop: White House drops Heidi Overton's FDA nomination](https://www.axios.com/2026/11/17/heidi-overton-fda-nomination-dropped)
+
+**Where it was published**
+
+- 2026-11-17 23:56 UTC · Axios · [Scoop: White House drops Heidi Overton's FDA nomination](https://www.axios.com/2026/11/17/heidi-overton-fda-nomination-dropped)
+- 2026-11-18 00:36 UTC · New York Post · [White House withdraws Heidi Overton’s FDA nomination after Trump pick received bipartisan pushback](https://nypost.com/2026/11/17/us-news/white-house-withdraws-heidi-overtons-fda-bid-after-nominee-received-bipartisan-pushback/)
+- 2026-11-18 00:44 UTC · STAT · [STAT+: White House pulls nomination of Heidi Overton to lead FDA](https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss)
+- 2026-11-18 00:44 UTC · NBC News · [White House drops Heidi Overton’s FDA nomination](https://www.nbcnews.com/health/health-care/white-house-drops-dr-heidi-overton-fda-nomination-commissioner-rcna609883)
+- 2026-11-18 00:57 UTC · KHOU (TX) · [White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans](https://www.khou.com/article/news/nation-world/heidi-overton-fda-nomination-pulled/507-1b4c1a53-b445-4690-86e8-0113ff71448b)
+- 2026-11-18 00:57 UTC · WFAA Dallas (TX) · [White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans](https://www.wfaa.com/article/news/nation-world/heidi-overton-fda-nomination-pulled/507-1b4c1a53-b445-4690-86e8-0113ff71448b)
+- 2026-11-18 00:57 UTC · KING5 Seattle (WA) · [White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans](https://www.king5.com/article/news/nation-world/heidi-overton-fda-nomination-pulled/507-1b4c1a53-b445-4690-86e8-0113ff71448b)
+- 2026-11-18 00:57 UTC · 9News Denver (CO) · [White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans](https://www.9news.com/article/news/nation-world/heidi-overton-fda-nomination-pulled/507-1b4c1a53-b445-4690-86e8-0113ff71448b)
+- 2026-11-18 01:04 UTC · Fox News · [White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote](https://www.foxnews.com/politics/white-house-pulls-trumps-fda-pick-heidi-overton-eve-senate-panel-vote)
+- 2026-11-18 01:07 UTC · ABC News · [Trump's pick Heidi Overton dropped as nominee for FDA commissioner](https://abcnews.com/Politics/trumps-pick-heidi-overton-dropped-nominee-fda-commissioner/story?id=138232475)
+- 2026-11-18 01:07 UTC · CBS News · [White House drops Heidi Overton's nomination for FDA commissioner](https://www.cbsnews.com/news/white-house-drops-heidi-overton-fda-commissioner/)
+- 2026-11-18 01:08 UTC · The Hill · [White House pulls nomination of Heidi Overton to lead FDA](https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/)
+
+**Who posted it on Instagram** (1 pages, 2,059 likes, 1 posts)
+
+- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,059 likes · 934 comments · 1696 min before first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
+
+### 10. Waymo suspends freeway rides nationwide after California DMV order
 
 **Score** 126 · **State** CA · **First seen** 2026-11-17 19:38 UTC · **Last update** 2026-11-18 21:00 UTC
 
@@ -408,9 +449,9 @@ Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways 
 
 - [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +964 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
 
-### 10. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
+### 11. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
 
-**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-19 08:01 UTC
+**Score** 123 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-19 08:01 UTC
 
 **Status** Confirmed · independent reports: 6 of 7 feeds · official: none · independent newsrooms: 6
 
@@ -447,7 +488,7 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - [@dexerto](https://www.instagram.com/p/DfzdNA2mxf9/) · 4,287 likes · 51 comments · +3 min after first report · Reddit user u/NakedSnake21 has gone viral for recreating the same photo with three generations of Grand Theft Auto, capturing 18 years of his life in three pictures. He first posed with GTA 4 in 2008 
 - [@onlyindade](https://www.instagram.com/p/Df2l6mzNIaO/) · 1,920 likes · 23 comments · +1759 min after first report · 🚨 A NIGHT IN VICE CITY! 🌴🔥🎮 MIAMI, THIS IS AS BIG AS IT GETS! The Vice City court is READY. The stars will be OUT. And the stage is set for one of the most anticipated regular-season games of the YEAR
 
-### 11. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
+### 12. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
 
 **Score** 119 · **Category** public-safety · **First seen** 2026-11-16 21:56 UTC · **Last update** 2026-11-18 21:58 UTC
 
@@ -489,9 +530,9 @@ Lead: [UPI Top — Transportation secretary: FAA investigating contractor router
 - [@onlyindade](https://www.instagram.com/p/DfziSaJIaHx/) · 5,845 likes · 207 comments · 468 min before first report · West Palm Beach just became MIA’s newest terminal #ONLYinDADE A router had a bad day and the whole country stayed on the ground. The FAA called a rare nationwide ground stop on Friday, and three days 
 - [@thedailyshow](https://www.instagram.com/reel/Df1WNW5A-6N/) · 5,031 likes · 74 comments · +906 min after first report · @jonstewart on Sean Duffy blaming a router: "I can't even order a Crunchwrap Supreme without 2-factor authentication, but somehow, there's a 'Turn Off America' switch somewhere in f**kin Arkansas?"
 
-### 12. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
+### 13. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
 
-**Score** 119 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-19 02:40 UTC
+**Score** 118 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-19 02:40 UTC
 
 **Status** Confirmed · independent reports: 3 of 7 feeds · official: none · independent newsrooms: 3
 
@@ -525,9 +566,9 @@ Lead: [WCPO Cincinnati (OH) — Raye leads 2027 Grammy nominations, followed by 
 - [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · +60 min after first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 39 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
 
-### 13. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
+### 14. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
 
-**Score** 118 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
+**Score** 117 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
 
 **Status** Confirmed · independent reports: 5 of 10 feeds · official: none · independent newsrooms: 3
 
@@ -565,9 +606,9 @@ Lead: [NBC News — Nvidia board does not intend to reinstate Jensen Huang, chai
 - [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +114 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
 - [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · 202 min before first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 
-### 14. ‘Horribly Sad News,’ ‘One of the Greatest Reporters’ — NBA World Mourns Mike Wise After Ex-ESPN Star Passes Away at 62 Following Legendary Career
+### 15. ‘Horribly Sad News,’ ‘One of the Greatest Reporters’ — NBA World Mourns Mike Wise After Ex-ESPN Star Passes Away at 62 Following Legendary Career
 
-**Score** 110 · **Category** trending · **First seen** 2026-11-19 03:23 UTC · **Last update** 2026-11-19 03:23 UTC
+**Score** 109 · **Category** trending · **First seen** 2026-11-19 03:23 UTC · **Last update** 2026-11-19 03:23 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -594,9 +635,9 @@ Lead: [Yahoo Sports — ‘Horribly Sad News,’ ‘One of the Greatest Reporter
 - [@nypost](https://www.instagram.com/p/Df0j6-8tFWo/) · 553 likes · 29 comments · 3101 min before first report · Martha Stewart, Governor Kathy Hochul and New York Post Editor-in-Chief Keith Poole flipped my switch, then enjoyed the best view of New York City from my 86th and 102nd Floor Observation Decks. The o
 - [@feminist](https://www.instagram.com/p/Df0BVhgnY_P/) · 0 likes · 166 comments · 3404 min before first report · Have you seen any of these A.I.-generated comedy accounts on your feed? Take Action: 👉 Support real female comedians by following them on socials and buying tickets to their shows. Attend FEMINIST’s u
 
-### 15. Miami Heat Reveal “Vice City” Court For GTA VI Game Release
+### 16. Miami Heat Reveal “Vice City” Court For GTA VI Game Release
 
-**Score** 110 · **Category** trending · **First seen** 2026-11-16 16:00 UTC · **Last update** 2026-11-19 05:02 UTC
+**Score** 109 · **Category** trending · **First seen** 2026-11-16 16:00 UTC · **Last update** 2026-11-19 05:02 UTC
 
 **Status** Confirmed · independent reports: 8 of 11 feeds · official: none · independent newsrooms: 8
 
@@ -637,9 +678,9 @@ Lead: [GameSpot — NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired L
 - [@bangerbuddy](https://www.instagram.com/p/Df0fVPjkQQj/) · 1,113 likes · 7 comments · +422 min after first report · Kalshi is offering up to $135,000 for someone to play GTA VI as their full-time job. 👀 The company is hiring a remote GTA VI Researcher to livestream their entire playthrough, break down Vice City’s i
 - [@epicfunnypage](https://www.instagram.com/reel/Dfz9VjygqX9/) · 1,057 likes · 25 comments · 420 min before first report · We got before GTA 6 nostalgia before GTA 6 Grand Theft Auto VI marks the franchise's return to Vice City, the fictional location inspired by Miami that first became famous in Grand Theft Auto: Vice Ci
 
-### 16. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
+### 17. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
 
-**Score** 110 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-18 20:50 UTC
+**Score** 109 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-18 20:50 UTC
 
 **Status** Confirmed · independent reports: 2 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -674,9 +715,37 @@ Lead: [IGN — Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Me
 - [@markets](https://www.instagram.com/p/Df2V5nNjp7x/) · 0 likes · 4 comments · 443 min before first report · Home Alone 2: Lost in New York is one of the most beloved Christmas movies ever, but some of its secrets might surprise even the biggest fans. From Macaulay Culkin earning a record breaking $4.5 milli
 - [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 1,002 comments · +229 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
 
-### 17. Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz
+### 18. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
 
-**Score** 108 · **Category** trending · **First seen** 2026-11-17 16:03 UTC · **Last update** 2026-11-19 07:59 UTC
+**Score** 108 · **First seen** 2026-11-18 00:40 UTC · **Last update** 2026-11-19 00:16 UTC
+
+**Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Karoline Leavitt appeared on Fox News on Tuesday morning. — support: 1
+- Karoline Leavitt stated that the White House is not providing full information regarding cyber chaos. — support: 1
+
+> One independent report so far; not independently confirmed. 2 key claims stated by a single report: “Karoline Leavitt appeared on Fox News on Tuesday morning.”; “Karoline Leavitt stated that the White House is not providing full inf”
+
+The country needs answers. But it seems the White House isn't telling us everything, or much of anything at all. Karoline Leavitt boldly said as much on Fox News Tuesday morning.
+
+Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+
+**Where it was published**
+
+- 2026-11-18 00:40 UTC · Daily Mail US · [Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+
+**Who posted it on Instagram** (4 pages, 85,281 likes, 5 posts)
+
+- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · 1908 min before first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
+- [@nypost](https://www.instagram.com/p/Df0Dhd5EUVk/) · 2,283 likes · 595 comments · 1705 min before first report · President Trump defended the White House restoration work, saying he has a responsibility to maintain the historic building before criticizing a reporter’s questions about the project.
+- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,059 likes · 934 comments · 1739 min before first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
+- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · 1556 min before first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
+
+### 19. Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz
+
+**Score** 108 · **Category** trending · **First seen** 2026-11-17 16:03 UTC · **Last update** 2026-11-19 08:44 UTC
 
 **Status** Developing · independent reports: 2 of 4 feeds · official: none · independent newsrooms: 1
 
@@ -705,67 +774,6 @@ Lead: [Just Jared — Timothée Chalamet Won’t Discuss Girlfriend Kylie Jenner
 **Who posted it on Instagram** (1 pages, 17,259 likes, 1 posts)
 
 - [@hollywoodunlocked](https://www.instagram.com/p/Dfzc1nBG9xp/) · 17,259 likes · 1,235 comments · 1603 min before first report · HU Staff: Kecia Gayle @kecia.kae Yung Miami is waking up to great news!! The Recording Academy dropped the 2027 Grammy nominations on Monday morning, and Caresha Brownlee’s name is on the ballot for t
-
-### 18. Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me”
-
-**Score** 106 · **First seen** 2026-11-16 08:54 UTC · **Last update** 2026-11-18 18:50 UTC
-
-**Status** Confirmed · independent reports: 3 of 3 feeds · official: none · independent newsrooms: 2
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Nicola Coughlan plans to boycott the upcoming HBO Harry Potter series — support: 3
-- Nicola Coughlan is boycotting the series due to J.K. Rowling's views on transgender rights — support: 3
-- Nicola Coughlan expressed that she loved the original Harry Potter books as a child — support: 2
-
-Nicola Coughlan has said she plans to boycott HBO’s Harry Potter series, despite adoring J.K. Rowling’s books as a child. The Bridgerton and Derry Girls star has previously disagreed with Rowling’s views on transgender rights. Asked about the issue by The Observer newspaper on Sunday, Coughlan doubled down. “I will not be watching the new […]
-
-Lead: [Deadline — Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me”](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/)
-
-**Where it was published**
-
-- 2026-11-16 08:54 UTC · Deadline · [Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me”](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/)
-- 2026-11-16 15:04 UTC · Page Six · [‘Bridgerton’ star Nicola Coughlan slams J.K. Rowling after trans rights feud, vows to boycott HBO’s new ‘Harry Potter’ series](https://pagesix.com/2026/11/16/celebrity-news/bridgerton-star-nicola-coughlan-slams-j-k-rowling-after-trans-rights-feud-vows-to-boycott-hbos-new-harry-potter-series/)
-- 2026-11-16 23:01 UTC · Fox News · ['Bridgerton' star boycotts upcoming 'Harry Potter' TV show over author JK Rowling's transgender views](https://www.foxnews.com/media/bridgerton-star-boycotts-upcoming-harry-potter-tv-show-over-author-jk-rowlings-transgender-views)
-
-**Who posted it on Instagram** (8 pages, 405,278 likes, 9 posts)
-
-- [@wasted](https://www.instagram.com/p/Df2GUmAhjo6/) · 228,544 likes · 1,559 comments · +1748 min after first report · 🎬 Harry Potter and the Deathly Hallows – Part 2, released in 2011, serves as the climactic finale to the eight-film series based on J.K. Rowling’s novels. Directed by David Yates, the movie picks up
-- [@pubity](https://www.instagram.com/p/Dfx7KRknyMa/) · 119,919 likes · 7,523 comments · 587 min before first report · A whole new generation is getting its Hogwarts letter as Harry Potter prepares to return with a brand new HBO series this Christmas. The reboot will bring the magic of the books to life for younger au
-- [@complex](https://www.instagram.com/p/Dfz1NHquoxA/) · 18,348 likes · 131 comments · +480 min after first report · Robert Pattinson is now in 5 of the biggest franchises. 🐐 Pattinson is now officially part of some of the biggest IPs in entertainment, including… 🔘 Harry Potter 🔘 Twilight 🔘 Batman 🔘 Dune 🔘 James Bon
-- [@nugget](https://www.instagram.com/p/DfztTAQoOWP/) · 11,867 likes · 168 comments · +411 min after first report · Robert Pattinson has officially been announced as the next James Bond, becoming the seventh actor to portray the iconic British spy in the official film franchise. The 40-year-old British star will su
-- [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +1866 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
-- [@clips](https://www.instagram.com/p/Dfz2B2YIjNk/) · 9,640 likes · 198 comments · +488 min after first report · Robert Pattinson — Starring in Harry Potter and the Goblet of Fire, Twilight, The Lighthouse, and The Batman, this internationally acclaimed English actor has captivated millions with his transformati
-
-### 19. Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’
-
-**Score** 105 · **First seen** 2026-11-17 02:32 UTC · **Last update** 2026-11-19 03:31 UTC
-
-**Status** Confirmed · independent reports: 2 of 2 feeds · official: none · independent newsrooms: 2
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- US intelligence indicates Iran is developing plans to potentially detonate a dirty bomb in Washington — support: 1
-- President Donald Trump warned Iran would pay a price if a dirty bomb threat to Washington proves real — support: 1
-- The intelligence regarding an Iranian dirty bomb threat is new — support: 2
-
-> Reports disagree on whether the intelligence regarding an Iranian dirty bomb threat is new. 2 key claims stated by a single report: “US intelligence indicates Iran is developing plans to potentially deto”; “President Donald Trump warned Iran would pay a price if a dirty bomb t”
-
-President Donald Trump warned Iran would pay a price "no country has ever paid" if a dirty bomb threat to Washington, D.C., proves real, amid divided assessments.
-
-Lead: [WSVN Miami (FL) — US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say](https://wsvn.com/news/us-world/us-intel-indicates-iran-developing-plans-to-potentially-detonate-a-dirty-bomb-in-washington-sources-say/)
-
-**Where it was published**
-
-- 2026-11-17 02:32 UTC · WSVN Miami (FL) · [US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say](https://wsvn.com/news/us-world/us-intel-indicates-iran-developing-plans-to-potentially-detonate-a-dirty-bomb-in-washington-sources-say/)
-- 2026-11-17 21:11 UTC · Fox News · [Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’](https://www.foxnews.com/politics/senior-us-official-undercuts-cnns-alarming-iran-dirty-bomb-report-its-not-new)
-
-**Who posted it on Instagram** (4 pages, 18,980 likes, 7 posts)
-
-- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,760 likes · 2,410 comments · +683 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
-- [@nypost](https://www.instagram.com/p/Df1785FGCbX/) · 2,860 likes · 267 comments · +642 min after first report · President Trump said Tuesday that an alleged plot by Iran to detonate a so-called dirty bomb in Washington, DC, is being taken “very seriously” — all but confirming a report that US officials believe 
-- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +1217 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · 423 min before first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
 
 ### 20. Bully judge punished over video of him screaming at courthouse worker after his computer crashed
 
@@ -886,37 +894,72 @@ Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.
 
 - [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
 
-### 23. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
+### 23. Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards
 
-**Score** 104 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-18 10:43 UTC
+**Score** 104 · **Category** trending · **First seen** 2026-11-18 01:21 UTC · **Last update** 2026-11-18 10:43 UTC
 
 **Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Jennifer Lawrence carries a bag described as a highlighter bag — support: 1
+- Jennifer Lawrence attended the WWD Beauty Inc Awards. — support: 1
+- Jennifer Lawrence launched a haircare brand called Mes. — support: 1
+- Jennifer Lawrence wore a wet hair style at the event. — support: 1
 
-> One independent report so far; not independently confirmed. 1 key claim stated by a single report: “Jennifer Lawrence carries a bag described as a highlighter bag”
+> One independent report so far; not independently confirmed. 3 key claims stated by a single report: “Jennifer Lawrence attended the WWD Beauty Inc Awards.”; “Jennifer Lawrence launched a haircare brand called Mes.”
 
-Although I’ve lived in New York for 11 years, I’ve never adopted the all-black wardrobe the city is typically known for. What can I say? My clothes need to be colorful and whimsical! I find plenty of ways to incorporate color into my fits and admire when people add electric pops. Jennifer Lawrence gave me […]
+Jennifer Lawrence is now in the beauty space with her haircare brand Mes and she’s representing the brand at the […] The post Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
-Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/)
+Lead: [Just Jared — Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards](https://www.justjared.com/2026/11/17/jennifer-lawrence-rocks-the-wet-hair-trend-for-wwds-beauty-inc-awards/)
 
 **Where it was published**
 
-- 2026-11-17 09:15 UTC · Us Weekly · [Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/)
+- 2026-11-18 01:21 UTC · Just Jared · [Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards](https://www.justjared.com/2026/11/17/jennifer-lawrence-rocks-the-wet-hair-trend-for-wwds-beauty-inc-awards/)
 
 **Who posted it on Instagram** (5 pages, 75,367 likes, 12 posts)
 
-- [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · 348 min before first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
-- [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · 515 min before first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
-- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,437 likes · 52 comments · +77 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
-- [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 8,336 likes · 30 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
-- [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 16 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
+- [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · 1313 min before first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
+- [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · 1480 min before first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
+- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,437 likes · 52 comments · 888 min before first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
+- [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 8,336 likes · 30 comments · 351 min before first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
+- [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 981 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
 
-### 24. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
+### 24. Nicola Coughlan Plans to Boycott the ‘Harry Potter’ TV Show: ‘Not For Me’
 
-**Score** 102 · **Category** trending · **First seen** 2026-11-17 21:43 UTC · **Last update** 2026-11-18 11:00 UTC
+**Score** 103 · **Category** trending · **First seen** 2026-11-16 15:04 UTC · **Last update** 2026-11-18 18:50 UTC
+
+**Status** Developing · independent reports: 3 of 3 feeds · official: none · independent newsrooms: 1
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Nicola Coughlan stated she will boycott the upcoming HBO Harry Potter series. — support: 3
+- Nicola Coughlan's decision to boycott is linked to J.K. Rowling's views on transgender rights. — support: 3
+- Nicola Coughlan expressed that she loved the original Harry Potter books. — support: 1
+
+> 3 independent reports only; details may still change. 1 key claim stated by a single report: “Nicola Coughlan expressed that she loved the original Harry Potter boo”
+
+Bridgerton star Nicola Coughlan will not be watching HBO Max’s Harry Potter series. In a new interview with The Observer, […] The post Nicola Coughlan Plans to Boycott the ‘Harry Potter’ TV Show: ‘Not For Me’ appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
+
+Lead: [Page Six — ‘Bridgerton’ star Nicola Coughlan slams J.K. Rowling after trans rights feud, vows to boycott HBO’s new ‘Harry Potter’ series](https://pagesix.com/2026/11/16/celebrity-news/bridgerton-star-nicola-coughlan-slams-j-k-rowling-after-trans-rights-feud-vows-to-boycott-hbos-new-harry-potter-series/)
+
+**Where it was published**
+
+- 2026-11-16 15:04 UTC · Page Six · [‘Bridgerton’ star Nicola Coughlan slams J.K. Rowling after trans rights feud, vows to boycott HBO’s new ‘Harry Potter’ series](https://pagesix.com/2026/11/16/celebrity-news/bridgerton-star-nicola-coughlan-slams-j-k-rowling-after-trans-rights-feud-vows-to-boycott-hbos-new-harry-potter-series/)
+- 2026-11-16 16:25 UTC · Just Jared · [Nicola Coughlan Plans to Boycott the ‘Harry Potter’ TV Show: ‘Not For Me’](https://www.justjared.com/2026/11/16/nicola-coughlan-plans-to-boycott-the-harry-potter-tv-show-not-for-me/)
+- 2026-11-16 23:01 UTC · Fox News · ['Bridgerton' star boycotts upcoming 'Harry Potter' TV show over author JK Rowling's transgender views](https://www.foxnews.com/media/bridgerton-star-boycotts-upcoming-harry-potter-tv-show-over-author-jk-rowlings-transgender-views)
+
+**Who posted it on Instagram** (7 pages, 285,359 likes, 8 posts)
+
+- [@wasted](https://www.instagram.com/p/Df2GUmAhjo6/) · 228,544 likes · 1,559 comments · +1378 min after first report · 🎬 Harry Potter and the Deathly Hallows – Part 2, released in 2011, serves as the climactic finale to the eight-film series based on J.K. Rowling’s novels. Directed by David Yates, the movie picks up
+- [@complex](https://www.instagram.com/p/Dfz1NHquoxA/) · 18,348 likes · 131 comments · +110 min after first report · Robert Pattinson is now in 5 of the biggest franchises. 🐐 Pattinson is now officially part of some of the biggest IPs in entertainment, including… 🔘 Harry Potter 🔘 Twilight 🔘 Batman 🔘 Dune 🔘 James Bon
+- [@nugget](https://www.instagram.com/p/DfztTAQoOWP/) · 11,867 likes · 168 comments · +41 min after first report · Robert Pattinson has officially been announced as the next James Bond, becoming the seventh actor to portray the iconic British spy in the official film franchise. The 40-year-old British star will su
+- [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +1496 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
+- [@clips](https://www.instagram.com/p/Dfz2B2YIjNk/) · 9,640 likes · 198 comments · +118 min after first report · Robert Pattinson — Starring in Harry Potter and the Goblet of Fire, Twilight, The Lighthouse, and The Batman, this internationally acclaimed English actor has captivated millions with his transformati
+- [@pagesix](https://www.instagram.com/p/Dfz2abmk5px/) · 4,390 likes · 927 comments · +179 min after first report · “Bridgerton” star Nicola Coughlan slammed J.K. Rowling over the famed author’s anti-trans views and vowed to boycott HBO’s upcoming “Harry Potter” TV series. 📸: Instagram/ Nicola Coughlan; Getty 💬: Qu
+
+### 25. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
+
+**Score** 101 · **Category** trending · **First seen** 2026-11-17 21:43 UTC · **Last update** 2026-11-18 11:00 UTC
 
 **Status** Developing · independent reports: 3 of 3 feeds · official: none · independent newsrooms: 0
 
@@ -942,44 +985,6 @@ Lead: [TMZ — Paris Hilton Meets with House Speaker Mike Johnson Amid Fight Aga
 **Who posted it on Instagram** (1 pages, 32,819 likes, 1 posts)
 
 - [@npr](https://www.instagram.com/reel/Df3NnmSlQF9/) · 32,819 likes · 587 comments · +164 min after first report · When Paris Hilton (@parishilton) was 19, her ex-boyfriend shared an intimate video of her without her consent.⁠ ⁠ More than two decades later, Hilton says she’s being revictimized as her image now spr
-
-### 25. Mamdani disbanding controversial NYPD unit
-
-**Score** 101 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 20:31 UTC
-
-**Status** Confirmed · independent reports: 9 of 16 feeds · official: none · independent newsrooms: 7
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Mayor Zohran Mamdani announced the disbanding of the NYPD's Strategic Response Group. — support: 6
-- The decision to disband the unit was made in coordination with NYPD Commissioner Jessica Tisch. — support: 3
-- The disbanding of the Strategic Response Group was a campaign promise made by Mayor Mamdani. — support: 2
-- The city is launching a new civilian-led approach to protests following the disbandment. — support: 2
-
-> 7 of the 16 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: Top US, r/Fauxmoi, r/news); open the original.
-
-“During our campaign for mayor, I promised to disband the NYPD's strategic response group, known as the SRG. Today, we are keeping that promise. I am disbanding the SRG. SRG was tasked with both counterterrorism enforcement and protest response. Those are not the same, and they should be separated. Government has a responsibility to both protect New Yorkers' constitutional rights and keep our communities safe. Those…
-
-Lead: [ABC7 NY (NY) — Exclusive: Mayor Mamdani, Commissioner Tisch on disbanding NYPD's Strategic Response Group](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/)
-
-**Where it was published**
-
-- 2026-11-16 11:00 UTC · ABC7 NY (NY) · [Exclusive: Mayor Mamdani, Commissioner Tisch on disbanding NYPD's Strategic Response Group](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/)
-- 2026-11-16 11:08 UTC · New York Post · [Mamdani restructures NYPD’s controversial Strategic Response Group, announces new ‘civilian-led approach’ to protests](https://nypost.com/2026/11/16/us-news/mamdani-restructures-nypds-controversial-strategic-response-group-announces-new-civilian-led-approach-to-protests/)
-- 2026-11-16 11:23 UTC · PIX11 (NY) · [Mayor Mamdani disbands NYPD's Strategic Response Group](https://pix11.com/news/morning/mayor-mamdani-disbands-nypds-strategic-response-group/)
-- 2026-11-16 14:20 UTC · Daily Mail US · [New York's woke mayor Mamdani disbands elite police unit and launches new 'civilian friendly' approach to rowdy protesters](https://www.dailymail.com/news/article-16296259/new-york-mamdani-disbands-police-unit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-16 14:23 UTC · The Hill · [Mamdani disbanding controversial NYPD unit](https://thehill.com/homenews/state-watch/6222110-zohran-mamdani-disbands-nypd-strategic-response-group/)
-- 2026-11-16 14:57 UTC · Guardian US · [Mamdani disbands controversial NYPD unit accused of using excessive force](https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani)
-- 2026-11-16 16:23 UTC · UPI Top · [Mayor Zohran Mamdani announces disbandment of NYPD's Strategic Response Group](https://www.upi.com/Top_News/US/2026/11/16/nyc-nypd-strategic-response-group-mamdani/4821794844155/)
-- 2026-11-16 17:58 UTC · ABC7 NY (NY) · [Backlash grows against Mamdani's decision to disband NYPD's SRG unit](https://abc7ny.com/post/srg-nyc-backlash-grows-mamdanis-disbandment-nypd-unit/20044932/)
-- 2026-11-17 07:19 UTC · New York Post · [‘Dangerous, ideological betrayal of public safety,’ Jewish groups say of Mamdani nixing specialized NYPD unit](https://nypost.com/2026/11/17/us-news/dangerous-ideological-betrayal-of-public-safety-jewish-groups-say-of-mamdani-nixing-specialized-nypd-unit/)
-- 2026-11-17 14:37 UTC · Daily Mail US · [New Yorkers spooked by woke mayor's latest video as he drops fun fresh look for dictatorial vibe while announcing plans to disband NYPD unit](https://www.dailymail.com/news/article-16299463/Mamdani-appearance-video-moustache-NYPD-disband-unit.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-17 16:04 UTC · Newsweek · [Mamdani's New York Has a Plan for Police Violence. What About Rioters?](https://www.newsweek.com/mamdani-nypd-strategic-response-group-riots-protests-12728156)
-- 2026-11-17 19:03 UTC · CBS News · [Mamdani disbands NYPD unit accused of excessive force, keeping campaign promise](https://www.cbsnews.com/video/mamdani-keeps-campaign-promise-disbands-nypd-unit-accused-of-excessive-force/)
-
-**Who posted it on Instagram** (1 pages, 17,978 likes, 2 posts)
-
-- [@dailymail](https://www.instagram.com/p/DfzR62QE3YM/) · 10,959 likes · 488 comments · +45 min after first report · New York City Mayor Zohran Mamdani is launching a two-day video game development competition, NYC Game Jam, challenging young New Yorkers to create an original game in just 48 hours. Participants will
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).
