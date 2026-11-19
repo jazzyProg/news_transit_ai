@@ -1,34 +1,34 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 13:37 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 14:39 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
 | 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 229 | Confirmed | 22 | 28 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
-| 2 | Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth | 192 | Confirmed | 22 | 4 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
-| 3 | Pope Leo jokes after rosary hits him in eye in Peru | 159 | Confirmed | 21 | 3 | [NBC News](https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513) |
-| 4 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 152 | Confirmed | 4 | 12 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
-| 5 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 147 | Confirmed | 9 | 6 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
-| 6 | Why ‘GTA’ Has Never Been Adapted for Film or TV: ‘We Prefer to Control Our Own Destiny,’ Take-Two CEO Says | 146 | Developing | 1 | 21 | [Variety](https://variety.com/2026/gaming/news/gta-6-movie-grand-theft-auto-games-adapted-1236952350/) |
-| 7 | Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating amid growing fears of attack on US soil | 145 | Confirmed | 11 | 6 | [Daily Mail US](https://www.dailymail.com/news/article-16298071/Iran-dirty-bomb-attack-Trump-administration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
-| 8 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 142 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
-| 9 | The Vice City Heat: Miami's NBA team goes all in on 'Grand Theft Auto VI' collaboration ahead of game release | 141 | Confirmed | 12 | 9 | [Yahoo Sports](https://sports.yahoo.com/articles/miami-heat-vice-city-gta-211033890.html) |
-| 10 | Customers report difficulty accessing online services at major US banks | 138 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
-| 11 | US officially loses measles elimination status, PAHO says | 135 | Confirmed | 16 | 3 | [The Hill](https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/) |
-| 12 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 134 | Developing | 1 | 10 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
-| 13 | Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely” | 134 | Confirmed | 10 | 8 | [CBS News](https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/) |
-| 14 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 133 | Confirmed | 20 | 2 | [CBS News](https://www.cbsnews.com/video/democrat-mary-peltola-leads-alaska-senate-race-still-remains-uncalled/) |
-| 15 | Glen Powell Is a Has-Been Country Singer in Judd Apatow’s ‘Comeback King’ Trailer | 131 | Confirmed | 4 | 12 | [Variety](https://variety.com/2026/film/news/comeback-king-trailer-glen-powell-judd-apatow-1236712505/) |
-| 16 | Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming | 129 | Developing | 2 | 5 | [GameSpot](https://www.gamespot.com/articles/ocarina-of-time-is-2026s-best-selling-physical-game-in-the-us-but-gta-6-is-coming/) |
-| 17 | Waymo suspends freeway rides nationwide after California DMV order | 126 | Confirmed | 19 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
-| 18 | ‘Squad’ member announces ‘Majority Priorities’ including reparations, abolishing ICE after blue wave | 122 | Developing | 1 | 8 | [Fox News](https://www.foxnews.com/media/squad-member-announces-majority-priorities-including-reparations-abolishing-ice-after-blue-wave) |
-| 19 | When Can You Switch To Lucia in GTA 6? Fastest Method, Explained | 122 | Developing | 1 | 5 | [Insider Gaming](https://insider-gaming.com/how-relationship-works-gta-6-explained/) |
-| 20 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 122 | Confirmed | 12 | 3 | [UPI Top](https://www.upi.com/Top_News/US/2026/11/16/duffy-contractor-examining-routers/8211794865115/) |
-| 21 | Senate Democrats pressure Schumer to cede more control over agenda | 121 | Confirmed | 10 | 3 | [KHOU (TX)](https://www.khou.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390) |
-| 22 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 120 | Confirmed | 6 | 7 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
+| 2 | What we know about Trump's meeting with China's Xi, Russia's Putin | 219 | Confirmed | 25 | 7 | [WCPO Cincinnati (OH)](https://www.wcpo.com/world/europe/putins-price-for-peace-in-ukraine-roll-nato-back-to-1997) |
+| 3 | Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth | 192 | Confirmed | 22 | 4 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
+| 4 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 158 | Confirmed | 4 | 12 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
+| 5 | ‘That night was incredible’: UFC announcer praises Donald Trump’s White House event | 148 | Confirmed | 8 | 7 | [Fox News](https://www.foxnews.com/outkick-sports/bruce-buffer-calls-ufc-freedom-250-white-house-incredible-trump-marked-80th-birthday) |
+| 6 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 146 | Confirmed | 9 | 6 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
+| 7 | Why ‘GTA’ Has Never Been Adapted for Film or TV: ‘We Prefer to Control Our Own Destiny,’ Take-Two CEO Says | 146 | Developing | 1 | 21 | [Variety](https://variety.com/2026/gaming/news/gta-6-movie-grand-theft-auto-games-adapted-1236952350/) |
+| 8 | The Vice City Heat: Miami's NBA team goes all in on 'Grand Theft Auto VI' collaboration ahead of game release | 141 | Confirmed | 12 | 9 | [Yahoo Sports](https://sports.yahoo.com/articles/miami-heat-vice-city-gta-211033890.html) |
+| 9 | Customers report difficulty accessing online services at major US banks | 137 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
+| 10 | Anthropic set to begin trading as a $1.5 trillion company in the biggest IPO on record | 136 | Confirmed | 12 | 6 | [New York Post](https://nypost.com/2026/11/17/business/dow-plummets-800-points-nasdaq-slides-ahead-of-nvidia-earnings-anthropic-ipo/) |
+| 11 | US officially loses measles elimination status, PAHO says | 134 | Confirmed | 16 | 3 | [The Hill](https://thehill.com/policy/healthcare/6225090-us-loses-measles-elimination-status/) |
+| 12 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 133 | Developing | 1 | 10 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
+| 13 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 132 | Confirmed | 20 | 2 | [CBS News](https://www.cbsnews.com/video/democrat-mary-peltola-leads-alaska-senate-race-still-remains-uncalled/) |
+| 14 | Glen Powell Is a Has-Been Country Singer in Judd Apatow’s ‘Comeback King’ Trailer | 130 | Confirmed | 4 | 12 | [Variety](https://variety.com/2026/film/news/comeback-king-trailer-glen-powell-judd-apatow-1236712505/) |
+| 15 | Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming | 128 | Developing | 2 | 5 | [GameSpot](https://www.gamespot.com/articles/ocarina-of-time-is-2026s-best-selling-physical-game-in-the-us-but-gta-6-is-coming/) |
+| 16 | Waymo suspends freeway rides nationwide after California DMV order | 126 | Confirmed | 19 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
+| 17 | When Can You Switch To Lucia in GTA 6? Fastest Method, Explained | 125 | Developing | 1 | 5 | [Insider Gaming](https://insider-gaming.com/how-relationship-works-gta-6-explained/) |
+| 18 | Senate Democrats pressure Schumer to cede more control over agenda | 124 | Confirmed | 10 | 4 | [KHOU (TX)](https://www.khou.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390) |
+| 19 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 121 | Confirmed | 12 | 3 | [UPI Top](https://www.upi.com/Top_News/US/2026/11/16/duffy-contractor-examining-routers/8211794865115/) |
+| 20 | 2026 CMA Awards: Full list of winners and nominees from Country Music's Biggest Night \| Live updates | 120 | Confirmed | 10 | 1 | [TMZ](https://www.tmz.com/2026/11/18/cma-awards-pictures/) |
+| 21 | David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions | 120 | Confirmed | 6 | 7 | [Page Six](https://pagesix.com/2026/11/16/photos/the-further-mis-adventures-of-cliff-booth-la-premiere-red-carpet-brad-pitt-elizabeth-debicki-and-more/) |
+| 22 | Dolly Parton’s Niece Honors Late Singer at CMAs with Custom Dress | 118 | Unverified | 1 | 6 | [TMZ](https://www.tmz.com/2026/11/18/dolly-parton-niece-wears-her-dress-to-country-music-awards/) |
 | 23 | Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards | 118 | Unverified | 1 | 8 | [Just Jared](https://www.justjared.com/2026/11/17/jennifer-lawrence-rocks-the-wet-hair-trend-for-wwds-beauty-inc-awards/) |
 | 24 | Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change | 117 | Developing | 1 | 8 | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/) |
-| 25 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 117 | Confirmed | 6 | 6 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
+| 25 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 116 | Confirmed | 6 | 6 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -46,8 +46,8 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
 - Robert Pattinson has been cast as the next James Bond. — support: 6
-- Amazon MGM Studios is producing the next James Bond film. — support: 3
-- Jeff Bezos was heavily involved in the casting process for the new James Bond. — support: 4
+- Amazon MGM Studios is producing the new James Bond film. — support: 3
+- Jeff Bezos was heavily involved in the decision to cast Robert Pattinson as James Bond. — support: 4
 - Denis Villeneuve is the director of the next James Bond film. — support: 2
 
 > 24 feeds carry 11 independent reports (the rest are duplicates).
@@ -80,7 +80,52 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 - [@fboy](https://www.instagram.com/reel/Dfzt8CVxJbb/) · 47,453 likes · 903 comments · 523 min before first report · Robert Pattinson’s performance in TENET (2020) feels like the perfect JAMES BOND audition now that he’s officially been cast as 007. 😭🔥 In Christopher Nolan’s mind-bending spy thriller, Pattinson play
 - [@fuckinggoodmovies](https://www.instagram.com/p/Dfz27A_EZjt/) · 39,098 likes · 505 comments · 523 min before first report · From ‘𝐇𝐚𝐫𝐫𝐲 𝐏𝐨𝐭𝐭𝐞𝐫’ and ‘𝐓𝐰𝐢𝐥𝐢𝐠𝐡𝐭’ to ‘The 𝐁𝐚𝐭𝐦𝐚𝐧,’ ‘𝐃𝐮𝐧𝐞,’ and ‘𝐓𝐡𝐞 𝐎𝐝𝐲𝐬𝐬𝐞𝐲,’ Pattinson is now set to take on another legendary role as the next James Bond, succeeding Daniel Craig in the 007 franchi
 
-### 2. Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth
+### 2. What we know about Trump's meeting with China's Xi, Russia's Putin
+
+**Score** 219 · **First seen** 2026-11-16 20:33 UTC · **Last update** 2026-11-19 14:18 UTC
+
+**Status** Confirmed · independent reports: 46 of 74 feeds · official: none · independent newsrooms: 42
+
+**Wire copies collapsed**: CBS News ×2; Associated Press ×2.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.5-flash-lite)
+
+- President Trump is traveling to Asia for high-stakes meetings. — support: 6
+- Trump will participate in an unprecedented trilateral meeting with Vladimir Putin and Xi Jinping. — support: 5
+- President Trump's first stop on his Asia trip is Manila in the Philippines. — support: 2
+- Moscow is pressing demands to roll NATO back to 1997 and pull troops out of 16 countries. — support: 1
+
+> 15 of the 61 independent reports in the cluster cover related updates, not this headline. 74 feeds carry 61 independent reports (wire copies: Associated Press, CBS News). 1 key claim stated by a single report: “Moscow is pressing demands to roll NATO back to 1997 and pull troops o”
+
+President Trump's trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin has the makings of an unpredictable spectacle — and that's exactly what has U.S. allies anxious. Why it matters: Trump's stated goal for the first-ever summit between the nations' three leaders is to start a discussion on nuclear disarmament. But the fear is that he could go off script and take positions on…
+
+Lead: [WCPO Cincinnati (OH) — Putin's price for peace in Ukraine: Roll NATO back to 1997](https://www.wcpo.com/world/europe/putins-price-for-peace-in-ukraine-roll-nato-back-to-1997)
+
+**Where it was published**
+
+- 2026-11-16 20:33 UTC · WCPO Cincinnati (OH) · [Putin's price for peace in Ukraine: Roll NATO back to 1997](https://www.wcpo.com/world/europe/putins-price-for-peace-in-ukraine-roll-nato-back-to-1997)
+- 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
+- 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
+- 2026-11-17 10:25 UTC · ABC News · [Trump Asia trip live updates: Trump lands in Manila ahead meetings with Asian leaders](https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702)
+- 2026-11-17 10:43 UTC · NPR · [Trump arrives in Philippines to kick off Asia trip](https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines)
+- 2026-11-17 11:00 UTC · The Hill · [What Trump, Putin and Xi want from superpower summit](https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/)
+- 2026-11-17 12:06 UTC · NBC News · [Trump’s unprecedented trilateral meeting in Asia and what’s with all the tech glitches?: Morning Rundown](https://www.nbcnews.com/news/us-news/trump-xi-putin-chase-united-outages-morning-rundown-rcna609759)
+- 2026-11-17 12:54 UTC · BBC US & Canada · [Trump lands in Asia ahead of talks with Russian and Chinese presidents](https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss)
+- 2026-11-17 13:36 UTC · WCPO Cincinnati (OH) · [Trump begins Asia trip ahead of high-stakes talks with Xi and Putin](https://www.wcpo.com/politics/the-president/trump-begins-asia-trip-ahead-of-high-stakes-talks-with-xi-and-putin)
+- 2026-11-17 16:10 UTC · The Hill · [O’Reilly: ‘Trump may be wrong in the way he handles Xi and Putin’](https://thehill.com/policy/international/6225307-oreilly-trump-xi-putin-strategy/)
+- 2026-11-17 16:56 UTC · CBS News · [Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously"](https://www.cbsnews.com/video/trump-says-us-taking-iranian-dirty-bomb-threat-very-seriously/)
+- 2026-11-17 18:28 UTC · Daily Mail US · [Watch Trump's 'unaffected' response when pressed on American doomsday fears... as he 'flips in an instant' at mention of his risky meeting with Xi and Putin](https://www.dailymail.com/news/article-16299789/watch-trump-doomsday-response-risky-xi-putin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+
+**Who posted it on Instagram** (7 pages, 18,832 likes, 9 posts)
+
+- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,988 likes · 431 comments · +1121 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
+- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +1576 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
+- [@theories](https://www.instagram.com/p/Df44OnaBISl/) · 2,518 likes · 95 comments · +2603 min after first report · Vladimir Putin turned a televised interview into a tense exchange after repeatedly clashing with an NBC journalist over interruptions and the direction of the conversation. During a 2021 interview in
+- [@dailymail](https://www.instagram.com/p/Df5fVrCjW1G/) · 178 likes · 3 comments · +2945 min after first report · President Donald Trump is taking his America First agenda overseas as he kicks off a three-day trip to Asia, beginning with a stop in the Philippines before heading to China for high-stakes talks with
+- [@newsweek](https://www.instagram.com/p/Df44ukyGxX-/) · 56 likes · 6 comments · +2607 min after first report · U.S. intelligence officials have concluded that Ms. Huang was an asset of China’s Ministry of State Security (MSS). That means an MSS asset may have been just one or two steps away from President Dona
+- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · +1352 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
+
+### 3. Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth
 
 **Score** 192 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 03:55 UTC
 
@@ -122,51 +167,9 @@ Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exac
 - [@unilad](https://www.instagram.com/p/Df4Im9iF3hf/) · 8,643 likes · 236 comments · +1247 min after first report · Nearly 50 years of travelling, and Voyager 1 is reaching a distance light covers in just one day 🤯🚀⁠ ⁠ Today, on November 18, the spacecraft reaches one light-day from Earth - roughly 16.1 billion mil
 - [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · 1029 min before first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
 
-### 3. Pope Leo jokes after rosary hits him in eye in Peru
-
-**Score** 159 · **First seen** 2026-11-16 16:02 UTC · **Last update** 2026-11-18 14:08 UTC
-
-**Status** Confirmed · independent reports: 9 of 23 feeds · official: none · independent newsrooms: 8
-
-**Wire copies collapsed**: Associated Press ×5.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Pope Leo concluded a tour of South America — support: 6
-- The tour lasted 12 days — support: 1
-- Pope Leo was struck in the face by a rosary while riding in the popemobile in Peru — support: 3
-- The pope is referred to as Pope Leo or Pope Leo XIV — support: 6
-
-> 6 of the 15 independent reports in the cluster cover related updates, not this headline. 23 feeds carry 15 independent reports (wire copies: Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US, r/nottheonion); open the original. Reports disagree on whether the pontiff is named Pope Leo or Pope Leo XIV. 1 key claim stated by a single report: “The tour lasted 12 days”
-
-During the traditional popemobile ride before Leo's final Mass, someone threw what looked like a rosary toward the pope that seemed to hit him in the face.
-
-Lead: [NBC News — Highlights from Pope Leo’s historic, 12-day tour of South America](https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513)
-
-**Where it was published**
-
-- 2026-11-16 16:02 UTC · NBC News · [Highlights from Pope Leo’s historic, 12-day tour of South America](https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513)
-- 2026-11-16 19:47 UTC · UPI Top · [Pope Leo XIV ends South American tour with calls for peace, justice](https://www.upi.com/Top_News/World-News/2026/11/16/latam-peru-pope-leo-concludes-visit/3861794857791/)
-- 2026-11-16 20:17 UTC · WCPO Cincinnati (OH) · [Pope bids 'hasta luego' to his second homeland of Peru as he wraps up marathon South American trip](https://www.wcpo.com/life/faith-and-religion/pope-bids-hasta-luego-to-his-second-homeland-of-peru-as-he-wraps-up-marathon-south-american-trip)
-- 2026-11-16 21:12 UTC · BBC US & Canada · [Pope Leo hit by flying rosary while waving to crowds in Peru](https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss)
-- 2026-11-17 00:23 UTC · KHOU (TX) · [Pope Leo gets hit in face with rosary while wrapping marathon South America trip](https://www.khou.com/article/news/nation-world/pope-leo-hit-in-face-rosary-south-america-trip/507-415bf1c7-1706-48e1-9fba-67d3639411ed)
-- 2026-11-17 00:23 UTC · WFAA Dallas (TX) · [Pope Leo gets hit in face with rosary while wrapping marathon South America trip](https://www.wfaa.com/article/news/nation-world/pope-leo-hit-in-face-rosary-south-america-trip/507-415bf1c7-1706-48e1-9fba-67d3639411ed)
-- 2026-11-17 00:23 UTC · KING5 Seattle (WA) · [Pope Leo gets hit in face with rosary while wrapping marathon South America trip](https://www.king5.com/article/news/nation-world/pope-leo-hit-in-face-rosary-south-america-trip/507-415bf1c7-1706-48e1-9fba-67d3639411ed)
-- 2026-11-17 00:23 UTC · 9News Denver (CO) · [Pope Leo gets hit in face with rosary while wrapping marathon South America trip](https://www.9news.com/article/news/nation-world/pope-leo-hit-in-face-rosary-south-america-trip/507-415bf1c7-1706-48e1-9fba-67d3639411ed)
-- 2026-11-17 00:56 UTC · ABC News · [WATCH: Pope Leo leaves Peru after historic 12-day South America trip](https://abcnews.com/video/138189817/)
-- 2026-11-17 10:50 UTC · Fox News · [Bob Dylan's hooded Vatican visit with Pope Leo shows he's still knockin' on heaven's door](https://www.foxnews.com/opinion/bob-dylan-hooded-vatican-visit-pope-leo-still-knockin-heavens-door)
-- 2026-11-17 13:32 UTC · ABC7 LA (CA) · [Pope Leo forgives person who nailed him in the eye with a rosary in Peru](https://abc7.com/post/pope-leo-forgives-person-nailed-eye-rosary-peru/20047801/)
-- 2026-11-17 13:54 UTC · WSB-TV Atlanta (GA) · [Pope Leo XIV forgives person who hit him in eye with rosary during visit to Peru](https://www.wsbtv.com/news/trending/pope-leo-xiv-forgives-person-who-hit-him-eye-with-rosary-during-visit-peru/UAL2NANHINFJTCQVIGTKIE7LTY/)
-
-**Who posted it on Instagram** (3 pages, 185,267 likes, 4 posts)
-
-- [@nugget](https://www.instagram.com/p/Df0KPEaIm3E/) · 171,894 likes · 285 comments · +235 min after first report · photo of a young Pope Leo XIV celebrating his 40th birthday in 1995 has resurfaced, showing him years before becoming the leader of the Catholic Church. Born Robert Francis Prevost in Chicago, he spen
-- [@dailymail](https://www.instagram.com/p/DfzDRnCgU54/) · 5,428 likes · 101 comments · 385 min before first report · Pope Leo was greeted by children as he arrived at the Shrine of St Tiribius in Peru. A group of young children ran towards the Pope before surrounding him with open arms to hug the pontiff. #peru #pop
-- [@nypost](https://www.instagram.com/p/Df0mjqjjxFz/) · 2,836 likes · 198 comments · +522 min after first report · Pope Leo’s run of successfully catching items tossed to him by crowds came to an end, as what appeared to be a rosary thrown in his direction struck him near the eye.
-
 ### 4. Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!
 
-**Score** 152 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 21:35 UTC
+**Score** 158 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-19 13:20 UTC
 
 **Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -201,9 +204,53 @@ Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Jo
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,953 likes · 106 comments · +927 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 - [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 10,561 likes · 40 comments · +1137 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
 
-### 5. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
+### 5. ‘That night was incredible’: UFC announcer praises Donald Trump’s White House event
 
-**Score** 147 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
+**Score** 148 · **Category** trending · **First seen** 2026-11-16 15:38 UTC · **Last update** 2026-11-19 13:26 UTC
+
+**Status** Confirmed · independent reports: 3 of 14 feeds · official: none · independent newsrooms: 2
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Bruce Buffer described the UFC Freedom 250 event held at the White House as incredible — support: 2
+- UFC Freedom 250 was held at the White House to mark America's 250th birthday and Donald Trump's 80th birthday — support: 1
+- Donald Trump nominated Dana White to be the White House press secretary — support: 2
+- Dana White stated he wants nothing to do with politics — support: 1
+- Donald Trump's plane was diverted to Alaska due to weather conditions — support: 1
+
+> 11 of the 14 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. 3 key claims stated by a single report: “UFC Freedom 250 was held at the White House to mark America's 250th bi”; “Dana White stated he wants nothing to do with politics”
+
+Look past the White House renovations , the proposed arch and the golf course : President Trump's border wall project is hundreds of miles behind pace. Why it matters: " Build that wall " helped build MAGA. But with two years to go, tough terrain and mounting political resistance threaten to leave Trump's signature promise unfinished. State of play: At the current pace, the main wall won't be finished until late…
+
+Lead: [Fox News — Bruce Buffer calls UFC Freedom 250 at the White House 'incredible' as Trump marked 80th birthday](https://www.foxnews.com/outkick-sports/bruce-buffer-calls-ufc-freedom-250-white-house-incredible-trump-marked-80th-birthday)
+
+**Where it was published**
+
+- 2026-11-16 15:38 UTC · Fox News · [Bruce Buffer calls UFC Freedom 250 at the White House 'incredible' as Trump marked 80th birthday](https://www.foxnews.com/outkick-sports/bruce-buffer-calls-ufc-freedom-250-white-house-incredible-trump-marked-80th-birthday)
+- 2026-11-16 17:21 UTC · Yahoo Sports · [‘That night was incredible’: UFC announcer praises Donald Trump’s White House event](https://sports.yahoo.com/articles/night-incredible-ufc-announcer-praises-172102633.html)
+- 2026-11-16 19:54 UTC · The Hill · [Dana White after press secretary stunt: ‘I want nothing to do with politics’](https://thehill.com/homenews/administration/6223190-dana-white-declines-press-secretary/)
+- 2026-11-16 20:00 UTC · MMA Fighting · [Dana White recounts ‘crazy’ and ‘unique’ experience being nominated as press secretary for President Donald Trump](https://www.mmafighting.com/ufc/521675/dana-white-recounts-crazy-and-unique-experience-being-nominated-as-press-secretary-for-president-donald-trump)
+- 2026-11-17 00:17 UTC · Daily Mail US · [Qatari-gifted Air Force One carrying Trump to Asia makes unplanned diversion in Alaska amid 'extreme' weather conditions... with old presidential jet on its tail](https://www.dailymail.com/news/article-16297935/qatari-air-force-one-diverted-refueling-weather.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 03:43 UTC · Daily Mail US · [Trump nemesis Maggie Haberman makes bold claim that he turned on Susie Wiles after her cancer diagnosis: 'Beginning of chaos'](https://www.dailymail.com/news/article-16297889/Trump-Maggie-Haberman-Susie-Wiles-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 10:20 UTC · Axios · [Trump's biggest project is running out of time](https://www.axios.com/2026/11/17/trump-border-wall-texas-lawsuits-big-bend)
+- 2026-11-17 16:30 UTC · Daily Mail US · [Karoline Leavitt breaks with Trump over doomsday outage as she issues direct warning to president](https://www.dailymail.com/news/article-16299803/Karoline-Leavitt-breaks-Trump-doomsday-outage-issues-direct-warning-president.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-18 00:40 UTC · Daily Mail US · [Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-18 04:31 UTC · Daily Mail US · [Trump bets are off as Kalshi will no longer let users wager on president's remarks following 'insider trading'](https://www.dailymail.com/news/article-16301331/Trump-Kalshi-remarks-insider-trading.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-18 13:28 UTC · Fox News · [Stephen A. Smith calls out critics demanding he fact-check Trump 'on the spot' in interviews](https://www.foxnews.com/media/stephen-a-smith-calls-out-critics-demanding-fact-check-trump-spot-interviews)
+- 2026-11-18 15:10 UTC · The Hill · [NY Times knocks ‘tired’ White House attack on Haberman](https://thehill.com/homenews/media/6227497-ny-times-defends-haberman/)
+
+**Who posted it on Instagram** (7 pages, 100,309 likes, 12 posts)
+
+- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · +73 min after first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
+- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,832 likes · 2,437 comments · +1337 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
+- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +1871 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
+- [@nypost](https://www.instagram.com/p/Df0Dhd5EUVk/) · 2,283 likes · 595 comments · +276 min after first report · President Trump defended the White House restoration work, saying he has a responsibility to maintain the historic building before criticizing a reporter’s questions about the project.
+- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · +231 min after first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
+- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · +425 min after first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
+
+### 6. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
+
+**Score** 146 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
 
 **Status** Confirmed · independent reports: 5 of 10 feeds · official: none · independent newsrooms: 3
 
@@ -243,19 +290,20 @@ Lead: [NBC News — Nvidia board does not intend to reinstate Jensen Huang, chai
 - [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · 202 min before first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 - [@entrepreneurshipquote](https://www.instagram.com/p/Df5DLl_jFGq/) · 0 likes · 38 comments · +1144 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 
-### 6. Why ‘GTA’ Has Never Been Adapted for Film or TV: ‘We Prefer to Control Our Own Destiny,’ Take-Two CEO Says
+### 7. Why ‘GTA’ Has Never Been Adapted for Film or TV: ‘We Prefer to Control Our Own Destiny,’ Take-Two CEO Says
 
-**Score** 146 · **Category** trending · **First seen** 2026-11-19 00:29 UTC · **Last update** 2026-11-19 13:06 UTC
+**Score** 146 · **Category** trending · **First seen** 2026-11-19 00:29 UTC · **Last update** 2026-11-19 14:23 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+**Key claims** (LLM check, support = reports stating it · gemini-3.5-flash-lite)
 
-- Take-Two CEO stated that the company prefers to control its own destiny regarding film or TV adaptations of Grand Theft Auto — support: 1
-- Grand Theft Auto 6 is debuting this week — support: 1
-- The debut of Grand Theft Auto 6 is considered the entertainment event of the decade — support: 1
+- Grand Theft Auto 6 is making its debut this week. — support: 1
+- The debut of Grand Theft Auto 6 is widely considered the entertainment event of the decade. — support: 1
+- Grand Theft Auto has never been adapted for film or television. — support: 1
+- The franchise was created by Rockstar Games and its parent company is Take-Two. — support: 1
 
-> 1 independent report only; details may still change. 3 key claims stated by a single report: “Take-Two CEO stated that the company prefers to control its own destin”; “Grand Theft Auto 6 is debuting this week”
+> 1 independent report only; details may still change. 4 key claims stated by a single report: “Grand Theft Auto 6 is making its debut this week.”; “The debut of Grand Theft Auto 6 is widely considered the entertainment”
 
 With this week’s debut of “Grand Theft Auto 6” widely considered to be the entertainment event of the decade, the Rockstar Games-created franchise seems like an obvious target for a Hollywood adaptation. But those producers hoping to land the rights could be waiting indefinitely, as Take-Two Interactive CEO Strauss Zelnick has said for years that […]
 
@@ -274,99 +322,13 @@ Lead: [Variety — Why ‘GTA’ Has Never Been Adapted for Film or TV: ‘We Pr
 - [@technology](https://www.instagram.com/p/DfyDLFaDYYG/) · 58,490 likes · 342 comments · 3809 min before first report · A Grand Theft Auto fan has recreated the same photograph across 18 years, capturing his journey from childhood to adulthood through three generations of the iconic gaming franchise 🎮📸 Reddit user u/Na
 - [@nugget](https://www.instagram.com/p/Df0uh4nIDHA/) · 23,444 likes · 152 comments · 2831 min before first report · When GTA V launched in 2013, the most popular apps included Candy Crush, Temple Run, Vine, and Snapchat. Fast forward to the GTA VI era, and the digital landscape looks completely different. Artificia
 
-### 7. Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating amid growing fears of attack on US soil
+### 8. The Vice City Heat: Miami's NBA team goes all in on 'Grand Theft Auto VI' collaboration ahead of game release
 
-**Score** 145 · **First seen** 2026-11-17 01:27 UTC · **Last update** 2026-11-19 03:31 UTC
+**Score** 141 · **Category** trending · **First seen** 2026-11-17 21:10 UTC · **Last update** 2026-11-19 14:23 UTC
 
-**Status** Confirmed · independent reports: 10 of 15 feeds · official: none · independent newsrooms: 8
+**Status** Confirmed · independent reports: 13 of 23 feeds · official: none · independent newsrooms: 13
 
-**Wire copies collapsed**: CBS News ×2.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- US intelligence indicates Iran is developing plans to detonate a dirty bomb in Washington DC targeting Trump administration officials — support: 6
-- President Trump stated that the administration takes the reported Iranian threat very seriously — support: 4
-- President Trump warned Iran of unprecedented retaliation regarding the reported plot — support: 1
-- Senior officials are relocating to military housing due to the reported threat — support: 1
-
-> 15 feeds carry 11 independent reports (wire copies: CBS News). 2 key claims stated by a single report: “President Trump warned Iran of unprecedented retaliation regarding the”; “Senior officials are relocating to military housing due to the reporte”
-
-President Trump said Tuesday that he takes the threat of the dirty bomb from Iran “very seriously” because “they happen to be crazy.” Trump, speaking to reporters in Manila, Philippines, said the administration was looking into Iran’s reported plans to drop a dirty bomb on Washington. “Well if there is there is they will pay…
-
-Lead: [Daily Mail US — Iran plotting terrifying 'dirty bomb' attack targeting Trump administration officials in Washington DC, intelligence report says](https://www.dailymail.com/news/article-16298071/Iran-dirty-bomb-attack-Trump-administration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-
-**Where it was published**
-
-- 2026-11-17 01:27 UTC · Daily Mail US · [Iran plotting terrifying 'dirty bomb' attack targeting Trump administration officials in Washington DC, intelligence report says](https://www.dailymail.com/news/article-16298071/Iran-dirty-bomb-attack-Trump-administration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-17 02:32 UTC · WSVN Miami (FL) · [US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say](https://wsvn.com/news/us-world/us-intel-indicates-iran-developing-plans-to-potentially-detonate-a-dirty-bomb-in-washington-sources-say/)
-- 2026-11-17 11:25 UTC · New York Post · [Trump responds to reported ‘dirty bomb’ threat from Iran: ‘They happen to be crazy’](https://nypost.com/2026/11/17/us-news/trump-responds-to-reported-dirty-bomb-threat-from-iran-they-happen-to-be-crazy/)
-- 2026-11-17 12:19 UTC · The Hill · [Trump on dirty bomb report: ‘We take it very seriously’](https://thehill.com/policy/defense/6224265-donald-trump-iran-dirty-bomb-threat/)
-- 2026-11-17 12:50 UTC · Fox News · [Trump warns Iran about reported plot against admin officials: 'We take it very seriously'](https://www.foxnews.com/politics/trump-warns-iran-reported-plot-against-admin-officials-take-very-seriously)
-- 2026-11-17 16:56 UTC · CBS News · [Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously"](https://www.cbsnews.com/video/trump-says-us-taking-iranian-dirty-bomb-threat-very-seriously/)
-- 2026-11-17 18:45 UTC · WFAA Dallas (TX) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.wfaa.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
-- 2026-11-17 18:45 UTC · KHOU (TX) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.khou.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
-- 2026-11-17 18:45 UTC · KING5 Seattle (WA) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.king5.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
-- 2026-11-17 18:45 UTC · 9News Denver (CO) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.9news.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
-- 2026-11-17 21:11 UTC · Fox News · [Iran's latest dirty bomb news builds on decades of threats to attack America at home](https://www.foxnews.com/politics/irans-latest-dirty-bomb-news-builds-decades-threats-attack-america-home)
-- 2026-11-17 21:11 UTC · Fox News · [Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’](https://www.foxnews.com/politics/senior-us-official-undercuts-cnns-alarming-iran-dirty-bomb-report-its-not-new)
-
-**Who posted it on Instagram** (6 pages, 20,186 likes, 10 posts)
-
-- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,832 likes · 2,437 comments · +748 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
-- [@nypost](https://www.instagram.com/p/Df1785FGCbX/) · 2,871 likes · 268 comments · +707 min after first report · President Trump said Tuesday that an alleged plot by Iran to detonate a so-called dirty bomb in Washington, DC, is being taken “very seriously” — all but confirming a report that US officials believe 
-- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +1282 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · 358 min before first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
-- [@dailymail](https://www.instagram.com/p/Df5fVrCjW1G/) · 178 likes · 3 comments · +2651 min after first report · President Donald Trump is taking his America First agenda overseas as he kicks off a three-day trip to Asia, beginning with a stop in the Philippines before heading to China for high-stakes talks with
-- [@newsweek](https://www.instagram.com/p/Df44ukyGxX-/) · 56 likes · 6 comments · +2313 min after first report · U.S. intelligence officials have concluded that Ms. Huang was an asset of China’s Ministry of State Security (MSS). That means an MSS asset may have been just one or two steps away from President Dona
-
-### 8. ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know
-
-**Score** 142 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
-
-**Status** Confirmed · independent reports: 11 of 22 feeds · official: none · independent newsrooms: 7
-
-**Duplicates collapsed**: 11 of 22 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- FEMA is conducting a nationwide test of the Emergency Alert System on Tuesday — support: 6
-- The test will interrupt television and radio broadcasts — support: 3
-- The test will last for about a minute — support: 1
-
-> 22 feeds carry 11 independent reports (the rest are duplicates). 1 key claim stated by a single report: “The test will last for about a minute”
-
-Government agencies and TV broadcasters are telling Americans not to be alarmed by a nationwide Emergency Alert System test taking place on Tuesday.
-
-Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert System test on Tuesday](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday)
-
-**Where it was published**
-
-- 2026-11-16 19:47 UTC · WCPO Cincinnati (OH) · [FEMA to conduct nationwide Emergency Alert System test on Tuesday](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday)
-- 2026-11-17 00:25 UTC · WFLA Tampa (FL) · [Nationwide Emergency Alert System to be tested Tuesday: What to know](https://www.wfla.com/news/national/nationwide-emergency-alert-system-to-be-tested-tuesday-what-to-know/)
-- 2026-11-17 07:52 UTC · Newsweek · [FEMA Addresses Rumors Ahead Of Today’s Emergency Alert Test](https://www.newsweek.com/fema-addresses-rumors-ahead-of-todays-emergency-alert-test-12725299)
-- 2026-11-17 10:00 UTC · Newsweek · [FEMA Conducts Nationwide Emergency Alert Test: Here's What Happens](https://www.newsweek.com/ema-emergency-alert-ipaws-test-november-disaster-12723104)
-- 2026-11-17 10:31 UTC · ABC7 LA (CA) · [‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know](https://abc7.com/story/is-test-nationwide-emergency-alert-system-take-place-tuesday-us-what-know/20047419/)
-- 2026-11-17 10:31 UTC · ABC13 Houston (TX) · [‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know](https://abc13.com/story/is-test-nationwide-emergency-alert-system-take-place-tuesday-us-what-know/20047419/)
-- 2026-11-17 10:31 UTC · ABC7 NY (NY) · [‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know](https://abc7ny.com/story/is-test-nationwide-emergency-alert-system-take-place-tuesday-us-what-know/20047419/)
-- 2026-11-17 10:31 UTC · ABC7 Chicago (IL) · [‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know](https://abc7chicago.com/story/is-test-nationwide-emergency-alert-system-take-place-tuesday-us-what-know/20047419/)
-- 2026-11-17 10:31 UTC · 6abc Philly (PA) · [‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know](https://6abc.com/story/is-test-nationwide-emergency-alert-system-take-place-tuesday-us-what-know/20047419/)
-- 2026-11-17 11:13 UTC · KHOU (TX) · [Nationwide test of emergency alert to sound on TV, radio. Here's what to know](https://www.khou.com/article/news/nation-world/nationwide-emergency-alert-tv-radio-fcc-fema-tuesday-november-17/507-d3a6eb8e-4d10-495e-b2b5-6ffd4d759c61)
-- 2026-11-17 11:13 UTC · WFAA Dallas (TX) · [Nationwide test of emergency alert to sound on TV, radio. Here's what to know](https://www.wfaa.com/article/news/nation-world/nationwide-emergency-alert-tv-radio-fcc-fema-tuesday-november-17/507-d3a6eb8e-4d10-495e-b2b5-6ffd4d759c61)
-- 2026-11-17 11:13 UTC · 9News Denver (CO) · [Nationwide test of emergency alert to sound on TV, radio. Here's what to know](https://www.9news.com/article/news/nation-world/nationwide-emergency-alert-tv-radio-fcc-fema-tuesday-november-17/507-d3a6eb8e-4d10-495e-b2b5-6ffd4d759c61)
-
-**Who posted it on Instagram** (3 pages, 44,668 likes, 4 posts)
-
-- [@worldstar](https://www.instagram.com/p/Df0nkQqM-vH/) · 29,514 likes · 1,594 comments · +267 min after first report · #NEWS: FEMA and the FCC will conduct a nationwide test of the Emergency Alert System on November 17 at 2:20 PM ET. Radio and television programming will be briefly interrupted as officials test the sy
-- [@onlyindade](https://www.instagram.com/p/Df2GSPDoa0M/) · 9,608 likes · 246 comments · +1094 min after first report · FEMA said one minute test. The family WhatsApp said end of the world #ONLYinDADE Around 2:20 this afternoon, FEMA and the FCC are running the first nationwide Emergency Alert System test since October
-- [@nypost](https://www.instagram.com/p/Df2ohCEk4fl/) · 3,298 likes · 301 comments · +1397 min after first report · BREAKING: Yes, the alarms will sound — but there’s no need to panic. At 2:20 p.m. EST today, the Federal Emergency Management Agency (FEMA) will conduct a nationwide test of the Emergency Alert System
-
-### 9. The Vice City Heat: Miami's NBA team goes all in on 'Grand Theft Auto VI' collaboration ahead of game release
-
-**Score** 141 · **Category** trending · **First seen** 2026-11-17 21:10 UTC · **Last update** 2026-11-19 12:33 UTC
-
-**Status** Confirmed · independent reports: 13 of 22 feeds · official: none · independent newsrooms: 13
-
-**Wire copies collapsed**: Associated Press ×6.
+**Wire copies collapsed**: Associated Press ×6; Associated Press ×2.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
@@ -374,7 +336,7 @@ Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert Syste
 - The Miami Heat unveiled a special edition Vice City themed basketball court. — support: 4
 - The Miami Heat players were seen with GTA 6 themed PS5 Pro consoles. — support: 1
 
-> 2 of the 15 independent reports in the cluster cover related updates, not this headline. 22 feeds carry 15 independent reports (wire copies: Associated Press). 1 key claim stated by a single report: “The Miami Heat players were seen with GTA 6 themed PS5 Pro consoles.”
+> 2 of the 15 independent reports in the cluster cover related updates, not this headline. 23 feeds carry 15 independent reports (wire copies: Associated Press). 1 key claim stated by a single report: “The Miami Heat players were seen with GTA 6 themed PS5 Pro consoles.”
 
 The Miami Heat found a way to partner with video game company Rockstar Games ahead of the hyped GTA VI release. Video game fans are familiar with the Grant Theft Auto franchise of games that feature mayhem gameplay in popular cities. One past GTA game took place in Vice City to reference Miami, and the […] The post Miami Heat Reveal “Vice City” Court For GTA VI Game Release appeared first on HEAVY.
 
@@ -404,9 +366,9 @@ Lead: [Yahoo Sports — Miami Heat ‘Vice City’ GTA 6-themed court: Photos & 
 - [@onlyindade](https://www.instagram.com/p/Df5tmEDBsWt/) · 6,154 likes · 86 comments · +1593 min after first report · Travis Scott pulled up to Miami Heat GTA 6 Vice city night #travisscott #gta6 #vicecity #miamiheat
 - [@complex](https://www.instagram.com/p/Df5oJtAAaGm/) · 4,398 likes · 84 comments · +1545 min after first report · The Miami Heat went all out for 'GTA VI' 🔥 A look into the 'GTA VI' takeover at the Kaseya Center
 
-### 10. Customers report difficulty accessing online services at major US banks
+### 9. Customers report difficulty accessing online services at major US banks
 
-**Score** 138 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
+**Score** 137 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
 
 **Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 4
 
@@ -448,9 +410,53 @@ Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Repor
 - [@hollywoodunlocked](https://www.instagram.com/p/Df2PeFcKZqe/) · 7,436 likes · 1,330 comments · +1263 min after first report · HU Staff: Kecia Gayle @kecia.kae Between the Microsoft meltdown, the grounded planes and the banking apps acting brand new, it’s safe to say a lot of folks are concerned. But on Monday night, Vice Pre
 - [@onlyindade](https://www.instagram.com/p/Df0hSXMoYU8/) · 1,884 likes · 88 comments · +299 min after first report · Did you have issues with your bank account today?💰👀\| #ONLYinDADE *🗞️ Customers of Chase, Bank of America, Wells Fargo and U.S. Bank reported issues accessing their accounts and completing transaction
 
+### 10. Anthropic set to begin trading as a $1.5 trillion company in the biggest IPO on record
+
+**Score** 136 · **First seen** 2026-11-17 16:49 UTC · **Last update** 2026-11-19 14:25 UTC
+
+**Status** Confirmed · independent reports: 10 of 24 feeds · official: none · independent newsrooms: 7
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Anthropic is preparing for an initial public offering on the Nasdaq exchange — support: 4
+- Anthropic stock is scheduled to begin trading on Thursday — support: 1
+- Anthropic set an initial price range of 70 to 78 dollars per share — support: 1
+- Anthropic is aiming for a market capitalization of over 1 trillion dollars — support: 2
+- Amazon and Google will collectively own nearly 30 percent of Anthropic after the IPO — support: 1
+
+> 14 of the 24 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. 3 key claims stated by a single report: “Anthropic stock is scheduled to begin trading on Thursday”; “Anthropic set an initial price range of 70 to 78 dollars per share”
+
+Anthropic, which developed the Claude chatbot, is barreling ahead with its public offering despite mounting concerns about AI going rogue.
+
+Lead: [New York Post — Dow plummets 800 points as Nasdaq slides ahead of Nvidia earnings, Anthropic IPO](https://nypost.com/2026/11/17/business/dow-plummets-800-points-nasdaq-slides-ahead-of-nvidia-earnings-anthropic-ipo/)
+
+**Where it was published**
+
+- 2026-11-17 16:49 UTC · New York Post · [Dow plummets 800 points as Nasdaq slides ahead of Nvidia earnings, Anthropic IPO](https://nypost.com/2026/11/17/business/dow-plummets-800-points-nasdaq-slides-ahead-of-nvidia-earnings-anthropic-ipo/)
+- 2026-11-17 18:41 UTC · CBS News · [Anthropic files for IPO as it competes for AI dominance](https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/)
+- 2026-11-17 19:41 UTC · New York Post · [Anthropic will likely price mammoth IPO above current $70- to $78-per-share range: report](https://nypost.com/2026/11/17/business/anthropic-will-likely-price-mammoth-ipo-above-current-range-report/)
+- 2026-11-17 20:15 UTC · CBS News · [Anthropic's IPO set for blastoff this week in key test for AI boom](https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/)
+- 2026-11-17 21:00 UTC · New York Post · [Anthropic is about to have the biggest IPO of all time: Is it too late to buy in?](https://nypost.com/2026/11/17/business/is-it-too-late-to-participate-in-anthropics-big-ipo-on-nov-19/)
+- 2026-11-17 22:29 UTC · TechCrunch · [Amazon and Google will together own nearly 30% of Anthropic after its IPO](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)
+- 2026-11-18 12:00 UTC · New York Post · [Republicans fret Anthropic IPO will enrich ‘evil’ far-left donors: ‘200 George Soroses’](https://nypost.com/2026/11/18/us-news/republicans-fret-anthropic-ipo-will-enrich-far-left-donors-200-george-soroses/)
+- 2026-11-18 12:56 UTC · New York Post · [The major A-list star set for billionaire status thanks to Anthropic IPO](https://pagesix.com/2026/11/18/celebrity-news/ashton-kutcher-is-about-to-hit-billionaire-status-heres-why/)
+- 2026-11-18 15:11 UTC · Newsweek · [Investors Should Beware Anthropic's IPO](https://www.newsweek.com/investors-should-beware-anthropics-ipo-12731980)
+- 2026-11-18 20:59 UTC · Newsweek · [Anthropic IPO: Why $1T Bet Matters Even If You Don’t Own Stocks](https://www.newsweek.com/anthropic-ipo-why-1t-bet-matters-even-if-you-dont-own-stocks-12734879)
+- 2026-11-18 21:28 UTC · BBC US & Canada · [Can Anthropic's record breaking IPO stop the AI bubble bursting?](https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss)
+- 2026-11-18 21:35 UTC · New York Post · [Meet Anthropic’s oddball co-founders: An atheist who met the pope, a punk-rock fan and a shy dating-app entrepreneur](https://nypost.com/2026/11/18/business/meet-anthropics-eccentric-founding-seven-an-atheist-who-met-the-pope-a-punk-rock-fan-and-a-shy-dating-app-entrepreneur/)
+
+**Who posted it on Instagram** (6 pages, 16,301 likes, 7 posts)
+
+- [@technology](https://www.instagram.com/p/Df5NnA5I4P0/) · 11,771 likes · 95 comments · +1573 min after first report · Anthropic goes public tomorrow, and about 4 out of 5 of its employees could wake up millionaires. If it debuts at a $1.5T valuation, an estimated 4,250 employees could become millionaires, 1,200 could
+- [@simplyougrow](https://www.instagram.com/p/Df5avj-GUfp/) · 1,489 likes · 3 comments · +1688 min after first report · Tomorrow, two of the biggest launches ever land on the same day. 💸 Rockstar’s GTA 6 finally releases after more than a decade of waiting, with over $1 billion in pre-order sales already locked in. Hou
+- [@profgalloway](https://www.instagram.com/reel/Df0K_NiHaqX/) · 1,300 likes · 40 comments · 1245 min before first report · Scott Galloway (@profgalloway) on why he's trying to get shares in the Anthropic IPO. "The greatest risk-free trade right now to the upside is in IPOs managed by these bankers because they engineer a 
+- [@dailymail](https://www.instagram.com/p/Df6xg8pkTRJ/) · 614 likes · 9 comments · +2447 min after first report · Anthropic has raised a record-breaking $81.3 billion through its IPO, valuing the company at $1.5 trillion. On November 18, the company priced its shares at $83 each, above its initial target range, r
+- [@jessinskip_](https://www.instagram.com/reel/Df5wM1BuRzy/) · 501 likes · 16 comments · +1879 min after first report · Anthropic IPO: 2 tickers traders may want to know #ad Anthropic, the company behind Claude, is going public, and it is expected to be one of the largest IPOs EVER. If you are searching for alternative
+- [@deeptech](https://www.instagram.com/p/Df5WoOHkgAT/) · 399 likes · 7 comments · +1652 min after first report · Tomorrow, two of the biggest launches ever land on the same day. 💸 Rockstar’s GTA 6 finally releases after more than a decade of waiting, with over $1 billion in pre-order sales already locked in. Hou
+
 ### 11. US officially loses measles elimination status, PAHO says
 
-**Score** 135 · **First seen** 2026-11-17 16:10 UTC · **Last update** 2026-11-19 12:49 UTC
+**Score** 134 · **First seen** 2026-11-17 16:10 UTC · **Last update** 2026-11-19 12:49 UTC
 
 **Status** Confirmed · independent reports: 7 of 21 feeds · official: none · independent newsrooms: 6
 
@@ -492,7 +498,7 @@ Lead: [The Hill — US loses measles elimination status after more than 25 years
 
 ### 12. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
 
-**Score** 134 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-19 10:00 UTC
+**Score** 133 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-19 10:00 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -522,51 +528,9 @@ Lead: [Deadline — Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4,
 - [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +765 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
 - [@clips](https://www.instagram.com/p/Df3P1owKr_o/) · 454 likes · 7 comments · +788 min after first report · The Wolf of Wall Street (2013) tells the story of Jordan Belfort, played by Leonardo DiCaprio, a stockbroker who builds a massive fortune through corruption, fraud, extravagant parties, and outrageous
 
-### 13. Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely”
+### 13. Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects
 
-**Score** 134 · **First seen** 2026-11-17 18:41 UTC · **Last update** 2026-11-19 11:00 UTC
-
-**Status** Confirmed · independent reports: 6 of 20 feeds · official: none · independent newsrooms: 5
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Anthropic is preparing for an initial public offering — support: 6
-- Anthropic stock is scheduled to begin trading on Nasdaq this Thursday — support: 2
-- Anthropic set an IPO price range of 70 to 78 dollars per share — support: 1
-- The company is aiming for a market capitalization of over 1 trillion dollars — support: 2
-- Amazon and Google will collectively own nearly 30 percent of Anthropic after the IPO — support: 1
-
-> 14 of the 20 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US, Google Trends US); open the original. 2 key claims stated by a single report: “Anthropic set an IPO price range of 70 to 78 dollars per share”; “Amazon and Google will collectively own nearly 30 percent of Anthropic”
-
-Lead: [CBS News — Anthropic files for IPO as it competes for AI dominance](https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/)
-
-**Where it was published**
-
-- 2026-11-17 18:41 UTC · CBS News · [Anthropic files for IPO as it competes for AI dominance](https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/)
-- 2026-11-17 19:41 UTC · New York Post · [Anthropic will likely price mammoth IPO above current $70- to $78-per-share range: report](https://nypost.com/2026/11/17/business/anthropic-will-likely-price-mammoth-ipo-above-current-range-report/)
-- 2026-11-17 20:15 UTC · CBS News · [Anthropic's IPO set for blastoff this week in key test for AI boom](https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/)
-- 2026-11-17 21:00 UTC · New York Post · [Anthropic is about to have the biggest IPO of all time: Is it too late to buy in?](https://nypost.com/2026/11/17/business/is-it-too-late-to-participate-in-anthropics-big-ipo-on-nov-19/)
-- 2026-11-17 22:29 UTC · TechCrunch · [Amazon and Google will together own nearly 30% of Anthropic after its IPO](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)
-- 2026-11-18 12:00 UTC · New York Post · [Republicans fret Anthropic IPO will enrich ‘evil’ far-left donors: ‘200 George Soroses’](https://nypost.com/2026/11/18/us-news/republicans-fret-anthropic-ipo-will-enrich-far-left-donors-200-george-soroses/)
-- 2026-11-18 12:56 UTC · New York Post · [The major A-list star set for billionaire status thanks to Anthropic IPO](https://pagesix.com/2026/11/18/celebrity-news/ashton-kutcher-is-about-to-hit-billionaire-status-heres-why/)
-- 2026-11-18 15:11 UTC · Newsweek · [Investors Should Beware Anthropic's IPO](https://www.newsweek.com/investors-should-beware-anthropics-ipo-12731980)
-- 2026-11-18 20:59 UTC · Newsweek · [Anthropic IPO: Why $1T Bet Matters Even If You Don’t Own Stocks](https://www.newsweek.com/anthropic-ipo-why-1t-bet-matters-even-if-you-dont-own-stocks-12734879)
-- 2026-11-18 21:28 UTC · BBC US & Canada · [Can Anthropic's record breaking IPO stop the AI bubble bursting?](https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss)
-- 2026-11-18 21:35 UTC · New York Post · [Meet Anthropic’s oddball co-founders: An atheist who met the pope, a punk-rock fan and a shy dating-app entrepreneur](https://nypost.com/2026/11/18/business/meet-anthropics-eccentric-founding-seven-an-atheist-who-met-the-pope-a-punk-rock-fan-and-a-shy-dating-app-entrepreneur/)
-- 2026-11-18 21:44 UTC · New York Post · [Anthropic set to price IPO at $83 per share ahead of historic stock debut: reports](https://nypost.com/2026/11/18/business/anthropic-set-to-price-ipo-at-83-per-share-ahead-of-historic-stock-debut-reports/)
-
-**Who posted it on Instagram** (8 pages, 16,654 likes, 9 posts)
-
-- [@technology](https://www.instagram.com/p/Df5NnA5I4P0/) · 11,771 likes · 95 comments · +1462 min after first report · Anthropic goes public tomorrow, and about 4 out of 5 of its employees could wake up millionaires. If it debuts at a $1.5T valuation, an estimated 4,250 employees could become millionaires, 1,200 could
-- [@simplyougrow](https://www.instagram.com/p/Df5avj-GUfp/) · 1,489 likes · 3 comments · +1577 min after first report · Tomorrow, two of the biggest launches ever land on the same day. 💸 Rockstar’s GTA 6 finally releases after more than a decade of waiting, with over $1 billion in pre-order sales already locked in. Hou
-- [@profgalloway](https://www.instagram.com/reel/Df0K_NiHaqX/) · 1,300 likes · 40 comments · 1356 min before first report · Scott Galloway (@profgalloway) on why he's trying to get shares in the Anthropic IPO. "The greatest risk-free trade right now to the upside is in IPOs managed by these bankers because they engineer a 
-- [@dailymail](https://www.instagram.com/p/Df6xg8pkTRJ/) · 614 likes · 9 comments · +2336 min after first report · Anthropic has raised a record-breaking $81.3 billion through its IPO, valuing the company at $1.5 trillion. On November 18, the company priced its shares at $83 each, above its initial target range, r
-- [@jessinskip_](https://www.instagram.com/reel/Df5wM1BuRzy/) · 501 likes · 16 comments · +1768 min after first report · Anthropic IPO: 2 tickers traders may want to know #ad Anthropic, the company behind Claude, is going public, and it is expected to be one of the largest IPOs EVER. If you are searching for alternative
-- [@deeptech](https://www.instagram.com/p/Df5WoOHkgAT/) · 399 likes · 7 comments · +1541 min after first report · Tomorrow, two of the biggest launches ever land on the same day. 💸 Rockstar’s GTA 6 finally releases after more than a decade of waiting, with over $1 billion in pre-order sales already locked in. Hou
-
-### 14. Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects
-
-**Score** 133 · **First seen** 2026-11-17 02:07 UTC · **Last update** 2026-11-19 02:14 UTC
+**Score** 132 · **First seen** 2026-11-17 02:07 UTC · **Last update** 2026-11-19 02:14 UTC
 
 **Status** Confirmed · independent reports: 25 of 37 feeds · official: none · independent newsrooms: 24
 
@@ -604,9 +568,9 @@ Lead: [CBS News — Democrat Mary Peltola leads ongoing Alaska Senate race](http
 - [@nytimes](https://www.instagram.com/p/Df5GEkFE0Hp/) · 5,536 likes · 99 comments · +2408 min after first report · When Mary Peltola was officially elected senator of Alaska on Tuesday night, she became one of the first Native American women to win election to the Senate, joining Peggy Flanagan, a Democrat of Minn
 - [@wsj](https://www.instagram.com/p/Df4dMe4l8Zh/) · 3,147 likes · 165 comments · +2033 min after first report · When Cameron Cushman and his wife walked into the school across the street from their house to vote in the Texas Republican primary runoff in May, a poll worker reminded him that he already had voted 
 
-### 15. Glen Powell Is a Has-Been Country Singer in Judd Apatow’s ‘Comeback King’ Trailer
+### 14. Glen Powell Is a Has-Been Country Singer in Judd Apatow’s ‘Comeback King’ Trailer
 
-**Score** 131 · **Category** trending · **First seen** 2026-11-18 16:21 UTC · **Last update** 2026-11-18 23:47 UTC
+**Score** 130 · **Category** trending · **First seen** 2026-11-18 16:21 UTC · **Last update** 2026-11-18 23:47 UTC
 
 **Status** Confirmed · independent reports: 3 of 4 feeds · official: none · independent newsrooms: 3
 
@@ -641,9 +605,9 @@ Lead: [Variety — ‘The Comeback King’ Trailer: Glen Powell Is a Washed-Up C
 - [@clipfeedz](https://www.instagram.com/reel/Df6DKYanJy3/) · 493 likes · 1 comments · +629 min after first report · The Comeback King, is set to bring an exciting new story to the big screen. With its theatrical release approaching, audiences will soon get the chance to experience the film and discover what makes i
 - [@bruhgram](https://www.instagram.com/reel/Df52D7xhzIj/) · 326 likes · 4 comments · +515 min after first report · One good song and suddenly I’m the headliner, the living room is a sold-out venue, and everyone around me is part of the crowd. The Comeback King brings that all-in energy with cowboy hats, a cheering
 
-### 16. Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming
+### 15. Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming
 
-**Score** 129 · **Category** trending · **First seen** 2026-11-17 14:22 UTC · **Last update** 2026-11-19 12:30 UTC
+**Score** 128 · **Category** trending · **First seen** 2026-11-17 14:22 UTC · **Last update** 2026-11-19 12:30 UTC
 
 **Status** Developing · independent reports: 1 of 2 feeds · official: none · independent newsrooms: 1
 
@@ -672,7 +636,7 @@ Lead: [GameSpot — Ocarina Of Time Is 2026’s Best-Selling Physical Game In Th
 - [@dailymail](https://www.instagram.com/p/Df4hklXCnzk/) · 13,913 likes · 223 comments · +1336 min after first report · 13 years of waiting, and GTA 6 is already making gaming history 🎮 Rockstar’s highly anticipated sequel has landed a score of 99/100 on Metacritic as the first reviews roll in, matching the record held
 - [@theatlantic](https://www.instagram.com/p/Df2Dk7KEU5X/) · 408 likes · 43 comments · 45 min before first report · Nintendo’s new “Zelda” is as good as you remember it—but is that enough? Ian Bogost asks.⁠ ⁠ Nintendo has released a remake of “The Legend of Zelda: The Ocarina of Time,” a 1998 title widely regarded 
 
-### 17. Waymo suspends freeway rides nationwide after California DMV order
+### 16. Waymo suspends freeway rides nationwide after California DMV order
 
 **Score** 126 · **State** CA · **First seen** 2026-11-17 19:38 UTC · **Last update** 2026-11-18 21:00 UTC
 
@@ -712,40 +676,9 @@ Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways 
 
 - [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,833 likes · 37 comments · +964 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
 
-### 18. ‘Squad’ member announces ‘Majority Priorities’ including reparations, abolishing ICE after blue wave
+### 17. When Can You Switch To Lucia in GTA 6? Fastest Method, Explained
 
-**Score** 122 · **Category** trending · **First seen** 2026-11-17 20:55 UTC · **Last update** 2026-11-19 09:38 UTC
-
-**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Representative Ayanna Pressley announced a legislative agenda called Majority Priorities. — support: 1
-- The Majority Priorities agenda includes reparations, Medicare for All, and abolishing ICE. — support: 1
-- Representative Ayanna Pressley challenged President Donald Trump to veto these bills. — support: 1
-
-> 1 independent report only; details may still change. 3 key claims stated by a single report: “Representative Ayanna Pressley announced a legislative agenda called M”; “The Majority Priorities agenda includes reparations, Medicare for All,”
-
-Rep. Ayanna Pressley dareed President Donald Trump to veto reparations, Medicare for All and abolishing ICE as Democrats' new House majority sets up messaging bills.
-
-Lead: [Fox News — ‘Squad’ member announces ‘Majority Priorities’ including reparations, abolishing ICE after blue wave](https://www.foxnews.com/media/squad-member-announces-majority-priorities-including-reparations-abolishing-ice-after-blue-wave)
-
-**Where it was published**
-
-- 2026-11-17 20:55 UTC · Fox News · [‘Squad’ member announces ‘Majority Priorities’ including reparations, abolishing ICE after blue wave](https://www.foxnews.com/media/squad-member-announces-majority-priorities-including-reparations-abolishing-ice-after-blue-wave)
-
-**Who posted it on Instagram** (8 pages, 60,067 likes, 9 posts)
-
-- [@godfreycomic](https://www.instagram.com/reel/Df1CcX7M-qw/) · 39,548 likes · 880 comments · 1005 min before first report · My guy @jolly_good_ginger was at the White House, on the front lines, protesting the armed forces and ICE! This man is always out there doing the work. He is a true ally who puts his money where his m
-- [@theneighborhoodtalk](https://www.instagram.com/p/Df5Bks4n6uh/) · 6,841 likes · 845 comments · +1223 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, House Democrats nominated Rep. Hakeem Jeffries (D-N.Y.) to become Speaker of the House when the party takes control of the chamber in January. __
-- [@nytimes](https://www.instagram.com/p/Df5GEkFE0Hp/) · 5,536 likes · 99 comments · +1280 min after first report · When Mary Peltola was officially elected senator of Alaska on Tuesday night, she became one of the first Native American women to win election to the Senate, joining Peggy Flanagan, a Democrat of Minn
-- [@hollywoodunlocked](https://www.instagram.com/p/Df48jNFqpCT/) · 3,223 likes · 895 comments · +1180 min after first report · HU Staff: Kecia Gayle @kecia.kae Hakeem Jeffries just took the biggest step yet toward becoming the first Black Speaker of the House in American history. On Wednesday, House Democrats nominated him be
-- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +115 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@nypost](https://www.instagram.com/p/Df4_Z4wgSke/) · 1,446 likes · 266 comments · +1220 min after first report · The New York Republican chair of the House Homeland Security Committee rebuked FBI Director Kash Patel for ducking today’s annual hearing on worldwide threats to the US. “I am disappointed that Direct
-
-### 19. When Can You Switch To Lucia in GTA 6? Fastest Method, Explained
-
-**Score** 122 · **Category** trending · **First seen** 2026-11-18 13:43 UTC · **Last update** 2026-11-19 07:10 UTC
+**Score** 125 · **Category** trending · **First seen** 2026-11-18 13:43 UTC · **Last update** 2026-11-19 13:44 UTC
 
 **Status** Developing · independent reports: 2 of 2 feeds · official: none · independent newsrooms: 0
 
@@ -774,9 +707,52 @@ Lead: [Insider Gaming — GTA 6 Jason and Lucia Relationship Guide—How To Buil
 - [@clips](https://www.instagram.com/p/Df4xmSHILpl/) · 5,892 likes · 43 comments · +77 min after first report · Grand Theft Auto VI (2026) — Developed and published by Rockstar Games, this monumental open-world action-adventure game returns players to the sun-drenched, neon-lit streets of Vice City and the surr
 - [@mensetstandards](https://www.instagram.com/reel/Df4y3Rco6nQ/) · 223 likes · 1 comments · +87 min after first report · Lucia giving Jason two choices makes GTA 6 feel painfully relatable 😭 A Grand Theft Auto VI edit imagines a hilarious relationship scenario involving Lucia and Jason, the game’s central couple. The on
 
-### 20. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
+### 18. Senate Democrats pressure Schumer to cede more control over agenda
 
-**Score** 122 · **Category** public-safety · **First seen** 2026-11-16 21:56 UTC · **Last update** 2026-11-18 21:58 UTC
+**Score** 124 · **First seen** 2026-11-16 15:16 UTC · **Last update** 2026-11-19 11:00 UTC
+
+**Status** Confirmed · independent reports: 8 of 16 feeds · official: none · independent newsrooms: 7
+
+**Duplicates collapsed**: 3 of 16 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Chuck Schumer and Chris Van Hollen are competing for the position of Senate Majority Leader. — support: 6
+- The Senate leadership vote is scheduled for December 1. — support: 1
+- Chris Van Hollen claims to have secured 15 votes for the leadership position. — support: 1
+- Chuck Schumer is viewed as having a lead in the Senate leadership race. — support: 2
+
+> 5 of the 13 independent reports in the cluster cover related updates, not this headline. 16 feeds carry 13 independent reports (the rest are duplicates). 2 key claims stated by a single report: “The Senate leadership vote is scheduled for December 1.”; “Chris Van Hollen claims to have secured 15 votes for the leadership po”
+
+Sen. Chris Van Hollen (D-Md.) says he has locked down 15 votes to become majority leader in his heated contest with Sen. Chuck Schumer (D-N.Y.), but he’s still viewed as a big underdog, and his supporters are lying low to avoid getting dragged into the messy fight. For Van Hollen’s candidacy to pick up…
+
+Lead: [KHOU (TX) — Democrats choose sides in Senate Majority Leader battle between Schumer and Van Hollen](https://www.khou.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390)
+
+**Where it was published**
+
+- 2026-11-16 15:16 UTC · KHOU (TX) · [Democrats choose sides in Senate Majority Leader battle between Schumer and Van Hollen](https://www.khou.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390)
+- 2026-11-16 15:16 UTC · WFAA Dallas (TX) · [Democrats choose sides in Senate Majority Leader battle between Schumer and Van Hollen](https://www.wfaa.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390)
+- 2026-11-16 15:16 UTC · KING5 Seattle (WA) · [Democrats choose sides in Senate Majority Leader battle between Schumer and Van Hollen](https://www.king5.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390)
+- 2026-11-16 15:16 UTC · 9News Denver (CO) · [Democrats choose sides in Senate Majority Leader battle between Schumer and Van Hollen](https://www.9news.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390)
+- 2026-11-17 10:30 UTC · Fox News · [Schumer boasts early advantage in Senate power struggle as Dem rival warns against 'coronation'](https://www.foxnews.com/politics/schumer-boasts-early-advantage-senate-power-struggle-dem-rival-warns-against-coronation)
+- 2026-11-17 11:00 UTC · The Hill · [Van Hollen’s Senate backers lay low as Schumer takes big lead](https://thehill.com/homenews/senate/6223801-democrats-clash-majority-leader-election/)
+- 2026-11-17 11:00 UTC · Guardian US · [Can Chris Van Hollen really beat Chuck Schumer? – Stateside with Kai and Carter](https://www.theguardian.com/us-news/video/2026/nov/17/can-chris-van-hollen-really-beat-chuck-schumer-stateside-with-kai-and-carter)
+- 2026-11-17 17:35 UTC · Newsweek · [Full List of Senators Backing Chris Van Hollen Over Chuck Schumer](https://www.newsweek.com/full-list-senators-back-chris-van-hollen-chuck-schumer-12728769)
+- 2026-11-17 17:59 UTC · The Hill · [Kelly: Democrats will discuss moving up date of Schumer-Van Hollen leadership vote](https://thehill.com/the-120/6225589-kelly-democratic-early-senate-leader-vote/)
+- 2026-11-17 18:03 UTC · Daily Mail US · [Knives out for Chuck Schumer as secret plot to oust him from power by his own colleagues becomes reality… and insiders say he could quit Congress](https://www.dailymail.com/news/us-politics/article-16299855/Knives-Chuck-Schumer-secret-plot-oust-power-colleagues-reality-insiders-say-quit-Congress.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 20:23 UTC · The Hill · [Schumer declares he has votes to beat Van Hollen and become majority leader](https://thehill.com/homenews/senate/6226192-schumer-vs-van-hollen-leadership-race/)
+- 2026-11-18 00:47 UTC · New York Post · [Chris Van Hollen’s bid to replace Chuck Schumer has taken a truly pathetic turn](https://nypost.com/2026/11/17/opinion/chris-van-hollens-bid-to-replace-chuck-schumer-has-taken-a-truly-pathetic-turn/)
+
+**Who posted it on Instagram** (4 pages, 15,885 likes, 5 posts)
+
+- [@theneighborhoodtalk](https://www.instagram.com/p/Df5Bks4n6uh/) · 6,841 likes · 845 comments · +3002 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, House Democrats nominated Rep. Hakeem Jeffries (D-N.Y.) to become Speaker of the House when the party takes control of the chamber in January. __
+- [@nytimes](https://www.instagram.com/p/Df5GEkFE0Hp/) · 5,536 likes · 99 comments · +3059 min after first report · When Mary Peltola was officially elected senator of Alaska on Tuesday night, she became one of the first Native American women to win election to the Senate, joining Peggy Flanagan, a Democrat of Minn
+- [@wsj](https://www.instagram.com/p/Df4dMe4l8Zh/) · 3,147 likes · 165 comments · +2684 min after first report · When Cameron Cushman and his wife walked into the school across the street from their house to vote in the Texas Republican primary runoff in May, a poll worker reminded him that he already had voted 
+- [@grantonsoil](https://www.instagram.com/p/Df2cvKAGmHn/) · 304 likes · 13 comments · +1562 min after first report · IT’S OFFICIAL: Colorado passed a law that will make it legal to sell homemade tamales. Until now, selling tamales made in your own kitchen meant renting a licensed commercial kitchen, even though home
+
+### 19. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
+
+**Score** 121 · **Category** public-safety · **First seen** 2026-11-16 21:56 UTC · **Last update** 2026-11-18 21:58 UTC
 
 **Status** Confirmed · independent reports: 6 of 27 feeds · official: none · independent newsrooms: 4
 
@@ -817,49 +793,46 @@ Lead: [UPI Top — Transportation secretary: FAA investigating contractor router
 - [@thedailyshow](https://www.instagram.com/reel/Df1WNW5A-6N/) · 5,031 likes · 74 comments · +906 min after first report · @jonstewart on Sean Duffy blaming a router: "I can't even order a Crunchwrap Supreme without 2-factor authentication, but somehow, there's a 'Turn Off America' switch somewhere in f**kin Arkansas?"
 - [@nypost](https://www.instagram.com/p/Df5d5fxiilf/) · 1,164 likes · 394 comments · +2959 min after first report · Homeland Security Secretary Markwayne Mullin delivered a furious defense Wednesday of his use of a government plane to attend Saturday’s LSU-Texas college football game while thousands of Americans st
 
-### 21. Senate Democrats pressure Schumer to cede more control over agenda
+### 20. 2026 CMA Awards: Full list of winners and nominees from Country Music's Biggest Night | Live updates
 
-**Score** 121 · **First seen** 2026-11-16 15:16 UTC · **Last update** 2026-11-19 11:00 UTC
+**Score** 120 · **Category** trending · **First seen** 2026-11-18 17:25 UTC · **Last update** 2026-11-19 13:54 UTC
 
-**Status** Confirmed · independent reports: 8 of 16 feeds · official: none · independent newsrooms: 7
+**Status** Confirmed · independent reports: 7 of 15 feeds · official: none · independent newsrooms: 3
 
-**Duplicates collapsed**: 3 of 16 feeds repeat the same report.
+**Duplicates collapsed**: 8 of 15 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Senate Democrats are holding a leadership race between Chuck Schumer and Chris Van Hollen. — support: 6
-- The secret ballot vote for Senate Majority Leader is scheduled for December 1. — support: 1
-- Chris Van Hollen claims to have secured 15 votes for the leadership position. — support: 1
-- Chuck Schumer is viewed as having a lead in the Senate leadership contest. — support: 2
+- The 2026 CMA Awards are taking place. — support: 6
+- The event is being held at the Bridgestone Arena in Nashville. — support: 1
+- Ella Langley, Miranda Lambert and Kacey Musgraves are among the nominees for the 2026 CMA Awards. — support: 5
 
-> 5 of the 13 independent reports in the cluster cover related updates, not this headline. 16 feeds carry 13 independent reports (the rest are duplicates). 2 key claims stated by a single report: “The secret ballot vote for Senate Majority Leader is scheduled for Dec”; “Chris Van Hollen claims to have secured 15 votes for the leadership po”
+> 15 feeds carry 7 independent reports (the rest are duplicates). 1 key claim stated by a single report: “The event is being held at the Bridgestone Arena in Nashville.”
 
-Sen. Chris Van Hollen (D-Md.) says he has locked down 15 votes to become majority leader in his heated contest with Sen. Chuck Schumer (D-N.Y.), but he’s still viewed as a big underdog, and his supporters are lying low to avoid getting dragged into the messy fight. For Van Hollen’s candidacy to pick up…
+The stars over Nashville aligned as country music’s biggest names showed up and showed out for the 2026 CMA Awards. Celebrities stepped onto the red carpet at the Bridgestone Arena in Tennessee on Wednesday, November 18, serving up a mix of high-glamour gowns and boots, statement-making suits, dazzling rhinestones and of course, plenty of Southern […]
 
-Lead: [KHOU (TX) — Democrats choose sides in Senate Majority Leader battle between Schumer and Van Hollen](https://www.khou.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390)
+Lead: [TMZ — CMA Awards 2026 -- See The Biggest Moments Through The Years](https://www.tmz.com/2026/11/18/cma-awards-pictures/)
 
 **Where it was published**
 
-- 2026-11-16 15:16 UTC · KHOU (TX) · [Democrats choose sides in Senate Majority Leader battle between Schumer and Van Hollen](https://www.khou.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390)
-- 2026-11-16 15:16 UTC · WFAA Dallas (TX) · [Democrats choose sides in Senate Majority Leader battle between Schumer and Van Hollen](https://www.wfaa.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390)
-- 2026-11-16 15:16 UTC · KING5 Seattle (WA) · [Democrats choose sides in Senate Majority Leader battle between Schumer and Van Hollen](https://www.king5.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390)
-- 2026-11-16 15:16 UTC · 9News Denver (CO) · [Democrats choose sides in Senate Majority Leader battle between Schumer and Van Hollen](https://www.9news.com/article/news/nation-world/democrats-schumer-van-hollen-senate-senators-chuck-chris/507-c4b27746-6292-4cfa-9286-b855bf779390)
-- 2026-11-17 10:30 UTC · Fox News · [Schumer boasts early advantage in Senate power struggle as Dem rival warns against 'coronation'](https://www.foxnews.com/politics/schumer-boasts-early-advantage-senate-power-struggle-dem-rival-warns-against-coronation)
-- 2026-11-17 11:00 UTC · The Hill · [Van Hollen’s Senate backers lay low as Schumer takes big lead](https://thehill.com/homenews/senate/6223801-democrats-clash-majority-leader-election/)
-- 2026-11-17 11:00 UTC · Guardian US · [Can Chris Van Hollen really beat Chuck Schumer? – Stateside with Kai and Carter](https://www.theguardian.com/us-news/video/2026/nov/17/can-chris-van-hollen-really-beat-chuck-schumer-stateside-with-kai-and-carter)
-- 2026-11-17 17:35 UTC · Newsweek · [Full List of Senators Backing Chris Van Hollen Over Chuck Schumer](https://www.newsweek.com/full-list-senators-back-chris-van-hollen-chuck-schumer-12728769)
-- 2026-11-17 17:59 UTC · The Hill · [Kelly: Democrats will discuss moving up date of Schumer-Van Hollen leadership vote](https://thehill.com/the-120/6225589-kelly-democratic-early-senate-leader-vote/)
-- 2026-11-17 18:03 UTC · Daily Mail US · [Knives out for Chuck Schumer as secret plot to oust him from power by his own colleagues becomes reality… and insiders say he could quit Congress](https://www.dailymail.com/news/us-politics/article-16299855/Knives-Chuck-Schumer-secret-plot-oust-power-colleagues-reality-insiders-say-quit-Congress.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-17 20:23 UTC · The Hill · [Schumer declares he has votes to beat Van Hollen and become majority leader](https://thehill.com/homenews/senate/6226192-schumer-vs-van-hollen-leadership-race/)
-- 2026-11-18 00:47 UTC · New York Post · [Chris Van Hollen’s bid to replace Chuck Schumer has taken a truly pathetic turn](https://nypost.com/2026/11/17/opinion/chris-van-hollens-bid-to-replace-chuck-schumer-has-taken-a-truly-pathetic-turn/)
+- 2026-11-18 17:25 UTC · TMZ · [CMA Awards 2026 -- See The Biggest Moments Through The Years](https://www.tmz.com/2026/11/18/cma-awards-pictures/)
+- 2026-11-18 18:59 UTC · ABC7 LA (CA) · [2026 CMA Awards: Full list of winners and nominees from Country Music's Biggest Night | Live updates](https://abc7.com/story/2026-cma-awards-full-list-winners-nominees-country-musics-biggest-night-live-updates/20049025/)
+- 2026-11-18 18:59 UTC · ABC13 Houston (TX) · [2026 CMA Awards: Full list of winners and nominees from Country Music's Biggest Night | Live updates](https://abc13.com/story/2026-cma-awards-full-list-winners-nominees-country-musics-biggest-night-live-updates/20049025/)
+- 2026-11-18 18:59 UTC · ABC7 NY (NY) · [2026 CMA Awards: Full list of winners and nominees from Country Music's Biggest Night | Live updates](https://abc7ny.com/story/2026-cma-awards-full-list-winners-nominees-country-musics-biggest-night-live-updates/20049025/)
+- 2026-11-18 18:59 UTC · ABC7 Chicago (IL) · [2026 CMA Awards: Full list of winners and nominees from Country Music's Biggest Night | Live updates](https://abc7chicago.com/story/2026-cma-awards-full-list-winners-nominees-country-musics-biggest-night-live-updates/20049025/)
+- 2026-11-18 18:59 UTC · 6abc Philly (PA) · [2026 CMA Awards: Full list of winners and nominees from Country Music's Biggest Night | Live updates](https://6abc.com/story/2026-cma-awards-full-list-winners-nominees-country-musics-biggest-night-live-updates/20049025/)
+- 2026-11-18 22:05 UTC · Hollywood Reporter · [Where to Watch the 2026 CMA Awards, Featuring Taylor Swift’s Return to the Stage](https://www.hollywoodreporter.com/tv/tv-news/watch-cma-awards-2026-free-stream-taylor-swift-performance-1236758756/)
+- 2026-11-18 22:23 UTC · Us Weekly · [2026 CMA Awards Arrivals: Stars Deliver Country Couture on the Red Carpet](https://www.usmagazine.com/stylish/pictures/cmas-2026-red-carpet-arrivals-photos-of-stars-outfits/)
+- 2026-11-18 22:47 UTC · ABC7 NY (NY) · [2026 CMA Awards: The best red carpet fashion from Country Music's Biggest Night](https://abc7ny.com/story/2026-cma-awards-best-red-carpet-fashion-country-musics-biggest-night/20048935/)
+- 2026-11-18 22:47 UTC · ABC7 Chicago (IL) · [2026 CMA Awards: The best red carpet fashion from Country Music's Biggest Night](https://abc7chicago.com/story/2026-cma-awards-best-red-carpet-fashion-country-musics-biggest-night/20048935/)
+- 2026-11-18 22:47 UTC · 6abc Philly (PA) · [2026 CMA Awards: The best red carpet fashion from Country Music's Biggest Night](https://6abc.com/story/2026-cma-awards-best-red-carpet-fashion-country-musics-biggest-night/20048935/)
+- 2026-11-18 22:50 UTC · ABC7 LA (CA) · [2026 CMA Awards: The best red carpet fashion from Country Music's Biggest Night](https://abc7.com/story/2026-cma-awards-best-red-carpet-fashion-country-musics-biggest-night/20048935/)
 
-**Who posted it on Instagram** (3 pages, 15,524 likes, 3 posts)
+**Who posted it on Instagram** (1 pages, 0 likes, 1 posts)
 
-- [@theneighborhoodtalk](https://www.instagram.com/p/Df5Bks4n6uh/) · 6,841 likes · 845 comments · +3002 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, House Democrats nominated Rep. Hakeem Jeffries (D-N.Y.) to become Speaker of the House when the party takes control of the chamber in January. __
-- [@nytimes](https://www.instagram.com/p/Df5GEkFE0Hp/) · 5,536 likes · 99 comments · +3059 min after first report · When Mary Peltola was officially elected senator of Alaska on Tuesday night, she became one of the first Native American women to win election to the Senate, joining Peggy Flanagan, a Democrat of Minn
-- [@wsj](https://www.instagram.com/p/Df4dMe4l8Zh/) · 3,147 likes · 165 comments · +2684 min after first report · When Cameron Cushman and his wife walked into the school across the street from their house to vote in the Texas Republican primary runoff in May, a poll worker reminded him that he already had voted 
+- [@howsongsweremade](https://www.instagram.com/p/Df5G8gXmKq6/) · 0 likes · 102 comments · +39 min after first report · Beyoncé is now the first artist in Grammy history with 100 nominations. Her 100th came on 16 November 2026 for “Morning Dew (Donk),” a previously unreleased bonus track from the 20th anniversary editi
 
-### 22. David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions
+### 21. David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions
 
 **Score** 120 · **Category** trending · **First seen** 2026-11-17 02:57 UTC · **Last update** 2026-11-19 11:00 UTC
 
@@ -894,6 +867,37 @@ Lead: [Page Six — ‘The Further Mis-Adventures of Cliff Booth’ LA premiere 
 - [@dailymail](https://www.instagram.com/p/Df4nbnrouMm/) · 11,645 likes · 100 comments · +2072 min after first report · Brad Pitt is throwing his name into the running to become the next Bond villain 👀 The actor told Complex he’d love to take on the role opposite Robert Pattinson’s 007, even calling on director Denis V
 - [@clips](https://www.instagram.com/p/Df54ygqoY3V/) · 6,080 likes · 41 comments · +2783 min after first report · Burn After Reading (2008) — Starring George Clooney, Brad Pitt, Frances McDormand, and John Malkovich, this eccentric dark comedy follows two gym employees who accidentally discover a missing disc con
 - [@imax](https://www.instagram.com/p/Df2zAfJGiDV/) · 1,723 likes · 11 comments · +1054 min after first report · Word on the street? Cliff Booth is back and turning heads. See THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH first only in IMAX November 25. Get tickets now at the link in bio.
+
+### 22. Dolly Parton’s Niece Honors Late Singer at CMAs with Custom Dress
+
+**Score** 118 · **Category** trending · **First seen** 2026-11-19 01:25 UTC · **Last update** 2026-11-19 13:52 UTC
+
+**Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Danielle Parton attended the CMA Awards in Nashville on Wednesday — support: 1
+- Danielle Parton is the niece of Dolly Parton — support: 1
+- Danielle Parton wore a custom dress originally created for Dolly Parton to the event — support: 1
+
+> One independent report so far; not independently confirmed. 3 key claims stated by a single report: “Danielle Parton attended the CMA Awards in Nashville on Wednesday”; “Danielle Parton is the niece of Dolly Parton”
+
+Dolly Parton’s niece brought a personal piece of the country legend to the CMA Awards ... stepping onto the red carpet in an outfit originally created for her late aunt. Danielle Parton attended Wednesday’s ceremony in Nashville…
+
+Lead: [TMZ — Dolly Parton’s Niece Honors Late Singer at CMAs with Custom Dress](https://www.tmz.com/2026/11/18/dolly-parton-niece-wears-her-dress-to-country-music-awards/)
+
+**Where it was published**
+
+- 2026-11-19 01:25 UTC · TMZ · [Dolly Parton’s Niece Honors Late Singer at CMAs with Custom Dress](https://www.tmz.com/2026/11/18/dolly-parton-niece-wears-her-dress-to-country-music-awards/)
+
+**Who posted it on Instagram** (6 pages, 422,235 likes, 12 posts)
+
+- [@adley](https://www.instagram.com/reel/Df3gi5rtByC/) · 99,585 likes · 443 comments · 1335 min before first report · I loved it when Dolly Parton said this… 🫶🏻
+- [@theshaderoom](https://www.instagram.com/p/DfzgX0iBVAl/) · 97,962 likes · 5,538 comments · 3573 min before first report · Congratulations to the 2027 Grammy Nominees for Best Rap Album! 💿 ‘DILLAGENCE II’ - @bustarhymes (& J DILLA) 💿 ‘AM I THE DRAMA?’ - @iamcardib 💿 ‘GOD GOTTA AFRO & GOLD HOOPS’ - @rapsody 💿 ‘OCTANE’ - @d
+- [@hollywoodunlocked](https://www.instagram.com/p/DfzeaAjqrxH/) · 12,936 likes · 490 comments · 3591 min before first report · HU Staff: Kecia Gayle @kecia.kae Beyoncé didn’t just get a Grammy nomination on Monday morning. She became the first artist ever to hit 100 of them. That’s a number nobody in the Recording Academy’s h
+- [@theneighborhoodtalk](https://www.instagram.com/p/Df0K3wmH3Ce/) · 9,352 likes · 1,361 comments · 3203 min before first report · TNHT Staff: @YesThatsDee _______________ Neighbors, the nominations for the 2027 Grammy Awards have officially been announced, and the competition is looking GOOD! _______________ Some of the biggest 
+- [@npr](https://www.instagram.com/reel/Df0YTLRFU23/) · 4,421 likes · 99 comments · 3083 min before first report · The nominations for the 69th annual Grammy Awards were announced and women artists across genres dominate the major categories. NPR Music’s Ann Powers explains this year’s wave of women.⁠ ⁠ Check out 
+- [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · 2061 min before first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
 
 ### 23. Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards
 
@@ -959,7 +963,7 @@ Lead: [Hollywood Reporter — Carrie Coon Calls for Women to Start Their Own Stu
 
 ### 25. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
 
-**Score** 117 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-19 12:40 UTC
+**Score** 116 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-19 12:40 UTC
 
 **Status** Confirmed · independent reports: 2 of 6 feeds · official: none · independent newsrooms: 2
 
