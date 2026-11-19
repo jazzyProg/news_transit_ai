@@ -1,34 +1,34 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 21:51 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 22:53 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
 | 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 228 | Confirmed | 22 | 20 | [Yahoo Sports](https://sports.yahoo.com/articles/red-sox-players-could-play-123438740.html) |
-| 2 | Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth | 202 | Confirmed | 22 | 3 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
-| 3 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 178 | Confirmed | 9 | 16 | [Yahoo Sports](https://sports.yahoo.com/articles/understand-hype-why-giannis-antetokounmpo-124500526.html) |
-| 4 | Customers report difficulty accessing online services at major US banks | 174 | Confirmed | 21 | 5 | [Guardian US](https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo) |
-| 5 | Top Nvidia lawyer agrees to testify before Congress | 157 | Confirmed | 8 | 8 | [CBS News](https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/) |
-| 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 156 | Confirmed | 4 | 12 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
+| 2 | What we know about Trump's meeting with China's Xi, Russia's Putin | 207 | Confirmed | 26 | 6 | [Axios](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried) |
+| 3 | Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth | 202 | Confirmed | 22 | 3 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
+| 4 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 178 | Confirmed | 9 | 16 | [Yahoo Sports](https://sports.yahoo.com/articles/understand-hype-why-giannis-antetokounmpo-124500526.html) |
+| 5 | Read everything that Nvidia’s board chair had to say about Jensen Huang | 158 | Confirmed | 9 | 7 | [The Verge](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang) |
+| 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 155 | Confirmed | 4 | 12 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
 | 7 | Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big | 153 | Confirmed | 18 | 2 | [Just Jared](https://www.justjared.com/2026/11/18/choosin-texas-superstar-ella-langley-makes-glamorous-arrival-at-cmas-2026/) |
 | 8 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 141 | Developing | 1 | 15 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
-| 9 | Illegal alien accused of attempted murder at large after Rikers release despite ICE detainer: DHS | 140 | Developing | 2 | 12 | [Fox News](https://www.foxnews.com/us/illegal-alien-accused-attempted-murder-large-after-rikers-release-despite-ice-detainer-dhs) |
+| 9 | Illegal alien accused of attempted murder at large after Rikers release despite ICE detainer: DHS | 139 | Developing | 2 | 12 | [Fox News](https://www.foxnews.com/us/illegal-alien-accused-attempted-murder-large-after-rikers-release-despite-ice-detainer-dhs) |
 | 10 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 136 | Confirmed | 20 | 2 | [CBS News](https://www.cbsnews.com/video/democrat-mary-peltola-leads-alaska-senate-race-still-remains-uncalled/) |
-| 11 | Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change | 134 | Developing | 1 | 12 | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/) |
-| 12 | Trump, Xi and Putin Meet: What Was the Outcome of the Summit? | 131 | Confirmed | 3 | 7 | [NBC News](https://www.today.com/video/trump-xi-and-putin-meet-what-was-the-outcome-of-the-summit-273799749776) |
-| 13 | US officially loses measles elimination status, PAHO says | 129 | Confirmed | 15 | 3 | [Medical Xpress](https://medicalxpress.com/news/2026-11-health-prolonged.html) |
+| 11 | Donald Trump issues posthumous pardon to MLB ‘superstar and legend’ Pete Rose | 134 | Confirmed | 16 | 1 | [New York Post](https://nypost.com/2026/11/19/us-news/trump-grants-posthumous-pardon-to-baseball-hit-king-pete-rose/) |
+| 12 | Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change | 133 | Developing | 1 | 12 | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/) |
+| 13 | US officially loses measles elimination status, PAHO says | 128 | Confirmed | 15 | 3 | [Medical Xpress](https://medicalxpress.com/news/2026-11-health-prolonged.html) |
 | 14 | Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming | 128 | Developing | 2 | 5 | [GameSpot](https://www.gamespot.com/articles/ocarina-of-time-is-2026s-best-selling-physical-game-in-the-us-but-gta-6-is-coming/) |
-| 15 | Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable | 127 | Disputed | 1 | 6 | [Kotaku](https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438) |
-| 16 | Glen Powell Is a Has-Been Country Singer in Judd Apatow’s ‘Comeback King’ Trailer | 126 | Confirmed | 3 | 12 | [Deadline](https://deadline.com/2026/11/the-comeback-king-trailer-glen-powell-judd-apatow-1237228094/) |
-| 17 | Reagan’s peace through strength won the Cold War. Can America do it again? | 121 | Developing | 1 | 8 | [Fox News](https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again) |
-| 18 | NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash | 121 | Confirmed | 11 | 4 | [New York Post](https://nypost.com/2026/11/17/us-news/mamdani-floats-electric-vehicles-to-replace-central-park-horse-carriages/) |
-| 19 | ‘The Further Mis-Adventures of Cliff Booth’ Review: Brad Pitt, David Fincher and Quentin Tarantino Mix a Cool Cocktail in Free-Flowing Spinoff | 120 | Confirmed | 6 | 7 | [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/david-fincher-brad-pitt-cliff-booth-first-reactions-1236755981/) |
+| 15 | Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable | 126 | Disputed | 1 | 6 | [Kotaku](https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438) |
+| 16 | Glen Powell Is a Has-Been Country Singer in Judd Apatow’s ‘Comeback King’ Trailer | 125 | Confirmed | 3 | 12 | [Deadline](https://deadline.com/2026/11/the-comeback-king-trailer-glen-powell-judd-apatow-1237228094/) |
+| 17 | NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash | 122 | Confirmed | 11 | 4 | [New York Post](https://nypost.com/2026/11/17/us-news/mamdani-floats-electric-vehicles-to-replace-central-park-horse-carriages/) |
+| 18 | Reagan’s peace through strength won the Cold War. Can America do it again? | 121 | Developing | 1 | 8 | [Fox News](https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again) |
+| 19 | ‘The Further Mis-Adventures of Cliff Booth’ Review: Brad Pitt, David Fincher and Quentin Tarantino Mix a Cool Cocktail in Free-Flowing Spinoff | 119 | Confirmed | 6 | 7 | [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/david-fincher-brad-pitt-cliff-booth-first-reactions-1236755981/) |
 | 20 | Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip | 119 | Confirmed | 15 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/dhs-secretary-markwayne-mullin-suggests-ai-could-be-behind-recent-outages-at-airlines-banks/) |
-| 21 | Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards | 118 | Unverified | 1 | 9 | [Just Jared](https://www.justjared.com/2026/11/17/jennifer-lawrence-rocks-the-wet-hair-trend-for-wwds-beauty-inc-awards/) |
+| 21 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 117 | Unverified | 1 | 9 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
 | 22 | Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’ | 116 | Confirmed | 4 | 2 | [Us Weekly](https://www.usmagazine.com/entertainment/news/how-the-cma-awards-2026-paid-tribute-to-dolly-parton/) |
 | 23 | The GTA 6 Map Is Truly, Truly Massive (Of Course) | 114 | Developing | 1 | 3 | [GameSpot](https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/) |
-| 24 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 114 | Confirmed | 6 | 6 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
-| 25 | Zendaya Felt ‘Incredibly Nervous’ While Shooting ‘The Odyssey’ but Credits Tom Holland for Supporting Her: He Was ‘in the Corner Like, “You Got This”’ | 112 | Developing | 1 | 4 | [Variety](https://variety.com/2026/film/news/zendaya-tom-holland-the-odyssey-1236949899/) |
+| 24 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 113 | Confirmed | 6 | 6 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
+| 25 | Zendaya Felt ‘Incredibly Nervous’ While Shooting ‘The Odyssey’ but Credits Tom Holland for Supporting Her: He Was ‘in the Corner Like, “You Got This”’ | 111 | Developing | 1 | 4 | [Variety](https://variety.com/2026/film/news/zendaya-tom-holland-the-odyssey-1236949899/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -45,9 +45,10 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Robert Pattinson has been cast as the next James Bond. — support: 6
-- Jeff Bezos was heavily involved in the casting process for the new James Bond. — support: 5
-- Denis Villeneuve is the director of the next James Bond film. — support: 2
+- Robert Pattinson has been cast as the next James Bond — support: 6
+- Jeff Bezos was heavily involved in the casting process for the new James Bond — support: 5
+- Denis Villeneuve is the director of the next James Bond film — support: 2
+- Jeff Bezos revealed the casting details at a Semafor event — support: 3
 
 > 23 feeds carry 10 independent reports (the rest are duplicates).
 
@@ -79,13 +80,58 @@ Lead: [Yahoo Sports — Which Red Sox players could play James Bond instead of R
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,953 likes · 106 comments · +205 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 - [@cinephile.club](https://www.instagram.com/p/Df43CIsCDCZ/) · 8,748 likes · 1,012 comments · +1631 min after first report · WHO COULD BE THE NEXT BOND GIRL? 👀 With Robert Pattinson officially announced as the next James Bond, all eyes are now on one big question: who will star alongside him as the next Bond girl? Names lik
 
-### 2. Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth
+### 2. What we know about Trump's meeting with China's Xi, Russia's Putin
 
-**Score** 202 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 19:40 UTC
+**Score** 207 · **First seen** 2026-11-17 10:10 UTC · **Last update** 2026-11-19 20:59 UTC
 
-**Status** Confirmed · independent reports: 9 of 26 feeds · official: none · independent newsrooms: 7
+**Status** Confirmed · independent reports: 58 of 88 feeds · official: none · independent newsrooms: 48
 
-**Duplicates collapsed**: 9 of 26 feeds repeat the same report.
+**Wire copies collapsed**: CBS News ×2; Associated Press ×2.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- President Trump is traveling to Asia for a trip that includes a meeting with Chinese President Xi Jinping and Russian President Vladimir Putin. — support: 6
+- The planned meeting between the leaders of the United States, China, and Russia is described as a trilateral summit. — support: 4
+- The summit is expected to involve discussions regarding nuclear issues. — support: 1
+- The summit is scheduled to take place on Wednesday. — support: 1
+
+> 16 of the 74 independent reports in the cluster cover related updates, not this headline. 88 feeds carry 74 independent reports (wire copies: Associated Press, CBS News). 2 key claims stated by a single report: “The summit is expected to involve discussions regarding nuclear issues”; “The summit is scheduled to take place on Wednesday.”
+
+President Trump's trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin has the makings of an unpredictable spectacle — and that's exactly what has U.S. allies anxious. Why it matters: Trump's stated goal for the first-ever summit between the nations' three leaders is to start a discussion on nuclear disarmament. But the fear is that he could go off script and take positions on…
+
+Lead: [Axios — U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
+
+**Where it was published**
+
+- 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
+- 2026-11-17 10:43 UTC · NPR · [Trump arrives in Philippines to kick off Asia trip](https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines)
+- 2026-11-17 11:00 UTC · The Hill · [What Trump, Putin and Xi want from superpower summit](https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/)
+- 2026-11-17 12:06 UTC · NBC News · [Trump’s unprecedented trilateral meeting in Asia and what’s with all the tech glitches?: Morning Rundown](https://www.nbcnews.com/news/us-news/trump-xi-putin-chase-united-outages-morning-rundown-rcna609759)
+- 2026-11-17 12:54 UTC · BBC US & Canada · [Trump lands in Asia ahead of talks with Russian and Chinese presidents](https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss)
+- 2026-11-17 16:10 UTC · The Hill · [O’Reilly: ‘Trump may be wrong in the way he handles Xi and Putin’](https://thehill.com/policy/international/6225307-oreilly-trump-xi-putin-strategy/)
+- 2026-11-17 16:56 UTC · CBS News · [Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously"](https://www.cbsnews.com/video/trump-says-us-taking-iranian-dirty-bomb-threat-very-seriously/)
+- 2026-11-17 18:28 UTC · Daily Mail US · [Watch Trump's 'unaffected' response when pressed on American doomsday fears... as he 'flips in an instant' at mention of his risky meeting with Xi and Putin](https://www.dailymail.com/news/article-16299789/watch-trump-doomsday-response-risky-xi-putin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 23:30 UTC · CBS News · [How Trump's summit with Putin and Xi might be like the Yalta Conference](https://www.cbsnews.com/video/previewing-trumps-summit-with-putin-xi/)
+- 2026-11-18 07:20 UTC · Daily Mail US · [Trump faces Xi and Putin in first-ever showdown... as doomsday blackout and Nvidia spy affair rock US: 'This is the new Cold War'](https://www.dailymail.com/news/article-16300033/trump-xi-putin-summit-shenzhen-nvidia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-18 09:17 UTC · New York Post · [Trump and Xi hug during surprise tarmac greeting in China](https://nypost.com/2026/11/18/world-news/trump-and-xi-hug-during-surprise-tarmac-greeting-in-china/)
+- 2026-11-18 10:29 UTC · NBC News · [Xi greets Trump as he arrives in China, a rare move ahead of Putin talks](https://www.nbcnews.com/world/asia/xi-jinping-greets-trump-arrives-china-tarmac-putin-talks-shenzhen-apec-rcna609962)
+
+**Who posted it on Instagram** (6 pages, 21,903 likes, 9 posts)
+
+- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,992 likes · 431 comments · +305 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
+- [@theories](https://www.instagram.com/p/Df44OnaBISl/) · 2,808 likes · 100 comments · +1787 min after first report · Vladimir Putin turned a televised interview into a tense exchange after repeatedly clashing with an NBC journalist over interruptions and the direction of the conversation. During a 2021 interview in
+- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +760 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
+- [@dailymail](https://www.instagram.com/p/Df5fVrCjW1G/) · 178 likes · 3 comments · +2129 min after first report · President Donald Trump is taking his America First agenda overseas as he kicks off a three-day trip to Asia, beginning with a stop in the Philippines before heading to China for high-stakes talks with
+- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · +536 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
+- [@entrepreneurshipquote](https://www.instagram.com/p/Df5DLl_jFGq/) · 0 likes · 38 comments · +1882 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
+
+### 3. Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth
+
+**Score** 202 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 21:49 UTC
+
+**Status** Confirmed · independent reports: 9 of 27 feeds · official: none · independent newsrooms: 7
+
+**Duplicates collapsed**: 9 of 27 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
@@ -93,7 +139,7 @@ Lead: [Yahoo Sports — Which Red Sox players could play James Bond instead of R
 - Voyager 1 will reach a distance of one light-day from Earth — support: 6
 - Voyager 1 will reach the one light-day milestone on November 18 — support: 1
 
-> 8 of the 17 independent reports in the cluster cover related updates, not this headline. 26 feeds carry 17 independent reports (the rest are duplicates). 1 key claim stated by a single report: “Voyager 1 will reach the one light-day milestone on November 18”
+> 9 of the 18 independent reports in the cluster cover related updates, not this headline. 27 feeds carry 18 independent reports (the rest are duplicates). 1 key claim stated by a single report: “Voyager 1 will reach the one light-day milestone on November 18”
 
 In 1977, NASA launched Voyager 1, a robotic space probe built to explore the farthest reaches of our solar system.
 
@@ -120,9 +166,9 @@ Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exac
 - [@unilad](https://www.instagram.com/p/Df4Im9iF3hf/) · 8,643 likes · 236 comments · +1247 min after first report · Nearly 50 years of travelling, and Voyager 1 is reaching a distance light covers in just one day 🤯🚀⁠ ⁠ Today, on November 18, the spacecraft reaches one light-day from Earth - roughly 16.1 billion mil
 - [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · 1029 min before first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
 
-### 3. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
+### 4. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
 
-**Score** 178 · **Category** trending · **First seen** 2026-11-17 12:45 UTC · **Last update** 2026-11-19 20:52 UTC
+**Score** 178 · **Category** trending · **First seen** 2026-11-17 12:45 UTC · **Last update** 2026-11-19 22:02 UTC
 
 **Status** Confirmed · independent reports: 17 of 25 feeds · official: none · independent newsrooms: 17
 
@@ -165,97 +211,54 @@ Lead: [Yahoo Sports — ‘Understand the hype’ – Why Giannis Antetokounmpo 
 - [@nugget](https://www.instagram.com/p/Df0uh4nIDHA/) · 23,444 likes · 152 comments · 687 min before first report · When GTA V launched in 2013, the most popular apps included Candy Crush, Temple Run, Vine, and Snapchat. Fast forward to the GTA VI era, and the digital landscape looks completely different. Artificia
 - [@gamemes](https://www.instagram.com/p/Df538t5Fqir/) · 17,384 likes · 534 comments · +2188 min after first report · 13 years of waiting, and GTA 6 just tied the highest Metacritic score ever recorded 🎮🏆 As critic reviews rolled in on November 18, Grand Theft Auto VI landed at a 99 on Metacritic, matching the record
 
-### 4. Customers report difficulty accessing online services at major US banks
+### 5. Read everything that Nvidia’s board chair had to say about Jensen Huang
 
-**Score** 174 · **First seen** 2026-11-16 22:01 UTC · **Last update** 2026-11-19 19:07 UTC
+**Score** 158 · **First seen** 2026-11-17 21:40 UTC · **Last update** 2026-11-19 21:59 UTC
 
-**Status** Confirmed · independent reports: 5 of 27 feeds · official: none · independent newsrooms: 4
+**Status** Confirmed · independent reports: 8 of 13 feeds · official: none · independent newsrooms: 5
 
-**Duplicates collapsed**: 5 of 27 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Customers reported difficulty accessing online accounts at multiple major US banks on Monday. — support: 6
-- The banking service disruptions were caused by a technical issue or software bug at JPMorgan Chase. — support: 6
-- The money transfer service Zelle was affected by the technical issue. — support: 2
-- JPMorgan Chase stated the issue was technical and not cyber-related. — support: 1
-
-> 17 of the 22 independent reports in the cluster cover related updates, not this headline. 27 feeds carry 22 independent reports (the rest are duplicates). Aggregator feeds in the chain (Google News: AP, Google News: Top US, Google Trends US); open the original. 1 key claim stated by a single report: “JPMorgan Chase stated the issue was technical and not cyber-related.”
-
-Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system. Chase said the technical problems were not a systemic…
-
-Lead: [Guardian US — Customers report difficulty accessing online services at major US banks](https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo)
-
-**Where it was published**
-
-- 2026-11-16 22:01 UTC · Guardian US · [Customers report difficulty accessing online services at major US banks](https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo)
-- 2026-11-16 22:08 UTC · ABC7 LA (CA) · [A technical issue at JPMorgan Chase triggers online banking delays across major US banks](https://abc7.com/post/customers-nations-largest-banks-are-reporting-difficulty-accessing-accounts-online/20045188/)
-- 2026-11-16 23:28 UTC · WGN (IL) · [What to know about the online banking delays affecting major US banks](https://wgntv.com/business/ap-business/ap-what-to-know-about-the-online-banking-delays-affecting-major-us-banks/)
-- 2026-11-16 23:35 UTC · UPI Top · [Reported outages at Chase, other U.S. banks decline after earlier issues](https://www.upi.com/Top_News/US/2026/11/16/bank-services-down-in-widespread-outage/4201794862167/)
-- 2026-11-16 23:42 UTC · WFAA Dallas (TX) · [Chase, Bank of America, Wells Fargo customers report outage: What to do if a bill is due](https://www.wfaa.com/article/tech/bank-down-outage-today-chase-down-bank-of-america-wells-fargo-zelle-bofa-bank-of-america-us/287-925ca37a-f375-4f2a-aa2b-e97017056f8f)
-- 2026-11-17 00:06 UTC · 6abc Philly (PA) · ['Software bug' disrupts Chase online banking for Philadelphia region, nationwide](https://6abc.com/post/philadelphia-region-nationwide-employees-customers-impacted-jpmorgan-chase-software-bug/20046043/)
-- 2026-11-17 00:18 UTC · BBC US & Canada · [Customers report service outages at major US banks](https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss)
-- 2026-11-17 01:09 UTC · CBS News · [Major U.S. banks report widespread service outages](https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/)
-- 2026-11-17 01:24 UTC · WSB-TV Atlanta (GA) · [Banking outage leaves local business owner unable to pay employees](https://www.wsbtv.com/news/local/banking-outage-leaves-local-business-owner-unable-pay-employees/Y6ZB2VZNLVHA5NQNIZKO3SUL7A/)
-- 2026-11-17 03:11 UTC · 6abc Philly (PA) · [Chase transactions return to normal after outage affected thousands of customers](https://6abc.com/post/chase-transactions-return-normal-outage-affected-thousands-customers/20046578/)
-- 2026-11-17 04:12 UTC · ABC7 Chicago (IL) · [Chase 'software bug' disrupts banking transactions, raises concerns among Chicago-area customers](https://abc7chicago.com/post/chase-bank-outages-today-chicago-area-jpmorgan-customers-impacted-online-banking-issues-software-bug/20046097/)
-- 2026-11-17 17:45 UTC · TMZ · [Chase Bank Says No Evidence of Cyberattack After Banking Disruption](https://www.tmz.com/2026/11/17/banks-respond-recent-outages/)
-
-**Who posted it on Instagram** (5 pages, 73,097 likes, 6 posts)
-
-- [@pubity](https://www.instagram.com/p/Df0YsfZjSHH/) · 34,730 likes · 1,307 comments · +2 min after first report · Several major U.S. banks are dealing with reported outages, leaving customers struggling to access their accounts. 👀 Chase, Wells Fargo, Bank of America, and Truist customers have reported issues with
-- [@theneighborhoodtalk](https://www.instagram.com/p/Df0HlJLx0rC/) · 15,879 likes · 2,439 comments · 147 min before first report · TNHT Staff: @hausofaaron __________________ Neighbors, customers at Chase, Bank of America, Capital One and Wells Fargo began reporting outages, with some saying they’re unable to access their banking
-- [@dailymail](https://www.instagram.com/p/Df0IVifkrRh/) · 11,703 likes · 598 comments · 140 min before first report · Americans have been locked out of their accounts as Chase, Bank of America and Wells Fargo are all experiencing outages - just three days after major service failures at Microsoft and the Federal Avia
-- [@hollywoodunlocked](https://www.instagram.com/p/Df2PeFcKZqe/) · 7,442 likes · 1,330 comments · +1041 min after first report · HU Staff: Kecia Gayle @kecia.kae Between the Microsoft meltdown, the grounded planes and the banking apps acting brand new, it’s safe to say a lot of folks are concerned. But on Monday night, Vice Pre
-- [@onlyindade](https://www.instagram.com/p/Df0hSXMoYU8/) · 1,884 likes · 88 comments · +77 min after first report · Did you have issues with your bank account today?💰👀\| #ONLYinDADE *🗞️ Customers of Chase, Bank of America, Wells Fargo and U.S. Bank reported issues accessing their accounts and completing transaction
-
-### 5. Top Nvidia lawyer agrees to testify before Congress
-
-**Score** 157 · **First seen** 2026-11-17 15:24 UTC · **Last update** 2026-11-19 21:22 UTC
-
-**Status** Confirmed · independent reports: 9 of 11 feeds · official: none · independent newsrooms: 8
-
-**Duplicates collapsed**: 1 of 11 feeds repeat the same report.
+**Duplicates collapsed**: 3 of 13 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Former Nvidia CEO Jensen Huang has agreed to testify before Congress — support: 5
-- The testimony is scheduled for December 1 — support: 2
-- Nvidia general counsel Tim Teter has agreed to testify before Congress — support: 2
-- Lawmakers are investigating allegations involving a Chinese spy or Chinese intelligence — support: 3
+- Nvidia reported third quarter revenue of 115.8 billion dollars — support: 2
+- Colette Kress is serving as the interim CEO of Nvidia — support: 2
+- Jensen Huang resigned as CEO of Nvidia last week — support: 4
+- Nvidia board chairman Harvey Jones stated the board does not intend to reinstate Jensen Huang as CEO — support: 4
 
-> Reports differ on whether the testimony is scheduled for a specific date or generally next month.
+> 2 of the 10 independent reports in the cluster cover related updates, not this headline. 13 feeds carry 10 independent reports (the rest are duplicates). Figures from one report only: $107.6b, $115.8b, 103%, 107.6b, 115.8b.
 
-Jensen Huang and Nvidia general counsel Tim Teter will officially testify before Congress in early December, lawmakers announced Tuesday. Why it matters: Lawmakers are seeking answers about whether Nvidia's powerful AI chips were compromised by Chinese intelligence and whether the company did enough to protect sensitive American technology. Huang and Teter will participate in transcribed, closed-door interviews with…
+Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang - though that will likely change once analysts are on the line for its earnings call later. The company reported revenues of $115.8 billion, up 103 percent year-over-year, including data center revenues of $107.6 billion, which […]
 
-Lead: [CBS News — Ex-Nvidia CEO Jensen Huang agrees to testify to Congress amid affair probe](https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/)
+Lead: [The Verge — Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
 
 **Where it was published**
 
-- 2026-11-17 15:24 UTC · CBS News · [Ex-Nvidia CEO Jensen Huang agrees to testify to Congress amid affair probe](https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/)
-- 2026-11-17 15:37 UTC · Axios · [Jensen Huang agrees to face Congress over Nvidia scandal](https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates)
-- 2026-11-17 15:40 UTC · New York Post · [Disgraced ex-Nvidia CEO Jensen Huang to testify before Congress next month](https://nypost.com/2026/11/17/business/disgraced-ex-nvidia-ceo-jensen-huang-to-testify-before-congress-next-month/)
-- 2026-11-17 15:43 UTC · The Hill · [Top Nvidia lawyer agrees to testify before Congress](https://thehill.com/policy/technology/6225075-nvidia-counsel-teter-jensen-huang-testimony/)
-- 2026-11-17 15:44 UTC · WSVN Miami (FL) · [Former Nvidia CEO Jenson Huang to appear before Congress next month as national security questions intensify](https://wsvn.com/news/us-world/former-nvidia-ceo-jenson-huang-to-appear-before-congress-next-month-as-national-security-questions-intensify/)
-- 2026-11-17 15:44 UTC · WSVN Miami (FL) · [Former Nvidia CEO Jenson Huang to appear before Congress next month as national security questions intensify](https://wsvn.com/news/us-world/jensen-huang-congress-appearance/)
-- 2026-11-17 17:05 UTC · UPI Top · [Former Nvidia CEO Jensen Huang agrees to testify before Congress](https://www.upi.com/Top_News/US/2026/11/17/nvidia-huang-congress-house-national-security/9761794933298/)
-- 2026-11-17 17:36 UTC · NPR · [Huang says he'd be "honored" to return to Nvidia as he agrees to testify to Congress](https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress)
-- 2026-11-17 17:58 UTC · Guardian US · [Jensen Huang to testify before Congress on ‘potential breach of national security’](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy)
-- 2026-11-17 19:07 UTC · CBS News · [Jensen Huang says he's willing to return as Nvidia CEO](https://www.cbsnews.com/video/jensen-huang-says-hes-willing-to-return-as-nvidia-ceo/)
-- 2026-11-17 21:36 UTC · The Hill · [Democratic lawmakers slam Huang statement on possible Nvidia return: ‘Slow your roll’](https://thehill.com/business/6226369-democrats-oppose-huang-nvidia-return/)
+- 2026-11-17 21:40 UTC · The Verge · [Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang)
+- 2026-11-17 22:11 UTC · The Hill · [Nvidia reports strong third quarter after Huang departs](https://thehill.com/business/6226457-nvidia-q3-earnings-strong/)
+- 2026-11-17 22:32 UTC · The Verge · [Read everything that Nvidia’s board chair had to say about Jensen Huang](https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang)
+- 2026-11-17 22:45 UTC · KING5 Seattle (WA) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.king5.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
+- 2026-11-17 22:45 UTC · KHOU (TX) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.khou.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
+- 2026-11-17 22:45 UTC · WFAA Dallas (TX) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.wfaa.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
+- 2026-11-17 22:45 UTC · 9News Denver (CO) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.9news.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
+- 2026-11-17 22:57 UTC · New York Post · [Nvidia board chairman shoots down rumors disgraced Jensen Huang will return as CEO](https://nypost.com/2026/11/17/business/nvidia-board-chairman-shoots-down-rumors-disgraced-jensen-huang-will-return-as-ceo/)
+- 2026-11-17 23:04 UTC · TechCrunch · [Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/)
+- 2026-11-18 13:01 UTC · The Verge · [Nvidia isn’t selling any more AI chips to China](https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling)
+- 2026-11-18 14:39 UTC · The Hill · [Nvidia rejects Huang offer to return as CEO](https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/)
+- 2026-11-18 21:11 UTC · New York Post · [Nvidia’s interim CEO urges employees to leave Jensen Huang behind: ‘Let’s move forward’](https://nypost.com/2026/11/18/business/nvidias-interim-ceo-urges-employees-to-leave-jensen-huang-behind-lets-move-forward/)
 
-**Who posted it on Instagram** (8 pages, 176,361 likes, 10 posts)
+**Who posted it on Instagram** (7 pages, 170,468 likes, 7 posts)
 
-- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 167,409 likes · 1,474 comments · +69 min after first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
-- [@dailymail](https://www.instagram.com/p/DfzRknNjUQE/) · 5,545 likes · 157 comments · 1662 min before first report · Jensen Huang is considering a comeback as Nvidia's chief executive, and has discussed with confidants the possibility of returning, the Financial Times reported, citing people familiar with the matter
-- [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +537 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
-- [@explainscience.ai](https://www.instagram.com/p/Df44qBNEpwh/) · 370 likes · 3 comments · +1055 min after first report · Jensen Huang might be coming back 👀 The Financial Times reports that Jensen has talked with allies about returning as Nvidia CEO, days after he stepped down. One ally said they are building a “war roo
-- [@movieshowtime](https://www.instagram.com/p/Df0YVWRHXRX/) · 122 likes · 0 comments · 385 min before first report · Man 😭 A U.S. intelligence memo alleged Nvidia CEO Jensen Huang had a romantic relationship with a tech executive believed to have been recruited by China's Ministry of State Security, per the Financia
-- [@newsweek](https://www.instagram.com/p/Df44ukyGxX-/) · 56 likes · 6 comments · +1476 min after first report · U.S. intelligence officials have concluded that Ms. Huang was an asset of China’s Ministry of State Security (MSS). That means an MSS asset may have been just one or two steps away from President Dona
+- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 167,409 likes · 1,474 comments · 307 min before first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
+- [@dailymail](https://www.instagram.com/p/Df4Un1wDpzS/) · 2,009 likes · 48 comments · +785 min after first report · Tech giant Nvidia has forecast $130 billion in quarterly revenue, beating analyst expectations, as its board begins searching for a permanent CEO following Jensen Huang’s departure. The board says it 
+- [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +161 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
+- [@explainscience.ai](https://www.instagram.com/p/Df44qBNEpwh/) · 370 likes · 3 comments · +679 min after first report · Jensen Huang might be coming back 👀 The Financial Times reports that Jensen has talked with allies about returning as Nvidia CEO, days after he stepped down. One ally said they are building a “war roo
+- [@movieshowtime](https://www.instagram.com/p/Df0YVWRHXRX/) · 122 likes · 0 comments · 761 min before first report · Man 😭 A U.S. intelligence memo alleged Nvidia CEO Jensen Huang had a romantic relationship with a tech executive believed to have been recruited by China's Ministry of State Security, per the Financia
+- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · 155 min before first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 
 ### 6. Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!
 
-**Score** 156 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-19 16:30 UTC
+**Score** 155 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-19 16:30 UTC
 
 **Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -365,7 +368,7 @@ Lead: [Deadline — Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4,
 
 ### 9. Illegal alien accused of attempted murder at large after Rikers release despite ICE detainer: DHS
 
-**Score** 140 · **Category** crime · **First seen** 2026-11-17 00:10 UTC · **Last update** 2026-11-19 20:54 UTC
+**Score** 139 · **Category** crime · **First seen** 2026-11-17 00:10 UTC · **Last update** 2026-11-19 20:54 UTC
 
 **Status** Developing · independent reports: 1 of 2 feeds · official: none · independent newsrooms: 1
 
@@ -438,9 +441,49 @@ Lead: [CBS News — Democrat Mary Peltola leads ongoing Alaska Senate race](http
 - [@nytimes](https://www.instagram.com/p/Df5GEkFE0Hp/) · 5,536 likes · 99 comments · +2408 min after first report · When Mary Peltola was officially elected senator of Alaska on Tuesday night, she became one of the first Native American women to win election to the Senate, joining Peggy Flanagan, a Democrat of Minn
 - [@wsj](https://www.instagram.com/p/Df4dMe4l8Zh/) · 3,147 likes · 165 comments · +2033 min after first report · When Cameron Cushman and his wife walked into the school across the street from their house to vote in the Texas Republican primary runoff in May, a poll worker reminded him that he already had voted 
 
-### 11. Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change
+### 11. Donald Trump issues posthumous pardon to MLB ‘superstar and legend’ Pete Rose
 
-**Score** 134 · **First seen** 2026-11-17 22:10 UTC · **Last update** 2026-11-19 15:49 UTC
+**Score** 134 · **Category** trending · **First seen** 2026-11-19 21:31 UTC · **Last update** 2026-11-19 22:21 UTC
+
+**Status** Confirmed · independent reports: 10 of 17 feeds · official: none · independent newsrooms: 8
+
+**Duplicates collapsed**: 7 of 17 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Donald Trump issued a posthumous pardon to Pete Rose — support: 6
+- Pete Rose died more than two years ago — support: 3
+- Pete Rose was reinstated by Major League Baseball one year ago — support: 2
+- The record for hits held by Pete Rose is 4,256 — support: 1
+
+> 17 feeds carry 10 independent reports (the rest are duplicates). Report 6 incorrectly attributes the 4,256 hits record to a single season rather than a career total. 1 key claim stated by a single report: “The record for hits held by Pete Rose is 4,256” Figures from one report only: 4256.
+
+President Trump on Thursday posthumously pardoned famed baseball player Pete Rose, an idea he’s been floating for nearly two years. “I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTAR & LEGEND, whose record of 4,256 Hits in a Season will never be broken,” he wrote…
+
+Lead: [New York Post — Trump grants posthumous pardon to MLB hit king Pete Rose](https://nypost.com/2026/11/19/us-news/trump-grants-posthumous-pardon-to-baseball-hit-king-pete-rose/)
+
+**Where it was published**
+
+- 2026-11-19 21:31 UTC · New York Post · [Trump grants posthumous pardon to MLB hit king Pete Rose](https://nypost.com/2026/11/19/us-news/trump-grants-posthumous-pardon-to-baseball-hit-king-pete-rose/)
+- 2026-11-19 21:36 UTC · Fox News · [Trump announces 'complete and total pardon' for late MLB legend Pete Rose, blasts Hall of Fame exclusion](https://www.foxnews.com/outkick-sports/trump-announces-complete-total-pardon-late-mlb-legend-pete-rose-blasts-hall-fame-exclusion)
+- 2026-11-19 21:45 UTC · Daily Mail US · [Donald Trump pardons disgraced MLB legend Pete Rose two years on from death](https://www.dailymail.com/sport/mlb/article-16307317/Donald-Trump-pardons-disgraced-MLB-legend-Pete-Rose.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-19 21:47 UTC · ABC News · [Pete Rose posthumously pardoned by Trump after career hits leader reinstated by MLB](https://abcnews.com/Sports/wireStory/pete-rose-posthumously-pardoned-trump-after-baseballs-career-138302855)
+- 2026-11-19 21:50 UTC · WGN (IL) · [Trump gives posthumous pardon to Pete Rose, baseball's career hits leader](https://wgntv.com/sports/trump-gives-posthumous-pardon-to-pete-rose-baseballs-career-hits-leader/)
+- 2026-11-19 21:51 UTC · The Hill · [Trump posthumously pardons Pete Rose](https://thehill.com/policy/sports-gaming/6231706-trump-posthumously-pardons-pete-rose/)
+- 2026-11-19 21:51 UTC · NBC News · [Trump posthumously pardons MLB all-time hits leader Pete Rose](https://www.nbcnews.com/politics/donald-trump/posthumously-pardons-pete-rose-mlb-hit-leader-betting-baseball-rcna610308)
+- 2026-11-19 21:57 UTC · WFLA Tampa (FL) · [Trump gives posthumous pardon to Pete Rose, baseball's career hits leader](https://www.wfla.com/news/national/trump-gives-posthumous-pardon-to-pete-rose-baseballs-career-hits-leader/)
+- 2026-11-19 21:59 UTC · Yahoo Sports · [Pete Rose posthumously pardoned by Trump after baseball’s career hits leader was reinstated by MLB](https://sports.yahoo.com/articles/pete-rose-posthumously-pardoned-trump-215954994.html)
+- 2026-11-19 22:01 UTC · ABC7 LA (CA) · [Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB](https://abc7.com/story/pete-rose-posthumously-pardoned-trump-baseballs-career-hits-leader-was-reinstated-mlb/20056644/)
+- 2026-11-19 22:01 UTC · ABC13 Houston (TX) · [Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB](https://abc13.com/story/pete-rose-posthumously-pardoned-trump-baseballs-career-hits-leader-was-reinstated-mlb/20056644/)
+- 2026-11-19 22:01 UTC · ABC7 NY (NY) · [Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB](https://abc7ny.com/story/pete-rose-posthumously-pardoned-trump-baseballs-career-hits-leader-was-reinstated-mlb/20056644/)
+
+**Who posted it on Instagram** (1 pages, 2,503 likes, 1 posts)
+
+- [@nypost](https://www.instagram.com/p/Df7MopVCJQQ/) · 2,503 likes · 272 comments · 457 min before first report · President Donald Trump shared a friendly moment with Russian President Vladimir Putin in Shenzhen, China, joking, “It’s my friend,” as the two leaders greeted each other on the sidelines of the APEC s
+
+### 12. Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change
+
+**Score** 133 · **First seen** 2026-11-17 22:10 UTC · **Last update** 2026-11-19 15:49 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -469,45 +512,9 @@ Lead: [Hollywood Reporter — Carrie Coon Calls for Women to Start Their Own Stu
 - [@cinephile.club](https://www.instagram.com/p/Df43CIsCDCZ/) · 8,748 likes · 1,012 comments · +1055 min after first report · WHO COULD BE THE NEXT BOND GIRL? 👀 With Robert Pattinson officially announced as the next James Bond, all eyes are now on one big question: who will star alongside him as the next Bond girl? Names lik
 - [@clips](https://www.instagram.com/p/Df59ZQ2omHJ/) · 7,287 likes · 44 comments · +1671 min after first report · Avengers: Doomsday (2026) — Directed by Anthony and Joe Russo, this colossal superhero event stars Robert Downey Jr., Chris Hemsworth, Chris Evans, Pedro Pascal, and Florence Pugh as the Marvel Cinema
 
-### 12. Trump, Xi and Putin Meet: What Was the Outcome of the Summit?
-
-**Score** 131 · **First seen** 2026-11-19 12:14 UTC · **Last update** 2026-11-19 20:59 UTC
-
-**Status** Confirmed · independent reports: 2 of 3 feeds · official: none · independent newsrooms: 2
-
-**Duplicates collapsed**: 1 of 3 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- President Donald Trump held a trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin — support: 3
-- The trilateral summit took place in Shenzhen China — support: 1
-- President Trump concluded a three-day trip to Asia on Thursday — support: 2
-- President Trump struck trade deals with the Philippines and Thailand during the ASEAN summit in Manila — support: 2
-
-> Report 1 states the summit was held in Shenzhen while reports 2 and 3 state the president was in Manila for the ASEAN summit. 1 key claim stated by a single report: “The trilateral summit took place in Shenzhen China”
-
-President Trump wrapped a whirlwind three-day trip to Asia on Thursday with an unprecedented trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin. The president struck trade deals with the Philippines and Thailand during the Association of Southeast Asian Nations Summit in Manila earlier in the week. But the highest-profile stop on [...]
-
-Lead: [NBC News — Trump, Xi and Putin Meet: What Was the Outcome of the Summit?](https://www.today.com/video/trump-xi-and-putin-meet-what-was-the-outcome-of-the-summit-273799749776)
-
-**Where it was published**
-
-- 2026-11-19 12:14 UTC · NBC News · [Trump, Xi and Putin Meet: What Was the Outcome of the Summit?](https://www.today.com/video/trump-xi-and-putin-meet-what-was-the-outcome-of-the-summit-273799749776)
-- 2026-11-19 18:29 UTC · The Hill · [5 takeaways on Trump’s unprecedented summit with Putin, Xi](https://thehill.com/homenews/administration/6231008-trump-xi-putin-summit-takeaways/)
-- 2026-11-19 18:47 UTC · WGN (IL) · [5 takeaways on Trump’s unprecedented summit with Putin, Xi](https://wgntv.com/news/5-takeaways-on-trumps-unprecedented-summit-with-putin-xi/)
-
-**Who posted it on Instagram** (7 pages, 21,959 likes, 10 posts)
-
-- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,992 likes · 431 comments · 2700 min before first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
-- [@theories](https://www.instagram.com/p/Df44OnaBISl/) · 2,808 likes · 100 comments · 1218 min before first report · Vladimir Putin turned a televised interview into a tense exchange after repeatedly clashing with an NBC journalist over interruptions and the direction of the conversation. During a 2021 interview in
-- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · 2245 min before first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@dailymail](https://www.instagram.com/p/Df5fVrCjW1G/) · 178 likes · 3 comments · 876 min before first report · President Donald Trump is taking his America First agenda overseas as he kicks off a three-day trip to Asia, beginning with a stop in the Philippines before heading to China for high-stakes talks with
-- [@newsweek](https://www.instagram.com/p/Df44ukyGxX-/) · 56 likes · 6 comments · 1214 min before first report · U.S. intelligence officials have concluded that Ms. Huang was an asset of China’s Ministry of State Security (MSS). That means an MSS asset may have been just one or two steps away from President Dona
-- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · 2469 min before first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
-
 ### 13. US officially loses measles elimination status, PAHO says
 
-**Score** 129 · **First seen** 2026-11-17 15:40 UTC · **Last update** 2026-11-19 16:40 UTC
+**Score** 128 · **First seen** 2026-11-17 15:40 UTC · **Last update** 2026-11-19 16:40 UTC
 
 **Status** Confirmed · independent reports: 8 of 24 feeds · official: none · independent newsrooms: 7
 
@@ -557,7 +564,7 @@ Lead: [Medical Xpress — A growing public health worry: Prolonged sitting](http
 
 - The Legend of Zelda Ocarina of Time remake for Switch 2 is the best-selling physical game of 2026 in the US — support: 1
 - GTA 6 has a Metacritic score of 99 — support: 1
-- GTA 6 is tied with the original Ocarina of Time as the best-reviewed game of all time on Metacritic — support: 1
+- GTA 6 is tied with the original The Legend of Zelda Ocarina of Time as the best-reviewed game on Metacritic — support: 1
 
 > 1 independent report only; details may still change. 3 key claims stated by a single report: “The Legend of Zelda Ocarina of Time remake for Switch 2 is the best-se”; “GTA 6 has a Metacritic score of 99” Figures from one report only: 1m.
 
@@ -580,7 +587,7 @@ Lead: [GameSpot — Ocarina Of Time Is 2026’s Best-Selling Physical Game In Th
 
 ### 15. Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable
 
-**Score** 127 · **First seen** 2026-11-19 19:00 UTC · **Last update** 2026-11-19 19:00 UTC
+**Score** 126 · **First seen** 2026-11-19 19:00 UTC · **Last update** 2026-11-19 19:00 UTC
 
 **Status** Disputed · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -616,7 +623,7 @@ Lead: [Kotaku — Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod,
 
 ### 16. Glen Powell Is a Has-Been Country Singer in Judd Apatow’s ‘Comeback King’ Trailer
 
-**Score** 126 · **Category** trending · **First seen** 2026-11-18 17:39 UTC · **Last update** 2026-11-18 23:47 UTC
+**Score** 125 · **Category** trending · **First seen** 2026-11-18 17:39 UTC · **Last update** 2026-11-18 23:47 UTC
 
 **Status** Confirmed · independent reports: 2 of 3 feeds · official: none · independent newsrooms: 2
 
@@ -651,39 +658,9 @@ Lead: [Deadline — ‘The Comeback King’ Trailer: Glen Powell Goes Country In
 - [@clipfeedz](https://www.instagram.com/reel/Df6DKYanJy3/) · 607 likes · 1 comments · +552 min after first report · The Comeback King, is set to bring an exciting new story to the big screen. With its theatrical release approaching, audiences will soon get the chance to experience the film and discover what makes i
 - [@bruhgram](https://www.instagram.com/reel/Df52D7xhzIj/) · 326 likes · 4 comments · +438 min after first report · One good song and suddenly I’m the headliner, the living room is a sold-out venue, and everyone around me is part of the crowd. The Comeback King brings that all-in energy with cowboy hats, a cheering
 
-### 17. Reagan’s peace through strength won the Cold War. Can America do it again?
+### 17. NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash
 
-**Score** 121 · **Category** public-safety · **First seen** 2026-11-19 09:50 UTC · **Last update** 2026-11-19 14:57 UTC
-
-**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Roger Zakheim wrote a new book about Ronald Reagan's defense buildup. — support: 1
-- The book argues that Ronald Reagan's defense buildup won the Cold War against Russia. — support: 1
-
-> 1 independent report only; details may still change. 2 key claims stated by a single report: “Roger Zakheim wrote a new book about Ronald Reagan's defense buildup.”; “The book argues that Ronald Reagan's defense buildup won the Cold War ”
-
-Can the United States rebuild its arsenal again? Roger Zakheim's new book recalls how Ronald Reagan's defense buildup won the Cold War against Russia.
-
-Lead: [Fox News — Reagan’s peace through strength won the Cold War. Can America do it again?](https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again)
-
-**Where it was published**
-
-- 2026-11-19 09:50 UTC · Fox News · [Reagan’s peace through strength won the Cold War. Can America do it again?](https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again)
-
-**Who posted it on Instagram** (8 pages, 71,550 likes, 8 posts)
-
-- [@npr](https://www.instagram.com/reel/Df107N9HG4s/) · 48,174 likes · 642 comments · 2778 min before first report · ADHD diagnoses are on the rise in the United States, but professionals might be missing a key part of the disorder. The emotions around rejection.⁠ ⁠ Listen to the full episode at the link in our bio.
-- [@nugget](https://www.instagram.com/p/Df3EaeqIOnL/) · 21,969 likes · 190 comments · 2085 min before first report · For years, a group of Russian intelligence agents lived quietly across the United States while secretly working for Russia. The FBI’s Operation Ghost Stories uncovered a network of deep-cover agents w
-- [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 801 likes · 172 comments · 1211 min before first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
-- [@media](https://www.instagram.com/p/Df5HqY5IFTc/) · 606 likes · 4 comments · 940 min before first report · The same map of the United States can tell fifty different stories. Switch from population to housing costs or climate, and a whole new pattern comes into view. 🗺 Even maps of the same topic can look 
-- [@explain](https://www.instagram.com/p/Df2UfrkEfNy/) · 0 likes · 753 comments · 2506 min before first report · Height can be surprisingly uncommon depending on where you fall on the scale. In the United States, the average adult man stands around 5’9” (175 cm), while the average adult woman is approximately 5’
-- [@thetrillionairelife](https://www.instagram.com/p/Df2cZyNI0xs/) · 0 likes · 15 comments · 2436 min before first report · Alexander Zverev wore the $460,000 @JacobAndCo The Godfather II at the inaugural ATP No. 1 Club Gala. Limited to 74 pieces, the watch can play two melodies from The Godfather on demand 🎬 Inside, a mec
-
-### 18. NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash
-
-**Score** 121 · **Category** accidents · **State** NY · **First seen** 2026-11-17 22:26 UTC · **Last update** 2026-11-19 19:26 UTC
+**Score** 122 · **Category** accidents · **State** NY · **First seen** 2026-11-17 22:26 UTC · **Last update** 2026-11-19 22:14 UTC
 
 **Status** Confirmed · independent reports: 7 of 18 feeds · official: none · independent newsrooms: 4
 
@@ -725,9 +702,39 @@ Lead: [New York Post — Mamdani floats electric vehicles to replace Central Par
 - [@wired](https://www.instagram.com/p/Df5GXx2E3Xz/) · 1,226 likes · 55 comments · +1294 min after first report · EXCLUSIVE: On January 1, Amani Al-Khatahtbeh, an author, activist, and the founder of media company Muslim Girl, posted a selfie from Zohran Mamdani’s inauguration as the first Muslim mayor of New Yor
 - [@dailymail](https://www.instagram.com/p/Df7T6oBD2OX/) · 201 likes · 25 comments · +2410 min after first report · New York City Mayor Zohran Mamdani has signed an executive order directing city agencies to make publicly funded meal programs more inclusive of different religious dietary practices. The city's Offic
 
+### 18. Reagan’s peace through strength won the Cold War. Can America do it again?
+
+**Score** 121 · **Category** public-safety · **First seen** 2026-11-19 09:50 UTC · **Last update** 2026-11-19 14:57 UTC
+
+**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Roger Zakheim wrote a new book about Ronald Reagan's defense buildup. — support: 1
+- The book argues that Ronald Reagan's defense buildup won the Cold War against Russia. — support: 1
+
+> 1 independent report only; details may still change. 2 key claims stated by a single report: “Roger Zakheim wrote a new book about Ronald Reagan's defense buildup.”; “The book argues that Ronald Reagan's defense buildup won the Cold War ”
+
+Can the United States rebuild its arsenal again? Roger Zakheim's new book recalls how Ronald Reagan's defense buildup won the Cold War against Russia.
+
+Lead: [Fox News — Reagan’s peace through strength won the Cold War. Can America do it again?](https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again)
+
+**Where it was published**
+
+- 2026-11-19 09:50 UTC · Fox News · [Reagan’s peace through strength won the Cold War. Can America do it again?](https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again)
+
+**Who posted it on Instagram** (8 pages, 71,550 likes, 8 posts)
+
+- [@npr](https://www.instagram.com/reel/Df107N9HG4s/) · 48,174 likes · 642 comments · 2778 min before first report · ADHD diagnoses are on the rise in the United States, but professionals might be missing a key part of the disorder. The emotions around rejection.⁠ ⁠ Listen to the full episode at the link in our bio.
+- [@nugget](https://www.instagram.com/p/Df3EaeqIOnL/) · 21,969 likes · 190 comments · 2085 min before first report · For years, a group of Russian intelligence agents lived quietly across the United States while secretly working for Russia. The FBI’s Operation Ghost Stories uncovered a network of deep-cover agents w
+- [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 801 likes · 172 comments · 1211 min before first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
+- [@media](https://www.instagram.com/p/Df5HqY5IFTc/) · 606 likes · 4 comments · 940 min before first report · The same map of the United States can tell fifty different stories. Switch from population to housing costs or climate, and a whole new pattern comes into view. 🗺 Even maps of the same topic can look 
+- [@explain](https://www.instagram.com/p/Df2UfrkEfNy/) · 0 likes · 753 comments · 2506 min before first report · Height can be surprisingly uncommon depending on where you fall on the scale. In the United States, the average adult man stands around 5’9” (175 cm), while the average adult woman is approximately 5’
+- [@thetrillionairelife](https://www.instagram.com/p/Df2cZyNI0xs/) · 0 likes · 15 comments · 2436 min before first report · Alexander Zverev wore the $460,000 @JacobAndCo The Godfather II at the inaugural ATP No. 1 Club Gala. Limited to 74 pieces, the watch can play two melodies from The Godfather on demand 🎬 Inside, a mec
+
 ### 19. ‘The Further Mis-Adventures of Cliff Booth’ Review: Brad Pitt, David Fincher and Quentin Tarantino Mix a Cool Cocktail in Free-Flowing Spinoff
 
-**Score** 120 · **Category** trending · **First seen** 2026-11-17 05:45 UTC · **Last update** 2026-11-19 18:04 UTC
+**Score** 119 · **Category** trending · **First seen** 2026-11-17 05:45 UTC · **Last update** 2026-11-19 18:04 UTC
 
 **Status** Confirmed · independent reports: 6 of 8 feeds · official: none · independent newsrooms: 3
 
@@ -806,36 +813,34 @@ Lead: [New York Post — DHS Secretary Markwayne Mullin suggests AI could be beh
 
 - [@nypost](https://www.instagram.com/p/Df5d5fxiilf/) · 1,277 likes · 415 comments · +2023 min after first report · Homeland Security Secretary Markwayne Mullin delivered a furious defense Wednesday of his use of a government plane to attend Saturday’s LSU-Texas college football game while thousands of Americans st
 
-### 21. Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards
+### 21. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
 
-**Score** 118 · **Category** trending · **First seen** 2026-11-18 01:21 UTC · **Last update** 2026-11-19 03:30 UTC
+**Score** 117 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-19 03:30 UTC
 
 **Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Jennifer Lawrence attended the WWD Beauty Inc Awards. — support: 1
-- Jennifer Lawrence launched a haircare brand called Mes. — support: 1
-- Jennifer Lawrence wore a wet hair style at the event. — support: 1
+- Jennifer Lawrence has been associated with a highlighter bag. — support: 1
 
-> One independent report so far; not independently confirmed. 3 key claims stated by a single report: “Jennifer Lawrence attended the WWD Beauty Inc Awards.”; “Jennifer Lawrence launched a haircare brand called Mes.”
+> One independent report so far; not independently confirmed. 1 key claim stated by a single report: “Jennifer Lawrence has been associated with a highlighter bag.”
 
-Jennifer Lawrence is now in the beauty space with her haircare brand Mes and she’s representing the brand at the […] The post Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
+Although I’ve lived in New York for 11 years, I’ve never adopted the all-black wardrobe the city is typically known for. What can I say? My clothes need to be colorful and whimsical! I find plenty of ways to incorporate color into my fits and admire when people add electric pops. Jennifer Lawrence gave me […]
 
-Lead: [Just Jared — Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards](https://www.justjared.com/2026/11/17/jennifer-lawrence-rocks-the-wet-hair-trend-for-wwds-beauty-inc-awards/)
+Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/)
 
 **Where it was published**
 
-- 2026-11-18 01:21 UTC · Just Jared · [Jennifer Lawrence Rocks the Wet Hair Trend for WWD’s Beauty Inc Awards](https://www.justjared.com/2026/11/17/jennifer-lawrence-rocks-the-wet-hair-trend-for-wwds-beauty-inc-awards/)
+- 2026-11-17 09:15 UTC · Us Weekly · [Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/)
 
 **Who posted it on Instagram** (9 pages, 83,643 likes, 16 posts)
 
-- [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · 1313 min before first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
-- [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · 1480 min before first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
-- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,818 likes · 55 comments · 888 min before first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
-- [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 10,697 likes · 39 comments · 351 min before first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
-- [@girlyzar](https://www.instagram.com/reel/Df5sLkyxG7S/) · 388 likes · 4 comments · +1899 min after first report · Hunger Games reunion we did not see coming 👀 Jennifer Lawrence and Josh Hutcherson have reunited at the premiere of Sunrise on the Reaping. The pair showed up to support the new Hunger Games prequel f
-- [@clips](https://www.instagram.com/p/Df7bfTeoTrM/) · 358 likes · 14 comments · +2303 min after first report · Dexter (2006–2013) — Starring Michael C. Hall, Jennifer Carpenter, David Zayas, James Remar, C.S. Lee, and Julie Benz, this hit crime drama series follows a Miami forensic blood spatter analyst who le
+- [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · 348 min before first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
+- [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · 515 min before first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
+- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,818 likes · 55 comments · +77 min after first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
+- [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 10,697 likes · 39 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
+- [@girlyzar](https://www.instagram.com/reel/Df5sLkyxG7S/) · 388 likes · 4 comments · +2864 min after first report · Hunger Games reunion we did not see coming 👀 Jennifer Lawrence and Josh Hutcherson have reunited at the premiere of Sunrise on the Reaping. The pair showed up to support the new Hunger Games prequel f
+- [@clips](https://www.instagram.com/p/Df7bfTeoTrM/) · 358 likes · 14 comments · +3268 min after first report · Dexter (2006–2013) — Starring Michael C. Hall, Jennifer Carpenter, David Zayas, James Remar, C.S. Lee, and Julie Benz, this hit crime drama series follows a Miami forensic blood spatter analyst who le
 
 ### 22. Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’
 
@@ -896,7 +901,7 @@ Lead: [GameSpot — The GTA 6 Map Is Truly, Truly Massive (Of Course)](https://w
 
 ### 24. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
 
-**Score** 114 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-19 12:40 UTC
+**Score** 113 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-19 12:40 UTC
 
 **Status** Confirmed · independent reports: 2 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -934,7 +939,7 @@ Lead: [IGN — Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Me
 
 ### 25. Zendaya Felt ‘Incredibly Nervous’ While Shooting ‘The Odyssey’ but Credits Tom Holland for Supporting Her: He Was ‘in the Corner Like, “You Got This”’
 
-**Score** 112 · **Category** crime · **First seen** 2026-11-17 02:31 UTC · **Last update** 2026-11-19 20:55 UTC
+**Score** 111 · **Category** crime · **First seen** 2026-11-17 02:31 UTC · **Last update** 2026-11-19 20:55 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
