@@ -1,33 +1,33 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 00:23 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 01:24 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
 | 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 226 | Confirmed | 21 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
 | 2 | NASA Voyager Reaches One Full Light Day From Earth | 187 | Confirmed | 20 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
 | 3 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 180 | Confirmed | 25 | 3 | [CBS News](https://www.cbsnews.com/video/pope-leo-revisits-peruvian-city-once-served-missionary-bishop/) |
-| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 162 | Confirmed | 17 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
-| 5 | ‘That night was incredible’: UFC announcer praises Donald Trump’s White House event | 153 | Confirmed | 10 | 6 | [The Hill](https://thehill.com/opinion/white-house/6221206-miller-appointment-gop-future/) |
+| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 166 | Confirmed | 18 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
+| 5 | ‘That night was incredible’: UFC announcer praises Donald Trump’s White House event | 154 | Confirmed | 10 | 6 | [CBS News](https://www.cbsnews.com/video/trump-officials-ask-50-billion-air-traffic-control-ground-stop/) |
 | 6 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 148 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
-| 7 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 147 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
-| 8 | Grammy 2027 nominations revealed: See the full list | 145 | Confirmed | 11 | 5 | [The Hill](https://thehill.com/blogs/in-the-know/6222195-michelle-obama-third-grammy-nomination/) |
-| 9 | Customers report difficulty accessing online services at major US banks | 143 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
-| 10 | Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer] | 140 | Unverified | 1 | 22 | [Bloody Disgusting](https://bloody-disgusting.com/?p=3975814) |
-| 11 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 134 | Confirmed | 14 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
-| 12 | Waymo suspends freeway rides nationwide after California DMV order | 129 | Confirmed | 19 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
-| 13 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 14 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
-| 14 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 121 | Confirmed | 9 | 4 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
-| 15 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 113 | Confirmed | 6 | 5 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
-| 16 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 110 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
-| 17 | US officially loses measles elimination status, PAHO says | 108 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
-| 18 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 108 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
-| 19 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 107 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
-| 20 | Bully judge punished over video of him screaming at courthouse worker after his computer crashed | 107 | Developing | 8 | 1 | [ABC13 Houston (TX)](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/) |
-| 21 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 106 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
+| 7 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 146 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
+| 8 | Customers report difficulty accessing online services at major US banks | 142 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
+| 9 | Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer] | 140 | Unverified | 1 | 22 | [Bloody Disgusting](https://bloody-disgusting.com/?p=3975814) |
+| 10 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 133 | Confirmed | 14 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
+| 11 | Waymo suspends freeway rides nationwide after California DMV order | 129 | Confirmed | 19 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
+| 12 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 14 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
+| 13 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 120 | Confirmed | 9 | 4 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
+| 14 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 112 | Confirmed | 6 | 5 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
+| 15 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 111 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
+| 16 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 109 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
+| 17 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 107 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
+| 18 | US officially loses measles elimination status, PAHO says | 107 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
+| 19 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 107 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
+| 20 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 107 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
+| 21 | Bully judge punished over video of him screaming at courthouse worker after his computer crashed | 106 | Developing | 8 | 1 | [ABC13 Houston (TX)](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/) |
 | 22 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 106 | Developing | 1 | 9 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
 | 23 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 105 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
-| 24 | Apple hit by widespread outages as tech problems continue | 105 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
+| 24 | Apple hit by widespread outages as tech problems continue | 104 | Confirmed | 8 | 2 | [Engadget](https://www.engadget.com/2315074/how-to-sideload-apps-ios-even-in-united-states/) |
 | 25 | Mamdani disbanding controversial NYPD unit | 104 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
@@ -164,9 +164,9 @@ Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a mi
 
 ### 4. Trump heads to Asia ahead of high-stakes meeting with Xi and Putin
 
-**Score** 162 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-19 00:00 UTC
+**Score** 166 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-19 00:58 UTC
 
-**Status** Confirmed · independent reports: 25 of 58 feeds · official: none · independent newsrooms: 22
+**Status** Confirmed · independent reports: 26 of 60 feeds · official: none · independent newsrooms: 23
 
 **Wire copies collapsed**: Associated Press ×6; CBS News ×2.
 
@@ -177,7 +177,7 @@ Lead: [CBS News — Pope Leo revisits Peruvian city where he once served as a mi
 - President Trump departed for his trip on Monday. — support: 1
 - President Trump blamed old aviation equipment for a nationwide airline ground stop. — support: 2
 
-> 22 of the 47 independent reports in the cluster cover related updates, not this headline. 58 feeds carry 47 independent reports (wire copies: Associated Press, CBS News). 1 key claim stated by a single report: “President Trump departed for his trip on Monday.”
+> 23 of the 49 independent reports in the cluster cover related updates, not this headline. 60 feeds carry 49 independent reports (wire copies: Associated Press, CBS News). 1 key claim stated by a single report: “President Trump departed for his trip on Monday.”
 
 Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts Xi Jinping and Vladimir…
 
@@ -206,25 +206,26 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 
 ### 5. ‘That night was incredible’: UFC announcer praises Donald Trump’s White House event
 
-**Score** 153 · **Category** trending · **First seen** 2026-11-16 14:30 UTC · **Last update** 2026-11-18 21:24 UTC
+**Score** 154 · **Category** trending · **First seen** 2026-11-16 01:48 UTC · **Last update** 2026-11-19 00:16 UTC
 
-**Status** Confirmed · independent reports: 4 of 19 feeds · official: none · independent newsrooms: 3
+**Status** Confirmed · independent reports: 3 of 18 feeds · official: none · independent newsrooms: 3
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- President Donald Trump appointed Stephen Miller as White House chief of staff. — support: 1
-- President Donald Trump blamed old technology and Joe Biden for a nationwide grounding of planes. — support: 2
-- President Donald Trump berated a female NBC reporter regarding White House construction projects. — support: 3
-- President Donald Trump celebrated his 80th birthday at a UFC event held at the White House. — support: 1
+- President Trump attributed the nationwide grounding of planes to old technology. — support: 3
+- Trump officials requested 50 billion dollars for air traffic control upgrades. — support: 1
+- President Trump appointed Stephen Miller as White House chief of staff. — support: 1
+- A UFC event was held at the White House. — support: 1
 
-> 15 of the 19 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. 2 key claims stated by a single report: “President Donald Trump appointed Stephen Miller as White House chief o”; “President Donald Trump celebrated his 80th birthday at a UFC event hel”
+> 15 of the 18 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. 3 key claims stated by a single report: “Trump officials requested 50 billion dollars for air traffic control u”; “President Trump appointed Stephen Miller as White House chief of staff”
 
 WASHINGTON (AP) — President Donald Trump on Monday laid the blame for the nationwide grounding of all planes last week on old technology as well as his Democratic predecessor Joe Biden. “What you saw on Friday was very, very old equipment that had a heart attack,” Trump said Monday outside the White House ahead of [...]
 
-Lead: [The Hill — Stephen Miller’s appointment signals chaos for Trump’s final two years](https://thehill.com/opinion/white-house/6221206-miller-appointment-gop-future/)
+Lead: [CBS News — Trump officials ask for $50 billion for air traffic control after ground stop](https://www.cbsnews.com/video/trump-officials-ask-50-billion-air-traffic-control-ground-stop/)
 
 **Where it was published**
 
+- 2026-11-16 01:48 UTC · CBS News · [Trump officials ask for $50 billion for air traffic control after ground stop](https://www.cbsnews.com/video/trump-officials-ask-50-billion-air-traffic-control-ground-stop/)
 - 2026-11-16 14:30 UTC · The Hill · [Stephen Miller’s appointment signals chaos for Trump’s final two years](https://thehill.com/opinion/white-house/6221206-miller-appointment-gop-future/)
 - 2026-11-16 14:46 UTC · Fox News · [Trump tangles with reporter on beautifying White House: ‘You’re so pathetic’](https://www.foxnews.com/politics/trump-tangles-reporter-beautifying-white-house-youre-so-pathetic)
 - 2026-11-16 15:03 UTC · Newsweek · [Trump Says Old FAA Equipment 'Had Heart Attack'](https://www.newsweek.com/donad-trump-says-old-faa-equipment-had-heart-attack-nationwide-ground-stop-aviation-12720415)
@@ -232,7 +233,6 @@ Lead: [The Hill — Stephen Miller’s appointment signals chaos for Trump’s f
 - 2026-11-16 15:38 UTC · Fox News · [Bruce Buffer calls UFC Freedom 250 at the White House 'incredible' as Trump marked 80th birthday](https://www.foxnews.com/outkick-sports/bruce-buffer-calls-ufc-freedom-250-white-house-incredible-trump-marked-80th-birthday)
 - 2026-11-16 17:01 UTC · Daily Mail US · [Trump tears into 'pathetic' female NBC reporter questioning his multimillion-dollar pet projects: 'You don't have talent'](https://www.dailymail.com/news/article-16296937/Trump-NBC-reporter-multimillion-dollar-projects.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 - 2026-11-16 17:21 UTC · Yahoo Sports · [‘That night was incredible’: UFC announcer praises Donald Trump’s White House event](https://sports.yahoo.com/articles/night-incredible-ufc-announcer-praises-172102633.html)
-- 2026-11-16 20:00 UTC · MMA Fighting · [Dana White recounts ‘crazy’ and ‘unique’ experience being nominated as press secretary for President Donald Trump](https://www.mmafighting.com/ufc/521675/dana-white-recounts-crazy-and-unique-experience-being-nominated-as-press-secretary-for-president-donald-trump)
 - 2026-11-17 03:43 UTC · Daily Mail US · [Trump nemesis Maggie Haberman makes bold claim that he turned on Susie Wiles after her cancer diagnosis: 'Beginning of chaos'](https://www.dailymail.com/news/article-16297889/Trump-Maggie-Haberman-Susie-Wiles-cancer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 - 2026-11-17 10:20 UTC · Axios · [Trump's biggest project is running out of time](https://www.axios.com/2026/11/17/trump-border-wall-texas-lawsuits-big-bend)
 - 2026-11-17 16:30 UTC · Daily Mail US · [Karoline Leavitt breaks with Trump over doomsday outage as she issues direct warning to president](https://www.dailymail.com/news/article-16299803/Karoline-Leavitt-breaks-Trump-doomsday-outage-issues-direct-warning-president.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
@@ -240,12 +240,12 @@ Lead: [The Hill — Stephen Miller’s appointment signals chaos for Trump’s f
 
 **Who posted it on Instagram** (6 pages, 99,252 likes, 9 posts)
 
-- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · +142 min after first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
-- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,760 likes · 2,410 comments · +1406 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
-- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +1940 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@nypost](https://www.instagram.com/p/Df0Dhd5EUVk/) · 2,283 likes · 595 comments · +345 min after first report · President Trump defended the White House restoration work, saying he has a responsibility to maintain the historic building before criticizing a reporter’s questions about the project.
-- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · +300 min after first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
-- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · +494 min after first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
+- [@davidpakmanshow](https://www.instagram.com/reel/Dfz02RRPqB_/) · 80,273 likes · 18,285 comments · +904 min after first report · In his first appearance since the FAA grounded all flights, Trump doubles down on his White House repairs and yells at reporters
+- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,760 likes · 2,410 comments · +2168 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
+- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +2702 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
+- [@nypost](https://www.instagram.com/p/Df0Dhd5EUVk/) · 2,283 likes · 595 comments · +1107 min after first report · President Trump defended the White House restoration work, saying he has a responsibility to maintain the historic building before criticizing a reporter’s questions about the project.
+- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · +1062 min after first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
+- [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · +1256 min after first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
 
 ### 6. Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!
 
@@ -286,7 +286,7 @@ Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Jo
 
 ### 7. ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know
 
-**Score** 147 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
+**Score** 146 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
 
 **Status** Confirmed · independent reports: 11 of 22 feeds · official: none · independent newsrooms: 7
 
@@ -325,53 +325,9 @@ Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert Syste
 - [@onlyindade](https://www.instagram.com/p/Df2GSPDoa0M/) · 9,470 likes · 243 comments · +1094 min after first report · FEMA said one minute test. The family WhatsApp said end of the world #ONLYinDADE Around 2:20 this afternoon, FEMA and the FCC are running the first nationwide Emergency Alert System test since October
 - [@nypost](https://www.instagram.com/p/Df2ohCEk4fl/) · 3,278 likes · 300 comments · +1397 min after first report · BREAKING: Yes, the alarms will sound — but there’s no need to panic. At 2:20 p.m. EST today, the Federal Emergency Management Agency (FEMA) will conduct a nationwide test of the Emergency Alert System
 
-### 8. Grammy 2027 nominations revealed: See the full list
+### 8. Customers report difficulty accessing online services at major US banks
 
-**Score** 145 · **Category** trending · **First seen** 2026-11-16 14:12 UTC · **Last update** 2026-11-18 00:30 UTC
-
-**Status** Confirmed · independent reports: 3 of 17 feeds · official: none · independent newsrooms: 3
-
-**Duplicates collapsed**: 8 of 17 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- The Recording Academy announced the 2027 Grammy Award nominations on Monday — support: 5
-- English singer-songwriter Raye leads the 2027 Grammy nominations — support: 4
-- Michelle Obama received her third Grammy nomination for an audio book — support: 1
-- John Summit criticized the Recording Academy following his nomination snub — support: 1
-
-> 6 of the 9 independent reports in the cluster cover related updates, not this headline. 17 feeds carry 9 independent reports (the rest are duplicates). 2 key claims stated by a single report: “Michelle Obama received her third Grammy nomination for an audio book”; “John Summit criticized the Recording Academy following his nomination ”
-
-Former first lady Michelle Obama could be poised for a three-peat — and could potentially break a tie for Grammy Award wins with her husband, former President Obama — after receiving her third nomination for the audio version of one of her books. She was named as one of the contenders in the Best Audio…
-
-Lead: [The Hill — Michelle Obama earns third Grammy nomination](https://thehill.com/blogs/in-the-know/6222195-michelle-obama-third-grammy-nomination/)
-
-**Where it was published**
-
-- 2026-11-16 14:12 UTC · The Hill · [Michelle Obama earns third Grammy nomination](https://thehill.com/blogs/in-the-know/6222195-michelle-obama-third-grammy-nomination/)
-- 2026-11-16 14:29 UTC · KHOU (TX) · [Grammy 2027 nominations revealed: See the full list](https://www.khou.com/article/news/nation-world/grammy-2027-nominations-revealed/507-91f07d20-a382-4454-ba00-e95ff5c664e0)
-- 2026-11-16 14:29 UTC · WFAA Dallas (TX) · [Grammy 2027 nominations revealed: See the full list](https://www.wfaa.com/article/news/nation-world/grammy-2027-nominations-revealed/507-91f07d20-a382-4454-ba00-e95ff5c664e0)
-- 2026-11-16 14:29 UTC · KING5 Seattle (WA) · [Grammy 2027 nominations revealed: See the full list](https://www.king5.com/article/news/nation-world/grammy-2027-nominations-revealed/507-91f07d20-a382-4454-ba00-e95ff5c664e0)
-- 2026-11-16 14:29 UTC · 9News Denver (CO) · [Grammy 2027 nominations revealed: See the full list](https://www.9news.com/article/news/nation-world/grammy-2027-nominations-revealed/507-91f07d20-a382-4454-ba00-e95ff5c664e0)
-- 2026-11-16 14:44 UTC · TMZ · [John Summit Slams Grammys After Nomination Snub, 'Zero Respect' For EDM](https://www.tmz.com/2026/11/16/john-summit-criticizes-grammys-after-snub/)
-- 2026-11-16 14:51 UTC · CBS News · [Raye leads the 2027 Grammy nominations. See the list.](https://www.cbsnews.com/news/grammy-awards-2027-nominations-list/)
-- 2026-11-16 14:54 UTC · WGN (IL) · [Raye leads 2027 Grammy nominations with 11 nods](https://wgntv.com/news/the-weekender/raye-leads-2027-grammy-nominations-with-11-nods/)
-- 2026-11-16 15:18 UTC · The Hill · [‘No Kings’ protest song scores Grammy nomination](https://thehill.com/blogs/in-the-know/6222560-no-kings-grammy-nomination/)
-- 2026-11-16 16:36 UTC · KHOU (TX) · [Beyoncé makes history as the first artist to get 100 Grammy Award nominations](https://www.khou.com/article/news/nation-world/beyonce-grammy-history-100-nominations-morning-dew/507-307bf9f6-36df-4710-ae03-70b04a6a2b72)
-- 2026-11-16 16:36 UTC · WFAA Dallas (TX) · [Beyoncé makes history as the first artist to get 100 Grammy Award nominations](https://www.wfaa.com/article/news/nation-world/beyonce-grammy-history-100-nominations-morning-dew/507-307bf9f6-36df-4710-ae03-70b04a6a2b72)
-- 2026-11-16 16:36 UTC · KING5 Seattle (WA) · [Beyoncé makes history as the first artist to get 100 Grammy Award nominations](https://www.king5.com/article/news/nation-world/beyonce-grammy-history-100-nominations-morning-dew/507-307bf9f6-36df-4710-ae03-70b04a6a2b72)
-
-**Who posted it on Instagram** (5 pages, 43,333 likes, 9 posts)
-
-- [@hollywoodunlocked](https://www.instagram.com/p/Dfzc1nBG9xp/) · 17,259 likes · 1,235 comments · 52 min before first report · HU Staff: Kecia Gayle @kecia.kae Yung Miami is waking up to great news!! The Recording Academy dropped the 2027 Grammy nominations on Monday morning, and Caresha Brownlee’s name is on the ballot for t
-- [@complex](https://www.instagram.com/p/Df0IFltpMI9/) · 3,968 likes · 253 comments · +328 min after first report · No one deserves a GRAMMY nomination more than Wale 💐 It’s been 15 years since he’s received a nod from the Recording Academy, and now, his new album ‘EVERYTHING IS A LOT’ earned him a pair of GRAMMY n
-- [@dailymail](https://www.instagram.com/p/Df144RoD3We/) · 2,312 likes · 403 comments · +1312 min after first report · Queen Bey just made Grammy history! 👑 Beyoncé has become the first artist ever to receive 100 career Grammy nominations, adding another record-breaking achievement to her already legendary career. Her
-- [@clips](https://www.instagram.com/p/Df3b7NLqx5R/) · 2,166 likes · 9 comments · +2177 min after first report · Moneyball (2011) — This biographical sports drama follows Billy Beane, the general manager of the Oakland Athletics baseball team, as he attempts to build a competitive team despite having a limited b
-- [@nytimes](https://www.instagram.com/reel/Df2NUUgjdir/) · 2,124 likes · 226 comments · +1492 min after first report · The Recording Academy revealed nominees for the 2027 Grammy Awards in 100 categories, the largest field since 2011. @popcast reacts to the Best Rap Album nominees, which include music by Ye, formerly 
-
-### 9. Customers report difficulty accessing online services at major US banks
-
-**Score** 143 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
+**Score** 142 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
 
 **Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 4
 
@@ -413,7 +369,7 @@ Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Repor
 - [@hollywoodunlocked](https://www.instagram.com/p/Df2PeFcKZqe/) · 7,335 likes · 1,317 comments · +1263 min after first report · HU Staff: Kecia Gayle @kecia.kae Between the Microsoft meltdown, the grounded planes and the banking apps acting brand new, it’s safe to say a lot of folks are concerned. But on Monday night, Vice Pre
 - [@onlyindade](https://www.instagram.com/p/Df0hSXMoYU8/) · 1,877 likes · 88 comments · +299 min after first report · Did you have issues with your bank account today?💰👀\| #ONLYinDADE *🗞️ Customers of Chase, Bank of America, Wells Fargo and U.S. Bank reported issues accessing their accounts and completing transaction
 
-### 10. Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]
+### 9. Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]
 
 **Score** 140 · **Category** trending · **First seen** 2026-11-16 16:30 UTC · **Last update** 2026-11-18 11:21 UTC
 
@@ -448,13 +404,13 @@ Lead: [Bloody Disgusting — Surreal Point-and-Click Horror Adventure Game ‘En
 - [@fancyyhomess](https://www.instagram.com/reel/Df2n4TiOYJT/) · 116 likes · 0 comments · +1586 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
 - [@marvelmoviefacts](https://www.instagram.com/reel/Df2n_oDv2ql/) · 116 likes · 0 comments · +1587 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
 
-### 11. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
+### 10. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
 
-**Score** 134 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 21:58 UTC
+**Score** 133 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 21:58 UTC
 
-**Status** Confirmed · independent reports: 7 of 32 feeds · official: none · independent newsrooms: 4
+**Status** Confirmed · independent reports: 7 of 31 feeds · official: none · independent newsrooms: 4
 
-**Duplicates collapsed**: 4 of 32 feeds repeat the same report.
+**Duplicates collapsed**: 4 of 31 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
@@ -463,7 +419,7 @@ Lead: [Bloody Disgusting — Surreal Point-and-Click Horror Adventure Game ‘En
 - President Trump blamed the FAA ground stop on old equipment and past administrations. — support: 3
 - President Trump stated he does not take responsibility for the FAA ground stop. — support: 1
 
-> 21 of the 28 independent reports in the cluster cover related updates, not this headline. 32 feeds carry 28 independent reports (the rest are duplicates). 1 key claim stated by a single report: “President Trump stated he does not take responsibility for the FAA gro”
+> 20 of the 27 independent reports in the cluster cover related updates, not this headline. 31 feeds carry 27 independent reports (the rest are duplicates). 1 key claim stated by a single report: “President Trump stated he does not take responsibility for the FAA gro”
 
 President Trump said Monday that he doesn’t take any responsibility for the Federal Aviation Administration’s nationwide ground stop last week, instead blaming the old equipment and past administrations. “I don’t take any responsibility,” he told reporters outside the White House before departing for Asia. “They did a great job — [Transportation] Secretary [Sean] Duffy —…
 
@@ -490,7 +446,7 @@ Lead: [9News Denver (CO) — 'Baffling to me': Aviation expert says FAA's explan
 - [@thedailyshow](https://www.instagram.com/reel/Df1WNW5A-6N/) · 5,031 likes · 74 comments · +1951 min after first report · @jonstewart on Sean Duffy blaming a router: "I can't even order a Crunchwrap Supreme without 2-factor authentication, but somehow, there's a 'Turn Off America' switch somewhere in f**kin Arkansas?"
 - [@nypost](https://www.instagram.com/p/DfxKR_bk9qq/) · 443 likes · 31 comments · 749 min before first report · Transportation Secretary Sean Duffy said that air travel disruptions caused by the FAA’s nationwide ground stop Friday should resolve by the end of the day Monday at the latest. Duffy offered an optim
 
-### 12. Waymo suspends freeway rides nationwide after California DMV order
+### 11. Waymo suspends freeway rides nationwide after California DMV order
 
 **Score** 129 · **State** CA · **First seen** 2026-11-17 19:38 UTC · **Last update** 2026-11-18 21:00 UTC
 
@@ -530,9 +486,9 @@ Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways 
 
 - [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +964 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
 
-### 13. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
+### 12. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
 
-**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-18 23:41 UTC
+**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-19 01:18 UTC
 
 **Status** Confirmed · independent reports: 6 of 7 feeds · official: none · independent newsrooms: 6
 
@@ -570,9 +526,9 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - [@wasted](https://www.instagram.com/p/Df2QniVh0jJ/) · 7,178 likes · 66 comments · +1571 min after first report · 🧐 Grand Theft Auto VI, developed and published by Rockstar Games, is the highly anticipated eighth main entry in the Grand Theft Auto series. Set in the fictional state of Leonida—a sun-soaked, satir
 - [@dexerto](https://www.instagram.com/p/DfzdNA2mxf9/) · 4,287 likes · 51 comments · +3 min after first report · Reddit user u/NakedSnake21 has gone viral for recreating the same photo with three generations of Grand Theft Auto, capturing 18 years of his life in three pictures. He first posed with GTA 4 in 2008 
 
-### 14. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
+### 13. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
 
-**Score** 121 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
+**Score** 120 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
 
 **Status** Confirmed · independent reports: 5 of 10 feeds · official: none · independent newsrooms: 3
 
@@ -610,9 +566,9 @@ Lead: [NBC News — Nvidia board does not intend to reinstate Jensen Huang, chai
 - [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +114 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
 - [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · 202 min before first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 
-### 15. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
+### 14. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
 
-**Score** 113 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-18 20:50 UTC
+**Score** 112 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-18 20:50 UTC
 
 **Status** Confirmed · independent reports: 2 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -647,9 +603,45 @@ Lead: [IGN — Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Me
 - [@markets](https://www.instagram.com/p/Df2V5nNjp7x/) · 0 likes · 4 comments · 443 min before first report · Home Alone 2: Lost in New York is one of the most beloved Christmas movies ever, but some of its secrets might surprise even the biggest fans. From Macaulay Culkin earning a record breaking $4.5 milli
 - [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 1,002 comments · +229 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
 
+### 15. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
+
+**Score** 111 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-19 00:56 UTC
+
+**Status** Confirmed · independent reports: 3 of 7 feeds · official: none · independent newsrooms: 3
+
+**Duplicates collapsed**: 4 of 7 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Raye leads the 2027 Grammy nominations — support: 6
+- Raye received 11 Grammy nominations — support: 1
+- The 2027 Grammy Awards will be held on February 7 in Los Angeles — support: 5
+- The 2027 Grammy Awards will air on ABC — support: 5
+
+> 7 feeds carry 3 independent reports (the rest are duplicates). 1 key claim stated by a single report: “Raye received 11 Grammy nominations”
+
+The 2027 Grammy nominations are in, with Raye leading the pack at 11 nods and women dominating the top categories. Which nominees stood out to you this year?
+
+Lead: [WCPO Cincinnati (OH) — Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more)
+
+**Where it was published**
+
+- 2026-11-16 15:14 UTC · WCPO Cincinnati (OH) · [Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more)
+- 2026-11-16 15:54 UTC · ABC7 LA (CA) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · ABC13 Houston (TX) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc13.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · ABC7 NY (NY) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7ny.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · ABC7 Chicago (IL) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7chicago.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · 6abc Philly (PA) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://6abc.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-17 13:31 UTC · NBC News · [Grammy Nominees Revealed: Olivia Dean, Raye, Rosalía, More](https://www.today.com/video/grammy-snubs-see-the-names-missing-from-nominations-list-273636421884)
+
+**Who posted it on Instagram** (2 pages, 5,396 likes, 3 posts)
+
+- [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · +60 min after first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
+- [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 39 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
+
 ### 16. Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me”
 
-**Score** 110 · **First seen** 2026-11-16 08:54 UTC · **Last update** 2026-11-18 18:50 UTC
+**Score** 109 · **First seen** 2026-11-16 08:54 UTC · **Last update** 2026-11-18 18:50 UTC
 
 **Status** Confirmed · independent reports: 3 of 3 feeds · official: none · independent newsrooms: 2
 
@@ -678,9 +670,47 @@ Lead: [Deadline — Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +1866 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 - [@clips](https://www.instagram.com/p/Dfz2B2YIjNk/) · 9,640 likes · 198 comments · +488 min after first report · Robert Pattinson — Starring in Harry Potter and the Goblet of Fire, Twilight, The Lighthouse, and The Batman, this internationally acclaimed English actor has captivated millions with his transformati
 
-### 17. US officially loses measles elimination status, PAHO says
+### 17. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
 
-**Score** 108 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
+**Score** 107 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 23:30 UTC
+
+**Status** Unverified · independent reports: 1 of 15 feeds · official: none · independent newsrooms: 0
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The New York Post is celebrating its 225th anniversary. — support: 5
+- The New York Post is the nation's oldest continuously published daily newspaper. — support: 1
+
+> One independent report so far; not independently confirmed. 14 of the 15 independent reports in the cluster cover related updates, not this headline. 1 key claim stated by a single report: “The New York Post is the nation's oldest continuously published daily ”
+
+Carly Stern, Wellness Editor at the New York Post, sits down with Dr. Caren Behar, Co-Director of the Mignone Women’s Health Collaborative and Medical Director at NYU Langone’s Joan H. Tisch Center for Women’s Health, to separate health fact from social media fiction. From quick “movement snacks” and better sleep habits to supplements and viral...
+
+Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/)
+
+**Where it was published**
+
+- 2026-11-16 11:00 UTC · New York Post · [Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/)
+- 2026-11-16 11:00 UTC · New York Post · [Happy 225th birthday to The New York Post, the paper that shaped a city, and the world](https://nypost.com/2026/11/16/us-news/happy-225th-birthday-to-the-new-york-post-the-paper-that-shaped-a-city-and-the-world/)
+- 2026-11-16 11:00 UTC · New York Post · [Celebrating the Back Page, that holy land of sports, on The New York Post’s 225th](https://nypost.com/2026/11/16/sports/celebrating-the-back-page-that-holy-land-of-sports-on-the-new-york-posts-225th/)
+- 2026-11-16 11:00 UTC · New York Post · [The Post turns 225 — here’s how we’ll hit new heights next](https://nypost.com/2026/11/16/opinion/the-post-turns-225-heres-how-well-hit-new-heights-next/)
+- 2026-11-16 11:00 UTC · New York Post · [Entertainers, sports stars and business titans wish The New York Post a happy 225th birthday](https://nypost.com/2026/11/16/us-news/entertainers-sports-stars-and-business-titans-wish-the-new-york-post-a-happy-225th-birthday/)
+- 2026-11-16 11:00 UTC · New York Post · [President Trump wishes happy 225th anniversary to The New York Post as politicians unite in love for iconic paper](https://nypost.com/2026/11/16/us-news/president-trump-wishes-happy-225th-anniversary-to-the-new-york-post-as-politicians-unite-in-love-for-iconic-paper/)
+- 2026-11-16 15:01 UTC · NY Post Sports · [New York’s biggest sports stars celebrate 225 years of The Post](https://nypost.com/2026/11/16/sports/nys-biggest-sports-stars-celebrate-225-years-of-the-post/)
+- 2026-11-17 10:29 UTC · Yahoo Sports · [“Too Expensive for the Small-Market Yankees” – Fans React As NY Step Aside While Mets, Dodgers and More Pursue 32-Year-Old Pitcher](https://sports.yahoo.com/articles/too-expensive-small-market-yankees-102951129.html)
+- 2026-11-17 11:30 UTC · New York Post · [The Post’s 225 icons: How Lorne Michaels turned ‘SNL’ into an institution](https://nypost.com/2026/11/17/us-news/the-posts-225-icons-how-lorne-michaels-turned-snl-into-an-institution/)
+- 2026-11-17 17:11 UTC · New York Post · [America is under attack… | The Low Down](https://nypost.com/video/america-is-under-attack-the-low-down/)
+- 2026-11-17 21:19 UTC · New York Post · [Readers celebrate 225 years of The Post: Letters to the Editor — Nov. 18, 2026](https://nypost.com/2026/11/17/opinion/readers-celebrate-225-years-of-the-post-letters/)
+- 2026-11-18 11:30 UTC · New York Post · [The Post’s 225 icons: The Bow Bridge offers rare calm in the heart of NYC](https://nypost.com/2026/11/18/us-news/the-posts-225-icons-the-bow-bridge-offers-rare-calm-in-the-heart-of-nyc/)
+
+**Who posted it on Instagram** (3 pages, 19,484 likes, 4 posts)
+
+- [@theneighborhoodtalk](https://www.instagram.com/p/Df0HlJLx0rC/) · 15,859 likes · 2,487 comments · +515 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, customers at Chase, Bank of America, Capital One and Wells Fargo began reporting outages, with some saying they’re unable to access their banking
+- [@pagesix](https://www.instagram.com/p/Df0JgnIt00m/) · 3,072 likes · 315 comments · +533 min after first report · Martha Stewart and Gov. Kathy Hochul join Editor-in-Chief Keith Poole to light the Empire State Building for New York Post’s 225 Anniversary 🗞️
+- [@nypost](https://www.instagram.com/p/Df0j6-8tFWo/) · 553 likes · 29 comments · +763 min after first report · Martha Stewart, Governor Kathy Hochul and New York Post Editor-in-Chief Keith Poole flipped my switch, then enjoyed the best view of New York City from my 86th and 102nd Floor Observation Decks. The o
+
+### 18. US officially loses measles elimination status, PAHO says
+
+**Score** 107 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
 
 **Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 6
 
@@ -718,45 +748,47 @@ Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threa
 
 - [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 433 likes · 95 comments · +3090 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
 
-### 18. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
+### 19. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
 
-**Score** 108 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 23:30 UTC
+**Score** 107 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-19 00:42 UTC
 
-**Status** Unverified · independent reports: 1 of 17 feeds · official: none · independent newsrooms: 0
+**Status** Confirmed · independent reports: 22 of 28 feeds · official: none · independent newsrooms: 2
+
+**Duplicates collapsed**: 6 of 28 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- The New York Post is celebrating its 225th anniversary. — support: 5
-- The New York Post is the nation's oldest continuously published daily newspaper. — support: 1
+- Filmmaker Ray Tintori has died at the age of 43. — support: 6
+- Ray Tintori was the boyfriend of Saturday Night Live alum Heidi Gardner. — support: 6
+- The New York City Office of Chief Medical Examiner is investigating the death of Ray Tintori. — support: 3
+- The cause and manner of Ray Tintori's death are currently pending or undetermined. — support: 3
 
-> One independent report so far; not independently confirmed. 16 of the 17 independent reports in the cluster cover related updates, not this headline. 1 key claim stated by a single report: “The New York Post is the nation's oldest continuously published daily ”
+> 28 feeds carry 22 independent reports (the rest are duplicates).
 
-Carly Stern, Wellness Editor at the New York Post, sits down with Dr. Caren Behar, Co-Director of the Mignone Women’s Health Collaborative and Medical Director at NYU Langone’s Joan H. Tisch Center for Women’s Health, to separate health fact from social media fiction. From quick “movement snacks” and better sleep habits to supplements and viral...
+Saturday Night Live alum Heidi Gardner‘s boyfriend, filmmaker Ray Tintori, has reportedly died. He was 43. The New York City Office of Chief Medical Examiner confirmed to TMZ on Monday, November 16, that Tintori’s death is currently under investigation. A cause of death has not yet been determined by investigators. Us has reached out to […]
 
-Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/)
+Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.com/2026/11/16/ray-tintori-dead/)
 
 **Where it was published**
 
-- 2026-11-16 11:00 UTC · New York Post · [Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/)
-- 2026-11-16 11:00 UTC · New York Post · [Happy 225th birthday to The New York Post, the paper that shaped a city, and the world](https://nypost.com/2026/11/16/us-news/happy-225th-birthday-to-the-new-york-post-the-paper-that-shaped-a-city-and-the-world/)
-- 2026-11-16 11:00 UTC · New York Post · [Celebrating the Back Page, that holy land of sports, on The New York Post’s 225th](https://nypost.com/2026/11/16/sports/celebrating-the-back-page-that-holy-land-of-sports-on-the-new-york-posts-225th/)
-- 2026-11-16 11:00 UTC · New York Post · [The Post turns 225 — here’s how we’ll hit new heights next](https://nypost.com/2026/11/16/opinion/the-post-turns-225-heres-how-well-hit-new-heights-next/)
-- 2026-11-16 11:00 UTC · New York Post · [Entertainers, sports stars and business titans wish The New York Post a happy 225th birthday](https://nypost.com/2026/11/16/us-news/entertainers-sports-stars-and-business-titans-wish-the-new-york-post-a-happy-225th-birthday/)
-- 2026-11-16 11:00 UTC · New York Post · [President Trump wishes happy 225th anniversary to The New York Post as politicians unite in love for iconic paper](https://nypost.com/2026/11/16/us-news/president-trump-wishes-happy-225th-anniversary-to-the-new-york-post-as-politicians-unite-in-love-for-iconic-paper/)
-- 2026-11-16 15:01 UTC · NY Post Sports · [New York’s biggest sports stars celebrate 225 years of The Post](https://nypost.com/2026/11/16/sports/nys-biggest-sports-stars-celebrate-225-years-of-the-post/)
-- 2026-11-17 10:29 UTC · Yahoo Sports · [“Too Expensive for the Small-Market Yankees” – Fans React As NY Step Aside While Mets, Dodgers and More Pursue 32-Year-Old Pitcher](https://sports.yahoo.com/articles/too-expensive-small-market-yankees-102951129.html)
-- 2026-11-17 11:30 UTC · New York Post · [The Post’s 225 icons: How Lorne Michaels turned ‘SNL’ into an institution](https://nypost.com/2026/11/17/us-news/the-posts-225-icons-how-lorne-michaels-turned-snl-into-an-institution/)
-- 2026-11-17 17:11 UTC · New York Post · [America is under attack… | The Low Down](https://nypost.com/video/america-is-under-attack-the-low-down/)
-- 2026-11-17 21:19 UTC · New York Post · [Readers celebrate 225 years of The Post: Letters to the Editor — Nov. 18, 2026](https://nypost.com/2026/11/17/opinion/readers-celebrate-225-years-of-the-post-letters/)
-- 2026-11-17 22:13 UTC · New York Post · [Teen illegally scales top of iconic NYC skyscraper, cops say — then gives Post a lame excuse for crime](https://nypost.com/2026/11/17/us-news/teen-illegally-scales-top-of-iconic-nyc-skyscraper-cops-say-then-gives-post-a-lame-excuse-for-crime/)
+- 2026-11-17 00:02 UTC · TMZ · ['SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.com/2026/11/16/ray-tintori-dead/)
+- 2026-11-17 00:52 UTC · Just Jared · [‘SNL’ Alum Heidi Gardner’s Boyfriend, Filmmaker Ray Tintori, Dies at 43](https://www.justjared.com/2026/11/16/snl-alum-heidi-gardners-boyfriend-filmmaker-ray-tintori-dies-at-43/)
+- 2026-11-17 01:24 UTC · E! News · [SNL Alum Heidi Gardner’s Boyfriend Ray Tintori Dead at 43](https://www.eonline.com/news/1438165/ray-tintori-dead-heidi-gardners-boyfriend-dies-at-43?cmpid=rss-syndicate-genericrss-us-top_stories)
+- 2026-11-17 02:14 UTC · Page Six · [Heidi Gardner’s boyfriend Ray Tintori shared emotional tribute to ‘angel’ SNL star before death at 43](https://pagesix.com/2026/11/16/celebrity-news/heidi-gardners-boyfriend-ray-tintori-shared-emotional-tribute-to-angel-snl-star-before-death-at-43/)
+- 2026-11-17 02:26 UTC · Us Weekly · ['SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43](https://www.usmagazine.com/celebrity-news/news/snl-alum-heidi-gardners-boyfriend-ray-tintori-dead-at-43/)
+- 2026-11-17 02:41 UTC · Daily Mail US · [Saturday Night Live alum Heidi Gardner's boyfriend Ray Tintori dies at 43 as probe is launched](https://www.dailymail.com/tvshowbiz/article-16298179/heidi-gardner-boyfriend-died-ray-tintori-snl.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 02:57 UTC · Page Six · [See ‘SNL’ alum Heidi Gardner’s last photos with boyfriend Ray Tintori before his death at 43](https://pagesix.com/2026/11/16/celebrity-news/see-snl-alum-heidi-gardners-last-photos-with-boyfriend-ray-tintori-before-his-death-at-43/)
+- 2026-11-17 13:58 UTC · Page Six · [Who was Ray Tintori? Meet ‘SNL’ star Heidi Gardner’s late boyfriend after tragic death at 43](https://pagesix.com/celebrity-news/who-was-ray-tintori/)
+- 2026-11-17 15:02 UTC · Us Weekly · [Who Is Ray Tintori? What to Know About Heidi Gardner's Boyfriend After Death](https://www.usmagazine.com/celebrity-news/news/who-is-heidi-gardners-boyfriend-ray-tintori-details-after-death/)
+- 2026-11-17 15:15 UTC · New York Post · [Mother of Heidi Gardner’s late boyfriend, Ray Tintori, tragically died one year before his passing](https://pagesix.com/2026/11/17/celebrity-news/mother-of-heidi-gardners-late-boyfriend-ray-tintori-died-one-year-before-his-passing/)
+- 2026-11-17 16:52 UTC · New York Post · [Heidi Gardner leaning on friends amid shocking death of boyfriend Ray Tintori at 43](https://pagesix.com/2026/11/17/celebrity-news/heidi-gardner-leaning-on-friends-amid-shocking-death-of-boyfriend-ray-tintori-at-43/)
+- 2026-11-17 18:37 UTC · New York Post · [Tragic new details in Heidi Gardner’s boyfriend Ray Tintori’s sudden death revealed](https://pagesix.com/2026/11/17/celebrity-news/tragic-new-details-in-heidi-gardners-boyfriend-ray-tintoris-sudden-death-revealed/)
 
-**Who posted it on Instagram** (3 pages, 19,484 likes, 4 posts)
+**Who posted it on Instagram** (1 pages, 3,240 likes, 1 posts)
 
-- [@theneighborhoodtalk](https://www.instagram.com/p/Df0HlJLx0rC/) · 15,859 likes · 2,487 comments · +515 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, customers at Chase, Bank of America, Capital One and Wells Fargo began reporting outages, with some saying they’re unable to access their banking
-- [@pagesix](https://www.instagram.com/p/Df0JgnIt00m/) · 3,072 likes · 315 comments · +533 min after first report · Martha Stewart and Gov. Kathy Hochul join Editor-in-Chief Keith Poole to light the Empire State Building for New York Post’s 225 Anniversary 🗞️
-- [@nypost](https://www.instagram.com/p/Df0j6-8tFWo/) · 553 likes · 29 comments · +763 min after first report · Martha Stewart, Governor Kathy Hochul and New York Post Editor-in-Chief Keith Poole flipped my switch, then enjoyed the best view of New York City from my 86th and 102nd Floor Observation Decks. The o
+- [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
 
-### 19. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
+### 20. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
 
 **Score** 107 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-18 10:43 UTC
 
@@ -784,9 +816,9 @@ Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tir
 - [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 8,336 likes · 30 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
 - [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 16 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
 
-### 20. Bully judge punished over video of him screaming at courthouse worker after his computer crashed
+### 21. Bully judge punished over video of him screaming at courthouse worker after his computer crashed
 
-**Score** 107 · **Category** accidents · **State** TX · **First seen** 2026-11-16 17:45 UTC · **Last update** 2026-11-19 00:03 UTC
+**Score** 106 · **Category** accidents · **State** TX · **First seen** 2026-11-16 17:45 UTC · **Last update** 2026-11-19 00:03 UTC
 
 **Status** Developing · independent reports: 2 of 13 feeds · official: none · independent newsrooms: 1
 
@@ -822,46 +854,6 @@ Lead: [ABC13 Houston (TX) — Texas officials issue warning to Harris County jud
 **Who posted it on Instagram** (1 pages, 8,978 likes, 1 posts)
 
 - [@theneighborhoodtalk](https://www.instagram.com/p/Df21zzaMwPW/) · 8,978 likes · 1,118 comments · +1632 min after first report · TNHT Staff: @fashionswarrior _________ Neighbors, things got so heated in a Georgia courtroom that a prosecutor challenged Brian Steel to take it outside by the courthouse Christmas tree! According to
-
-### 21. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
-
-**Score** 106 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-18 21:16 UTC
-
-**Status** Confirmed · independent reports: 21 of 27 feeds · official: none · independent newsrooms: 2
-
-**Duplicates collapsed**: 6 of 27 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Filmmaker Ray Tintori has died at the age of 43. — support: 6
-- Ray Tintori was the boyfriend of Saturday Night Live alum Heidi Gardner. — support: 6
-- The New York City Office of Chief Medical Examiner is investigating the death of Ray Tintori. — support: 3
-- The cause and manner of Ray Tintori's death are currently pending or undetermined. — support: 3
-
-> 27 feeds carry 21 independent reports (the rest are duplicates).
-
-Saturday Night Live alum Heidi Gardner‘s boyfriend, filmmaker Ray Tintori, has reportedly died. He was 43. The New York City Office of Chief Medical Examiner confirmed to TMZ on Monday, November 16, that Tintori’s death is currently under investigation. A cause of death has not yet been determined by investigators. Us has reached out to […]
-
-Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.com/2026/11/16/ray-tintori-dead/)
-
-**Where it was published**
-
-- 2026-11-17 00:02 UTC · TMZ · ['SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.com/2026/11/16/ray-tintori-dead/)
-- 2026-11-17 00:52 UTC · Just Jared · [‘SNL’ Alum Heidi Gardner’s Boyfriend, Filmmaker Ray Tintori, Dies at 43](https://www.justjared.com/2026/11/16/snl-alum-heidi-gardners-boyfriend-filmmaker-ray-tintori-dies-at-43/)
-- 2026-11-17 01:24 UTC · E! News · [SNL Alum Heidi Gardner’s Boyfriend Ray Tintori Dead at 43](https://www.eonline.com/news/1438165/ray-tintori-dead-heidi-gardners-boyfriend-dies-at-43?cmpid=rss-syndicate-genericrss-us-top_stories)
-- 2026-11-17 02:14 UTC · Page Six · [Heidi Gardner’s boyfriend Ray Tintori shared emotional tribute to ‘angel’ SNL star before death at 43](https://pagesix.com/2026/11/16/celebrity-news/heidi-gardners-boyfriend-ray-tintori-shared-emotional-tribute-to-angel-snl-star-before-death-at-43/)
-- 2026-11-17 02:26 UTC · Us Weekly · ['SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43](https://www.usmagazine.com/celebrity-news/news/snl-alum-heidi-gardners-boyfriend-ray-tintori-dead-at-43/)
-- 2026-11-17 02:41 UTC · Daily Mail US · [Saturday Night Live alum Heidi Gardner's boyfriend Ray Tintori dies at 43 as probe is launched](https://www.dailymail.com/tvshowbiz/article-16298179/heidi-gardner-boyfriend-died-ray-tintori-snl.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-17 02:57 UTC · Page Six · [See ‘SNL’ alum Heidi Gardner’s last photos with boyfriend Ray Tintori before his death at 43](https://pagesix.com/2026/11/16/celebrity-news/see-snl-alum-heidi-gardners-last-photos-with-boyfriend-ray-tintori-before-his-death-at-43/)
-- 2026-11-17 13:58 UTC · Page Six · [Who was Ray Tintori? Meet ‘SNL’ star Heidi Gardner’s late boyfriend after tragic death at 43](https://pagesix.com/celebrity-news/who-was-ray-tintori/)
-- 2026-11-17 15:02 UTC · Us Weekly · [Who Is Ray Tintori? What to Know About Heidi Gardner's Boyfriend After Death](https://www.usmagazine.com/celebrity-news/news/who-is-heidi-gardners-boyfriend-ray-tintori-details-after-death/)
-- 2026-11-17 15:15 UTC · New York Post · [Mother of Heidi Gardner’s late boyfriend, Ray Tintori, tragically died one year before his passing](https://pagesix.com/2026/11/17/celebrity-news/mother-of-heidi-gardners-late-boyfriend-ray-tintori-died-one-year-before-his-passing/)
-- 2026-11-17 16:52 UTC · New York Post · [Heidi Gardner leaning on friends amid shocking death of boyfriend Ray Tintori at 43](https://pagesix.com/2026/11/17/celebrity-news/heidi-gardner-leaning-on-friends-amid-shocking-death-of-boyfriend-ray-tintori-at-43/)
-- 2026-11-17 18:37 UTC · New York Post · [Tragic new details in Heidi Gardner’s boyfriend Ray Tintori’s sudden death revealed](https://pagesix.com/2026/11/17/celebrity-news/tragic-new-details-in-heidi-gardners-boyfriend-ray-tintoris-sudden-death-revealed/)
-
-**Who posted it on Instagram** (1 pages, 3,240 likes, 1 posts)
-
-- [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
 
 ### 22. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
 
@@ -926,7 +918,7 @@ Lead: [TMZ — Paris Hilton Meets with House Speaker Mike Johnson Amid Fight Aga
 
 ### 24. Apple hit by widespread outages as tech problems continue
 
-**Score** 105 · **Category** weather · **First seen** 2026-11-17 15:45 UTC · **Last update** 2026-11-18 02:17 UTC
+**Score** 104 · **Category** weather · **First seen** 2026-11-17 15:45 UTC · **Last update** 2026-11-18 02:17 UTC
 
 **Status** Confirmed · independent reports: 2 of 8 feeds · official: none · independent newsrooms: 2
 
