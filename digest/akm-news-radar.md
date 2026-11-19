@@ -1,34 +1,34 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 03:25 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 04:26 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
 | 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 230 | Confirmed | 22 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
-| 2 | NASA Voyager Reaches One Full Light Day From Earth | 187 | Confirmed | 20 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
-| 3 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 186 | Confirmed | 23 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
-| 4 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 179 | Confirmed | 25 | 3 | [Daily Star Weird](https://www.dailystar.co.uk/news/latest-news/biohacker-bryan-johnson-hits-back-37880882) |
-| 5 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 147 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
-| 6 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 146 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
-| 7 | Customers report difficulty accessing online services at major US banks | 142 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
-| 8 | Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer] | 139 | Unverified | 1 | 22 | [Bloody Disgusting](https://bloody-disgusting.com/?p=3975814) |
+| 2 | NASA Voyager Reaches One Full Light Day From Earth | 192 | Confirmed | 21 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
+| 3 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 182 | Confirmed | 22 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
+| 4 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 178 | Confirmed | 25 | 3 | [Daily Star Weird](https://www.dailystar.co.uk/news/latest-news/biohacker-bryan-johnson-hits-back-37880882) |
+| 5 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 146 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
+| 6 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 145 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
+| 7 | Customers report difficulty accessing online services at major US banks | 141 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
+| 8 | Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer] | 138 | Unverified | 1 | 22 | [Bloody Disgusting](https://bloody-disgusting.com/?p=3975814) |
 | 9 | Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously" | 136 | Confirmed | 10 | 4 | [Daily Mail US](https://www.dailymail.com/news/article-16298071/Iran-dirty-bomb-attack-Trump-administration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
 | 10 | Waymo suspends freeway rides nationwide after California DMV order | 132 | Confirmed | 20 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
 | 11 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 129 | Confirmed | 14 | 2 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
 | 12 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 14 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
-| 13 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 121 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
-| 14 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 120 | Confirmed | 9 | 4 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
-| 15 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 112 | Confirmed | 6 | 5 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
-| 16 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 111 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
-| 17 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 109 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
-| 18 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 107 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
-| 19 | US officially loses measles elimination status, PAHO says | 106 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
-| 20 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 106 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
-| 21 | Miami Heat Reveal “Vice City” Court For GTA VI Game Release | 106 | Confirmed | 4 | 5 | [GameSpot](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/) |
-| 22 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 106 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
-| 23 | Bully judge punished over video of him screaming at courthouse worker after his computer crashed | 105 | Developing | 8 | 1 | [ABC13 Houston (TX)](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/) |
-| 24 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 104 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
-| 25 | Mamdani disbanding controversial NYPD unit | 103 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
+| 13 | Ousted Nvidia CEO Jensen Huang Breaks His Silence, Says He Would Come Back | 124 | Confirmed | 5 | 10 | [Daily Mail US](https://www.dailymail.com/yourmoney/article-16295409/Nvidia-boss-Collette-Kress-AI-financing-deals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
+| 14 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 120 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
+| 15 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 111 | Confirmed | 6 | 5 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
+| 16 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 110 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
+| 17 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 108 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
+| 18 | US officially loses measles elimination status, PAHO says | 106 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
+| 19 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 106 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
+| 20 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 106 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
+| 21 | Bully judge punished over video of him screaming at courthouse worker after his computer crashed | 105 | Developing | 8 | 1 | [ABC13 Houston (TX)](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/) |
+| 22 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 103 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
+| 23 | Mamdani disbanding controversial NYPD unit | 103 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
+| 24 | Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely” | 100 | Confirmed | 9 | 3 | [ABC News](https://abcnews.com/video/138191402/) |
+| 25 | Elon Musk Blasts ‘SNL’ For Jeremy Culhane’s Impression Of Him: “They Need To Try Harder” | 100 | Confirmed | 4 | 3 | [Variety](https://variety.com/2026/tv/news/elon-musk-jeremy-culhane-snl-impression-1236948969/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -82,11 +82,11 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 
 ### 2. NASA Voyager Reaches One Full Light Day From Earth
 
-**Score** 187 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-18 23:42 UTC
+**Score** 192 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 03:55 UTC
 
-**Status** Confirmed · independent reports: 9 of 22 feeds · official: none · independent newsrooms: 7
+**Status** Confirmed · independent reports: 9 of 23 feeds · official: none · independent newsrooms: 7
 
-**Duplicates collapsed**: 9 of 22 feeds repeat the same report.
+**Duplicates collapsed**: 9 of 23 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
@@ -94,7 +94,7 @@ Lead: [Variety — Royal Family Embraces Robert Pattinson’s 007 Casting: ‘We
 - Voyager 1 will reach a distance of one light-day from Earth — support: 6
 - Voyager 1 will reach the one light-day milestone on November 18 — support: 1
 
-> 4 of the 13 independent reports in the cluster cover related updates, not this headline. 22 feeds carry 13 independent reports (the rest are duplicates). Report 6 specifies the date of the milestone as November 18 while reports 1 through 5 do not provide a date. 1 key claim stated by a single report: “Voyager 1 will reach the one light-day milestone on November 18”
+> 5 of the 14 independent reports in the cluster cover related updates, not this headline. 23 feeds carry 14 independent reports (the rest are duplicates). Report 6 specifies the date of the milestone as November 18 while reports 1 through 5 do not provide a date. 1 key claim stated by a single report: “Voyager 1 will reach the one light-day milestone on November 18”
 
 In 1977, NASA launched Voyager 1, a robotic space probe built to explore the farthest reaches of our solar system.
 
@@ -122,9 +122,9 @@ Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exac
 
 ### 3. Trump heads to Asia ahead of high-stakes meeting with Xi and Putin
 
-**Score** 186 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-19 02:32 UTC
+**Score** 182 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-19 03:47 UTC
 
-**Status** Confirmed · independent reports: 31 of 64 feeds · official: none · independent newsrooms: 28
+**Status** Confirmed · independent reports: 31 of 65 feeds · official: none · independent newsrooms: 28
 
 **Wire copies collapsed**: Associated Press ×6; CBS News ×2.
 
@@ -135,7 +135,7 @@ Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exac
 - President Trump departed for his Asia trip on Monday. — support: 1
 - Air Force One diverted its refueling stop in Alaska from Anchorage to Fairbanks due to weather. — support: 1
 
-> 19 of the 50 independent reports in the cluster cover related updates, not this headline. 64 feeds carry 50 independent reports (wire copies: Associated Press, CBS News). Reports differ on the specific nature of the meetings, with some describing them as summits or economic deals and one report mentioning a potential nuclear summit. 2 key claims stated by a single report: “President Trump departed for his Asia trip on Monday.”; “Air Force One diverted its refueling stop in Alaska from Anchorage to ”
+> 20 of the 51 independent reports in the cluster cover related updates, not this headline. 65 feeds carry 51 independent reports (wire copies: Associated Press, CBS News). Reports differ on the specific nature of the meetings, with some describing them as summits or economic deals and one report mentioning a potential nuclear summit. 2 key claims stated by a single report: “President Trump departed for his Asia trip on Monday.”; “Air Force One diverted its refueling stop in Alaska from Anchorage to ”
 
 Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts Xi Jinping and Vladimir…
 
@@ -164,7 +164,7 @@ Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy p
 
 ### 4. A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city
 
-**Score** 179 · **Category** trending · **First seen** 2026-11-16 11:21 UTC · **Last update** 2026-11-18 14:08 UTC
+**Score** 178 · **Category** trending · **First seen** 2026-11-16 11:21 UTC · **Last update** 2026-11-18 14:08 UTC
 
 **Status** Confirmed · independent reports: 9 of 27 feeds · official: none · independent newsrooms: 9
 
@@ -206,7 +206,7 @@ Lead: [Daily Star Weird — Biohacker Bryan Johnson hits back after Pope slams r
 
 ### 5. Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!
 
-**Score** 147 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 21:35 UTC
+**Score** 146 · **Category** trending · **First seen** 2026-11-17 00:32 UTC · **Last update** 2026-11-18 21:35 UTC
 
 **Status** Confirmed · independent reports: 6 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -243,7 +243,7 @@ Lead: [Variety — Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Jo
 
 ### 6. ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US | What to know
 
-**Score** 146 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
+**Score** 145 · **First seen** 2026-11-16 19:47 UTC · **Last update** 2026-11-18 13:53 UTC
 
 **Status** Confirmed · independent reports: 11 of 22 feeds · official: none · independent newsrooms: 7
 
@@ -284,7 +284,7 @@ Lead: [WCPO Cincinnati (OH) — FEMA to conduct nationwide Emergency Alert Syste
 
 ### 7. Customers report difficulty accessing online services at major US banks
 
-**Score** 142 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
+**Score** 141 · **First seen** 2026-11-16 18:20 UTC · **Last update** 2026-11-18 18:58 UTC
 
 **Status** Confirmed · independent reports: 7 of 19 feeds · official: none · independent newsrooms: 4
 
@@ -328,7 +328,7 @@ Lead: [TMZ — Chase, Bank of America, Wells Fargo and U.S. Bank Users All Repor
 
 ### 8. Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer]
 
-**Score** 139 · **Category** trending · **First seen** 2026-11-16 16:30 UTC · **Last update** 2026-11-18 11:21 UTC
+**Score** 138 · **Category** trending · **First seen** 2026-11-16 16:30 UTC · **Last update** 2026-11-18 11:21 UTC
 
 **Status** Unverified · independent reports: 1 of 2 feeds · official: none · independent newsrooms: 0
 
@@ -525,9 +525,47 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - [@wasted](https://www.instagram.com/p/Df2QniVh0jJ/) · 7,178 likes · 66 comments · +1571 min after first report · 🧐 Grand Theft Auto VI, developed and published by Rockstar Games, is the highly anticipated eighth main entry in the Grand Theft Auto series. Set in the fictional state of Leonida—a sun-soaked, satir
 - [@dexerto](https://www.instagram.com/p/DfzdNA2mxf9/) · 4,287 likes · 51 comments · +3 min after first report · Reddit user u/NakedSnake21 has gone viral for recreating the same photo with three generations of Grand Theft Auto, capturing 18 years of his life in three pictures. He first posed with GTA 4 in 2008 
 
-### 13. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
+### 13. Ousted Nvidia CEO Jensen Huang Breaks His Silence, Says He Would Come Back
 
-**Score** 121 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-19 02:40 UTC
+**Score** 124 · **First seen** 2026-11-16 09:31 UTC · **Last update** 2026-11-18 22:16 UTC
+
+**Status** Confirmed · independent reports: 5 of 6 feeds · official: none · independent newsrooms: 3
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Jensen Huang resigned as the CEO of Nvidia. — support: 4
+- Jensen Huang stated he is willing to return as Nvidia CEO. — support: 3
+- The SEC has launched an investigation into Nvidia. — support: 2
+- Jensen Huang admitted to an affair with a person alleged to be a Chinese spy. — support: 3
+- Colette Kress is the interim CEO of Nvidia. — support: 1
+
+> Reports disagree on whether Jensen Huang resigned or was ousted from his position as CEO. 1 key claim stated by a single report: “Colette Kress is the interim CEO of Nvidia.”
+
+Jensen Huang, the co-founder of Nvidia who was recently ousted as CEO after he admitted to having an affair with someone that US intelligence believes could by a spy for China, has now said he is open to returning to the company. In his first public statement since his resignation from Nvidia, Huang told The Wall Street Journal that he is aware of the "outpouring of calls" from Nvidia employees, investors, business…
+
+Lead: [Daily Mail US — How Nvidia's new boss is set to drastically change AI as she stops 'open checkbook' deals after Jensen Huang's honeytrap affair scandal](https://www.dailymail.com/yourmoney/article-16295409/Nvidia-boss-Collette-Kress-AI-financing-deals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+
+**Where it was published**
+
+- 2026-11-16 09:31 UTC · Daily Mail US · [How Nvidia's new boss is set to drastically change AI as she stops 'open checkbook' deals after Jensen Huang's honeytrap affair scandal](https://www.dailymail.com/yourmoney/article-16295409/Nvidia-boss-Collette-Kress-AI-financing-deals.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 16:09 UTC · The Verge · [Jensen Huang says he’s willing to return as Nvidia CEO](https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement)
+- 2026-11-17 16:17 UTC · Axios · [Jensen Huang says he'd be "honored" to return as Nvidia CEO](https://www.axios.com/2026/11/17/jensen-huang-nvidia-ceo-return-earnings)
+- 2026-11-17 16:41 UTC · GameSpot · [Ousted Nvidia CEO Jensen Huang Breaks His Silence, Says He Would Come Back](https://www.gamespot.com/articles/ousted-nvidia-ceo-jensen-huang-breaks-his-silence-says-he-would-come-back/)
+- 2026-11-17 21:30 UTC · Daily Mail US · [Nvidia posts huge earnings win despite philandering disgraced CEO Jensen Huang's affair scandal... and now an SEC investigation](https://www.dailymail.com/yourmoney/article-16300749/sec-investigation-nvidia-quarter-2026-earnings-kress-huang.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 21:48 UTC · TechCrunch · [SEC reportedly investigating Nvidia amid Huang exit](https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/)
+
+**Who posted it on Instagram** (10 pages, 232,332 likes, 13 posts)
+
+- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 162,263 likes · 1,433 comments · +1862 min after first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
+- [@fboy](https://www.instagram.com/p/Df2MPetxZ-h/) · 40,095 likes · 341 comments · +1408 min after first report · Dakota Johnson revealed that she can sleep up to 14 HOURS a day, and people are saying the real secret to her beauty is being a MILLIONAIRE. 😭💀 In a 2023 interview with The Wall Street Journal, the ac
+- [@worldstar](https://www.instagram.com/p/Df2T3ZlG9wW/) · 16,142 likes · 555 comments · +1828 min after first report · #WorldstarBirthdays - Happy 84th Birthday to the legendary Martin Scorsese! 🐐🔥 One of the greatest filmmakers of all time, Scorsese has given us timeless classics like Goodfellas, Raging Bull, Casino,
+- [@nypost](https://www.instagram.com/p/DfzrnDQEyR8/) · 6,532 likes · 148 comments · +478 min after first report · Johnny Depp turns to the Bahamas to experience a private life. During an interview with the Wall Street Journal, Depp opened up about craving privacy and not being able to have it in the United States
+- [@clips](https://www.instagram.com/p/DfycpxjsQ_i/) · 4,657 likes · 44 comments · 332 min before first report · The Wolf of Wall Street (2013) — This biographical crime comedy follows Jordan Belfort, an ambitious stockbroker who builds a multimillion-dollar empire through fraud and corruption. As his wealth gro
+- [@dailymail](https://www.instagram.com/p/Df4Un1wDpzS/) · 836 likes · 30 comments · +2954 min after first report · Tech giant Nvidia has forecast $130 billion in quarterly revenue, beating analyst expectations, as its board begins searching for a permanent CEO following Jensen Huang’s departure. The board says it 
+
+### 14. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
+
+**Score** 120 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-19 02:40 UTC
 
 **Status** Confirmed · independent reports: 3 of 7 feeds · official: none · independent newsrooms: 3
 
@@ -561,49 +599,9 @@ Lead: [WCPO Cincinnati (OH) — Raye leads 2027 Grammy nominations, followed by 
 - [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · +60 min after first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
 - [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 39 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
 
-### 14. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
-
-**Score** 120 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
-
-**Status** Confirmed · independent reports: 5 of 10 feeds · official: none · independent newsrooms: 3
-
-**Wire copies collapsed**: NBC News ×5.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Nvidia board chair Harvey Jones stated the board does not intend to reinstate Jensen Huang as CEO. — support: 6
-- Jensen Huang resigned from his position as CEO of Nvidia. — support: 5
-- Colette Kress is serving as the interim CEO of Nvidia. — support: 1
-
-> 10 feeds carry 6 independent reports (wire copies: NBC News). 1 key claim stated by a single report: “Colette Kress is serving as the interim CEO of Nvidia.”
-
-Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice […]
-
-Lead: [NBC News — Nvidia board does not intend to reinstate Jensen Huang, chairman says](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600)
-
-**Where it was published**
-
-- 2026-11-17 22:27 UTC · NBC News · [Nvidia board does not intend to reinstate Jensen Huang, chairman says](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600)
-- 2026-11-17 22:32 UTC · The Verge · [Read everything that Nvidia’s board chair had to say about Jensen Huang](https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang)
-- 2026-11-17 22:45 UTC · KING5 Seattle (WA) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.king5.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
-- 2026-11-17 22:45 UTC · KHOU (TX) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.khou.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
-- 2026-11-17 22:45 UTC · WFAA Dallas (TX) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.wfaa.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
-- 2026-11-17 22:45 UTC · 9News Denver (CO) · [Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO](https://www.9news.com/article/news/nation-world/nvidia-board-not-reinstate-jensen-huang-ceo/507-c7ed44c2-547e-4d84-982e-ee034c5e3da9)
-- 2026-11-17 22:57 UTC · New York Post · [Nvidia board chairman shoots down rumors disgraced Jensen Huang will return as CEO](https://nypost.com/2026/11/17/business/nvidia-board-chairman-shoots-down-rumors-disgraced-jensen-huang-will-return-as-ceo/)
-- 2026-11-18 14:03 UTC · New York Post · [Nvidia’s Jensen Huang agrees to testify before Senate, Chairman Tim Scott says](https://nypost.com/2026/11/18/business/nvidias-jensen-huang-agrees-to-testify-before-senate-chairman-tim-scott-says/)
-- 2026-11-18 14:39 UTC · The Hill · [Nvidia rejects Huang offer to return as CEO](https://thehill.com/policy/technology/6227405-nvidia-jensen-huang-return-unlikely-affair-scandals/)
-- 2026-11-18 16:45 UTC · UPI Top · [Jensen Huang to testify before Senate panel](https://www.upi.com/Top_News/US/2026/11/18/jensen-huang-agrees-to-testify-before-senate-banking-committee/7721795018138/)
-
-**Who posted it on Instagram** (4 pages, 163,657 likes, 4 posts)
-
-- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 162,263 likes · 1,433 comments · 354 min before first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
-- [@dailymail](https://www.instagram.com/p/Df4Un1wDpzS/) · 836 likes · 30 comments · +738 min after first report · Tech giant Nvidia has forecast $130 billion in quarterly revenue, beating analyst expectations, as its board begins searching for a permanent CEO following Jensen Huang’s departure. The board says it 
-- [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +114 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
-- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · 202 min before first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
-
 ### 15. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
 
-**Score** 112 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-18 20:50 UTC
+**Score** 111 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-18 20:50 UTC
 
 **Status** Confirmed · independent reports: 2 of 6 feeds · official: none · independent newsrooms: 2
 
@@ -640,7 +638,7 @@ Lead: [IGN — Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Me
 
 ### 16. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
 
-**Score** 111 · **First seen** 2026-11-18 00:40 UTC · **Last update** 2026-11-19 00:16 UTC
+**Score** 110 · **First seen** 2026-11-18 00:40 UTC · **Last update** 2026-11-19 00:16 UTC
 
 **Status** Unverified · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 0
 
@@ -668,7 +666,7 @@ Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth abou
 
 ### 17. Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me”
 
-**Score** 109 · **First seen** 2026-11-16 08:54 UTC · **Last update** 2026-11-18 18:50 UTC
+**Score** 108 · **First seen** 2026-11-16 08:54 UTC · **Last update** 2026-11-18 18:50 UTC
 
 **Status** Confirmed · independent reports: 3 of 3 feeds · official: none · independent newsrooms: 2
 
@@ -697,45 +695,7 @@ Lead: [Deadline — Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +1866 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 - [@clips](https://www.instagram.com/p/Dfz2B2YIjNk/) · 9,640 likes · 198 comments · +488 min after first report · Robert Pattinson — Starring in Harry Potter and the Goblet of Fire, Twilight, The Lighthouse, and The Batman, this internationally acclaimed English actor has captivated millions with his transformati
 
-### 18. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
-
-**Score** 107 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 23:30 UTC
-
-**Status** Unverified · independent reports: 1 of 15 feeds · official: none · independent newsrooms: 0
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- The New York Post is celebrating its 225th anniversary. — support: 5
-- The New York Post is the nation's oldest continuously published daily newspaper. — support: 1
-
-> One independent report so far; not independently confirmed. 14 of the 15 independent reports in the cluster cover related updates, not this headline. 1 key claim stated by a single report: “The New York Post is the nation's oldest continuously published daily ”
-
-Carly Stern, Wellness Editor at the New York Post, sits down with Dr. Caren Behar, Co-Director of the Mignone Women’s Health Collaborative and Medical Director at NYU Langone’s Joan H. Tisch Center for Women’s Health, to separate health fact from social media fiction. From quick “movement snacks” and better sleep habits to supplements and viral...
-
-Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/)
-
-**Where it was published**
-
-- 2026-11-16 11:00 UTC · New York Post · [Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/)
-- 2026-11-16 11:00 UTC · New York Post · [Happy 225th birthday to The New York Post, the paper that shaped a city, and the world](https://nypost.com/2026/11/16/us-news/happy-225th-birthday-to-the-new-york-post-the-paper-that-shaped-a-city-and-the-world/)
-- 2026-11-16 11:00 UTC · New York Post · [Celebrating the Back Page, that holy land of sports, on The New York Post’s 225th](https://nypost.com/2026/11/16/sports/celebrating-the-back-page-that-holy-land-of-sports-on-the-new-york-posts-225th/)
-- 2026-11-16 11:00 UTC · New York Post · [The Post turns 225 — here’s how we’ll hit new heights next](https://nypost.com/2026/11/16/opinion/the-post-turns-225-heres-how-well-hit-new-heights-next/)
-- 2026-11-16 11:00 UTC · New York Post · [Entertainers, sports stars and business titans wish The New York Post a happy 225th birthday](https://nypost.com/2026/11/16/us-news/entertainers-sports-stars-and-business-titans-wish-the-new-york-post-a-happy-225th-birthday/)
-- 2026-11-16 11:00 UTC · New York Post · [President Trump wishes happy 225th anniversary to The New York Post as politicians unite in love for iconic paper](https://nypost.com/2026/11/16/us-news/president-trump-wishes-happy-225th-anniversary-to-the-new-york-post-as-politicians-unite-in-love-for-iconic-paper/)
-- 2026-11-16 15:01 UTC · NY Post Sports · [New York’s biggest sports stars celebrate 225 years of The Post](https://nypost.com/2026/11/16/sports/nys-biggest-sports-stars-celebrate-225-years-of-the-post/)
-- 2026-11-17 10:29 UTC · Yahoo Sports · [“Too Expensive for the Small-Market Yankees” – Fans React As NY Step Aside While Mets, Dodgers and More Pursue 32-Year-Old Pitcher](https://sports.yahoo.com/articles/too-expensive-small-market-yankees-102951129.html)
-- 2026-11-17 11:30 UTC · New York Post · [The Post’s 225 icons: How Lorne Michaels turned ‘SNL’ into an institution](https://nypost.com/2026/11/17/us-news/the-posts-225-icons-how-lorne-michaels-turned-snl-into-an-institution/)
-- 2026-11-17 17:11 UTC · New York Post · [America is under attack… | The Low Down](https://nypost.com/video/america-is-under-attack-the-low-down/)
-- 2026-11-17 21:19 UTC · New York Post · [Readers celebrate 225 years of The Post: Letters to the Editor — Nov. 18, 2026](https://nypost.com/2026/11/17/opinion/readers-celebrate-225-years-of-the-post-letters/)
-- 2026-11-18 11:30 UTC · New York Post · [The Post’s 225 icons: The Bow Bridge offers rare calm in the heart of NYC](https://nypost.com/2026/11/18/us-news/the-posts-225-icons-the-bow-bridge-offers-rare-calm-in-the-heart-of-nyc/)
-
-**Who posted it on Instagram** (3 pages, 23,467 likes, 6 posts)
-
-- [@theneighborhoodtalk](https://www.instagram.com/p/Df0HlJLx0rC/) · 15,859 likes · 2,487 comments · +515 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, customers at Chase, Bank of America, Capital One and Wells Fargo began reporting outages, with some saying they’re unable to access their banking
-- [@nypost](https://www.instagram.com/p/Df0vPJHsZy4/) · 3,883 likes · 31 comments · +862 min after first report · The Empire State Building is shining red in celebration of the New York Post’s 225th anniversary!🗽 Founded by Alexander Hamilton in 1801, the Post has been part of New York City’s story for more than 
-- [@pagesix](https://www.instagram.com/p/Df0JgnIt00m/) · 3,072 likes · 315 comments · +533 min after first report · Martha Stewart and Gov. Kathy Hochul join Editor-in-Chief Keith Poole to light the Empire State Building for New York Post’s 225 Anniversary 🗞️
-
-### 19. US officially loses measles elimination status, PAHO says
+### 18. US officially loses measles elimination status, PAHO says
 
 **Score** 106 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
 
@@ -775,7 +735,7 @@ Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threa
 
 - [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 433 likes · 95 comments · +3090 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
 
-### 20. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
+### 19. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
 
 **Score** 106 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-19 00:42 UTC
 
@@ -815,46 +775,7 @@ Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.
 
 - [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
 
-### 21. Miami Heat Reveal “Vice City” Court For GTA VI Game Release
-
-**Score** 106 · **Category** trending · **First seen** 2026-11-16 16:00 UTC · **Last update** 2026-11-19 01:33 UTC
-
-**Status** Confirmed · independent reports: 8 of 9 feeds · official: none · independent newsrooms: 8
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- The Miami Heat are partnering with Rockstar Games to celebrate the release of GTA 6. — support: 4
-- The Miami Heat unveiled a special Vice City themed court for a home game. — support: 4
-- The Miami Heat will wear special Vice City jerseys. — support: 1
-- Take-Two Interactive and 2K Sports announced an NBA 2K27 crossover with GTA 6. — support: 1
-
-> 2 key claims stated by a single report: “The Miami Heat will wear special Vice City jerseys.”; “Take-Two Interactive and 2K Sports announced an NBA 2K27 crossover wit” Figures from one report only: $80.
-
-Ahead of the GTA 6 release this week, publisher Take-Two Interactive and 2K Sports have announced an NBA 2K27 crossover with the game. Starting November 27, Vice City will take over the digital basketball courts, and a special-edition NBA 2K27 Vice City Edition will also be released to promote GTA 6. The $80 digital-only NBA 2K27 Vice City Edition features Miami Heat player Bam Adebayo on the cover, and for that GTA…
-
-Lead: [GameSpot — NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/)
-
-**Where it was published**
-
-- 2026-11-16 16:00 UTC · GameSpot · [NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/)
-- 2026-11-17 12:45 UTC · Yahoo Sports · [‘Understand the hype’ – Why Giannis Antetokounmpo is ‘excited’ for Miami Heat’s GTA 6 theme night](https://sports.yahoo.com/articles/understand-hype-why-giannis-antetokounmpo-124500526.html)
-- 2026-11-17 21:10 UTC · Yahoo Sports · [Miami Heat ‘Vice City’ GTA 6-themed court: Photos & must-see details](https://sports.yahoo.com/articles/miami-heat-vice-city-gta-211033890.html)
-- 2026-11-17 23:51 UTC · IGN · [GTA 6 Vice City NBA Court Revealed by Miami Heat](https://www.ign.com/articles/gta-6-vice-city-nba-court-revealed-by-miami-heat)
-- 2026-11-18 03:56 UTC · Kotaku · [Miami Heat Players Flaunt Neat-Looking GTA 6-Themed PS5 Pros](https://kotaku.com/miami-heat-players-flaunt-neat-looking-gta-6-themed-ps5-pros-2000757883)
-- 2026-11-18 04:06 UTC · Yahoo Sports · [Miami Heat Reveal “Vice City” Court For GTA VI Game Release](https://sports.yahoo.com/articles/miami-heat-reveal-vice-city-040655333.html)
-- 2026-11-18 17:45 UTC · Yahoo Sports · [Heat Unveil Pink Vice City Court For Giannis Return Game](https://sports.yahoo.com/articles/heat-unveil-pink-vice-city-114500016.html)
-- 2026-11-18 18:42 UTC · Yahoo Sports · [Miami Heat embraces Vice City For GTA 6 launch collaboration](https://sports.yahoo.com/articles/miami-heat-embraces-vice-city-184228313.html)
-- 2026-11-19 01:31 UTC · Yahoo Sports · [Miami Heat’s ‘Vicy City’-themed arena part of $975K GTA VI collaboration](https://sports.yahoo.com/articles/miami-heat-vicy-city-themed-013152497.html)
-
-**Who posted it on Instagram** (5 pages, 76,014 likes, 7 posts)
-
-- [@onlyindade](https://www.instagram.com/p/DfziBMzsw4z/) · 38,902 likes · 302 comments · 111 min before first report · It’s GTA launch week and Vice City is ready 🌴 🌆 #gta6 #vicecity #dronepov
-- [@complex](https://www.instagram.com/p/Df30oZVDgI4/) · 20,724 likes · 236 comments · +2286 min after first report · This might be the longest 24 hours of my life 😭 ‘GTA 6’ is set to launch in less than 24 hours. After more than a decade since GTA 5, players will get to return to Vice City and explore Rockstar’s new
-- [@dexerto](https://www.instagram.com/p/Df08zJ_EcTw/) · 11,540 likes · 242 comments · +679 min after first report · Rockstar Games has explained why GTA 6 needed roughly a decade of development and nearly 5,000 staff, saying the studio could have made a cheaper, faster “GTA 5.5” but chose not to. Publishing head Je
-- [@bangerbuddy](https://www.instagram.com/p/Df0fVPjkQQj/) · 1,113 likes · 7 comments · +422 min after first report · Kalshi is offering up to $135,000 for someone to play GTA VI as their full-time job. 👀 The company is hiring a remote GTA VI Researcher to livestream their entire playthrough, break down Vice City’s i
-- [@epicfunnypage](https://www.instagram.com/reel/Dfz9VjygqX9/) · 1,057 likes · 25 comments · 420 min before first report · We got before GTA 6 nostalgia before GTA 6 Grand Theft Auto VI marks the franchise's return to Vice City, the fictional location inspired by Miami that first became famous in Grand Theft Auto: Vice Ci
-
-### 22. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
+### 20. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
 
 **Score** 106 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-18 10:43 UTC
 
@@ -882,7 +803,7 @@ Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tir
 - [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 8,336 likes · 30 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
 - [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 16 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
 
-### 23. Bully judge punished over video of him screaming at courthouse worker after his computer crashed
+### 21. Bully judge punished over video of him screaming at courthouse worker after his computer crashed
 
 **Score** 105 · **Category** accidents · **State** TX · **First seen** 2026-11-16 17:45 UTC · **Last update** 2026-11-19 00:03 UTC
 
@@ -921,9 +842,9 @@ Lead: [ABC13 Houston (TX) — Texas officials issue warning to Harris County jud
 
 - [@theneighborhoodtalk](https://www.instagram.com/p/Df21zzaMwPW/) · 8,978 likes · 1,118 comments · +1632 min after first report · TNHT Staff: @fashionswarrior _________ Neighbors, things got so heated in a Georgia courtroom that a prosecutor challenged Brian Steel to take it outside by the courthouse Christmas tree! According to
 
-### 24. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
+### 22. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
 
-**Score** 104 · **Category** trending · **First seen** 2026-11-17 21:43 UTC · **Last update** 2026-11-18 11:00 UTC
+**Score** 103 · **Category** trending · **First seen** 2026-11-17 21:43 UTC · **Last update** 2026-11-18 11:00 UTC
 
 **Status** Developing · independent reports: 3 of 3 feeds · official: none · independent newsrooms: 0
 
@@ -950,7 +871,7 @@ Lead: [TMZ — Paris Hilton Meets with House Speaker Mike Johnson Amid Fight Aga
 
 - [@npr](https://www.instagram.com/reel/Df3NnmSlQF9/) · 32,819 likes · 587 comments · +164 min after first report · When Paris Hilton (@parishilton) was 19, her ex-boyfriend shared an intimate video of her without her consent.⁠ ⁠ More than two decades later, Hilton says she’s being revictimized as her image now spr
 
-### 25. Mamdani disbanding controversial NYPD unit
+### 23. Mamdani disbanding controversial NYPD unit
 
 **Score** 103 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 20:31 UTC
 
@@ -987,6 +908,81 @@ Lead: [ABC7 NY (NY) — Exclusive: Mayor Mamdani, Commissioner Tisch on disbandi
 **Who posted it on Instagram** (1 pages, 17,978 likes, 2 posts)
 
 - [@dailymail](https://www.instagram.com/p/DfzR62QE3YM/) · 10,959 likes · 488 comments · +45 min after first report · New York City Mayor Zohran Mamdani is launching a two-day video game development competition, NYC Game Jam, challenging young New Yorkers to create an original game in just 48 hours. Participants will
+
+### 24. Salesforce Sinks 9% as Software Slides Before Anthropic IPO: Investor Warns AI Companies Seek to “Destroy Salesforce Entirely”
+
+**Score** 100 · **Category** public-safety · **First seen** 2026-11-16 22:56 UTC · **Last update** 2026-11-19 02:25 UTC
+
+**Status** Confirmed · independent reports: 6 of 20 feeds · official: none · independent newsrooms: 5
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Anthropic is preparing to price its initial public offering this week. — support: 3
+- Anthropic stock is expected to begin trading on the Nasdaq on Thursday. — support: 1
+- Anthropic set an initial price range of 70 to 78 dollars per share. — support: 1
+- Amazon and Google will collectively own nearly 30 percent of Anthropic following the IPO. — support: 1
+- Anthropic is targeting a market capitalization of more than 1 trillion dollars. — support: 2
+
+> 14 of the 20 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US, Google Trends US); open the original. 3 key claims stated by a single report: “Anthropic stock is expected to begin trading on the Nasdaq on Thursday”; “Anthropic set an initial price range of 70 to 78 dollars per share.”
+
+Nationwide FAA ground stop resulted from equipment failure, says administrator; Anthropic to price its IPO this week; NOAA reports strong El Niño expected to peak in the New Year
+
+Lead: [ABC News — WATCH: Trump blames Biden administration for FAA ground stop & other stories](https://abcnews.com/video/138191402/)
+
+**Where it was published**
+
+- 2026-11-16 22:56 UTC · ABC News · [WATCH: Trump blames Biden administration for FAA ground stop & other stories](https://abcnews.com/video/138191402/)
+- 2026-11-17 18:41 UTC · CBS News · [Anthropic files for IPO as it competes for AI dominance](https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/)
+- 2026-11-17 19:41 UTC · New York Post · [Anthropic will likely price mammoth IPO above current $70- to $78-per-share range: report](https://nypost.com/2026/11/17/business/anthropic-will-likely-price-mammoth-ipo-above-current-range-report/)
+- 2026-11-17 20:15 UTC · CBS News · [Anthropic's IPO set for blastoff this week in key test for AI boom](https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/)
+- 2026-11-17 21:00 UTC · New York Post · [Anthropic is about to have the biggest IPO of all time: Is it too late to buy in?](https://nypost.com/2026/11/17/business/is-it-too-late-to-participate-in-anthropics-big-ipo-on-nov-19/)
+- 2026-11-17 22:29 UTC · TechCrunch · [Amazon and Google will together own nearly 30% of Anthropic after its IPO](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)
+- 2026-11-18 12:00 UTC · New York Post · [Republicans fret Anthropic IPO will enrich ‘evil’ far-left donors: ‘200 George Soroses’](https://nypost.com/2026/11/18/us-news/republicans-fret-anthropic-ipo-will-enrich-far-left-donors-200-george-soroses/)
+- 2026-11-18 12:56 UTC · New York Post · [The major A-list star set for billionaire status thanks to Anthropic IPO](https://pagesix.com/2026/11/18/celebrity-news/ashton-kutcher-is-about-to-hit-billionaire-status-heres-why/)
+- 2026-11-18 15:11 UTC · Newsweek · [Investors Should Beware Anthropic's IPO](https://www.newsweek.com/investors-should-beware-anthropics-ipo-12731980)
+- 2026-11-18 20:59 UTC · Newsweek · [Anthropic IPO: Why $1T Bet Matters Even If You Don’t Own Stocks](https://www.newsweek.com/anthropic-ipo-why-1t-bet-matters-even-if-you-dont-own-stocks-12734879)
+- 2026-11-18 21:28 UTC · BBC US & Canada · [Can Anthropic's record breaking IPO stop the AI bubble bursting?](https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss)
+- 2026-11-18 21:35 UTC · New York Post · [Meet Anthropic’s oddball co-founders: An atheist who met the pope, a punk-rock fan and a shy dating-app entrepreneur](https://nypost.com/2026/11/18/business/meet-anthropics-eccentric-founding-seven-an-atheist-who-met-the-pope-a-punk-rock-fan-and-a-shy-dating-app-entrepreneur/)
+
+**Who posted it on Instagram** (3 pages, 1,880 likes, 4 posts)
+
+- [@profgalloway](https://www.instagram.com/reel/Df0K_NiHaqX/) · 1,300 likes · 40 comments · 171 min before first report · Scott Galloway (@profgalloway) on why he's trying to get shares in the Anthropic IPO. "The greatest risk-free trade right now to the upside is in IPOs managed by these bankers because they engineer a 
+- [@newyorkermag](https://www.instagram.com/p/Df48fyikxNo/) · 256 likes · 3 comments · +2499 min after first report · Beginning on Thursday morning, Anthropic’s stock goes up for sale, and the public will be able to invest in “the responsible development and maintenance of AI for the long-term benefit of humanity.” S
+- [@scientific_american](https://www.instagram.com/p/Df2lDU_nXK4/) · 97 likes · 7 comments · +1174 min after first report · Mathematician Terence Tao’s address was planned as the centerpiece of the International Congress of Mathematicians, the field’s largest gathering, held once every four years, this time in Philadelphia
+
+### 25. Elon Musk Blasts ‘SNL’ For Jeremy Culhane’s Impression Of Him: “They Need To Try Harder”
+
+**Score** 100 · **Category** trending · **First seen** 2026-11-16 15:58 UTC · **Last update** 2026-11-19 02:59 UTC
+
+**Status** Confirmed · independent reports: 3 of 4 feeds · official: none · independent newsrooms: 2
+
+**Duplicates collapsed**: 1 of 4 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Elon Musk criticized Jeremy Culhane's impression of him on Saturday Night Live — support: 4
+- Elon Musk stated that the show needs to try harder with the impression — support: 3
+- Elon Musk rated the impression as a 5/10 — support: 1
+- Jeremy Culhane has portrayed Elon Musk in the last two episodes of Saturday Night Live — support: 1
+
+> Reports differ on the specific rating Musk gave the impression, with one report mentioning a user's 7/10 rating and another citing Musk's own 5/10 rating. 2 key claims stated by a single report: “Elon Musk rated the impression as a 5/10”; “Jeremy Culhane has portrayed Elon Musk in the last two episodes of Sat”
+
+Elon Musk was not impressed with the impression of him on Saturday Night Live this past weekend. The Tesla founder took to X, the social media platform he owns and formerly known as Twitter, to blast Jeremy Culhane’s impression. “I’d give them maybe 5/10 for me,” the controversial personality said, rating Culhane’s performance. Musk then […]
+
+Lead: [Variety — Elon Musk Criticizes Jeremy Culhane’s ‘SNL’ Impression: ‘They Need to Try Harder’](https://variety.com/2026/tv/news/elon-musk-jeremy-culhane-snl-impression-1236948969/)
+
+**Where it was published**
+
+- 2026-11-16 15:58 UTC · Variety · [Elon Musk Criticizes Jeremy Culhane’s ‘SNL’ Impression: ‘They Need to Try Harder’](https://variety.com/2026/tv/news/elon-musk-jeremy-culhane-snl-impression-1236948969/)
+- 2026-11-16 17:57 UTC · Just Jared · [Elon Musk Rates Jeremy Culhane’s ‘SNL’ Impression of Him](https://www.justjared.com/2026/11/16/elon-musk-rates-jeremy-culhanes-snl-impression-of-him/)
+- 2026-11-17 02:03 UTC · Hollywood Reporter · [Elon Musk Thinks Jeremy Culhane Needs to “Try Harder” With His ‘SNL’ Impression](https://www.hollywoodreporter.com/tv/tv-news/elon-musk-criticizes-jeremy-culhane-snl-impression-1236756733/)
+- 2026-11-17 04:30 UTC · Deadline · [Elon Musk Blasts ‘SNL’ For Jeremy Culhane’s Impression Of Him: “They Need To Try Harder”](https://deadline.com/2026/11/elon-musk-snl-jeremy-culhane-impression-1237226296/)
+
+**Who posted it on Instagram** (3 pages, 64,423 likes, 3 posts)
+
+- [@pubity](https://www.instagram.com/p/Df0ni1Ypx8q/) · 60,811 likes · 1,592 comments · +496 min after first report · Elon Musk was filmed high above the ground in Texas inspecting the heat shield of a spaceship that had been in orbit a day earlier. Starship Flight 15 launched from Starbase on November 13. After abou
+- [@nypost](https://www.instagram.com/p/Df0Fy5KnUAU/) · 3,612 likes · 261 comments · +316 min after first report · SpaceX CEO Elon Musk was spotted examining the spacecraft’s heat-shield tiles at Starbase, Texas, a day after Starship made history by being caught midair by its launch tower’s giant mechanical arms.
+- [@markets](https://www.instagram.com/p/Df2Kqg3kgZO/) · 0 likes · 15 comments · +1021 min after first report · Elon Musk celebrated a historic SpaceX milestone by reportedly hugging Starship 42 after its incredible return to Earth. On November 14, SpaceX successfully caught Starship’s upper stage using the gia
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).
