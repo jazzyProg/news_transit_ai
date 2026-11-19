@@ -1,34 +1,34 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 02:25 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-19 03:25 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
 | 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 230 | Confirmed | 22 | 23 | [Variety](https://variety.com/2026/film/global/royal-family-embraces-robert-pattinson-james-bond-1236949128/) |
 | 2 | NASA Voyager Reaches One Full Light Day From Earth | 187 | Confirmed | 20 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
-| 3 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 179 | Confirmed | 25 | 3 | [Daily Star Weird](https://www.dailystar.co.uk/news/latest-news/biohacker-bryan-johnson-hits-back-37880882) |
-| 4 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 176 | Confirmed | 21 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
+| 3 | Trump heads to Asia ahead of high-stakes meeting with Xi and Putin | 186 | Confirmed | 23 | 3 | [Guardian US](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) |
+| 4 | A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city | 179 | Confirmed | 25 | 3 | [Daily Star Weird](https://www.dailystar.co.uk/news/latest-news/biohacker-bryan-johnson-hits-back-37880882) |
 | 5 | Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend! | 147 | Confirmed | 4 | 9 | [Variety](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) |
 | 6 | ‘This is only a test’: Nationwide Emergency Alert System test to take place Tuesday in US \| What to know | 146 | Confirmed | 19 | 3 | [WCPO Cincinnati (OH)](https://www.wcpo.com/us-news/fema-to-conduct-nationwide-emergency-alert-system-test-on-tuesday) |
 | 7 | Customers report difficulty accessing online services at major US banks | 142 | Confirmed | 16 | 5 | [TMZ](https://www.tmz.com/2026/11/16/chase-wells-fargo-bank-of-america-users-reporting-outages/) |
 | 8 | Surreal Point-and-Click Horror Adventure Game ‘Endacopia’ Coming to Consoles [Trailer] | 139 | Unverified | 1 | 22 | [Bloody Disgusting](https://bloody-disgusting.com/?p=3975814) |
-| 9 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 133 | Confirmed | 14 | 3 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
+| 9 | Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously" | 136 | Confirmed | 10 | 4 | [Daily Mail US](https://www.dailymail.com/news/article-16298071/Iran-dirty-bomb-attack-Trump-administration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
 | 10 | Waymo suspends freeway rides nationwide after California DMV order | 132 | Confirmed | 20 | 1 | [KTLA (CA)](https://ktla.com/news/california/dmv-waymo-freeway-ban-california/) |
-| 11 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 14 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
-| 12 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 120 | Confirmed | 9 | 4 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
-| 13 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 112 | Confirmed | 6 | 5 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
-| 14 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 111 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
-| 15 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 111 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
-| 16 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 109 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
-| 17 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 107 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
-| 18 | US officially loses measles elimination status, PAHO says | 107 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
-| 19 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 107 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
-| 20 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 106 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
-| 21 | Bully judge punished over video of him screaming at courthouse worker after his computer crashed | 106 | Developing | 8 | 1 | [ABC13 Houston (TX)](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/) |
-| 22 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 105 | Developing | 1 | 9 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
-| 23 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 104 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
-| 24 | Mamdani disbanding controversial NYPD unit | 104 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
-| 25 | University of San Francisco nursing professor, caregiver for father Dr. Ann Lawani held in ICE custody for weeks; Rep. Harder demands release | 101 | Developing | 5 | 6 | [ABC7 LA (CA)](https://abc7.com/story/university-san-francisco-nursing-professor-caregiver-father-dr-ann-lawani-held-ice-custody-weeks-rep-harder-demands-release/20051991/) |
+| 11 | The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress | 129 | Confirmed | 14 | 2 | [9News Denver (CO)](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8) |
+| 12 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 124 | Confirmed | 3 | 14 | [WSVN Miami (FL)](https://wsvn.com/entertainment/miami-becomes-vice-city-gtavi/) |
+| 13 | 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees | 121 | Confirmed | 7 | 2 | [WCPO Cincinnati (OH)](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more) |
+| 14 | Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO | 120 | Confirmed | 9 | 4 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
+| 15 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 112 | Confirmed | 6 | 5 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
+| 16 | Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN | 111 | Unverified | 1 | 4 | [Daily Mail US](https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html?ns_mchannel=rss&ns_campaign=1490&ito=1490) |
+| 17 | Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me” | 109 | Confirmed | 3 | 8 | [Deadline](https://deadline.com/2026/11/nicola-coughlan-boycott-harry-potter-jk-rowlings-trans-1237224887/) |
+| 18 | Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not? | 107 | Unverified | 3 | 3 | [New York Post](https://nypost.com/video/sleep-hacks-exercise-snacks-and-supplements-whats-worth-trying-and-whats-not/) |
+| 19 | US officially loses measles elimination status, PAHO says | 106 | Confirmed | 14 | 1 | [Medical Xpress](https://medicalxpress.com/news/2026-11-alarm-antimicrobial-resistance-threat.html) |
+| 20 | 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43 | 106 | Confirmed | 12 | 1 | [TMZ](https://www.tmz.com/2026/11/16/ray-tintori-dead/) |
+| 21 | Miami Heat Reveal “Vice City” Court For GTA VI Game Release | 106 | Confirmed | 4 | 5 | [GameSpot](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/) |
+| 22 | Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs | 106 | Unverified | 1 | 5 | [Us Weekly](https://www.usmagazine.com/shopping/news/jennifer-lawrence-highlighter-bag-look-for-less/) |
+| 23 | Bully judge punished over video of him screaming at courthouse worker after his computer crashed | 105 | Developing | 8 | 1 | [ABC13 Houston (TX)](https://abc13.com/story/texas-officials-issue-warning-harris-county-judge-viral-video-confrontation-tech/20044911/) |
+| 24 | Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote | 104 | Developing | 3 | 1 | [TMZ](https://www.tmz.com/2026/11/17/paris-hilton-meets-with-house-speaker-mike-johnson/) |
+| 25 | Mamdani disbanding controversial NYPD unit | 103 | Confirmed | 10 | 1 | [ABC7 NY (NY)](https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -37,7 +37,7 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 
 ### 1. Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos
 
-**Score** 230 · **Category** trending · **First seen** 2026-11-16 17:42 UTC · **Last update** 2026-11-19 02:07 UTC
+**Score** 230 · **Category** trending · **First seen** 2026-11-16 17:42 UTC · **Last update** 2026-11-19 03:10 UTC
 
 **Status** Confirmed · independent reports: 11 of 24 feeds · official: none · independent newsrooms: 8
 
@@ -120,7 +120,49 @@ Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exac
 - [@complex](https://www.instagram.com/p/DfzMyC0pWsr/) · 15,862 likes · 367 comments · 1514 min before first report · The Moon is slowly leaving us. 🌕🌎 According to NASA, the Moon moves about 1.5 inches farther away from Earth every year. Scientists have been tracking this movement for decades using lasers reflected 
 - [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · 1029 min before first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
 
-### 3. A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city
+### 3. Trump heads to Asia ahead of high-stakes meeting with Xi and Putin
+
+**Score** 186 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-19 02:32 UTC
+
+**Status** Confirmed · independent reports: 31 of 64 feeds · official: none · independent newsrooms: 28
+
+**Wire copies collapsed**: Associated Press ×6; CBS News ×2.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- President Donald Trump is traveling to Asia for a series of meetings with world leaders. — support: 6
+- President Trump is scheduled to meet with Russian President Vladimir Putin and Chinese President Xi Jinping. — support: 4
+- President Trump departed for his Asia trip on Monday. — support: 1
+- Air Force One diverted its refueling stop in Alaska from Anchorage to Fairbanks due to weather. — support: 1
+
+> 19 of the 50 independent reports in the cluster cover related updates, not this headline. 64 feeds carry 50 independent reports (wire copies: Associated Press, CBS News). Reports differ on the specific nature of the meetings, with some describing them as summits or economic deals and one report mentioning a potential nuclear summit. 2 key claims stated by a single report: “President Trump departed for his Asia trip on Monday.”; “Air Force One diverted its refueling stop in Alaska from Anchorage to ”
+
+Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts Xi Jinping and Vladimir…
+
+Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy push before end of term](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy)
+
+**Where it was published**
+
+- 2026-11-16 11:00 UTC · Guardian US · [Trump to embark on Asia trip in apparent foreign policy push before end of term](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy)
+- 2026-11-16 15:35 UTC · CBS News · [Trump heads to Asia for Putin, Xi summit; possible Kim meeting](https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/)
+- 2026-11-16 16:17 UTC · The Hill · [Live updates: Trump en route to Asia; Nvdia scandal, national groundstop fallout loom large](https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/)
+- 2026-11-16 16:20 UTC · CBS News · [Trump praises Duffy after FAA ground stop, says he wouldn't mind if Jensen Huang returns to Nvidia](https://www.cbsnews.com/video/trump-praises-duffy-after-faa-ground-stop-says-he-wouldnt-mind-if-jensen-huang-returns-to-nvidia/)
+- 2026-11-16 16:24 UTC · WSVN Miami (FL) · [Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting](https://wsvn.com/news/politics/trump-asia-trip-china-russia/)
+- 2026-11-16 23:48 UTC · Fox News · [Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change)
+- 2026-11-17 00:17 UTC · Daily Mail US · [Qatari-gifted Air Force One carrying Trump to Asia makes unplanned diversion in Alaska amid 'extreme' weather conditions... with old presidential jet on its tail](https://www.dailymail.com/news/article-16297935/qatari-air-force-one-diverted-refueling-weather.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 00:43 UTC · CBS News · [Trump traveling to China amid Nvidia scandal fallout](https://www.cbsnews.com/video/trump-traveling-china-amid-nvidia-scandal-fallout/)
+- 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
+- 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
+- 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
+- 2026-11-17 10:17 UTC · New York Post · [Trump arrives in Philippines to kick off Asia trip ahead of historic three-way nuclear talks with Xi and Putin](https://nypost.com/2026/11/17/us-news/trump-arrives-in-philippines-to-kick-off-asia-trip-ahead-of-historic-three-way-nuclear-talks-with-xi-and-putin/)
+
+**Who posted it on Instagram** (3 pages, 12,510 likes, 4 posts)
+
+- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,895 likes · 424 comments · +1694 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
+- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +2149 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
+- [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,059 likes · 934 comments · +520 min after first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
+
+### 4. A home for older residents eagerly awaits Pope Leo XIV's return to Peruvian port city
 
 **Score** 179 · **Category** trending · **First seen** 2026-11-16 11:21 UTC · **Last update** 2026-11-18 14:08 UTC
 
@@ -161,48 +203,6 @@ Lead: [Daily Star Weird — Biohacker Bryan Johnson hits back after Pope slams r
 - [@nugget](https://www.instagram.com/p/Df0KPEaIm3E/) · 167,312 likes · 283 comments · +516 min after first report · photo of a young Pope Leo XIV celebrating his 40th birthday in 1995 has resurfaced, showing him years before becoming the leader of the Catholic Church. Born Robert Francis Prevost in Chicago, he spen
 - [@dailymail](https://www.instagram.com/p/DfzDRnCgU54/) · 5,428 likes · 101 comments · 104 min before first report · Pope Leo was greeted by children as he arrived at the Shrine of St Tiribius in Peru. A group of young children ran towards the Pope before surrounding him with open arms to hug the pontiff. #peru #pop
 - [@nypost](https://www.instagram.com/p/Df0mjqjjxFz/) · 2,830 likes · 196 comments · +803 min after first report · Pope Leo’s run of successfully catching items tossed to him by crowds came to an end, as what appeared to be a rosary thrown in his direction struck him near the eye.
-
-### 4. Trump heads to Asia ahead of high-stakes meeting with Xi and Putin
-
-**Score** 176 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-19 02:20 UTC
-
-**Status** Confirmed · independent reports: 30 of 55 feeds · official: none · independent newsrooms: 27
-
-**Wire copies collapsed**: CBS News ×2.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- President Donald Trump is traveling to Asia for a series of meetings with world leaders. — support: 6
-- President Trump is scheduled to meet with Russian President Vladimir Putin and Chinese President Xi Jinping. — support: 4
-- President Trump departed for his Asia trip on Monday. — support: 1
-- Air Force One diverted its refueling stop in Alaska from Anchorage to Fairbanks due to weather. — support: 1
-
-> 18 of the 48 independent reports in the cluster cover related updates, not this headline. 55 feeds carry 48 independent reports (wire copies: CBS News). Reports differ on the specific nature of the meetings, with some describing them as summits or economic deals and one report mentioning a potential nuclear summit. 2 key claims stated by a single report: “President Trump departed for his Asia trip on Monday.”; “Air Force One diverted its refueling stop in Alaska from Anchorage to ”
-
-Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his presidency. The US president will meet his Chinese and Russian counterparts Xi Jinping and Vladimir…
-
-Lead: [Guardian US — Trump to embark on Asia trip in apparent foreign policy push before end of term](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy)
-
-**Where it was published**
-
-- 2026-11-16 11:00 UTC · Guardian US · [Trump to embark on Asia trip in apparent foreign policy push before end of term](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy)
-- 2026-11-16 15:35 UTC · CBS News · [Trump heads to Asia for Putin, Xi summit; possible Kim meeting](https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/)
-- 2026-11-16 16:17 UTC · The Hill · [Live updates: Trump en route to Asia; Nvdia scandal, national groundstop fallout loom large](https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/)
-- 2026-11-16 16:20 UTC · CBS News · [Trump praises Duffy after FAA ground stop, says he wouldn't mind if Jensen Huang returns to Nvidia](https://www.cbsnews.com/video/trump-praises-duffy-after-faa-ground-stop-says-he-wouldnt-mind-if-jensen-huang-returns-to-nvidia/)
-- 2026-11-16 16:24 UTC · WSVN Miami (FL) · [Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting](https://wsvn.com/news/politics/trump-asia-trip-china-russia/)
-- 2026-11-16 23:48 UTC · Fox News · [Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change)
-- 2026-11-17 00:17 UTC · Daily Mail US · [Qatari-gifted Air Force One carrying Trump to Asia makes unplanned diversion in Alaska amid 'extreme' weather conditions... with old presidential jet on its tail](https://www.dailymail.com/news/article-16297935/qatari-air-force-one-diverted-refueling-weather.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-17 00:43 UTC · CBS News · [Trump traveling to China amid Nvidia scandal fallout](https://www.cbsnews.com/video/trump-traveling-china-amid-nvidia-scandal-fallout/)
-- 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
-- 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
-- 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
-- 2026-11-17 10:17 UTC · New York Post · [Trump arrives in Philippines to kick off Asia trip ahead of historic three-way nuclear talks with Xi and Putin](https://nypost.com/2026/11/17/us-news/trump-arrives-in-philippines-to-kick-off-asia-trip-ahead-of-historic-three-way-nuclear-talks-with-xi-and-putin/)
-
-**Who posted it on Instagram** (3 pages, 9,632 likes, 3 posts)
-
-- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,895 likes · 424 comments · +1694 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
-- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +2149 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · +1925 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 
 ### 5. Jennifer Lawrence & Josh Hutcherson Reunite at ‘Sunrise at the Reaping’ NYC Premiere, More Original ‘Hunger Games’ Stars Also Attend!
 
@@ -361,47 +361,48 @@ Lead: [Bloody Disgusting — Surreal Point-and-Click Horror Adventure Game ‘En
 - [@fancyyhomess](https://www.instagram.com/reel/Df2n4TiOYJT/) · 116 likes · 0 comments · +1586 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
 - [@marvelmoviefacts](https://www.instagram.com/reel/Df2n_oDv2ql/) · 116 likes · 0 comments · +1587 min after first report · Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game #Ad #gaminglife #gamingnetwork #instagaming
 
-### 9. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
+### 9. Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously"
 
-**Score** 133 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 21:58 UTC
+**Score** 136 · **First seen** 2026-11-17 01:27 UTC · **Last update** 2026-11-18 18:40 UTC
 
-**Status** Confirmed · independent reports: 7 of 32 feeds · official: none · independent newsrooms: 4
+**Status** Confirmed · independent reports: 10 of 13 feeds · official: none · independent newsrooms: 8
 
-**Duplicates collapsed**: 4 of 32 feeds repeat the same report.
+**Duplicates collapsed**: 3 of 13 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- The FAA issued a nationwide ground stop for flights. — support: 4
-- Transportation Secretary Sean Duffy attributed the FAA ground stop to issues with contractor routers and lack of investment. — support: 3
-- President Trump blamed the FAA ground stop on old equipment and past administrations. — support: 3
-- President Trump stated he does not take responsibility for the FAA ground stop. — support: 1
+- US intelligence indicates Iran is developing plans to detonate a dirty bomb in Washington DC targeting Trump administration officials — support: 4
+- President Trump stated the US is taking the reported Iranian threat very seriously — support: 4
+- Some officials debate whether Iran can or will attempt to execute the plot — support: 1
+- The White House reports there are no credible threats — support: 1
 
-> 21 of the 28 independent reports in the cluster cover related updates, not this headline. 32 feeds carry 28 independent reports (the rest are duplicates). 1 key claim stated by a single report: “President Trump stated he does not take responsibility for the FAA gro”
+> 13 feeds carry 10 independent reports (the rest are duplicates). Reports conflict on whether the threat is considered credible or if it is currently being debated. 2 key claims stated by a single report: “Some officials debate whether Iran can or will attempt to execute the ”; “The White House reports there are no credible threats”
 
-President Trump said Monday that he doesn’t take any responsibility for the Federal Aviation Administration’s nationwide ground stop last week, instead blaming the old equipment and past administrations. “I don’t take any responsibility,” he told reporters outside the White House before departing for Asia. “They did a great job — [Transportation] Secretary [Sean] Duffy —…
+US officials ‘continue to debate whether Iran can or will attempt to execute’ plot to detonate a ‘dirty bomb’, report says Donald Trump has claimed the US is “looking into” whether Iran is developing plans to detonate a so-called “dirty bomb” in Washington, even as the White House said there are “no credible threats” at this time. Trump said his administration takes the idea “very seriously” Continue reading...
 
-Lead: [9News Denver (CO) — 'Baffling to me': Aviation expert says FAA's explanation that a router issue led to ground stop doesn't make sense](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8)
+Lead: [Daily Mail US — Iran plotting terrifying 'dirty bomb' attack targeting Trump administration officials in Washington DC, intelligence report says](https://www.dailymail.com/news/article-16298071/Iran-dirty-bomb-attack-Trump-administration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 
 **Where it was published**
 
-- 2026-11-16 04:31 UTC · 9News Denver (CO) · ['Baffling to me': Aviation expert says FAA's explanation that a router issue led to ground stop doesn't make sense](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8)
-- 2026-11-16 12:08 UTC · NPR · [FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia](https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip)
-- 2026-11-16 14:37 UTC · NBC News · [Trump blames FAA's nationwide ground stop on 'old equipment'](https://www.nbcnews.com/now/video/trump-blames-faa-s-nationwide-ground-stop-on-old-equipment-273576517733)
-- 2026-11-16 15:57 UTC · New York Post · [Why Sean Duffy’s son-in-law — Congress’ new youngest member — says his generation gets raw deal](https://nypost.com/2026/11/16/us-news/why-sean-duffys-son-in-law-congress-new-youngest-member-says-his-generation-gets-raw-deal/)
-- 2026-11-16 16:48 UTC · The Hill · [Trump on FAA outage: ‘I don’t take any responsibility’](https://thehill.com/homenews/administration/6222891-trump-no-responsibility-faa-ground-stop/)
-- 2026-11-16 21:56 UTC · UPI Top · [Transportation secretary: FAA investigating contractor routers](https://www.upi.com/Top_News/US/2026/11/16/duffy-contractor-examining-routers/8211794865115/)
-- 2026-11-16 22:34 UTC · The Hill · [Duffy seeks more FAA funding, but lawmakers want answers first](https://thehill.com/policy/transportation/6223690-lawmakers-demand-ground-stop-answers/)
-- 2026-11-16 22:35 UTC · Daily Mail US · [Sean Duffy squirms as he is grilled for voting against FAA funding while in Congress](https://www.dailymail.com/media/article-16297675/sean-duffy-becky-quick-squawk-box-faa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-16 22:44 UTC · The Hill · [The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress](https://thehill.com/homenews/analysis/6223711-duffy-pushes-air-traffic-upgrades/)
-- 2026-11-17 02:06 UTC · CBS News · [Explaining the FAA's modernization efforts amid Friday's nationwide ground stop](https://www.cbsnews.com/video/explaining-faa-modernization-efforts-duffy-says-caused-ground-stop/)
-- 2026-11-17 04:37 UTC · CBS News · [Experts and reporters break down FAA meltdown, explaining what's responsible](https://www.cbsnews.com/video/experts-reporters-break-down-faa-meltdown-responsible/)
-- 2026-11-17 05:50 UTC · Fox News · [Duffy vows to modernize aging air traffic system after nationwide ground stop](https://www.foxnews.com/travel/duffy-vows-modernize-aging-air-traffic-system-nationwide-ground-stop)
+- 2026-11-17 01:27 UTC · Daily Mail US · [Iran plotting terrifying 'dirty bomb' attack targeting Trump administration officials in Washington DC, intelligence report says](https://www.dailymail.com/news/article-16298071/Iran-dirty-bomb-attack-Trump-administration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 02:32 UTC · WSVN Miami (FL) · [US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say](https://wsvn.com/news/us-world/us-intel-indicates-iran-developing-plans-to-potentially-detonate-a-dirty-bomb-in-washington-sources-say/)
+- 2026-11-17 11:25 UTC · New York Post · [Trump responds to reported ‘dirty bomb’ threat from Iran: ‘They happen to be crazy’](https://nypost.com/2026/11/17/us-news/trump-responds-to-reported-dirty-bomb-threat-from-iran-they-happen-to-be-crazy/)
+- 2026-11-17 12:50 UTC · Fox News · [Trump warns Iran about reported plot against admin officials: 'We take it very seriously'](https://www.foxnews.com/politics/trump-warns-iran-reported-plot-against-admin-officials-take-very-seriously)
+- 2026-11-17 16:03 UTC · Guardian US · [Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’](https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington)
+- 2026-11-17 16:56 UTC · CBS News · [Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously"](https://www.cbsnews.com/video/trump-says-us-taking-iranian-dirty-bomb-threat-very-seriously/)
+- 2026-11-17 18:45 UTC · WFAA Dallas (TX) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.wfaa.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
+- 2026-11-17 18:45 UTC · KHOU (TX) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.khou.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
+- 2026-11-17 18:45 UTC · KING5 Seattle (WA) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.king5.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
+- 2026-11-17 18:45 UTC · 9News Denver (CO) · [Trump warns Iran of severe consequences over reported dirty bomb plot targeting Washington, D.C.](https://www.9news.com/article/news/nation-world/trump-warns-iran-reported-plans-for-possible-attack-washington/507-9cf5b542-71d8-44d3-8387-5cffb57cd49b)
+- 2026-11-17 21:11 UTC · Fox News · [Iran's latest dirty bomb news builds on decades of threats to attack America at home](https://www.foxnews.com/politics/irans-latest-dirty-bomb-news-builds-decades-threats-attack-america-home)
+- 2026-11-17 21:11 UTC · Fox News · [Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’](https://www.foxnews.com/politics/senior-us-official-undercuts-cnns-alarming-iran-dirty-bomb-report-its-not-new)
 
-**Who posted it on Instagram** (3 pages, 11,319 likes, 3 posts)
+**Who posted it on Instagram** (4 pages, 28,979 likes, 8 posts)
 
-- [@onlyindade](https://www.instagram.com/p/DfziSaJIaHx/) · 5,845 likes · 207 comments · +577 min after first report · West Palm Beach just became MIA’s newest terminal #ONLYinDADE A router had a bad day and the whole country stayed on the ground. The FAA called a rare nationwide ground stop on Friday, and three days 
-- [@thedailyshow](https://www.instagram.com/reel/Df1WNW5A-6N/) · 5,031 likes · 74 comments · +1951 min after first report · @jonstewart on Sean Duffy blaming a router: "I can't even order a Crunchwrap Supreme without 2-factor authentication, but somehow, there's a 'Turn Off America' switch somewhere in f**kin Arkansas?"
-- [@nypost](https://www.instagram.com/p/DfxKR_bk9qq/) · 443 likes · 31 comments · 749 min before first report · Transportation Secretary Sean Duffy said that air travel disruptions caused by the FAA’s nationwide ground stop Friday should resolve by the end of the day Monday at the latest. Duffy offered an optim
+- [@nypost](https://www.instagram.com/p/Df0Z1nrDsyp/) · 9,999 likes · 655 comments · 133 min before first report · In a recent exchange with the press, President Trump was asked whether he was concerned about Iranian drones targeting him personally.
+- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,760 likes · 2,410 comments · +748 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
+- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · +1282 min after first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
+- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · 358 min before first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
 
 ### 10. Waymo suspends freeway rides nationwide after California DMV order
 
@@ -443,9 +444,50 @@ Lead: [KTLA (CA) — California DMV bans Waymo from operating on state freeways 
 
 - [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,048 likes · 24 comments · +964 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
 
-### 11. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
+### 11. The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress
 
-**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-19 01:53 UTC
+**Score** 129 · **Category** public-safety · **First seen** 2026-11-16 04:31 UTC · **Last update** 2026-11-18 21:58 UTC
+
+**Status** Confirmed · independent reports: 7 of 32 feeds · official: none · independent newsrooms: 4
+
+**Duplicates collapsed**: 4 of 32 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The FAA issued a nationwide ground stop for flights. — support: 4
+- Transportation Secretary Sean Duffy attributed the FAA ground stop to issues with contractor routers and lack of investment. — support: 3
+- President Trump blamed the FAA ground stop on old equipment and past administrations. — support: 3
+- President Trump stated he does not take responsibility for the FAA ground stop. — support: 1
+
+> 21 of the 28 independent reports in the cluster cover related updates, not this headline. 32 feeds carry 28 independent reports (the rest are duplicates). 1 key claim stated by a single report: “President Trump stated he does not take responsibility for the FAA gro”
+
+President Trump said Monday that he doesn’t take any responsibility for the Federal Aviation Administration’s nationwide ground stop last week, instead blaming the old equipment and past administrations. “I don’t take any responsibility,” he told reporters outside the White House before departing for Asia. “They did a great job — [Transportation] Secretary [Sean] Duffy —…
+
+Lead: [9News Denver (CO) — 'Baffling to me': Aviation expert says FAA's explanation that a router issue led to ground stop doesn't make sense](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8)
+
+**Where it was published**
+
+- 2026-11-16 04:31 UTC · 9News Denver (CO) · ['Baffling to me': Aviation expert says FAA's explanation that a router issue led to ground stop doesn't make sense](https://www.9news.com/article/news/community/transportation/baffling-to-me-aviation-expert-says-faas-explanation-that-a-router-issue-led-to-ground-stop-doesnt-make-sense/73-5063c666-a30a-4762-b12a-5665d4e06ba8)
+- 2026-11-16 12:08 UTC · NPR · [FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia](https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip)
+- 2026-11-16 14:37 UTC · NBC News · [Trump blames FAA's nationwide ground stop on 'old equipment'](https://www.nbcnews.com/now/video/trump-blames-faa-s-nationwide-ground-stop-on-old-equipment-273576517733)
+- 2026-11-16 15:57 UTC · New York Post · [Why Sean Duffy’s son-in-law — Congress’ new youngest member — says his generation gets raw deal](https://nypost.com/2026/11/16/us-news/why-sean-duffys-son-in-law-congress-new-youngest-member-says-his-generation-gets-raw-deal/)
+- 2026-11-16 16:48 UTC · The Hill · [Trump on FAA outage: ‘I don’t take any responsibility’](https://thehill.com/homenews/administration/6222891-trump-no-responsibility-faa-ground-stop/)
+- 2026-11-16 21:56 UTC · UPI Top · [Transportation secretary: FAA investigating contractor routers](https://www.upi.com/Top_News/US/2026/11/16/duffy-contractor-examining-routers/8211794865115/)
+- 2026-11-16 22:34 UTC · The Hill · [Duffy seeks more FAA funding, but lawmakers want answers first](https://thehill.com/policy/transportation/6223690-lawmakers-demand-ground-stop-answers/)
+- 2026-11-16 22:35 UTC · Daily Mail US · [Sean Duffy squirms as he is grilled for voting against FAA funding while in Congress](https://www.dailymail.com/media/article-16297675/sean-duffy-becky-quick-squawk-box-faa.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-16 22:44 UTC · The Hill · [The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress](https://thehill.com/homenews/analysis/6223711-duffy-pushes-air-traffic-upgrades/)
+- 2026-11-17 02:06 UTC · CBS News · [Explaining the FAA's modernization efforts amid Friday's nationwide ground stop](https://www.cbsnews.com/video/explaining-faa-modernization-efforts-duffy-says-caused-ground-stop/)
+- 2026-11-17 04:37 UTC · CBS News · [Experts and reporters break down FAA meltdown, explaining what's responsible](https://www.cbsnews.com/video/experts-reporters-break-down-faa-meltdown-responsible/)
+- 2026-11-17 05:50 UTC · Fox News · [Duffy vows to modernize aging air traffic system after nationwide ground stop](https://www.foxnews.com/travel/duffy-vows-modernize-aging-air-traffic-system-nationwide-ground-stop)
+
+**Who posted it on Instagram** (2 pages, 10,876 likes, 2 posts)
+
+- [@onlyindade](https://www.instagram.com/p/DfziSaJIaHx/) · 5,845 likes · 207 comments · +577 min after first report · West Palm Beach just became MIA’s newest terminal #ONLYinDADE A router had a bad day and the whole country stayed on the ground. The FAA called a rare nationwide ground stop on Friday, and three days 
+- [@thedailyshow](https://www.instagram.com/reel/Df1WNW5A-6N/) · 5,031 likes · 74 comments · +1951 min after first report · @jonstewart on Sean Duffy blaming a router: "I can't even order a Crunchwrap Supreme without 2-factor authentication, but somehow, there's a 'Turn Off America' switch somewhere in f**kin Arkansas?"
+
+### 12. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
+
+**Score** 124 · **Category** trending · **State** FL · **First seen** 2026-11-16 13:20 UTC · **Last update** 2026-11-19 03:20 UTC
 
 **Status** Confirmed · independent reports: 6 of 7 feeds · official: none · independent newsrooms: 6
 
@@ -483,7 +525,43 @@ Lead: [WSVN Miami (FL) — Spots across Miami adopt ‘GTA VI’ theme ahead of 
 - [@wasted](https://www.instagram.com/p/Df2QniVh0jJ/) · 7,178 likes · 66 comments · +1571 min after first report · 🧐 Grand Theft Auto VI, developed and published by Rockstar Games, is the highly anticipated eighth main entry in the Grand Theft Auto series. Set in the fictional state of Leonida—a sun-soaked, satir
 - [@dexerto](https://www.instagram.com/p/DfzdNA2mxf9/) · 4,287 likes · 51 comments · +3 min after first report · Reddit user u/NakedSnake21 has gone viral for recreating the same photo with three generations of Grand Theft Auto, capturing 18 years of his life in three pictures. He first posed with GTA 4 in 2008 
 
-### 12. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
+### 13. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
+
+**Score** 121 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-19 02:40 UTC
+
+**Status** Confirmed · independent reports: 3 of 7 feeds · official: none · independent newsrooms: 3
+
+**Duplicates collapsed**: 4 of 7 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Raye leads the 2027 Grammy nominations — support: 6
+- Raye received 11 Grammy nominations — support: 1
+- The 2027 Grammy Awards will be held on February 7 in Los Angeles — support: 5
+- The 2027 Grammy Awards will air on ABC — support: 5
+
+> 7 feeds carry 3 independent reports (the rest are duplicates). 1 key claim stated by a single report: “Raye received 11 Grammy nominations”
+
+The 2027 Grammy nominations are in, with Raye leading the pack at 11 nods and women dominating the top categories. Which nominees stood out to you this year?
+
+Lead: [WCPO Cincinnati (OH) — Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more)
+
+**Where it was published**
+
+- 2026-11-16 15:14 UTC · WCPO Cincinnati (OH) · [Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more)
+- 2026-11-16 15:54 UTC · ABC7 LA (CA) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · ABC13 Houston (TX) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc13.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · ABC7 NY (NY) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7ny.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · ABC7 Chicago (IL) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7chicago.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-16 15:54 UTC · 6abc Philly (PA) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://6abc.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
+- 2026-11-17 13:31 UTC · NBC News · [Grammy Nominees Revealed: Olivia Dean, Raye, Rosalía, More](https://www.today.com/video/grammy-snubs-see-the-names-missing-from-nominations-list-273636421884)
+
+**Who posted it on Instagram** (2 pages, 5,396 likes, 3 posts)
+
+- [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · +60 min after first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
+- [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 39 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
+
+### 14. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO
 
 **Score** 120 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-18 16:45 UTC
 
@@ -523,7 +601,7 @@ Lead: [NBC News — Nvidia board does not intend to reinstate Jensen Huang, chai
 - [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +114 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
 - [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · 202 min before first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 
-### 13. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
+### 15. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
 
 **Score** 112 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-18 20:50 UTC
 
@@ -560,7 +638,7 @@ Lead: [IGN — Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Me
 - [@markets](https://www.instagram.com/p/Df2V5nNjp7x/) · 0 likes · 4 comments · 443 min before first report · Home Alone 2: Lost in New York is one of the most beloved Christmas movies ever, but some of its secrets might surprise even the biggest fans. From Macaulay Culkin earning a record breaking $4.5 milli
 - [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 1,002 comments · +229 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
 
-### 14. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
+### 16. Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN
 
 **Score** 111 · **First seen** 2026-11-18 00:40 UTC · **Last update** 2026-11-19 00:16 UTC
 
@@ -588,43 +666,7 @@ Lead: [Daily Mail US — Americans aren't idiots. Trump must tell the truth abou
 - [@hollywoodunlocked](https://www.instagram.com/p/Df0IIDhqW2z/) · 2,059 likes · 934 comments · 1739 min before first report · HU Staff: Jamal Osborne @_j.osborne President Donald Trump made some interesting comments to NBC News White House correspondent Yamiche Alcindor on Monday after she asked whether he accepted responsib
 - [@dailymail](https://www.instagram.com/p/Df0dLQGCX14/) · 375 likes · 36 comments · 1556 min before first report · Flights across the US were grounded for hours. Now the Trump administration says it needs $50 billion to overhaul America’s aging air traffic control system. 📷 But with questions still swirling over w
 
-### 15. 2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees
-
-**Score** 111 · **Category** trending · **First seen** 2026-11-16 15:14 UTC · **Last update** 2026-11-19 00:56 UTC
-
-**Status** Confirmed · independent reports: 3 of 7 feeds · official: none · independent newsrooms: 3
-
-**Duplicates collapsed**: 4 of 7 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Raye leads the 2027 Grammy nominations — support: 6
-- Raye received 11 Grammy nominations — support: 1
-- The 2027 Grammy Awards will be held on February 7 in Los Angeles — support: 5
-- The 2027 Grammy Awards will air on ABC — support: 5
-
-> 7 feeds carry 3 independent reports (the rest are duplicates). 1 key claim stated by a single report: “Raye received 11 Grammy nominations”
-
-The 2027 Grammy nominations are in, with Raye leading the pack at 11 nods and women dominating the top categories. Which nominees stood out to you this year?
-
-Lead: [WCPO Cincinnati (OH) — Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more)
-
-**Where it was published**
-
-- 2026-11-16 15:14 UTC · WCPO Cincinnati (OH) · [Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more](https://www.wcpo.com/entertainment/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more)
-- 2026-11-16 15:54 UTC · ABC7 LA (CA) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
-- 2026-11-16 15:54 UTC · ABC13 Houston (TX) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc13.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
-- 2026-11-16 15:54 UTC · ABC7 NY (NY) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7ny.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
-- 2026-11-16 15:54 UTC · ABC7 Chicago (IL) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://abc7chicago.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
-- 2026-11-16 15:54 UTC · 6abc Philly (PA) · [2027 Grammy nominations list: Raye, Rosalía, Ella Langley, Olivia Rodrigo, Olivia Dean lead nominees](https://6abc.com/story/2027-grammy-nominations-announced-live-updates/20038587/)
-- 2026-11-17 13:31 UTC · NBC News · [Grammy Nominees Revealed: Olivia Dean, Raye, Rosalía, More](https://www.today.com/video/grammy-snubs-see-the-names-missing-from-nominations-list-273636421884)
-
-**Who posted it on Instagram** (2 pages, 5,396 likes, 3 posts)
-
-- [@pagesix](https://www.instagram.com/p/Dfzu7MjAnlO/) · 2,535 likes · 48 comments · +60 min after first report · Olivia Dean scored six Grammy nominations for the 2027 awards, including Album of the Year, Record of the Year, Song of the Year, Best Pop Solo Performance, Best Pop Vocal Album and Best Traditional P
-- [@popcrave](https://www.instagram.com/p/DfzlayKEcFI/) · 2,306 likes · 32 comments · 39 min before first report · Olivia Rodrigo earns seven Grammy nominations for ‘you seem pretty sad for a girl so in love’: Album of the Year Record of the Year (“the cure”) Song of the Year (“the cure”) Best Pop Solo Performance
-
-### 16. Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me”
+### 17. Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.K. Rowling’s Trans Views: “It’s Not For Me”
 
 **Score** 109 · **First seen** 2026-11-16 08:54 UTC · **Last update** 2026-11-18 18:50 UTC
 
@@ -655,18 +697,18 @@ Lead: [Deadline — Nicola Coughlan Boycotting ‘Harry Potter’ Series Over J.
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,642 likes · 100 comments · +1866 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 - [@clips](https://www.instagram.com/p/Dfz2B2YIjNk/) · 9,640 likes · 198 comments · +488 min after first report · Robert Pattinson — Starring in Harry Potter and the Goblet of Fire, Twilight, The Lighthouse, and The Batman, this internationally acclaimed English actor has captivated millions with his transformati
 
-### 17. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
+### 18. Sleep hacks, exercise snacks and supplements: What’s worth trying and what’s not?
 
 **Score** 107 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 23:30 UTC
 
-**Status** Unverified · independent reports: 1 of 17 feeds · official: none · independent newsrooms: 0
+**Status** Unverified · independent reports: 1 of 15 feeds · official: none · independent newsrooms: 0
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
 - The New York Post is celebrating its 225th anniversary. — support: 5
 - The New York Post is the nation's oldest continuously published daily newspaper. — support: 1
 
-> One independent report so far; not independently confirmed. 16 of the 17 independent reports in the cluster cover related updates, not this headline. 1 key claim stated by a single report: “The New York Post is the nation's oldest continuously published daily ”
+> One independent report so far; not independently confirmed. 14 of the 15 independent reports in the cluster cover related updates, not this headline. 1 key claim stated by a single report: “The New York Post is the nation's oldest continuously published daily ”
 
 Carly Stern, Wellness Editor at the New York Post, sits down with Dr. Caren Behar, Co-Director of the Mignone Women’s Health Collaborative and Medical Director at NYU Langone’s Joan H. Tisch Center for Women’s Health, to separate health fact from social media fiction. From quick “movement snacks” and better sleep habits to supplements and viral...
 
@@ -685,17 +727,17 @@ Lead: [New York Post — Sleep hacks, exercise snacks and supplements: What’s 
 - 2026-11-17 11:30 UTC · New York Post · [The Post’s 225 icons: How Lorne Michaels turned ‘SNL’ into an institution](https://nypost.com/2026/11/17/us-news/the-posts-225-icons-how-lorne-michaels-turned-snl-into-an-institution/)
 - 2026-11-17 17:11 UTC · New York Post · [America is under attack… | The Low Down](https://nypost.com/video/america-is-under-attack-the-low-down/)
 - 2026-11-17 21:19 UTC · New York Post · [Readers celebrate 225 years of The Post: Letters to the Editor — Nov. 18, 2026](https://nypost.com/2026/11/17/opinion/readers-celebrate-225-years-of-the-post-letters/)
-- 2026-11-17 22:13 UTC · New York Post · [Teen illegally scales top of iconic NYC skyscraper, cops say — then gives Post a lame excuse for crime](https://nypost.com/2026/11/17/us-news/teen-illegally-scales-top-of-iconic-nyc-skyscraper-cops-say-then-gives-post-a-lame-excuse-for-crime/)
+- 2026-11-18 11:30 UTC · New York Post · [The Post’s 225 icons: The Bow Bridge offers rare calm in the heart of NYC](https://nypost.com/2026/11/18/us-news/the-posts-225-icons-the-bow-bridge-offers-rare-calm-in-the-heart-of-nyc/)
 
-**Who posted it on Instagram** (3 pages, 19,484 likes, 4 posts)
+**Who posted it on Instagram** (3 pages, 23,467 likes, 6 posts)
 
 - [@theneighborhoodtalk](https://www.instagram.com/p/Df0HlJLx0rC/) · 15,859 likes · 2,487 comments · +515 min after first report · TNHT Staff: @hausofaaron __________________ Neighbors, customers at Chase, Bank of America, Capital One and Wells Fargo began reporting outages, with some saying they’re unable to access their banking
+- [@nypost](https://www.instagram.com/p/Df0vPJHsZy4/) · 3,883 likes · 31 comments · +862 min after first report · The Empire State Building is shining red in celebration of the New York Post’s 225th anniversary!🗽 Founded by Alexander Hamilton in 1801, the Post has been part of New York City’s story for more than 
 - [@pagesix](https://www.instagram.com/p/Df0JgnIt00m/) · 3,072 likes · 315 comments · +533 min after first report · Martha Stewart and Gov. Kathy Hochul join Editor-in-Chief Keith Poole to light the Empire State Building for New York Post’s 225 Anniversary 🗞️
-- [@nypost](https://www.instagram.com/p/Df0j6-8tFWo/) · 553 likes · 29 comments · +763 min after first report · Martha Stewart, Governor Kathy Hochul and New York Post Editor-in-Chief Keith Poole flipped my switch, then enjoyed the best view of New York City from my 86th and 102nd Floor Observation Decks. The o
 
-### 18. US officially loses measles elimination status, PAHO says
+### 19. US officially loses measles elimination status, PAHO says
 
-**Score** 107 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
+**Score** 106 · **First seen** 2026-11-16 10:10 UTC · **Last update** 2026-11-18 12:00 UTC
 
 **Status** Confirmed · independent reports: 7 of 20 feeds · official: none · independent newsrooms: 6
 
@@ -733,9 +775,9 @@ Lead: [Medical Xpress — WHO sounds the alarm on antimicrobial resistance threa
 
 - [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 433 likes · 95 comments · +3090 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
 
-### 19. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
+### 20. 'SNL' Alum Heidi Gardner's Boyfriend Ray Tintori Dead at 43
 
-**Score** 107 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-19 00:42 UTC
+**Score** 106 · **Category** trending · **First seen** 2026-11-17 00:02 UTC · **Last update** 2026-11-19 00:42 UTC
 
 **Status** Confirmed · independent reports: 22 of 28 feeds · official: none · independent newsrooms: 2
 
@@ -773,7 +815,46 @@ Lead: [TMZ — 'SNL' Alum Heidi Gardner's Boyfriend Dead at 43](https://www.tmz.
 
 - [@pagesix](https://www.instagram.com/p/Df2oD5Jkzu6/) · 3,240 likes · 128 comments · +1134 min after first report · EXCLUSIVE: New details have emerged in the death of "SNL" alum Heidi Gardner's boyfriend, Ray Tintori, who passed away at the age of 43. 💔 Read more at the link in our bio. 📸: Charles Wenzelberg / New
 
-### 20. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
+### 21. Miami Heat Reveal “Vice City” Court For GTA VI Game Release
+
+**Score** 106 · **Category** trending · **First seen** 2026-11-16 16:00 UTC · **Last update** 2026-11-19 01:33 UTC
+
+**Status** Confirmed · independent reports: 8 of 9 feeds · official: none · independent newsrooms: 8
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The Miami Heat are partnering with Rockstar Games to celebrate the release of GTA 6. — support: 4
+- The Miami Heat unveiled a special Vice City themed court for a home game. — support: 4
+- The Miami Heat will wear special Vice City jerseys. — support: 1
+- Take-Two Interactive and 2K Sports announced an NBA 2K27 crossover with GTA 6. — support: 1
+
+> 2 key claims stated by a single report: “The Miami Heat will wear special Vice City jerseys.”; “Take-Two Interactive and 2K Sports announced an NBA 2K27 crossover wit” Figures from one report only: $80.
+
+Ahead of the GTA 6 release this week, publisher Take-Two Interactive and 2K Sports have announced an NBA 2K27 crossover with the game. Starting November 27, Vice City will take over the digital basketball courts, and a special-edition NBA 2K27 Vice City Edition will also be released to promote GTA 6. The $80 digital-only NBA 2K27 Vice City Edition features Miami Heat player Bam Adebayo on the cover, and for that GTA…
+
+Lead: [GameSpot — NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/)
+
+**Where it was published**
+
+- 2026-11-16 16:00 UTC · GameSpot · [NBA 2K27’s GTA 6 Crossover Includes A Whole GTA-Inspired Limited Edition Of The Game](https://www.gamespot.com/articles/nba-2k27-gta-6-crossover-includes-a-whole-gta-inspired-limited-edition-of-the-game/)
+- 2026-11-17 12:45 UTC · Yahoo Sports · [‘Understand the hype’ – Why Giannis Antetokounmpo is ‘excited’ for Miami Heat’s GTA 6 theme night](https://sports.yahoo.com/articles/understand-hype-why-giannis-antetokounmpo-124500526.html)
+- 2026-11-17 21:10 UTC · Yahoo Sports · [Miami Heat ‘Vice City’ GTA 6-themed court: Photos & must-see details](https://sports.yahoo.com/articles/miami-heat-vice-city-gta-211033890.html)
+- 2026-11-17 23:51 UTC · IGN · [GTA 6 Vice City NBA Court Revealed by Miami Heat](https://www.ign.com/articles/gta-6-vice-city-nba-court-revealed-by-miami-heat)
+- 2026-11-18 03:56 UTC · Kotaku · [Miami Heat Players Flaunt Neat-Looking GTA 6-Themed PS5 Pros](https://kotaku.com/miami-heat-players-flaunt-neat-looking-gta-6-themed-ps5-pros-2000757883)
+- 2026-11-18 04:06 UTC · Yahoo Sports · [Miami Heat Reveal “Vice City” Court For GTA VI Game Release](https://sports.yahoo.com/articles/miami-heat-reveal-vice-city-040655333.html)
+- 2026-11-18 17:45 UTC · Yahoo Sports · [Heat Unveil Pink Vice City Court For Giannis Return Game](https://sports.yahoo.com/articles/heat-unveil-pink-vice-city-114500016.html)
+- 2026-11-18 18:42 UTC · Yahoo Sports · [Miami Heat embraces Vice City For GTA 6 launch collaboration](https://sports.yahoo.com/articles/miami-heat-embraces-vice-city-184228313.html)
+- 2026-11-19 01:31 UTC · Yahoo Sports · [Miami Heat’s ‘Vicy City’-themed arena part of $975K GTA VI collaboration](https://sports.yahoo.com/articles/miami-heat-vicy-city-themed-013152497.html)
+
+**Who posted it on Instagram** (5 pages, 76,014 likes, 7 posts)
+
+- [@onlyindade](https://www.instagram.com/p/DfziBMzsw4z/) · 38,902 likes · 302 comments · 111 min before first report · It’s GTA launch week and Vice City is ready 🌴 🌆 #gta6 #vicecity #dronepov
+- [@complex](https://www.instagram.com/p/Df30oZVDgI4/) · 20,724 likes · 236 comments · +2286 min after first report · This might be the longest 24 hours of my life 😭 ‘GTA 6’ is set to launch in less than 24 hours. After more than a decade since GTA 5, players will get to return to Vice City and explore Rockstar’s new
+- [@dexerto](https://www.instagram.com/p/Df08zJ_EcTw/) · 11,540 likes · 242 comments · +679 min after first report · Rockstar Games has explained why GTA 6 needed roughly a decade of development and nearly 5,000 staff, saying the studio could have made a cheaper, faster “GTA 5.5” but chose not to. Publishing head Je
+- [@bangerbuddy](https://www.instagram.com/p/Df0fVPjkQQj/) · 1,113 likes · 7 comments · +422 min after first report · Kalshi is offering up to $135,000 for someone to play GTA VI as their full-time job. 👀 The company is hiring a remote GTA VI Researcher to livestream their entire playthrough, break down Vice City’s i
+- [@epicfunnypage](https://www.instagram.com/reel/Dfz9VjygqX9/) · 1,057 likes · 25 comments · 420 min before first report · We got before GTA 6 nostalgia before GTA 6 Grand Theft Auto VI marks the franchise's return to Vice City, the fictional location inspired by Miami that first became famous in Grand Theft Auto: Vice Ci
+
+### 22. Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tired Winter Wardrobe Needs
 
 **Score** 106 · **First seen** 2026-11-17 09:15 UTC · **Last update** 2026-11-18 10:43 UTC
 
@@ -801,9 +882,9 @@ Lead: [Us Weekly — Jennifer Lawrence's 'Highlighter Bag' Is the *Pop* Your Tir
 - [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 8,336 likes · 30 comments · +614 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
 - [@memed.fyi](https://www.instagram.com/p/Df2uI0HD9E-/) · 57 likes · 5 comments · 16 min before first report · Seeing Jennifer Lawrence and Josh Hutcherson back together at a premiere definitely hits that nostalgia button hard. It’s like a reminder that these roles from over a decade ago still carry weight, an
 
-### 21. Bully judge punished over video of him screaming at courthouse worker after his computer crashed
+### 23. Bully judge punished over video of him screaming at courthouse worker after his computer crashed
 
-**Score** 106 · **Category** accidents · **State** TX · **First seen** 2026-11-16 17:45 UTC · **Last update** 2026-11-19 00:03 UTC
+**Score** 105 · **Category** accidents · **State** TX · **First seen** 2026-11-16 17:45 UTC · **Last update** 2026-11-19 00:03 UTC
 
 **Status** Developing · independent reports: 2 of 14 feeds · official: none · independent newsrooms: 1
 
@@ -840,39 +921,7 @@ Lead: [ABC13 Houston (TX) — Texas officials issue warning to Harris County jud
 
 - [@theneighborhoodtalk](https://www.instagram.com/p/Df21zzaMwPW/) · 8,978 likes · 1,118 comments · +1632 min after first report · TNHT Staff: @fashionswarrior _________ Neighbors, things got so heated in a Georgia courtroom that a prosecutor challenged Brian Steel to take it outside by the courthouse Christmas tree! According to
 
-### 22. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
-
-**Score** 105 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-18 22:16 UTC
-
-**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Disney reported fiscal fourth quarter revenue of 25.95 billion dollars — support: 1
-- Disney total revenue increased 16 percent compared to the year-earlier period — support: 1
-- Disney studio streaming and theme parks divisions all posted positive results in the fiscal fourth quarter — support: 1
-- Disney fiscal fourth quarter financial results exceeded Wall Street forecasts — support: 1
-
-> 1 independent report only; details may still change. 4 key claims stated by a single report: “Disney reported fiscal fourth quarter revenue of 25.95 billion dollars”; “Disney total revenue increased 16 percent compared to the year-earlier” Figures from one report only: $1.11, $1.77, $25.16, $25.95b, 16%.
-
-Disney’s studio, streaming operation and theme parks all posted stellar results in the company’s fiscal fourth quarter, handily beating Wall Street forecasts. Total revenue surged 16% over the year-earlier period, hitting $25.95 billion. Earnings per share excluding certain items shot up to $1.77 from $1.11 a year ago. Analysts had been expecting revenue of $25.16 […]
-
-Lead: [Deadline — Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/)
-
-**Where it was published**
-
-- 2026-11-17 11:37 UTC · Deadline · [Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/)
-
-**Who posted it on Instagram** (9 pages, 227,726 likes, 10 posts)
-
-- [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 162,263 likes · 1,433 comments · +297 min after first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
-- [@fboy](https://www.instagram.com/p/Df2MPetxZ-h/) · 40,095 likes · 341 comments · 157 min before first report · Dakota Johnson revealed that she can sleep up to 14 HOURS a day, and people are saying the real secret to her beauty is being a MILLIONAIRE. 😭💀 In a 2023 interview with The Wall Street Journal, the ac
-- [@worldstar](https://www.instagram.com/p/Df2T3ZlG9wW/) · 16,142 likes · 555 comments · +263 min after first report · #WorldstarBirthdays - Happy 84th Birthday to the legendary Martin Scorsese! 🐐🔥 One of the greatest filmmakers of all time, Scorsese has given us timeless classics like Goodfellas, Raging Bull, Casino,
-- [@nypost](https://www.instagram.com/p/DfzrnDQEyR8/) · 6,532 likes · 148 comments · 1087 min before first report · Johnny Depp turns to the Bahamas to experience a private life. During an interview with the Wall Street Journal, Depp opened up about craving privacy and not being able to have it in the United States
-- [@profgalloway](https://www.instagram.com/reel/Df0K_NiHaqX/) · 1,300 likes · 40 comments · 932 min before first report · Scott Galloway (@profgalloway) on why he's trying to get shares in the Anthropic IPO. "The greatest risk-free trade right now to the upside is in IPOs managed by these bankers because they engineer a 
-- [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +765 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
-
-### 23. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
+### 24. Paris Hilton Returns to Capitol Hill With AOC to Push for Deepfake Bill Vote
 
 **Score** 104 · **Category** trending · **First seen** 2026-11-17 21:43 UTC · **Last update** 2026-11-18 11:00 UTC
 
@@ -901,9 +950,9 @@ Lead: [TMZ — Paris Hilton Meets with House Speaker Mike Johnson Amid Fight Aga
 
 - [@npr](https://www.instagram.com/reel/Df3NnmSlQF9/) · 32,819 likes · 587 comments · +164 min after first report · When Paris Hilton (@parishilton) was 19, her ex-boyfriend shared an intimate video of her without her consent.⁠ ⁠ More than two decades later, Hilton says she’s being revictimized as her image now spr
 
-### 24. Mamdani disbanding controversial NYPD unit
+### 25. Mamdani disbanding controversial NYPD unit
 
-**Score** 104 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 20:31 UTC
+**Score** 103 · **First seen** 2026-11-16 11:00 UTC · **Last update** 2026-11-18 20:31 UTC
 
 **Status** Confirmed · independent reports: 9 of 16 feeds · official: none · independent newsrooms: 7
 
@@ -938,44 +987,6 @@ Lead: [ABC7 NY (NY) — Exclusive: Mayor Mamdani, Commissioner Tisch on disbandi
 **Who posted it on Instagram** (1 pages, 17,978 likes, 2 posts)
 
 - [@dailymail](https://www.instagram.com/p/DfzR62QE3YM/) · 10,959 likes · 488 comments · +45 min after first report · New York City Mayor Zohran Mamdani is launching a two-day video game development competition, NYC Game Jam, challenging young New Yorkers to create an original game in just 48 hours. Participants will
-
-### 25. University of San Francisco nursing professor, caregiver for father Dr. Ann Lawani held in ICE custody for weeks; Rep. Harder demands release
-
-**Score** 101 · **First seen** 2026-11-18 18:40 UTC · **Last update** 2026-11-18 23:37 UTC
-
-**Status** Developing · independent reports: 1 of 5 feeds · official: none · independent newsrooms: 1
-
-**Duplicates collapsed**: 4 of 5 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Dr. Ann Lawani is a nursing professor at the University of San Francisco. — support: 5
-- Dr. Ann Lawani is a caregiver for her father. — support: 5
-- Dr. Ann Lawani has been held in ICE custody for weeks. — support: 5
-- Representative Harder is demanding the release of Dr. Ann Lawani. — support: 5
-
-> 1 independent report only; details may still change. 5 feeds carry 1 independent report (the rest are duplicates).
-
-University of San Francisco nursing professor and caregiver for her father Dr. Ann Lawani has been held in ICE custody for weeks; Rep. Harder is demanding her release.
-
-Lead: [ABC7 LA (CA) — University of San Francisco nursing professor, caregiver for father Dr. Ann Lawani held in ICE custody for weeks; Rep. Harder demands release](https://abc7.com/story/university-san-francisco-nursing-professor-caregiver-father-dr-ann-lawani-held-ice-custody-weeks-rep-harder-demands-release/20051991/)
-
-**Where it was published**
-
-- 2026-11-18 18:40 UTC · ABC7 LA (CA) · [University of San Francisco nursing professor, caregiver for father Dr. Ann Lawani held in ICE custody for weeks; Rep. Harder demands release](https://abc7.com/story/university-san-francisco-nursing-professor-caregiver-father-dr-ann-lawani-held-ice-custody-weeks-rep-harder-demands-release/20051991/)
-- 2026-11-18 18:40 UTC · ABC13 Houston (TX) · [University of San Francisco nursing professor, caregiver for father Dr. Ann Lawani held in ICE custody for weeks; Rep. Harder demands release](https://abc13.com/story/university-san-francisco-nursing-professor-caregiver-father-dr-ann-lawani-held-ice-custody-weeks-rep-harder-demands-release/20051991/)
-- 2026-11-18 18:40 UTC · ABC7 NY (NY) · [University of San Francisco nursing professor, caregiver for father Dr. Ann Lawani held in ICE custody for weeks; Rep. Harder demands release](https://abc7ny.com/story/university-san-francisco-nursing-professor-caregiver-father-dr-ann-lawani-held-ice-custody-weeks-rep-harder-demands-release/20051991/)
-- 2026-11-18 18:40 UTC · ABC7 Chicago (IL) · [University of San Francisco nursing professor, caregiver for father Dr. Ann Lawani held in ICE custody for weeks; Rep. Harder demands release](https://abc7chicago.com/story/university-san-francisco-nursing-professor-caregiver-father-dr-ann-lawani-held-ice-custody-weeks-rep-harder-demands-release/20051991/)
-- 2026-11-18 18:40 UTC · 6abc Philly (PA) · [University of San Francisco nursing professor, caregiver for father Dr. Ann Lawani held in ICE custody for weeks; Rep. Harder demands release](https://6abc.com/story/university-san-francisco-nursing-professor-caregiver-father-dr-ann-lawani-held-ice-custody-weeks-rep-harder-demands-release/20051991/)
-
-**Who posted it on Instagram** (6 pages, 38,532 likes, 6 posts)
-
-- [@barstoolsports](https://www.instagram.com/p/DfxtU7Hq7lr/) · 36,920 likes · 442 comments · 4173 min before first report · What Kirk Cousins just did for the Minnesota Vikings is one of the greatest things I’ve seen a quarterback do. Way to go, KIRK!!!
-- [@theatlantic](https://www.instagram.com/p/Df3RrBdjZ95/) · 697 likes · 2 comments · 1061 min before first report · In the Wonder Reader, Isabel Fattal explores the joy of puzzles, math, and other ways to fully engage the brain—and the value of doing that alongside other people.⁠ ⁠ The Atlantic writer Lila Shroff r
-- [@andreagibson](https://www.instagram.com/reel/DfxprhHpwsN/) · 695 likes · 17 comments · 4199 min before first report · “i had it all, i had you.” it’s hard to choose my favorite part of each night of this beautiful tour. but it’s probably this one. andrea trying to find me in the audience. and me trying to find andrea
-- [@complex](https://www.instagram.com/p/Df20unjuRyW/) · 163 likes · 68 comments · 1312 min before first report · Kirko Chainz returning to the Minnesota Vikings has the entire league buzzing ... including Charly Hill on the Bet the Buzz! 🐝
-- [@showingnews](https://www.instagram.com/p/Df1fx0AETs8/) · 48 likes · 3 comments · 2056 min before first report · Some conversations don’t need someone on the other end to be meaningful. ❤️🥹 Overlooking the Pacific Ocean in San Francisco, a unique art installation offers people a quiet place to reconnect with the
-- [@awfullycreepy](https://www.instagram.com/p/Dfzhataob5Q/) · 9 likes · 0 comments · 3461 min before first report · San Francisco jewelry designer Alix Blüh says her shop Modern Relics was burglarized in August, with over 150 handmade pieces, gold, and gemstones taken. She puts the total loss at roughly $200,000–$3
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).
