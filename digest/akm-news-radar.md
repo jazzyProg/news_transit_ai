@@ -1,34 +1,34 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-20 03:59 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-20 05:00 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
-| 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 230 | Confirmed | 22 | 17 | [Yahoo Sports](https://sports.yahoo.com/articles/red-sox-players-could-play-123438740.html) |
-| 2 | What we know about Trump's meeting with China's Xi, Russia's Putin | 219 | Confirmed | 27 | 7 | [NBC News](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953) |
-| 3 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 190 | Confirmed | 12 | 19 | [Yahoo Sports](https://sports.yahoo.com/articles/understand-hype-why-giannis-antetokounmpo-124500526.html) |
-| 4 | NASA Voyager Reaches One Full Light Day From Earth | 163 | Confirmed | 21 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
+| 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 229 | Confirmed | 22 | 17 | [Yahoo Sports](https://sports.yahoo.com/articles/red-sox-players-could-play-123438740.html) |
+| 2 | What we know about Trump's meeting with China's Xi, Russia's Putin | 209 | Confirmed | 26 | 7 | [NBC News](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953) |
+| 3 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 189 | Confirmed | 12 | 16 | [Yahoo Sports](https://sports.yahoo.com/articles/understand-hype-why-giannis-antetokounmpo-124500526.html) |
+| 4 | NASA Voyager Reaches One Full Light Day From Earth | 162 | Confirmed | 21 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
 | 5 | Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating amid growing fears of attack on US soil | 152 | Confirmed | 10 | 6 | [New York Post](https://nypost.com/2026/11/17/us-news/trump-responds-to-reported-dirty-bomb-threat-from-iran-they-happen-to-be-crazy/) |
-| 6 | Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big | 151 | Confirmed | 18 | 2 | [Just Jared](https://www.justjared.com/2026/11/18/choosin-texas-superstar-ella-langley-makes-glamorous-arrival-at-cmas-2026/) |
-| 7 | ‘The Hunger Games: Sunrise on the Reaping’ Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada’s Star-Making Turn | 144 | Developing | 1 | 12 | [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-1236755773/) |
+| 6 | Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big | 150 | Confirmed | 18 | 2 | [Just Jared](https://www.justjared.com/2026/11/18/choosin-texas-superstar-ella-langley-makes-glamorous-arrival-at-cmas-2026/) |
+| 7 | ‘The Hunger Games: Sunrise on the Reaping’ Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada’s Star-Making Turn | 146 | Developing | 1 | 12 | [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-1236755773/) |
 | 8 | Waymo suspends freeway rides nationwide after California DMV order | 142 | Confirmed | 22 | 1 | [ABC7 LA (CA)](https://abc7.com/story/california-dmv-bans-waymos-operating-state-freeways-series-traffic-incidents/20048428/) |
-| 9 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 139 | Developing | 1 | 16 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
-| 10 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 137 | Confirmed | 20 | 2 | [Newsweek](https://www.newsweek.com/dan-sullivan-breaks-silence-as-alaska-senate-race-nears-showdown-12725062) |
-| 11 | Elon Musk investment puts him in business with the NFL | 136 | Confirmed | 11 | 6 | [Deadline](https://deadline.com/2026/11/elon-musk-snl-jeremy-culhane-impression-1237226296/) |
-| 12 | Huang agrees to testify before Senate Banking panel | 136 | Confirmed | 3 | 8 | [The Hill](https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/) |
-| 13 | NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash | 132 | Confirmed | 14 | 4 | [New York Post](https://nypost.com/2026/11/17/us-news/dangerous-ideological-betrayal-of-public-safety-jewish-groups-say-of-mamdani-nixing-specialized-nypd-unit/) |
-| 14 | Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’ | 131 | Developing | 1 | 7 | [Kotaku](https://kotaku.com/why-rockstar-games-includes-bigfoot-and-ufos-to-find-in-its-big-open-world-games-we-love-that-stuff-2000758423) |
-| 15 | Here's how the Secret Service plans to keep the community safe during the LA28 Olympics | 129 | Developing | 1 | 10 | [KTLA (CA)](https://ktla.com/news/local-news/secret-service-la28-olympics-security-plans/) |
-| 16 | Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change | 128 | Developing | 1 | 11 | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/) |
-| 17 | US officially loses measles elimination status, PAHO says | 126 | Confirmed | 15 | 3 | [Medical Xpress](https://medicalxpress.com/news/2026-11-health-prolonged.html) |
-| 18 | Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming | 126 | Developing | 2 | 5 | [GameSpot](https://www.gamespot.com/articles/ocarina-of-time-is-2026s-best-selling-physical-game-in-the-us-but-gta-6-is-coming/) |
+| 9 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 138 | Developing | 1 | 13 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
+| 10 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 137 | Confirmed | 20 | 2 | [Guardian US](https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates) |
+| 11 | Huang agrees to testify before Senate Banking panel | 135 | Confirmed | 3 | 8 | [The Hill](https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/) |
+| 12 | NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash | 132 | Confirmed | 14 | 4 | [New York Post](https://nypost.com/2026/11/17/us-news/dangerous-ideological-betrayal-of-public-safety-jewish-groups-say-of-mamdani-nixing-specialized-nypd-unit/) |
+| 13 | Hollywood Reacts to Robert Pattinson’s James Bond Casting: Florence Pugh, Brad Pitt, Rami Malek, More | 132 | Developing | 2 | 11 | [New York Post](https://pagesix.com/video/james-bond-casting-brad-pitt-and-florence-pugh-want-in-sydney-sweeney-named-by-ex-bond-girl/) |
+| 14 | Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’ | 130 | Developing | 1 | 7 | [Kotaku](https://kotaku.com/why-rockstar-games-includes-bigfoot-and-ufos-to-find-in-its-big-open-world-games-we-love-that-stuff-2000758423) |
+| 15 | Here's how the Secret Service plans to keep the community safe during the LA28 Olympics | 128 | Developing | 1 | 10 | [KTLA (CA)](https://ktla.com/news/local-news/secret-service-la28-olympics-security-plans/) |
+| 16 | US officially loses measles elimination status, PAHO says | 126 | Confirmed | 15 | 3 | [Medical Xpress](https://medicalxpress.com/news/2026-11-health-prolonged.html) |
+| 17 | Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming | 126 | Developing | 2 | 5 | [GameSpot](https://www.gamespot.com/articles/ocarina-of-time-is-2026s-best-selling-physical-game-in-the-us-but-gta-6-is-coming/) |
+| 18 | Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable | 124 | Disputed | 1 | 6 | [Kotaku](https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438) |
 | 19 | Reagan’s peace through strength won the Cold War. Can America do it again? | 122 | Developing | 1 | 8 | [Fox News](https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again) |
-| 20 | Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip | 117 | Confirmed | 15 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/dhs-secretary-markwayne-mullin-suggests-ai-could-be-behind-recent-outages-at-airlines-banks/) |
-| 21 | Central Park rape suspect expected to face a judge in NYC after extradition from Miami | 116 | Confirmed | 4 | 4 | [PIX11 (NY)](https://pix11.com/news/morning/mamdani-to-outline-support-plan-for-central-park-horse-carriage-drivers/) |
-| 22 | Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’ | 116 | Confirmed | 4 | 2 | [Us Weekly](https://www.usmagazine.com/entertainment/news/how-the-cma-awards-2026-paid-tribute-to-dolly-parton/) |
-| 23 | Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz | 112 | Confirmed | 4 | 3 | [Just Jared](https://www.justjared.com/2026/11/17/timothee-chalamet-kylie-jenner-private-relationship-call-me-by-your-name-sequel-vanity-fair/) |
-| 24 | The GTA 6 Map Is Truly, Truly Massive (Of Course) | 112 | Developing | 1 | 3 | [GameSpot](https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/) |
-| 25 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 111 | Confirmed | 6 | 6 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
+| 20 | Trump llega a Filipinas para iniciar una gira por Asia con acuerdos y conversaciones con aliados | 117 | Confirmed | 4 | 3 | [ABC News](https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702) |
+| 21 | Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip | 117 | Confirmed | 15 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/dhs-secretary-markwayne-mullin-suggests-ai-could-be-behind-recent-outages-at-airlines-banks/) |
+| 22 | Central Park rape suspect expected to face a judge in NYC after extradition from Miami | 116 | Confirmed | 4 | 4 | [PIX11 (NY)](https://pix11.com/news/morning/mamdani-to-outline-support-plan-for-central-park-horse-carriage-drivers/) |
+| 23 | Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’ | 116 | Confirmed | 4 | 2 | [Us Weekly](https://www.usmagazine.com/entertainment/news/how-the-cma-awards-2026-paid-tribute-to-dolly-parton/) |
+| 24 | Elon Musk investment puts him in business with the NFL | 116 | Confirmed | 10 | 4 | [Kotaku](https://kotaku.com/infinity-nikkis-latest-trailer-is-narrated-by-elon-musks-mother-maye-infold-games-2000757651) |
+| 25 | Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz | 111 | Confirmed | 4 | 3 | [Just Jared](https://www.justjared.com/2026/11/17/timothee-chalamet-kylie-jenner-private-relationship-call-me-by-your-name-sequel-vanity-fair/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -37,7 +37,7 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 
 ### 1. Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos
 
-**Score** 230 · **Category** trending · **First seen** 2026-11-17 12:34 UTC · **Last update** 2026-11-20 03:20 UTC
+**Score** 229 · **Category** trending · **First seen** 2026-11-17 12:34 UTC · **Last update** 2026-11-20 03:20 UTC
 
 **Status** Confirmed · independent reports: 10 of 23 feeds · official: none · independent newsrooms: 7
 
@@ -70,7 +70,7 @@ Lead: [Yahoo Sports — Which Red Sox players could play James Bond instead of R
 - 2026-11-18 12:30 UTC · E! News · [Jeff Bezos Reveals Process of Casting Robert Pattinson as James Bond](https://www.eonline.com/news/1438207/jeff-bezos-reveals-process-of-casting-robert-pattinson-as-james-bond?cmpid=rss-syndicate-genericrss-us-top_stories)
 - 2026-11-18 12:58 UTC · NBC News · [Jeff Bezos Says He Was ‘Heavily Involved’ in Bond Casting](https://www.today.com/video/jeff-bezos-says-he-played-role-in-casting-pattinson-as-bond-273722949667)
 
-**Who posted it on Instagram** (17 pages, 1,027,138 likes, 40 posts)
+**Who posted it on Instagram** (17 pages, 1,008,790 likes, 39 posts)
 
 - [@complex](https://www.instagram.com/p/Df1GvR_u_4p/) · 371,373 likes · 3,287 comments · 468 min before first report · Brad Pitt is all set on Robert as James Bond 👀 Would yall want to see Brad as the villain in the next James Bond?
 - [@pubity](https://www.instagram.com/p/Df0RdSnETUM/) · 204,517 likes · 1,924 comments · 935 min before first report · Robert Pattinson has officially been announced as the next James Bond, becoming the 7th actor to play 007 in EON Productions history. He’ll star in the franchise’s 26th film, directed by Denis Villene
@@ -81,21 +81,20 @@ Lead: [Yahoo Sports — Which Red Sox players could play James Bond instead of R
 
 ### 2. What we know about Trump's meeting with China's Xi, Russia's Putin
 
-**Score** 219 · **First seen** 2026-11-17 08:55 UTC · **Last update** 2026-11-20 01:55 UTC
+**Score** 209 · **First seen** 2026-11-17 08:55 UTC · **Last update** 2026-11-20 01:55 UTC
 
-**Status** Confirmed · independent reports: 65 of 101 feeds · official: none · independent newsrooms: 55
+**Status** Confirmed · independent reports: 66 of 100 feeds · official: none · independent newsrooms: 56
 
 **Wire copies collapsed**: CBS News ×2; Associated Press ×2.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- President Donald Trump is traveling to Asia for a trip that includes meetings with Xi Jinping and Vladimir Putin. — support: 6
-- President Trump arrived in Manila, Philippines, as the first stop of his Asia trip. — support: 2
-- The summit between Trump, Xi, and Putin is described as a trilateral meeting. — support: 3
-- Reports disagree on the location of the summit, citing either Shenzhen, China, or the APEC summit. — support: 3
-- Reports disagree on the purpose of the meeting, citing either general talks, nuclear talks, or trade deals. — support: 3
+- President Donald Trump is traveling to Asia for a summit involving Chinese President Xi Jinping and Russian President Vladimir Putin. — support: 6
+- The summit between Trump, Xi, and Putin is described as a high-stakes or historic meeting. — support: 4
+- The summit is expected to take place on Wednesday. — support: 1
+- The purpose of the meeting is described as nuclear talks or a trade-related event. — support: 2
 
-> 21 of the 86 independent reports in the cluster cover related updates, not this headline. 101 feeds carry 86 independent reports (wire copies: Associated Press, CBS News). The reports contradict each other regarding the specific location of the summit and the primary agenda items for the meetings.
+> 19 of the 85 independent reports in the cluster cover related updates, not this headline. 100 feeds carry 85 independent reports (wire copies: Associated Press, CBS News). Reports disagree on the primary purpose of the summit, citing either nuclear talks or trade deals. 1 key claim stated by a single report: “The summit is expected to take place on Wednesday.”
 
 President Trump's trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin has the makings of an unpredictable spectacle — and that's exactly what has U.S. allies anxious. Why it matters: Trump's stated goal for the first-ever summit between the nations' three leaders is to start a discussion on nuclear disarmament. But the fear is that he could go off script and take positions on…
 
@@ -104,17 +103,17 @@ Lead: [NBC News — Trump heads to Asia ahead of high-stakes meeting with Xi and
 **Where it was published**
 
 - 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
+- 2026-11-17 09:06 UTC · NBC News · [Putin’s prized bridge is partially destroyed in Ukrainian strike](https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756)
 - 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
 - 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
-- 2026-11-17 10:13 UTC · BBC US & Canada · [Will President Trump meet Kim Jong Un?](https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss)
-- 2026-11-17 10:25 UTC · ABC News · [Trump Asia trip live updates: Trump lands in Manila ahead meetings with Asian leaders](https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702)
 - 2026-11-17 10:43 UTC · NPR · [Trump arrives in Philippines to kick off Asia trip](https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines)
 - 2026-11-17 11:00 UTC · The Hill · [What Trump, Putin and Xi want from superpower summit](https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/)
 - 2026-11-17 12:06 UTC · NBC News · [Trump’s unprecedented trilateral meeting in Asia and what’s with all the tech glitches?: Morning Rundown](https://www.nbcnews.com/news/us-news/trump-xi-putin-chase-united-outages-morning-rundown-rcna609759)
-- 2026-11-17 12:21 UTC · NBC News · [Trump Arrives in Asia for Historic Meeting With Xi Jinping and Putin](https://www.today.com/video/trump-suggests-north-korea-s-kim-jong-un-may-join-asia-meeting-273634885662)
 - 2026-11-17 12:54 UTC · BBC US & Canada · [Trump lands in Asia ahead of talks with Russian and Chinese presidents](https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss)
-- 2026-11-17 13:36 UTC · WCPO Cincinnati (OH) · [Trump begins Asia trip ahead of high-stakes talks with Xi and Putin](https://www.wcpo.com/politics/the-president/trump-begins-asia-trip-ahead-of-high-stakes-talks-with-xi-and-putin)
 - 2026-11-17 16:10 UTC · The Hill · [O’Reilly: ‘Trump may be wrong in the way he handles Xi and Putin’](https://thehill.com/policy/international/6225307-oreilly-trump-xi-putin-strategy/)
+- 2026-11-17 16:56 UTC · CBS News · [Trump reacts to Iran's "dirty bomb" threat: "We take it very seriously"](https://www.cbsnews.com/video/trump-says-us-taking-iranian-dirty-bomb-threat-very-seriously/)
+- 2026-11-17 18:28 UTC · Daily Mail US · [Watch Trump's 'unaffected' response when pressed on American doomsday fears... as he 'flips in an instant' at mention of his risky meeting with Xi and Putin](https://www.dailymail.com/news/article-16299789/watch-trump-doomsday-response-risky-xi-putin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-17 23:30 UTC · CBS News · [How Trump's summit with Putin and Xi might be like the Yalta Conference](https://www.cbsnews.com/video/previewing-trumps-summit-with-putin-xi/)
 
 **Who posted it on Instagram** (7 pages, 21,959 likes, 10 posts)
 
@@ -127,7 +126,7 @@ Lead: [NBC News — Trump heads to Asia ahead of high-stakes meeting with Xi and
 
 ### 3. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
 
-**Score** 190 · **Category** trending · **First seen** 2026-11-17 12:45 UTC · **Last update** 2026-11-20 02:46 UTC
+**Score** 189 · **Category** trending · **First seen** 2026-11-17 12:45 UTC · **Last update** 2026-11-20 02:46 UTC
 
 **Status** Confirmed · independent reports: 22 of 30 feeds · official: none · independent newsrooms: 22
 
@@ -161,18 +160,18 @@ Lead: [Yahoo Sports — ‘Understand the hype’ – Why Giannis Antetokounmpo 
 - 2026-11-18 17:45 UTC · Yahoo Sports · [Heat Unveil Pink Vice City Court For Giannis Return Game](https://sports.yahoo.com/articles/heat-unveil-pink-vice-city-114500016.html)
 - 2026-11-18 18:42 UTC · Yahoo Sports · [Miami Heat embraces Vice City For GTA 6 launch collaboration](https://sports.yahoo.com/articles/miami-heat-embraces-vice-city-184228313.html)
 
-**Who posted it on Instagram** (19 pages, 1,191,051 likes, 33 posts)
+**Who posted it on Instagram** (16 pages, 999,838 likes, 25 posts)
 
 - [@dailymail](https://www.instagram.com/p/Df5YdM5k-mK/) · 237,797 likes · 1,081 comments · +1913 min after first report · Grand Theft Auto VI is currently having its worldwide rollout, and the first viral Easter egg is a cool, jet skiing dog. If your character wanders too deep into the ocean, a helpful dog on a jet ski w
 - [@pubity](https://www.instagram.com/p/Df4aUSXDctc/) · 156,512 likes · 1,766 comments · +1370 min after first report · GTA 6 is now the highest-rated game of all time on Metacritic, reaching an incredible score of 99/100 as the first critic reviews arrive. After 13 years of anticipation, Rockstar Games’ long-awaited s
 - [@wasted](https://www.instagram.com/p/Df5GQDlkwdm/) · 134,379 likes · 1,725 comments · +1754 min after first report · She bought him GTA 6, but it came with terms and conditions 😭📜🎮 One gamer’s girlfriend surprised him with Grand Theft Auto VI, and attached to the gift was an official contract he had to sign before
 - [@clips](https://www.instagram.com/p/Df5dyECIvSk/) · 78,273 likes · 492 comments · +1961 min after first report · Grand Theft Auto VI (2026) — Starring Manni L. Perez, Dylan Rourke, and Stephen Root, this long-awaited open-world action blockbuster takes players back to the sun-soaked, neon-lit streets of Vice Cit
-- [@complex](https://www.instagram.com/p/Df5sQOdg0-y/) · 38,252 likes · 432 comments · +2087 min after first report · "My name is Travíto" @travisscott is feeling the energy of Vice City night on the eve of the GTA launch 😂
 - [@nugget](https://www.instagram.com/p/Df0uh4nIDHA/) · 23,444 likes · 152 comments · 687 min before first report · When GTA V launched in 2013, the most popular apps included Candy Crush, Temple Run, Vine, and Snapchat. Fast forward to the GTA VI era, and the digital landscape looks completely different. Artificia
+- [@gamemes](https://www.instagram.com/p/Df538t5Fqir/) · 17,384 likes · 534 comments · +2188 min after first report · 13 years of waiting, and GTA 6 just tied the highest Metacritic score ever recorded 🎮🏆 As critic reviews rolled in on November 18, Grand Theft Auto VI landed at a 99 on Metacritic, matching the record
 
 ### 4. NASA Voyager Reaches One Full Light Day From Earth
 
-**Score** 163 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 21:49 UTC
+**Score** 162 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 21:49 UTC
 
 **Status** Confirmed · independent reports: 9 of 24 feeds · official: none · independent newsrooms: 7
 
@@ -256,7 +255,7 @@ Lead: [New York Post — Trump responds to reported ‘dirty bomb’ threat from
 
 ### 6. Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big
 
-**Score** 151 · **Category** trending · **State** TX · **First seen** 2026-11-19 00:56 UTC · **Last update** 2026-11-19 17:31 UTC
+**Score** 150 · **Category** trending · **State** TX · **First seen** 2026-11-19 00:56 UTC · **Last update** 2026-11-19 17:31 UTC
 
 **Status** Confirmed · independent reports: 10 of 21 feeds · official: none · independent newsrooms: 6
 
@@ -297,7 +296,7 @@ Lead: [Just Jared — ‘Choosin’ Texas’ Superstar Ella Langley Makes Glamor
 
 ### 7. ‘The Hunger Games: Sunrise on the Reaping’ Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada’s Star-Making Turn
 
-**Score** 144 · **First seen** 2026-11-17 14:00 UTC · **Last update** 2026-11-19 23:30 UTC
+**Score** 146 · **First seen** 2026-11-17 14:00 UTC · **Last update** 2026-11-20 04:20 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -368,7 +367,7 @@ Lead: [ABC7 LA (CA) — California DMV bans Waymos from operating on state freew
 
 ### 9. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
 
-**Score** 139 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-19 22:04 UTC
+**Score** 138 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-19 22:04 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -389,38 +388,38 @@ Lead: [Deadline — Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4,
 
 - 2026-11-17 11:37 UTC · Deadline · [Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/)
 
-**Who posted it on Instagram** (16 pages, 249,164 likes, 18 posts)
+**Who posted it on Instagram** (13 pages, 229,334 likes, 14 posts)
 
 - [@pubity](https://www.instagram.com/p/Df2XqgDN9fy/) · 167,409 likes · 1,474 comments · +297 min after first report · Jensen Huang has spoken publicly for the first time since resigning as NVIDIA CEO on November 12, telling The Wall Street Journal he is prepared to return if the board asks him to. He also issued an a
 - [@fboy](https://www.instagram.com/p/Df2MPetxZ-h/) · 40,095 likes · 341 comments · 157 min before first report · Dakota Johnson revealed that she can sleep up to 14 HOURS a day, and people are saying the real secret to her beauty is being a MILLIONAIRE. 😭💀 In a 2023 interview with The Wall Street Journal, the ac
 - [@worldstar](https://www.instagram.com/p/Df2T3ZlG9wW/) · 17,238 likes · 555 comments · +263 min after first report · #WorldstarBirthdays - Happy 84th Birthday to the legendary Martin Scorsese! 🐐🔥 One of the greatest filmmakers of all time, Scorsese has given us timeless classics like Goodfellas, Raging Bull, Casino,
-- [@technology](https://www.instagram.com/p/Df5NnA5I4P0/) · 11,771 likes · 95 comments · +1886 min after first report · Anthropic goes public tomorrow, and about 4 out of 5 of its employees could wake up millionaires. If it debuts at a $1.5T valuation, an estimated 4,250 employees could become millionaires, 1,200 could
-- [@nypost](https://www.instagram.com/p/DfzrnDQEyR8/) · 6,532 likes · 148 comments · 1087 min before first report · Johnny Depp turns to the Bahamas to experience a private life. During an interview with the Wall Street Journal, Depp opened up about craving privacy and not being able to have it in the United States
 - [@simplyougrow](https://www.instagram.com/p/Df5avj-GUfp/) · 1,489 likes · 3 comments · +2001 min after first report · Tomorrow, two of the biggest launches ever land on the same day. 💸 Rockstar’s GTA 6 finally releases after more than a decade of waiting, with over $1 billion in pre-order sales already locked in. Hou
+- [@dailymail](https://www.instagram.com/p/Df6xg8pkTRJ/) · 614 likes · 9 comments · +2760 min after first report · Anthropic has raised a record-breaking $81.3 billion through its IPO, valuing the company at $1.5 trillion. On November 18, the company priced its shares at $83 each, above its initial target range, r
+- [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +765 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
 
 ### 10. Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects
 
-**Score** 137 · **First seen** 2026-11-17 04:15 UTC · **Last update** 2026-11-20 03:25 UTC
+**Score** 137 · **First seen** 2026-11-17 11:50 UTC · **Last update** 2026-11-20 04:34 UTC
 
-**Status** Confirmed · independent reports: 25 of 40 feeds · official: none · independent newsrooms: 24
+**Status** Confirmed · independent reports: 25 of 41 feeds · official: none · independent newsrooms: 24
 
 **Wire copies collapsed**: Associated Press ×10.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Democrat Mary Peltola defeated Republican incumbent Dan Sullivan in the Alaska Senate race. — support: 5
-- Mary Peltola received 50.12 percent of the vote and Dan Sullivan received 45.79 percent of the vote. — support: 1
-- The Democratic Party gained a Senate seat in Alaska. — support: 4
+- Democrat Mary Peltola defeated Republican incumbent Dan Sullivan in the Alaska Senate race. — support: 6
+- Mary Peltola flipped the Alaska Senate seat for the Democratic Party. — support: 4
+- Peltola received 50.12 percent of the vote compared to 45.79 percent for Sullivan. — support: 1
+- The Democratic Party now holds 56 Senate seats. — support: 1
 
-> 6 of the 31 independent reports in the cluster cover related updates, not this headline. 40 feeds carry 31 independent reports (wire copies: Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. Report 1 suggests the race is uncalled while reports 4, 5, and 6 state the race has been decided. 1 key claim stated by a single report: “Mary Peltola received 50.12 percent of the vote and Dan Sullivan recei” Figures from one report only: 50%.
+> 7 of the 32 independent reports in the cluster cover related updates, not this headline. 41 feeds carry 32 independent reports (wire copies: Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. 2 key claims stated by a single report: “Peltola received 50.12 percent of the vote compared to 45.79 percent f”; “The Democratic Party now holds 56 Senate seats.” Figures from one report only: 50%.
 
 Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live Sign up for US Breaking News email Hello and welcome to the US politics live blog. The final Senate race of this year’s midterm elections could be resolved tomorrow if Alaska election officials run the state’s ranked choice voting system to determine the result. Donald Trump defended his…
 
-Lead: [Newsweek — Dan Sullivan Breaks Silence as Alaska Senate Race Nears Showdown](https://www.newsweek.com/dan-sullivan-breaks-silence-as-alaska-senate-race-nears-showdown-12725062)
+Lead: [Guardian US — Democrats’ Peltola ahead as counting nears end in Alaska Senate race – US politics live](https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates)
 
 **Where it was published**
 
-- 2026-11-17 04:15 UTC · Newsweek · [Dan Sullivan Breaks Silence as Alaska Senate Race Nears Showdown](https://www.newsweek.com/dan-sullivan-breaks-silence-as-alaska-senate-race-nears-showdown-12725062)
 - 2026-11-17 11:50 UTC · Guardian US · [Democrats’ Peltola ahead as counting nears end in Alaska Senate race – US politics live](https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates)
 - 2026-11-17 20:52 UTC · The Hill · [Why an Alaska win by Peltola is so important to Democrats](https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/)
 - 2026-11-18 03:19 UTC · NBC News · [Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan](https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307)
@@ -432,58 +431,16 @@ Lead: [Newsweek — Dan Sullivan Breaks Silence as Alaska Senate Race Nears Show
 - 2026-11-18 03:29 UTC · Axios · [Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave](https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola)
 - 2026-11-18 03:30 UTC · WCPO Cincinnati (OH) · [Mary Peltola projected to flip Alaska Senate seat, giving Democrats 56-44 majority](https://www.wcpo.com/politics/america-votes/mary-peltola-projected-to-flip-alaska-senate-seat-giving-democrats-56-44-majority)
 - 2026-11-18 03:31 UTC · ABC News · [Democrat Mary Peltola wins Alaska Senate race: AP projects](https://abcnews.com/Politics/democrat-mary-peltola-wins-alaska-senate-race-defeating/story?id=137983873)
+- 2026-11-18 03:31 UTC · KHOU (TX) · [Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan](https://www.khou.com/article/news/politics/elections/democrat-mary-peltola-wins-us-senate-alaska/507-5c0424d8-667a-4c8a-9749-2d71495e617e)
 
 **Who posted it on Instagram** (2 pages, 8,683 likes, 2 posts)
 
-- [@nytimes](https://www.instagram.com/p/Df5GEkFE0Hp/) · 5,536 likes · 99 comments · +2279 min after first report · When Mary Peltola was officially elected senator of Alaska on Tuesday night, she became one of the first Native American women to win election to the Senate, joining Peggy Flanagan, a Democrat of Minn
-- [@wsj](https://www.instagram.com/p/Df4dMe4l8Zh/) · 3,147 likes · 165 comments · +1904 min after first report · When Cameron Cushman and his wife walked into the school across the street from their house to vote in the Texas Republican primary runoff in May, a poll worker reminded him that he already had voted 
+- [@nytimes](https://www.instagram.com/p/Df5GEkFE0Hp/) · 5,536 likes · 99 comments · +1825 min after first report · When Mary Peltola was officially elected senator of Alaska on Tuesday night, she became one of the first Native American women to win election to the Senate, joining Peggy Flanagan, a Democrat of Minn
+- [@wsj](https://www.instagram.com/p/Df4dMe4l8Zh/) · 3,147 likes · 165 comments · +1450 min after first report · When Cameron Cushman and his wife walked into the school across the street from their house to vote in the Texas Republican primary runoff in May, a poll worker reminded him that he already had voted 
 
-### 11. Elon Musk investment puts him in business with the NFL
+### 11. Huang agrees to testify before Senate Banking panel
 
-**Score** 136 · **Category** trending · **First seen** 2026-11-17 04:30 UTC · **Last update** 2026-11-19 23:37 UTC
-
-**Status** Confirmed · independent reports: 4 of 16 feeds · official: none · independent newsrooms: 3
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Elon Musk criticized Jeremy Culhane’s impression of him on Saturday Night Live. — support: 1
-- Maye Musk appeared in trailers for the game Infinity Nikki. — support: 3
-- SpaceX successfully caught the Starship spacecraft with its launch tower mechanical arms. — support: 1
-- HBO will air a documentary critical of Elon Musk despite his investment in Skydance. — support: 1
-
-> 12 of the 16 independent reports in the cluster cover related updates, not this headline. 3 key claims stated by a single report: “Elon Musk criticized Jeremy Culhane’s impression of him on Saturday Ni”; “SpaceX successfully caught the Starship spacecraft with its launch tow”
-
-Elon Musk was not impressed with the impression of him on Saturday Night Live this past weekend. The Tesla founder took to X, the social media platform he owns and formerly known as Twitter, to blast Jeremy Culhane’s impression. “I’d give them maybe 5/10 for me,” the controversial personality said, rating Culhane’s performance. Musk then […]
-
-Lead: [Deadline — Elon Musk Blasts ‘SNL’ For Jeremy Culhane’s Impression Of Him: “They Need To Try Harder”](https://deadline.com/2026/11/elon-musk-snl-jeremy-culhane-impression-1237226296/)
-
-**Where it was published**
-
-- 2026-11-17 04:30 UTC · Deadline · [Elon Musk Blasts ‘SNL’ For Jeremy Culhane’s Impression Of Him: “They Need To Try Harder”](https://deadline.com/2026/11/elon-musk-snl-jeremy-culhane-impression-1237226296/)
-- 2026-11-17 14:30 UTC · Kotaku · [Infinity Nikki’s Latest Trailers Are Narrated By…Elon Musk’s Mom?](https://kotaku.com/infinity-nikkis-latest-trailer-is-narrated-by-elon-musks-mother-maye-infold-games-2000757651)
-- 2026-11-17 16:09 UTC · New York Post · [Elon Musk inspects Starship after SpaceX pulls off historic first-ever tower catch](https://nypost.com/video/elon-musk-inspects-starship-after-spacex-pulls-off-historic-first-ever-tower-catch/)
-- 2026-11-17 22:56 UTC · IGN · [Infinity Nikki Players Baffled After Elon Musk's Mom Appears in Game's Update Trailers](https://www.ign.com/articles/infinity-nikki-players-baffled-after-elon-musks-mom-appears-in-games-update-trailers)
-- 2026-11-18 09:11 UTC · PC Gamer · [Elon Musk's mother is promoting a dress-up gacha game, for some reason](https://www.pcgamer.com/games/adventure/elon-musks-mother-is-promoting-a-dress-up-gacha-game-for-some-reason/)
-- 2026-11-18 17:30 UTC · TechCrunch · [David Ellison says HBO will air critical Elon Musk documentary despite $1B investment in Skydance](https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/)
-- 2026-11-18 18:03 UTC · Hollywood Reporter · [David Ellison’s Open to Elon Musk Collaboration: “It Would Be a Privilege”](https://www.hollywoodreporter.com/business/business-news/david-ellisons-open-to-elon-musk-collaboration-it-would-be-a-privilege-1236758547/)
-- 2026-11-18 20:46 UTC · New York Post · [David Ellison confirms Elon Musk’s major investment in Skydance: ‘The greatest entrepreneur of our time’](https://nypost.com/2026/11/18/media/david-ellison-confirms-elon-musks-major-investment-in-skydance-the-greatest-entrepreneur-of-our-time/)
-- 2026-11-18 23:25 UTC · TechCrunch · [Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/)
-- 2026-11-19 02:59 UTC · BBC US & Canada · [Elon Musk says record spending on US midterms was 'pretty foolish'](https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss)
-- 2026-11-19 05:11 UTC · New York Post · [Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink](https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/)
-- 2026-11-19 13:00 UTC · The Hill · [Elon Musk is giving away $11 billion in SpaceX stock — and coming out ahead](https://thehill.com/opinion/finance/6227645-trump-accounts-tax-loophole/)
-
-**Who posted it on Instagram** (6 pages, 66,229 likes, 6 posts)
-
-- [@pubity](https://www.instagram.com/p/Df0ni1Ypx8q/) · 61,266 likes · 1,651 comments · 255 min before first report · Elon Musk was filmed high above the ground in Texas inspecting the heat shield of a spaceship that had been in orbit a day earlier. Starship Flight 15 launched from Starbase on November 13. After abou
-- [@nypost](https://www.instagram.com/p/Df0Fy5KnUAU/) · 3,612 likes · 261 comments · 435 min before first report · SpaceX CEO Elon Musk was spotted examining the spacecraft’s heat-shield tiles at Starbase, Texas, a day after Starship made history by being caught midair by its launch tower’s giant mechanical arms.
-- [@dailymail](https://www.instagram.com/p/Df64hHPEbsI/) · 838 likes · 106 comments · +3248 min after first report · Elon Musk said he felt 'pretty foolish' about spending nearly half a billion dollars backing Republican candidates in the U.S. midterm elections after the party suffered major losses. Speaking at the 
-- [@theatlantic](https://www.instagram.com/reel/Df5vxhpDEVL/) · 513 likes · 22 comments · +2615 min after first report · Elon Musk’s influence over national security “is squarely within our purview,” Representative Jason Crow, a member of the House Armed Services Committee, tells @anneapplebaum2000.⁠ ⁠ Watch Autocracy i
-- [@markets](https://www.instagram.com/p/Df2Kqg3kgZO/) · 0 likes · 15 comments · +270 min after first report · Elon Musk celebrated a historic SpaceX milestone by reportedly hugging Starship 42 after its incredible return to Earth. On November 14, SpaceX successfully caught Starship’s upper stage using the gia
-- [@thatsinteresting](https://www.instagram.com/reel/Df4wXCDxC0O/) · 0 likes · 7 comments · +1710 min after first report · After spending more than 22 hours orbiting Earth, a massive spacecraft returned through the atmosphere and was caught by two giant mechanical arms. On November 14, 2026, Elon Musk’s SpaceX achieved a
-
-### 12. Huang agrees to testify before Senate Banking panel
-
-**Score** 136 · **First seen** 2026-11-18 03:48 UTC · **Last update** 2026-11-20 00:04 UTC
+**Score** 135 · **First seen** 2026-11-18 03:48 UTC · **Last update** 2026-11-20 00:04 UTC
 
 **Status** Confirmed · independent reports: 3 of 3 feeds · official: none · independent newsrooms: 2
 
@@ -515,13 +472,13 @@ Lead: [The Hill — Huang agrees to testify before Senate Banking panel](https:/
 - [@movieshowtime](https://www.instagram.com/p/Df0YVWRHXRX/) · 122 likes · 0 comments · 1128 min before first report · Man 😭 A U.S. intelligence memo alleged Nvidia CEO Jensen Huang had a romantic relationship with a tech executive believed to have been recruited by China's Ministry of State Security, per the Financia
 - [@newsweek](https://www.instagram.com/p/Df44ukyGxX-/) · 56 likes · 6 comments · +733 min after first report · U.S. intelligence officials have concluded that Ms. Huang was an asset of China’s Ministry of State Security (MSS). That means an MSS asset may have been just one or two steps away from President Dona
 
-### 13. NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash
+### 12. NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash
 
 **Score** 132 · **Category** accidents · **State** NY · **First seen** 2026-11-17 07:19 UTC · **Last update** 2026-11-19 23:25 UTC
 
-**Status** Confirmed · independent reports: 10 of 26 feeds · official: none · independent newsrooms: 7
+**Status** Confirmed · independent reports: 10 of 25 feeds · official: none · independent newsrooms: 7
 
-**Duplicates collapsed**: 4 of 26 feeds repeat the same report.
+**Duplicates collapsed**: 4 of 25 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
@@ -531,7 +488,7 @@ Lead: [The Hill — Huang agrees to testify before Senate Banking panel](https:/
 - Mayor Zohran Mamdani criticized the federal government's response to technical outages. — support: 1
 - Ken Griffin sold a New York City duplex to Woody Johnson for 58 million dollars. — support: 1
 
-> 12 of the 22 independent reports in the cluster cover related updates, not this headline. 26 feeds carry 22 independent reports (the rest are duplicates). 3 key claims stated by a single report: “Mayor Zohran Mamdani is developing a transition plan for horse-drawn c”; “Mayor Zohran Mamdani criticized the federal government's response to t”
+> 11 of the 21 independent reports in the cluster cover related updates, not this headline. 25 feeds carry 21 independent reports (the rest are duplicates). 3 key claims stated by a single report: “Mayor Zohran Mamdani is developing a transition plan for horse-drawn c”; “Mayor Zohran Mamdani criticized the federal government's response to t”
 
 Stephen A. Smith‘s daughter’s comments about New York City Mayor Zohran Mamdani have gone viral online. The reaction follows the ESPN personality revealing that his teenage daughter supports the politician. However, Smith joked that he has a plan to change her mind once she starts paying taxes. He shared the story during a recent episode […] The post Stephen A. Smith Says His Daughter Loves Zohran Mamdani But He Has…
 
@@ -559,9 +516,42 @@ Lead: [New York Post — ‘Dangerous, ideological betrayal of public safety,’
 - [@wired](https://www.instagram.com/p/Df5GXx2E3Xz/) · 1,226 likes · 55 comments · +2201 min after first report · EXCLUSIVE: On January 1, Amani Al-Khatahtbeh, an author, activist, and the founder of media company Muslim Girl, posted a selfie from Zohran Mamdani’s inauguration as the first Muslim mayor of New Yor
 - [@dailymail](https://www.instagram.com/p/Df7T6oBD2OX/) · 201 likes · 25 comments · +3317 min after first report · New York City Mayor Zohran Mamdani has signed an executive order directing city agencies to make publicly funded meal programs more inclusive of different religious dietary practices. The city's Offic
 
+### 13. Hollywood Reacts to Robert Pattinson’s James Bond Casting: Florence Pugh, Brad Pitt, Rami Malek, More
+
+**Score** 132 · **Category** trending · **First seen** 2026-11-17 22:05 UTC · **Last update** 2026-11-19 15:49 UTC
+
+**Status** Developing · independent reports: 2 of 2 feeds · official: none · independent newsrooms: 1
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Robert Pattinson has been cast as the next James Bond. — support: 2
+- Brad Pitt and Florence Pugh are interested in roles for the new James Bond film. — support: 2
+- Florence Pugh requested a villain role in the film by texting the director. — support: 1
+- Sydney Sweeney is being considered for a role in the film. — support: 1
+
+> 2 independent reports only; details may still change. Aggregator feeds in the chain (Google News: Top US); open the original. 2 key claims stated by a single report: “Florence Pugh requested a villain role in the film by texting the dire”; “Sydney Sweeney is being considered for a role in the film.”
+
+Brad Pitt, Sydney Sweeney, and Florence Pugh are all vying to join Robert Pattinson’s highly anticipated new “James Bond” film. Pugh even revealed that she texted the director of the new film, asking for a villain role. Watch the full video to see what Brad Pitt had to say when asked if he’d join the...
+
+Lead: [New York Post — James Bond casting: Brad Pitt and Florence Pugh want in, Sydney Sweeney named by ex-Bond girl](https://pagesix.com/video/james-bond-casting-brad-pitt-and-florence-pugh-want-in-sydney-sweeney-named-by-ex-bond-girl/)
+
+**Where it was published**
+
+- 2026-11-17 22:05 UTC · New York Post · [James Bond casting: Brad Pitt and Florence Pugh want in, Sydney Sweeney named by ex-Bond girl](https://pagesix.com/video/james-bond-casting-brad-pitt-and-florence-pugh-want-in-sydney-sweeney-named-by-ex-bond-girl/)
+- 2026-11-18 00:06 UTC · Hollywood Reporter · [Hollywood Reacts to Robert Pattinson’s James Bond Casting: Florence Pugh, Brad Pitt, Rami Malek, More](https://www.hollywoodreporter.com/movies/movie-news/hollywood-celebs-react-robert-pattinson-james-bond-casting-1236757856/)
+
+**Who posted it on Instagram** (11 pages, 366,587 likes, 12 posts)
+
+- [@pubity](https://www.instagram.com/p/Df0RdSnETUM/) · 204,517 likes · 1,924 comments · 1506 min before first report · Robert Pattinson has officially been announced as the next James Bond, becoming the 7th actor to play 007 in EON Productions history. He’ll star in the franchise’s 26th film, directed by Denis Villene
+- [@complex](https://www.instagram.com/p/Df2QXhnlQjg/) · 24,976 likes · 187 comments · 397 min before first report · I’m here for this 👀 Florence Pugh revealed that she reached out to Denis Villeneuve after Robert Pattinson landed the role of 007, congratulating the director on his casting choice while casually thro
+- [@goodlife](https://www.instagram.com/p/Df5E9q9gdnf/) · 10,040 likes · 1,378 comments · +654 min after first report · Florence Pugh, Zendaya, Sydney Sweeney, Margaret Qualley, Lupita Nyong’o, Margot Robbie, Anya Taylor-Joy, and Callina Liang bring different strengths, from action experience to dramatic performances,
+- [@cinephile.club](https://www.instagram.com/p/Df43CIsCDCZ/) · 8,748 likes · 1,012 comments · +1060 min after first report · WHO COULD BE THE NEXT BOND GIRL? 👀 With Robert Pattinson officially announced as the next James Bond, all eyes are now on one big question: who will star alongside him as the next Bond girl? Names lik
+- [@clips](https://www.instagram.com/p/Df59ZQ2omHJ/) · 7,287 likes · 44 comments · +1676 min after first report · Avengers: Doomsday (2026) — Directed by Anthony and Joe Russo, this colossal superhero event stars Robert Downey Jr., Chris Hemsworth, Chris Evans, Pedro Pascal, and Florence Pugh as the Marvel Cinema
+- [@unilad](https://www.instagram.com/p/Df4x05rF07q/) · 6,803 likes · 386 comments · +1014 min after first report · Robert Pattinson has the tuxedo. Now he needs someone to ruin his day 🍸👀⁠ ⁠ We’ve put together our dream picks for the next Bond villain, from Cillian Murphy and Jesse Plemons to Idris Elba and Floren
+
 ### 14. Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’
 
-**Score** 131 · **Category** trending · **First seen** 2026-11-19 17:30 UTC · **Last update** 2026-11-20 02:54 UTC
+**Score** 130 · **Category** trending · **First seen** 2026-11-19 17:30 UTC · **Last update** 2026-11-20 02:54 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -591,7 +581,7 @@ Lead: [Kotaku — Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Bi
 
 ### 15. Here's how the Secret Service plans to keep the community safe during the LA28 Olympics
 
-**Score** 129 · **First seen** 2026-11-17 17:44 UTC · **Last update** 2026-11-20 00:53 UTC
+**Score** 128 · **First seen** 2026-11-17 17:44 UTC · **Last update** 2026-11-20 00:53 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -619,38 +609,7 @@ Lead: [KTLA (CA) — Here's how the Secret Service plans to keep the community s
 - [@hairs](https://www.instagram.com/p/Df01vjfANyQ/) · 171 likes · 0 comments · 524 min before first report · Did you know that the global average price of a grilled cheese sandwich can vary wildly? In the United States, it often ranges from $3 to $10, depending on the ingredients and location. This beloved c
 - [@vision.motivee](https://www.instagram.com/reel/Df2vTlzBvhw/) · 146 likes · 4 comments · 524 min before first report · The 2004 United States Grand Prix delivered a dramatic restart when Michael Schumacher overtook Ferrari teammate Rubens Barrichello under the safety car. Schumacher went on to win the race, while Taku
 
-### 16. Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change
-
-**Score** 128 · **First seen** 2026-11-17 22:10 UTC · **Last update** 2026-11-19 15:49 UTC
-
-**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Carrie Coon was honored at the Elle Women in Hollywood event in Beverly Hills. — support: 1
-- Florence Pugh, Julianne Moore, Penélope Cruz, Elizabeth Debicki, Rosalind Eleazar, Samantha Morton and Inde Navarrette were honored alongside Carrie Coon. — support: 1
-- Carrie Coon called for women to start their own studio. — support: 1
-
-> 1 independent report only; details may still change. 3 key claims stated by a single report: “Carrie Coon was honored at the Elle Women in Hollywood event in Beverl”; “Florence Pugh, Julianne Moore, Penélope Cruz, Elizabeth Debicki, Rosal”
-
-Coon was honored alongside Florence Pugh, Julianne Moore, Penélope Cruz, Elizabeth Debicki, Rosalind Eleazar, Samantha Morton and Inde Navarrette at the Beverly Hills event.
-
-Lead: [Hollywood Reporter — Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/)
-
-**Where it was published**
-
-- 2026-11-17 22:10 UTC · Hollywood Reporter · [Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/)
-
-**Who posted it on Instagram** (11 pages, 384,935 likes, 13 posts)
-
-- [@pubity](https://www.instagram.com/p/Df0RdSnETUM/) · 204,517 likes · 1,924 comments · 1511 min before first report · Robert Pattinson has officially been announced as the next James Bond, becoming the 7th actor to play 007 in EON Productions history. He’ll star in the franchise’s 26th film, directed by Denis Villene
-- [@complex](https://www.instagram.com/p/Df2QXhnlQjg/) · 24,976 likes · 187 comments · 402 min before first report · I’m here for this 👀 Florence Pugh revealed that she reached out to Denis Villeneuve after Robert Pattinson landed the role of 007, congratulating the director on his casting choice while casually thro
-- [@goodlife](https://www.instagram.com/p/Df5E9q9gdnf/) · 10,040 likes · 1,378 comments · +649 min after first report · Florence Pugh, Zendaya, Sydney Sweeney, Margaret Qualley, Lupita Nyong’o, Margot Robbie, Anya Taylor-Joy, and Callina Liang bring different strengths, from action experience to dramatic performances,
-- [@cinephile.club](https://www.instagram.com/p/Df43CIsCDCZ/) · 8,748 likes · 1,012 comments · +1055 min after first report · WHO COULD BE THE NEXT BOND GIRL? 👀 With Robert Pattinson officially announced as the next James Bond, all eyes are now on one big question: who will star alongside him as the next Bond girl? Names lik
-- [@clips](https://www.instagram.com/p/Df59ZQ2omHJ/) · 7,287 likes · 44 comments · +1671 min after first report · Avengers: Doomsday (2026) — Directed by Anthony and Joe Russo, this colossal superhero event stars Robert Downey Jr., Chris Hemsworth, Chris Evans, Pedro Pascal, and Florence Pugh as the Marvel Cinema
-- [@unilad](https://www.instagram.com/p/Df4x05rF07q/) · 6,803 likes · 386 comments · +1009 min after first report · Robert Pattinson has the tuxedo. Now he needs someone to ruin his day 🍸👀⁠ ⁠ We’ve put together our dream picks for the next Bond villain, from Cillian Murphy and Jesse Plemons to Idris Elba and Floren
-
-### 17. US officially loses measles elimination status, PAHO says
+### 16. US officially loses measles elimination status, PAHO says
 
 **Score** 126 · **First seen** 2026-11-17 15:40 UTC · **Last update** 2026-11-19 16:40 UTC
 
@@ -692,7 +651,7 @@ Lead: [Medical Xpress — A growing public health worry: Prolonged sitting](http
 - [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 801 likes · 172 comments · +1320 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
 - [@maythesciencebewithyou](https://www.instagram.com/p/Df4_eyxoblB/) · 0 likes · 6 comments · +1520 min after first report · Eating instant noodles 2 to 3 times a week is linked to heart disease, stroke and diabetes. One pack can have almost all the salt you need for a whole day. Too much salt makes your heart work harder. 
 
-### 18. Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming
+### 17. Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming
 
 **Score** 126 · **Category** trending · **First seen** 2026-11-17 14:22 UTC · **Last update** 2026-11-19 20:23 UTC
 
@@ -722,6 +681,42 @@ Lead: [GameSpot — Ocarina Of Time Is 2026’s Best-Selling Physical Game In Th
 - [@unilad](https://www.instagram.com/p/Df4X44qF1oS/) · 15,251 likes · 348 comments · +1251 min after first report · Thirteen years of waiting, and the critics are making it sound worth every second 😭🎮⁠ ⁠ GTA VI has scored 99/100 on Metacritic based on 100 critic reviews, earning “Universal Acclaim” and matching The
 - [@dailymail](https://www.instagram.com/p/Df4hklXCnzk/) · 14,167 likes · 230 comments · +1336 min after first report · 13 years of waiting, and GTA 6 is already making gaming history 🎮 Rockstar’s highly anticipated sequel has landed a score of 99/100 on Metacritic as the first reviews roll in, matching the record held
 - [@theatlantic](https://www.instagram.com/p/Df2Dk7KEU5X/) · 408 likes · 43 comments · 45 min before first report · Nintendo’s new “Zelda” is as good as you remember it—but is that enough? Ian Bogost asks.⁠ ⁠ Nintendo has released a remake of “The Legend of Zelda: The Ocarina of Time,” a 1998 title widely regarded 
+
+### 18. Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable
+
+**Score** 124 · **First seen** 2026-11-19 19:00 UTC · **Last update** 2026-11-19 19:00 UTC
+
+**Status** Disputed · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
+
+**Later reports questioning this**
+
+- 2026-11-19 21:24 UTC · PC Gamer · [Fact check: Does GTA 6 stop players from shooting inside gay nightclubs and crashing planes into buildings?](https://www.pcgamer.com/games/grand-theft-auto/fact-check-does-gta-6-stop-players-from-shooting-inside-gay-nightclubs-and-crashing-planes-into-buildings/)
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Grand Theft Auto 6 features a weight system that affects character physiques — support: 1
+- Character physiques in Grand Theft Auto 6 fluctuate based on eating and exercise habits — support: 1
+- The weight system allows the character Jason to develop a dad bod — support: 1
+- Lucia's physique is less malleable than Jason's in the game's weight system — support: 1
+
+> 1 independent report only; details may still change. 1 later report questions this story: PC Gamer: “Fact check: Does GTA 6 stop players from shooting inside gay nightclubs and crashing plane” 4 key claims stated by a single report: “Grand Theft Auto 6 features a weight system that affects character phy”; “Character physiques in Grand Theft Auto 6 fluctuate based on eating an”
+
+Both characters' physiques can fluctuate depending on their eating and exercise habits
+
+Lead: [Kotaku — Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable](https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438)
+
+**Where it was published**
+
+- 2026-11-19 19:00 UTC · Kotaku · [Grand Theft Auto 6’s Weight System Can Give Jason A Dad Bod, But Lucia Isn’t Quite As Malleable](https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438)
+
+**Who posted it on Instagram** (6 pages, 197,286 likes, 7 posts)
+
+- [@pubity](https://www.instagram.com/p/Df4XFZCDS3b/) · 155,391 likes · 796 comments · 1913 min before first report · The 13-year wait is finally over for GTA 6 players in New Zealand. Grand Theft Auto VI is officially playable in New Zealand, making it one of the first countries in the world to experience Rockstar G
+- [@gamemes](https://www.instagram.com/p/Df538t5Fqir/) · 17,384 likes · 534 comments · 1067 min before first report · 13 years of waiting, and GTA 6 just tied the highest Metacritic score ever recorded 🎮🏆 As critic reviews rolled in on November 18, Grand Theft Auto VI landed at a 99 on Metacritic, matching the record
+- [@unilad](https://www.instagram.com/p/Df4X44qF1oS/) · 15,251 likes · 348 comments · 1906 min before first report · Thirteen years of waiting, and the critics are making it sound worth every second 😭🎮⁠ ⁠ GTA VI has scored 99/100 on Metacritic based on 100 critic reviews, earning “Universal Acclaim” and matching The
+- [@clips](https://www.instagram.com/p/Df4xmSHILpl/) · 6,044 likes · 48 comments · 1680 min before first report · Grand Theft Auto VI (2026) — Developed and published by Rockstar Games, this monumental open-world action-adventure game returns players to the sun-drenched, neon-lit streets of Vice City and the surr
+- [@mensetstandards](https://www.instagram.com/reel/Df4y3Rco6nQ/) · 223 likes · 1 comments · 1670 min before first report · Lucia giving Jason two choices makes GTA 6 feel painfully relatable 😭 A Grand Theft Auto VI edit imagines a hilarious relationship scenario involving Lucia and Jason, the game’s central couple. The on
+- [@godless.memez](https://www.instagram.com/p/Df10YLDNScg/) · 137 likes · 0 comments · 3334 min before first report · The announcement and promotional material for Grand Theft Auto VI have generated massive cultural conversations across social media platforms, often sparking viral fan edits that juxtapose the game’s 
 
 ### 19. Reagan’s peace through strength won the Cold War. Can America do it again?
 
@@ -753,7 +748,39 @@ Lead: [Fox News — Reagan’s peace through strength won the Cold War. Can Amer
 - [@explain](https://www.instagram.com/p/Df2UfrkEfNy/) · 0 likes · 753 comments · 2506 min before first report · Height can be surprisingly uncommon depending on where you fall on the scale. In the United States, the average adult man stands around 5’9” (175 cm), while the average adult woman is approximately 5’
 - [@thetrillionairelife](https://www.instagram.com/p/Df2cZyNI0xs/) · 0 likes · 15 comments · 2436 min before first report · Alexander Zverev wore the $460,000 @JacobAndCo The Godfather II at the inaugural ATP No. 1 Club Gala. Limited to 74 pieces, the watch can play two melodies from The Godfather on demand 🎬 Inside, a mec
 
-### 20. Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip
+### 20. Trump llega a Filipinas para iniciar una gira por Asia con acuerdos y conversaciones con aliados
+
+**Score** 117 · **First seen** 2026-11-17 10:25 UTC · **Last update** 2026-11-19 21:25 UTC
+
+**Status** Confirmed · independent reports: 3 of 4 feeds · official: none · independent newsrooms: 3
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- President Trump is currently on a trip to Asia. — support: 4
+- President Trump is scheduled to hold meetings with leaders including Xi and Putin. — support: 2
+- The NSA's top secret communications network has gone down. — support: 1
+- The duration of the Asia trip is three days. — support: 1
+
+> Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. 2 key claims stated by a single report: “The NSA's top secret communications network has gone down.”; “The duration of the Asia trip is three days.”
+
+Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.
+
+Lead: [ABC News — Trump Asia trip live updates: Trump lands in Manila ahead meetings with Asian leaders](https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702)
+
+**Where it was published**
+
+- 2026-11-17 10:25 UTC · ABC News · [Trump Asia trip live updates: Trump lands in Manila ahead meetings with Asian leaders](https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702)
+- 2026-11-17 11:52 UTC · Fox News · [President Trump opens Asia trip with dealmaking on tap and more top headlines](https://www.foxnews.com/us/trump-opens-asia-trip-dealmaking-on-top-more-top-headlines)
+- 2026-11-17 13:36 UTC · WCPO Cincinnati (OH) · [Trump begins Asia trip ahead of high-stakes talks with Xi and Putin](https://www.wcpo.com/politics/the-president/trump-begins-asia-trip-ahead-of-high-stakes-talks-with-xi-and-putin)
+- 2026-11-17 15:43 UTC · Daily Mail US · [NSA's top secret communications network goes down with staff told to come in late amid 'heightened' threat, hours after cyberattack hit 178 of world's biggest companies while Trump is in Asia](https://www.dailymail.com/news/article-16300073/nsa-communications-network-cyberattack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+
+**Who posted it on Instagram** (3 pages, 6,992 likes, 3 posts)
+
+- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,992 likes · 431 comments · +290 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
+- [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · +521 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
+- [@entrepreneurshipquote](https://www.instagram.com/p/Df5DLl_jFGq/) · 0 likes · 38 comments · +1867 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
+
+### 21. Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip
 
 **Score** 117 · **Category** trending · **First seen** 2026-11-17 13:31 UTC · **Last update** 2026-11-19 16:39 UTC
 
@@ -792,7 +819,7 @@ Lead: [New York Post — DHS Secretary Markwayne Mullin suggests AI could be beh
 
 - [@nypost](https://www.instagram.com/p/Df5d5fxiilf/) · 1,277 likes · 415 comments · +2023 min after first report · Homeland Security Secretary Markwayne Mullin delivered a furious defense Wednesday of his use of a government plane to attend Saturday’s LSU-Texas college football game while thousands of Americans st
 
-### 21. Central Park rape suspect expected to face a judge in NYC after extradition from Miami
+### 22. Central Park rape suspect expected to face a judge in NYC after extradition from Miami
 
 **Score** 116 · **Category** crime · **First seen** 2026-11-17 11:28 UTC · **Last update** 2026-11-19 18:50 UTC
 
@@ -823,14 +850,14 @@ Lead: [PIX11 (NY) — Mamdani to outline support plan for Central Park horse car
 - 2026-11-19 15:25 UTC · New York Post · [Mamdani officially bans horse carriages, ending Central Park tradition](https://nypost.com/2026/11/19/us-news/mamdani-officially-bans-horse-carriages-ending-central-park-tradition/)
 - 2026-11-19 17:33 UTC · WSB-TV Atlanta (GA) · [Mamdani signs law that officially bans horse carriages in NYC’s Central Park](https://www.wsbtv.com/news/trending/mamdani-signs-law-that-officially-bans-horse-carriages-nycs-central-park/6RUDBBRPN5C5TF4X5BK2DVISPM/)
 
-**Who posted it on Instagram** (4 pages, 13,460 likes, 4 posts)
+**Who posted it on Instagram** (4 pages, 14,008 likes, 4 posts)
 
 - [@complex](https://www.instagram.com/p/Df2Y-hEDvEb/) · 6,266 likes · 580 comments · +317 min after first report · From Chopped Cheese from a frank stand to Mamdani's new look... a lot is going on NYC
-- [@spottedhollywood](https://www.instagram.com/reel/Df5orbThGwn/) · 3,545 likes · 16 comments · +2131 min after first report · Madagascar (2005) DreamWorks Animation’s beloved comedy follows a group of spoiled Central Park Zoo animals—Alex the lion, Marty the zebra, Melman the giraffe, and Gloria the hippo—who unexpectedly fi
+- [@spottedhollywood](https://www.instagram.com/reel/Df5orbThGwn/) · 4,093 likes · 17 comments · +2131 min after first report · Madagascar (2005) DreamWorks Animation’s beloved comedy follows a group of spoiled Central Park Zoo animals—Alex the lion, Marty the zebra, Melman the giraffe, and Gloria the hippo—who unexpectedly fi
 - [@nypost](https://www.instagram.com/p/Df5DWrdJYWD/) · 2,364 likes · 156 comments · +1806 min after first report · Cops said Dereck Rivera-Deloen is believed to be linked to Central Park rapes in 2021 and 2023 — although it is unclear why he’s currently charged with two of the assaults. Read more at the link in bi
 - [@clips](https://www.instagram.com/p/Df5GdmEoBmg/) · 1,285 likes · 20 comments · +1833 min after first report · Friends (1994–2004) — Created by David Crane and Marta Kauffman, this iconic NBC sitcom follows six twenty- and thirty-something friends—Rachel, Monica, Phoebe, Joey, Chandler, and Ross—navigating car
 
-### 22. Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’
+### 23. Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’
 
 **Score** 116 · **Category** trending · **First seen** 2026-11-19 01:15 UTC · **Last update** 2026-11-20 00:00 UTC
 
@@ -860,9 +887,50 @@ Lead: [Us Weekly — Lainey Wilson, Vince Gill Open CMAs With Emotional Song Hon
 - [@adley](https://www.instagram.com/reel/Df3gi5rtByC/) · 99,585 likes · 443 comments · 1324 min before first report · I loved it when Dolly Parton said this… 🫶🏻
 - [@dailymail](https://www.instagram.com/p/Df7NpduFZL1/) · 1,144 likes · 24 comments · +747 min after first report · Talk about a night to remember! 🤠 Ella Langley was the big winner at the 2026 CMA Awards, taking home an incredible six trophies, including the night’s biggest prize, Entertainer of the Year. The ‘Cho
 
-### 23. Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz
+### 24. Elon Musk investment puts him in business with the NFL
 
-**Score** 112 · **Category** trending · **First seen** 2026-11-17 16:03 UTC · **Last update** 2026-11-20 03:22 UTC
+**Score** 116 · **Category** trending · **First seen** 2026-11-17 14:30 UTC · **Last update** 2026-11-19 23:37 UTC
+
+**Status** Confirmed · independent reports: 3 of 15 feeds · official: none · independent newsrooms: 2
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Maye Musk appears in trailers for the game Infinity Nikki. — support: 4
+- SpaceX successfully caught the Starship spacecraft with its launch tower mechanical arms. — support: 1
+- Elon Musk invested in Skydance. — support: 2
+- HBO plans to air a documentary critical of Elon Musk. — support: 1
+
+> 12 of the 15 independent reports in the cluster cover related updates, not this headline. 2 key claims stated by a single report: “SpaceX successfully caught the Starship spacecraft with its launch tow”; “HBO plans to air a documentary critical of Elon Musk.”
+
+The SpaceX CEO was spotted examining the spacecraft’s heat-shield tiles at Starbase, Texas, a day after Starship made history by being caught midair by its launch tower’s giant mechanical arms.
+
+Lead: [Kotaku — Infinity Nikki’s Latest Trailers Are Narrated By…Elon Musk’s Mom?](https://kotaku.com/infinity-nikkis-latest-trailer-is-narrated-by-elon-musks-mother-maye-infold-games-2000757651)
+
+**Where it was published**
+
+- 2026-11-17 14:30 UTC · Kotaku · [Infinity Nikki’s Latest Trailers Are Narrated By…Elon Musk’s Mom?](https://kotaku.com/infinity-nikkis-latest-trailer-is-narrated-by-elon-musks-mother-maye-infold-games-2000757651)
+- 2026-11-17 16:09 UTC · New York Post · [Elon Musk inspects Starship after SpaceX pulls off historic first-ever tower catch](https://nypost.com/video/elon-musk-inspects-starship-after-spacex-pulls-off-historic-first-ever-tower-catch/)
+- 2026-11-17 22:56 UTC · IGN · [Infinity Nikki Players Baffled After Elon Musk's Mom Appears in Game's Update Trailers](https://www.ign.com/articles/infinity-nikki-players-baffled-after-elon-musks-mom-appears-in-games-update-trailers)
+- 2026-11-18 09:11 UTC · PC Gamer · [Elon Musk's mother is promoting a dress-up gacha game, for some reason](https://www.pcgamer.com/games/adventure/elon-musks-mother-is-promoting-a-dress-up-gacha-game-for-some-reason/)
+- 2026-11-18 17:30 UTC · TechCrunch · [David Ellison says HBO will air critical Elon Musk documentary despite $1B investment in Skydance](https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/)
+- 2026-11-18 18:03 UTC · Hollywood Reporter · [David Ellison’s Open to Elon Musk Collaboration: “It Would Be a Privilege”](https://www.hollywoodreporter.com/business/business-news/david-ellisons-open-to-elon-musk-collaboration-it-would-be-a-privilege-1236758547/)
+- 2026-11-18 20:46 UTC · New York Post · [David Ellison confirms Elon Musk’s major investment in Skydance: ‘The greatest entrepreneur of our time’](https://nypost.com/2026/11/18/media/david-ellison-confirms-elon-musks-major-investment-in-skydance-the-greatest-entrepreneur-of-our-time/)
+- 2026-11-18 23:25 UTC · TechCrunch · [Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/)
+- 2026-11-19 02:59 UTC · BBC US & Canada · [Elon Musk says record spending on US midterms was 'pretty foolish'](https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss)
+- 2026-11-19 05:11 UTC · New York Post · [Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink](https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/)
+- 2026-11-19 13:00 UTC · The Hill · [Elon Musk is giving away $11 billion in SpaceX stock — and coming out ahead](https://thehill.com/opinion/finance/6227645-trump-accounts-tax-loophole/)
+- 2026-11-19 17:48 UTC · The Hill · [Flake knocks Musk campaign spending: ‘You probably ought to know what these candidates are standing for’](https://thehill.com/homenews/campaign/6230774-flake-criticizes-musk-midterm-spending/)
+
+**Who posted it on Instagram** (4 pages, 1,351 likes, 4 posts)
+
+- [@dailymail](https://www.instagram.com/p/Df64hHPEbsI/) · 838 likes · 106 comments · +2647 min after first report · Elon Musk said he felt 'pretty foolish' about spending nearly half a billion dollars backing Republican candidates in the U.S. midterm elections after the party suffered major losses. Speaking at the 
+- [@theatlantic](https://www.instagram.com/reel/Df5vxhpDEVL/) · 513 likes · 22 comments · +2014 min after first report · Elon Musk’s influence over national security “is squarely within our purview,” Representative Jason Crow, a member of the House Armed Services Committee, tells @anneapplebaum2000.⁠ ⁠ Watch Autocracy i
+- [@markets](https://www.instagram.com/p/Df2Kqg3kgZO/) · 0 likes · 15 comments · 331 min before first report · Elon Musk celebrated a historic SpaceX milestone by reportedly hugging Starship 42 after its incredible return to Earth. On November 14, SpaceX successfully caught Starship’s upper stage using the gia
+- [@thatsinteresting](https://www.instagram.com/reel/Df4wXCDxC0O/) · 0 likes · 7 comments · +1109 min after first report · After spending more than 22 hours orbiting Earth, a massive spacecraft returned through the atmosphere and was caught by two giant mechanical arms. On November 14, 2026, Elon Musk’s SpaceX achieved a
+
+### 25. Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz
+
+**Score** 111 · **Category** trending · **First seen** 2026-11-17 16:03 UTC · **Last update** 2026-11-20 03:22 UTC
 
 **Status** Confirmed · independent reports: 6 of 8 feeds · official: none · independent newsrooms: 2
 
@@ -896,71 +964,6 @@ Lead: [Just Jared — Timothée Chalamet Won’t Discuss Girlfriend Kylie Jenner
 - [@pagesix](https://www.instagram.com/p/Df7VHflnA_z/) · 560 likes · 20 comments · +2805 min after first report · Timothée Chalamet and Kylie Jenner trade MSG for Crypto.com Arena for a courtside date night at the Lakers vs. Jazz game. 🏀 📸: x / NBA
 - [@dailymail](https://www.instagram.com/p/Df7M_SyEhX8/) · 432 likes · 15 comments · +2732 min after first report · Kylie Jenner and Timothée Chalamet enjoyed a date night at the Los Angeles Lakers game on Wednesday, where they were spotted chatting and sharing a kiss. The couple watched the Lakers take on the Utah
 - [@howsongsweremade](https://www.instagram.com/p/Df5G8gXmKq6/) · 0 likes · 102 comments · +1561 min after first report · Beyoncé is now the first artist in Grammy history with 100 nominations. Her 100th came on 16 November 2026 for “Morning Dew (Donk),” a previously unreleased bonus track from the 20th anniversary editi
-
-### 24. The GTA 6 Map Is Truly, Truly Massive (Of Course)
-
-**Score** 112 · **Category** trending · **First seen** 2026-11-18 14:08 UTC · **Last update** 2026-11-19 19:54 UTC
-
-**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Grand Theft Auto 6 has been released in New Zealand and Australia — support: 1
-- The GTA 6 map has more playable space than GTA 4, GTA 5, and Red Dead Redemption 2 combined — support: 1
-
-> 1 independent report only; details may still change. 2 key claims stated by a single report: “Grand Theft Auto 6 has been released in New Zealand and Australia”; “The GTA 6 map has more playable space than GTA 4, GTA 5, and Red Dead ”
-
-Grand Theft Auto 6 has finally arrived--at least in New Zealand and Australia. Lots of people are playing the game already and have made a number of discoveries, including just how massive the map is. Even though we knew the GTA 6 map would be big--it has more playable space than GT4, GTA 5, and Red Dead Redemption 2 combined --seeing the map for yourself shows off its truly gargantuan scale. The streamer N3on…
-
-Lead: [GameSpot — The GTA 6 Map Is Truly, Truly Massive (Of Course)](https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/)
-
-**Where it was published**
-
-- 2026-11-18 14:08 UTC · GameSpot · [The GTA 6 Map Is Truly, Truly Massive (Of Course)](https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/)
-
-**Who posted it on Instagram** (3 pages, 25,051 likes, 3 posts)
-
-- [@gamemes](https://www.instagram.com/p/Df538t5Fqir/) · 17,384 likes · 534 comments · +664 min after first report · 13 years of waiting, and GTA 6 just tied the highest Metacritic score ever recorded 🎮🏆 As critic reviews rolled in on November 18, Grand Theft Auto VI landed at a 99 on Metacritic, matching the record
-- [@clips](https://www.instagram.com/p/Df4xmSHILpl/) · 6,044 likes · 48 comments · +51 min after first report · Grand Theft Auto VI (2026) — Developed and published by Rockstar Games, this monumental open-world action-adventure game returns players to the sun-drenched, neon-lit streets of Vice City and the surr
-- [@dexerto](https://www.instagram.com/p/Df3n9ZIGUF4/) · 1,623 likes · 19 comments · 594 min before first report · GTA 6's completionist grind includes scanning 170 different wildlife species across the map, an RNG-dependent trophy requirement revealed in September 2026 that echoes Red Dead Redemption 2's “Zoologi
-
-### 25. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
-
-**Score** 111 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-19 12:40 UTC
-
-**Status** Confirmed · independent reports: 2 of 6 feeds · official: none · independent newsrooms: 2
-
-**Duplicates collapsed**: 4 of 6 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- McDonald's is launching a limited-time Home Alone themed meal for the holiday season — support: 6
-- Macaulay Culkin reprised his role as Kevin for the McDonald's advertisement — support: 6
-- The McDonald's Home Alone meal includes collectible socks and a new pizza sauce — support: 1
-
-> 6 feeds carry 2 independent reports (the rest are duplicates). 1 key claim stated by a single report: “The McDonald's Home Alone meal includes collectible socks and a new pi”
-
-McDonald's is launching a massive Home Alone collaboration for the holiday season, and Macaulay Culkin has reprised his role as Kevin to celebrate.
-
-Lead: [IGN — Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce)
-
-**Where it was published**
-
-- 2026-11-17 16:23 UTC · IGN · [Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce)
-- 2026-11-18 20:50 UTC · ABC13 Houston (TX) · [McDonald's debuts new 'Home Alone' Meal, Macaulay Culkin stars as Kevin in ad](https://abc13.com/story/mcdonalds-debuts-new-home-alone-meal-macaulay-culkin-stars-kevin-ad/20052402/)
-- 2026-11-18 20:50 UTC · ABC7 NY (NY) · [McDonald's debuts new 'Home Alone' Meal, Macaulay Culkin stars as Kevin in ad](https://abc7ny.com/story/mcdonalds-debuts-new-home-alone-meal-macaulay-culkin-stars-kevin-ad/20052402/)
-- 2026-11-18 20:50 UTC · ABC7 Chicago (IL) · [McDonald's debuts new 'Home Alone' Meal, Macaulay Culkin stars as Kevin in ad](https://abc7chicago.com/story/mcdonalds-debuts-new-home-alone-meal-macaulay-culkin-stars-kevin-ad/20052402/)
-- 2026-11-18 20:50 UTC · ABC7 LA (CA) · [McDonald's debuts new 'Home Alone' Meal, Macaulay Culkin stars as Kevin in ad](https://abc7.com/story/mcdonalds-debuts-new-home-alone-meal-macaulay-culkin-stars-kevin-ad/20052402/)
-- 2026-11-18 20:50 UTC · 6abc Philly (PA) · [McDonald's debuts new 'Home Alone' Meal, Macaulay Culkin stars as Kevin in ad](https://6abc.com/story/mcdonalds-debuts-new-home-alone-meal-macaulay-culkin-stars-kevin-ad/20052402/)
-
-**Who posted it on Instagram** (6 pages, 262,824 likes, 7 posts)
-
-- [@nypost](https://www.instagram.com/p/Df2XFsEjJYE/) · 258,852 likes · 2,135 comments · +32 min after first report · There’s a new Happy Meal in town, ya filthy animals! 🍔 McDonald’s is proving age is just a number this holiday season, treating adults to their very own Happy Meal inspired by the iconic Christmas cla
-- [@mindset.therapy](https://www.instagram.com/p/Df0UQ3YmZ2F/) · 2,626 likes · 17 comments · 443 min before first report · 36 years ago today, Home Alone hit theaters, introducing the world to Kevin McCallister and becoming one of the most beloved Christmas movies of all time 🎄❤️ Released on November 16, 1990, the holiday
-- [@hoenest](https://www.instagram.com/reel/Df5UPELqtkM/) · 659 likes · 4 comments · +997 min after first report · 🎬 Fact: Home Alone (1990) — Directed by Chris Columbus and written by John Hughes, this beloved holiday classic stars Macaulay Culkin as Kevin McCallister, an eight-year-old boy who defends his house
-- [@pickuplines](https://www.instagram.com/p/Df23oQAHTXC/) · 0 likes · 25 comments · +997 min after first report · Some Home Alone stars will never be forgotten. ❤️ More than three decades after its release, Home Alone remains a beloved Christmas tradition, bringing families together through laughter, nostalgia, a
-- [@markets](https://www.instagram.com/p/Df2V5nNjp7x/) · 0 likes · 4 comments · 443 min before first report · Home Alone 2: Lost in New York is one of the most beloved Christmas movies ever, but some of its secrets might surprise even the biggest fans. From Macaulay Culkin earning a record breaking $4.5 milli
-- [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 1,333 comments · +229 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).
