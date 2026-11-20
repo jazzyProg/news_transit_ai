@@ -1,34 +1,34 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-20 01:56 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-20 02:57 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
-| 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 229 | Confirmed | 22 | 20 | [Yahoo Sports](https://sports.yahoo.com/articles/red-sox-players-could-play-123438740.html) |
+| 1 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 229 | Confirmed | 22 | 19 | [Yahoo Sports](https://sports.yahoo.com/articles/red-sox-players-could-play-123438740.html) |
 | 2 | What we know about Trump's meeting with China's Xi, Russia's Putin | 216 | Confirmed | 27 | 6 | [NBC News](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953) |
-| 3 | Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth | 201 | Confirmed | 22 | 3 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
-| 4 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 177 | Confirmed | 9 | 19 | [Yahoo Sports](https://sports.yahoo.com/articles/understand-hype-why-giannis-antetokounmpo-124500526.html) |
-| 5 | Read everything that Nvidia’s board chair had to say about Jensen Huang | 171 | Confirmed | 13 | 6 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
-| 6 | Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big | 152 | Confirmed | 18 | 2 | [Just Jared](https://www.justjared.com/2026/11/18/choosin-texas-superstar-ella-langley-makes-glamorous-arrival-at-cmas-2026/) |
-| 7 | ‘The Hunger Games: Sunrise on the Reaping’ Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada’s Star-Making Turn | 145 | Developing | 1 | 12 | [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-1236755773/) |
-| 8 | Waymo suspends freeway rides nationwide after California DMV order | 143 | Confirmed | 22 | 1 | [ABC7 LA (CA)](https://abc7.com/story/california-dmv-bans-waymos-operating-state-freeways-series-traffic-incidents/20048428/) |
-| 9 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 140 | Developing | 1 | 16 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
-| 10 | President Trump Grants “Complete and Total Pardon” to Pete Rose | 138 | Confirmed | 17 | 1 | [Fox News](https://www.foxnews.com/outkick-sports/trump-announces-complete-total-pardon-late-mlb-legend-pete-rose-blasts-hall-fame-exclusion) |
-| 11 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 135 | Confirmed | 20 | 2 | [CBS News](https://www.cbsnews.com/video/democrat-mary-peltola-leads-alaska-senate-race-still-remains-uncalled/) |
-| 12 | Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change | 132 | Developing | 1 | 12 | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/) |
-| 13 | Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’ | 130 | Developing | 1 | 7 | [Kotaku](https://kotaku.com/why-rockstar-games-includes-bigfoot-and-ufos-to-find-in-its-big-open-world-games-we-love-that-stuff-2000758423) |
-| 14 | Here's how the Secret Service plans to keep the community safe during the LA28 Olympics | 130 | Developing | 1 | 10 | [KTLA (CA)](https://ktla.com/news/local-news/secret-service-la28-olympics-security-plans/) |
+| 3 | Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’ | 178 | Confirmed | 9 | 19 | [Yahoo Sports](https://sports.yahoo.com/articles/understand-hype-why-giannis-antetokounmpo-124500526.html) |
+| 4 | Read everything that Nvidia’s board chair had to say about Jensen Huang | 170 | Confirmed | 13 | 6 | [NBC News](https://www.nbcnews.com/video/nvidia-board-does-not-intend-to-reinstate-jensen-huang-chairman-says-273677381600) |
+| 5 | NASA Voyager Reaches One Full Light Day From Earth | 163 | Confirmed | 21 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
+| 6 | Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big | 151 | Confirmed | 18 | 2 | [Just Jared](https://www.justjared.com/2026/11/18/choosin-texas-superstar-ella-langley-makes-glamorous-arrival-at-cmas-2026/) |
+| 7 | Trump heads to China after announcing 'very big trade deal' in Manila | 150 | Confirmed | 9 | 6 | [Fox News](https://www.foxnews.com/politics/trump-philippines-arrival-xi-jinping-china-summit) |
+| 8 | ‘The Hunger Games: Sunrise on the Reaping’ Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada’s Star-Making Turn | 145 | Developing | 1 | 12 | [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-1236755773/) |
+| 9 | Waymo suspends freeway rides nationwide after California DMV order | 143 | Confirmed | 22 | 1 | [ABC7 LA (CA)](https://abc7.com/story/california-dmv-bans-waymos-operating-state-freeways-series-traffic-incidents/20048428/) |
+| 10 | Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates | 139 | Developing | 1 | 16 | [Deadline](https://deadline.com/2026/11/disney-q4-earnings-streaming-movie-studio-theme-parks-1237226397/) |
+| 11 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 137 | Confirmed | 20 | 2 | [The Hill](https://thehill.com/homenews/campaign/6224075-peltola-leads-alaska-senate-race/) |
+| 12 | Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’ | 129 | Developing | 1 | 7 | [Kotaku](https://kotaku.com/why-rockstar-games-includes-bigfoot-and-ufos-to-find-in-its-big-open-world-games-we-love-that-stuff-2000758423) |
+| 13 | Here's how the Secret Service plans to keep the community safe during the LA28 Olympics | 129 | Developing | 1 | 10 | [KTLA (CA)](https://ktla.com/news/local-news/secret-service-la28-olympics-security-plans/) |
+| 14 | Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change | 129 | Developing | 1 | 11 | [Hollywood Reporter](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/) |
 | 15 | US officially loses measles elimination status, PAHO says | 127 | Confirmed | 15 | 3 | [Medical Xpress](https://medicalxpress.com/news/2026-11-health-prolonged.html) |
-| 16 | Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming | 127 | Developing | 2 | 5 | [GameSpot](https://www.gamespot.com/articles/ocarina-of-time-is-2026s-best-selling-physical-game-in-the-us-but-gta-6-is-coming/) |
+| 16 | Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming | 126 | Developing | 2 | 5 | [GameSpot](https://www.gamespot.com/articles/ocarina-of-time-is-2026s-best-selling-physical-game-in-the-us-but-gta-6-is-coming/) |
 | 17 | Reagan’s peace through strength won the Cold War. Can America do it again? | 123 | Developing | 1 | 8 | [Fox News](https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again) |
 | 18 | ‘The Further Mis-Adventures of Cliff Booth’ Review: Brad Pitt, David Fincher and Quentin Tarantino Mix a Cool Cocktail in Free-Flowing Spinoff | 118 | Confirmed | 6 | 7 | [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/david-fincher-brad-pitt-cliff-booth-first-reactions-1236755981/) |
-| 19 | Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip | 118 | Confirmed | 15 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/dhs-secretary-markwayne-mullin-suggests-ai-could-be-behind-recent-outages-at-airlines-banks/) |
+| 19 | Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip | 117 | Confirmed | 15 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/dhs-secretary-markwayne-mullin-suggests-ai-could-be-behind-recent-outages-at-airlines-banks/) |
 | 20 | Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’ | 117 | Confirmed | 4 | 2 | [Us Weekly](https://www.usmagazine.com/entertainment/news/how-the-cma-awards-2026-paid-tribute-to-dolly-parton/) |
-| 21 | The GTA 6 Map Is Truly, Truly Massive (Of Course) | 113 | Developing | 1 | 3 | [GameSpot](https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/) |
-| 22 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 112 | Confirmed | 6 | 6 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
-| 23 | Dems put Jeffries one step closer to Speakership — and the history books | 112 | Developing | 6 | 4 | [The Hill](https://thehill.com/the-120/6223661-jeffries-speakership-challenges-democrats-disputes/) |
-| 24 | Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz | 111 | Confirmed | 4 | 3 | [Just Jared](https://www.justjared.com/2026/11/17/timothee-chalamet-kylie-jenner-private-relationship-call-me-by-your-name-sequel-vanity-fair/) |
-| 25 | Begich holds Alaska’s lone House seat for GOP | 111 | Confirmed | 3 | 5 | [The Hill](https://thehill.com/homenews/campaign/6184657-nick-begich-alaska-house-district/) |
+| 21 | Central Park rape suspect expected to face a judge in NYC after extradition from Miami | 114 | Confirmed | 5 | 3 | [ABC7 NY (NY)](https://abc7ny.com/post/central-park-rape-suspect-dereck-rivera-deleon-extradited-nyc/20049902/) |
+| 22 | The GTA 6 Map Is Truly, Truly Massive (Of Course) | 112 | Developing | 1 | 3 | [GameSpot](https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course/) |
+| 23 | Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce | 112 | Confirmed | 6 | 6 | [IGN](https://www.ign.com/articles/macaulay-culkin-returns-as-kevin-for-the-mcdonalds-home-alone-meal-featuring-collectible-socks-and-a-new-pizza-sauce) |
+| 24 | Dems put Jeffries one step closer to Speakership — and the history books | 111 | Developing | 6 | 4 | [The Hill](https://thehill.com/the-120/6223661-jeffries-speakership-challenges-democrats-disputes/) |
+| 25 | Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz | 110 | Confirmed | 4 | 3 | [Just Jared](https://www.justjared.com/2026/11/17/timothee-chalamet-kylie-jenner-private-relationship-call-me-by-your-name-sequel-vanity-fair/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -48,6 +48,7 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 - Robert Pattinson has been cast as the next James Bond — support: 6
 - Jeff Bezos was heavily involved in the casting process for the new James Bond — support: 5
 - Denis Villeneuve is the director of the next James Bond film — support: 2
+- Jeff Bezos revealed the casting details at a Semafor event — support: 3
 
 > 23 feeds carry 10 independent reports (the rest are duplicates).
 
@@ -70,7 +71,7 @@ Lead: [Yahoo Sports — Which Red Sox players could play James Bond instead of R
 - 2026-11-18 12:30 UTC · E! News · [Jeff Bezos Reveals Process of Casting Robert Pattinson as James Bond](https://www.eonline.com/news/1438207/jeff-bezos-reveals-process-of-casting-robert-pattinson-as-james-bond?cmpid=rss-syndicate-genericrss-us-top_stories)
 - 2026-11-18 12:58 UTC · NBC News · [Jeff Bezos Says He Was ‘Heavily Involved’ in Bond Casting](https://www.today.com/video/jeff-bezos-says-he-played-role-in-casting-pattinson-as-bond-273722949667)
 
-**Who posted it on Instagram** (20 pages, 1,087,336 likes, 48 posts)
+**Who posted it on Instagram** (19 pages, 1,034,612 likes, 42 posts)
 
 - [@complex](https://www.instagram.com/p/Df1GvR_u_4p/) · 371,373 likes · 3,287 comments · 468 min before first report · Brad Pitt is all set on Robert as James Bond 👀 Would yall want to see Brad as the villain in the next James Bond?
 - [@pubity](https://www.instagram.com/p/Df0RdSnETUM/) · 204,517 likes · 1,924 comments · 935 min before first report · Robert Pattinson has officially been announced as the next James Bond, becoming the 7th actor to play 007 in EON Productions history. He’ll star in the franchise’s 26th film, directed by Denis Villene
@@ -81,21 +82,21 @@ Lead: [Yahoo Sports — Which Red Sox players could play James Bond instead of R
 
 ### 2. What we know about Trump's meeting with China's Xi, Russia's Putin
 
-**Score** 216 · **First seen** 2026-11-17 08:55 UTC · **Last update** 2026-11-20 01:26 UTC
+**Score** 216 · **First seen** 2026-11-17 08:55 UTC · **Last update** 2026-11-20 01:55 UTC
 
-**Status** Confirmed · independent reports: 62 of 94 feeds · official: none · independent newsrooms: 55
+**Status** Confirmed · independent reports: 63 of 96 feeds · official: none · independent newsrooms: 56
 
 **Wire copies collapsed**: CBS News ×2; Associated Press ×2.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- President Donald Trump is traveling to Asia for meetings with Chinese President Xi Jinping and Russian President Vladimir Putin. — support: 6
-- President Donald Trump arrived in the Philippines to begin his Asia trip. — support: 3
-- The planned meeting between Trump, Xi, and Putin is described as a trilateral summit. — support: 3
-- The meeting between Trump, Xi, and Putin is described as involving nuclear talks. — support: 2
-- The location of the summit is reported as Shenzhen or China. — support: 2
+- President Donald Trump is traveling to Asia for a trip that includes meetings with Xi Jinping and Vladimir Putin. — support: 6
+- President Trump arrived in Manila, Philippines, as the first stop of his Asia trip. — support: 2
+- The summit between Trump, Xi, and Putin is described as a trilateral meeting. — support: 3
+- Reports disagree on the location of the summit, citing either Shenzhen, China, or the APEC summit. — support: 3
+- Reports disagree on the purpose of the meeting, citing either general talks, nuclear talks, or trade deals. — support: 3
 
-> 17 of the 79 independent reports in the cluster cover related updates, not this headline. 94 feeds carry 79 independent reports (wire copies: Associated Press, CBS News). Reports disagree on whether the summit is taking place in Shenzhen or China generally, and whether the talks are specifically focused on nuclear issues.
+> 19 of the 82 independent reports in the cluster cover related updates, not this headline. 96 feeds carry 82 independent reports (wire copies: Associated Press, CBS News). The reports contradict each other regarding the specific location of the summit and the primary agenda items for the meetings.
 
 President Trump's trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin has the makings of an unpredictable spectacle — and that's exactly what has U.S. allies anxious. Why it matters: Trump's stated goal for the first-ever summit between the nations' three leaders is to start a discussion on nuclear disarmament. But the fear is that he could go off script and take positions on…
 
@@ -106,15 +107,15 @@ Lead: [NBC News — Trump heads to Asia ahead of high-stakes meeting with Xi and
 - 2026-11-17 08:55 UTC · NBC News · [Trump heads to Asia ahead of high-stakes meeting with Xi and Putin](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953)
 - 2026-11-17 10:00 UTC · Fox News · [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage)
 - 2026-11-17 10:10 UTC · Axios · [U.S. allies on edge as Trump heads to summit with Xi and Putin](https://www.axios.com/2026/11/17/trump-xi-putin-summit-europe-worried)
-- 2026-11-17 10:17 UTC · New York Post · [Trump arrives in Philippines to kick off Asia trip ahead of historic three-way nuclear talks with Xi and Putin](https://nypost.com/2026/11/17/us-news/trump-arrives-in-philippines-to-kick-off-asia-trip-ahead-of-historic-three-way-nuclear-talks-with-xi-and-putin/)
+- 2026-11-17 10:13 UTC · BBC US & Canada · [Will President Trump meet Kim Jong Un?](https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss)
 - 2026-11-17 10:25 UTC · ABC News · [Trump Asia trip live updates: Trump lands in Manila ahead meetings with Asian leaders](https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702)
 - 2026-11-17 10:43 UTC · NPR · [Trump arrives in Philippines to kick off Asia trip](https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines)
 - 2026-11-17 11:00 UTC · The Hill · [What Trump, Putin and Xi want from superpower summit](https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/)
+- 2026-11-17 11:16 UTC · UPI Top · [Trump arrives in Philippines ahead of meeting with Xi, Putin in China](https://www.upi.com/Top_News/World-News/2026/11/17/Philippines-Trump-attends-APEC-meeting/2471794908324/)
 - 2026-11-17 12:06 UTC · NBC News · [Trump’s unprecedented trilateral meeting in Asia and what’s with all the tech glitches?: Morning Rundown](https://www.nbcnews.com/news/us-news/trump-xi-putin-chase-united-outages-morning-rundown-rcna609759)
 - 2026-11-17 12:21 UTC · NBC News · [Trump Arrives in Asia for Historic Meeting With Xi Jinping and Putin](https://www.today.com/video/trump-suggests-north-korea-s-kim-jong-un-may-join-asia-meeting-273634885662)
 - 2026-11-17 12:54 UTC · BBC US & Canada · [Trump lands in Asia ahead of talks with Russian and Chinese presidents](https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss)
 - 2026-11-17 13:36 UTC · WCPO Cincinnati (OH) · [Trump begins Asia trip ahead of high-stakes talks with Xi and Putin](https://www.wcpo.com/politics/the-president/trump-begins-asia-trip-ahead-of-high-stakes-talks-with-xi-and-putin)
-- 2026-11-17 16:10 UTC · The Hill · [O’Reilly: ‘Trump may be wrong in the way he handles Xi and Putin’](https://thehill.com/policy/international/6225307-oreilly-trump-xi-putin-strategy/)
 
 **Who posted it on Instagram** (6 pages, 21,903 likes, 9 posts)
 
@@ -125,52 +126,11 @@ Lead: [NBC News — Trump heads to Asia ahead of high-stakes meeting with Xi and
 - [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · +610 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 - [@entrepreneurshipquote](https://www.instagram.com/p/Df5DLl_jFGq/) · 0 likes · 38 comments · +1956 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 
-### 3. Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth
+### 3. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
 
-**Score** 201 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 21:49 UTC
+**Score** 178 · **Category** trending · **First seen** 2026-11-17 12:45 UTC · **Last update** 2026-11-20 02:46 UTC
 
-**Status** Confirmed · independent reports: 9 of 27 feeds · official: none · independent newsrooms: 7
-
-**Duplicates collapsed**: 9 of 27 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- NASA launched the Voyager 1 robotic space probe in 1977 — support: 5
-- Voyager 1 will reach a distance of one light-day from Earth — support: 6
-- Voyager 1 will reach the one light-day milestone on November 18 — support: 1
-
-> 9 of the 18 independent reports in the cluster cover related updates, not this headline. 27 feeds carry 18 independent reports (the rest are duplicates). 1 key claim stated by a single report: “Voyager 1 will reach the one light-day milestone on November 18”
-
-In 1977, NASA launched Voyager 1, a robotic space probe built to explore the farthest reaches of our solar system.
-
-Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-
-**Where it was published**
-
-- 2026-11-17 12:14 UTC · ABC13 Houston (TX) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-- 2026-11-17 12:14 UTC · ABC7 NY (NY) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7ny.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-- 2026-11-17 12:14 UTC · ABC7 Chicago (IL) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7chicago.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-- 2026-11-17 12:14 UTC · 6abc Philly (PA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://6abc.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-- 2026-11-17 12:14 UTC · ABC7 LA (CA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
-- 2026-11-17 21:36 UTC · KING5 Seattle (WA) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 17](https://www.king5.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-17/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
-- 2026-11-17 21:37 UTC · KHOU (TX) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 18](https://www.khou.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-18/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
-- 2026-11-17 21:37 UTC · WFAA Dallas (TX) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 18](https://www.wfaa.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-18/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
-- 2026-11-17 21:37 UTC · KING5 Seattle (WA) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 18](https://www.king5.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-18/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
-- 2026-11-17 21:37 UTC · 9News Denver (CO) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 18](https://www.9news.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-18/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
-- 2026-11-18 07:06 UTC · CBS News · [Voyager 1 sets new distance record of one "light day" from Earth](https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/)
-- 2026-11-18 11:00 UTC · Guardian US · [After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? |](https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot)
-
-**Who posted it on Instagram** (3 pages, 72,261 likes, 3 posts)
-
-- [@pubity](https://www.instagram.com/p/Df4kCLljbLN/) · 55,071 likes · 522 comments · +1486 min after first report · NASA’s Voyager 1 has officially become the first human-made object to reach a distance of one light-day from Earth, marking another historic milestone in space exploration. The spacecraft is now appro
-- [@unilad](https://www.instagram.com/p/Df4Im9iF3hf/) · 8,643 likes · 236 comments · +1247 min after first report · Nearly 50 years of travelling, and Voyager 1 is reaching a distance light covers in just one day 🤯🚀⁠ ⁠ Today, on November 18, the spacecraft reaches one light-day from Earth - roughly 16.1 billion mil
-- [@newscientist](https://www.instagram.com/p/Df0EPKVDGiR/) · 8,547 likes · 63 comments · 1029 min before first report · The Voyager 1 spacecraft took off from Earth in 1977, with a mission planned to last just five years. Nearly half a century later, it is still out there and taking measurements of the periphery of the
-
-### 4. Fans admire ‘GTA VI’ promotions near Kaseya Center, across Miami ahead of Heat’s ‘A Night in Vice City’
-
-**Score** 177 · **Category** trending · **First seen** 2026-11-17 12:45 UTC · **Last update** 2026-11-20 00:29 UTC
-
-**Status** Confirmed · independent reports: 17 of 25 feeds · official: none · independent newsrooms: 17
+**Status** Confirmed · independent reports: 18 of 26 feeds · official: none · independent newsrooms: 18
 
 **Wire copies collapsed**: Associated Press ×6.
 
@@ -181,7 +141,7 @@ Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exac
 - The Miami Heat are releasing special GTA 6-themed merchandise. — support: 1
 - Miami Heat players were seen with GTA 6-themed PS5 Pro consoles. — support: 1
 
-> 25 feeds carry 18 independent reports (wire copies: Associated Press). 2 key claims stated by a single report: “The Miami Heat are releasing special GTA 6-themed merchandise.”; “Miami Heat players were seen with GTA 6-themed PS5 Pro consoles.”
+> 26 feeds carry 19 independent reports (wire copies: Associated Press). 2 key claims stated by a single report: “The Miami Heat are releasing special GTA 6-themed merchandise.”; “Miami Heat players were seen with GTA 6-themed PS5 Pro consoles.”
 
 The Miami Heat found a way to partner with video game company Rockstar Games ahead of the hyped GTA VI release. Video game fans are familiar with the Grant Theft Auto franchise of games that feature mayhem gameplay in popular cities. One past GTA game took place in Vice City to reference Miami, and the […] The post Miami Heat Reveal “Vice City” Court For GTA VI Game Release appeared first on HEAVY.
 
@@ -211,9 +171,9 @@ Lead: [Yahoo Sports — ‘Understand the hype’ – Why Giannis Antetokounmpo 
 - [@complex](https://www.instagram.com/p/Df5sQOdg0-y/) · 38,252 likes · 432 comments · +2087 min after first report · "My name is Travíto" @travisscott is feeling the energy of Vice City night on the eve of the GTA launch 😂
 - [@nugget](https://www.instagram.com/p/Df0uh4nIDHA/) · 23,444 likes · 152 comments · 687 min before first report · When GTA V launched in 2013, the most popular apps included Candy Crush, Temple Run, Vine, and Snapchat. Fast forward to the GTA VI era, and the digital landscape looks completely different. Artificia
 
-### 5. Read everything that Nvidia’s board chair had to say about Jensen Huang
+### 4. Read everything that Nvidia’s board chair had to say about Jensen Huang
 
-**Score** 171 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-20 00:04 UTC
+**Score** 170 · **First seen** 2026-11-17 22:27 UTC · **Last update** 2026-11-20 00:04 UTC
 
 **Status** Confirmed · independent reports: 10 of 23 feeds · official: none · independent newsrooms: 3
 
@@ -255,9 +215,49 @@ Lead: [NBC News — Nvidia board does not intend to reinstate Jensen Huang, chai
 - [@advicefromceo.s](https://www.instagram.com/p/Df2pMotjZC2/) · 0 likes · 51 comments · 202 min before first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 - [@entrepreneurshipquote](https://www.instagram.com/p/Df5DLl_jFGq/) · 0 likes · 38 comments · +1144 min after first report · 🚨️️️️️️ 7 events. 7 days. And the entire economy is on the line. Trump, Xi and Putin sit down in China. Nvidia reports for the first time without Jensen Huang. Anthropic goes public at up to $1.45 tri
 
+### 5. NASA Voyager Reaches One Full Light Day From Earth
+
+**Score** 163 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 21:49 UTC
+
+**Status** Confirmed · independent reports: 9 of 24 feeds · official: none · independent newsrooms: 7
+
+**Duplicates collapsed**: 9 of 24 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- NASA launched the Voyager 1 robotic space probe in 1977. — support: 5
+- Voyager 1 will reach a distance of one light-day from Earth. — support: 6
+- Voyager 1 reaches the one light-day milestone on November 18. — support: 1
+
+> 6 of the 15 independent reports in the cluster cover related updates, not this headline. 24 feeds carry 15 independent reports (the rest are duplicates). Report 6 specifies the date of the milestone as November 18, while reports 1 through 5 do not mention a date. 1 key claim stated by a single report: “Voyager 1 reaches the one light-day milestone on November 18.”
+
+In 1977, NASA launched Voyager 1, a robotic space probe built to explore the farthest reaches of our solar system.
+
+Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+
+**Where it was published**
+
+- 2026-11-17 12:14 UTC · ABC13 Houston (TX) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · ABC7 NY (NY) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7ny.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · ABC7 Chicago (IL) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7chicago.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · 6abc Philly (PA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://6abc.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 12:14 UTC · ABC7 LA (CA) · [Voyager 1, NASA probe from the '70s, to reach exactly 1 light-day away from Earth](https://abc7.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/)
+- 2026-11-17 21:36 UTC · KING5 Seattle (WA) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 17](https://www.king5.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-17/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
+- 2026-11-17 21:37 UTC · KHOU (TX) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 18](https://www.khou.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-18/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
+- 2026-11-17 21:37 UTC · WFAA Dallas (TX) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 18](https://www.wfaa.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-18/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
+- 2026-11-17 21:37 UTC · KING5 Seattle (WA) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 18](https://www.king5.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-18/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
+- 2026-11-17 21:37 UTC · 9News Denver (CO) · [NASA's Voyager mission will reach another interstellar milestone Wednesday, Nov. 18](https://www.9news.com/article/news/nation-world/nasa-voyager-mission-milestone-wednesday-nov-18/507-1d7f4cb4-988c-417e-b0aa-a653f6535337)
+- 2026-11-18 11:49 UTC · Engadget · [NASA's Voyager 1 space probe is now one light-day away from Earth](https://www.engadget.com/2320267/nasa-voyager-1-space-probe-one-light-day-away-from-earth/)
+- 2026-11-18 12:03 UTC · The Verge · [NASA’s Voyager 1 probe is now one light-day away](https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone)
+
+**Who posted it on Instagram** (2 pages, 63,714 likes, 2 posts)
+
+- [@pubity](https://www.instagram.com/p/Df4kCLljbLN/) · 55,071 likes · 522 comments · +1486 min after first report · NASA’s Voyager 1 has officially become the first human-made object to reach a distance of one light-day from Earth, marking another historic milestone in space exploration. The spacecraft is now appro
+- [@unilad](https://www.instagram.com/p/Df4Im9iF3hf/) · 8,643 likes · 236 comments · +1247 min after first report · Nearly 50 years of travelling, and Voyager 1 is reaching a distance light covers in just one day 🤯🚀⁠ ⁠ Today, on November 18, the spacecraft reaches one light-day from Earth - roughly 16.1 billion mil
+
 ### 6. Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big
 
-**Score** 152 · **Category** trending · **State** TX · **First seen** 2026-11-19 00:56 UTC · **Last update** 2026-11-19 17:31 UTC
+**Score** 151 · **Category** trending · **State** TX · **First seen** 2026-11-19 00:56 UTC · **Last update** 2026-11-19 17:31 UTC
 
 **Status** Confirmed · independent reports: 10 of 21 feeds · official: none · independent newsrooms: 6
 
@@ -296,7 +296,52 @@ Lead: [Just Jared — ‘Choosin’ Texas’ Superstar Ella Langley Makes Glamor
 - [@dailymail](https://www.instagram.com/p/Df7NpduFZL1/) · 1,144 likes · 24 comments · +766 min after first report · Talk about a night to remember! 🤠 Ella Langley was the big winner at the 2026 CMA Awards, taking home an incredible six trophies, including the night’s biggest prize, Entertainer of the Year. The ‘Cho
 - [@howsongsweremade](https://www.instagram.com/p/Df5G8gXmKq6/) · 0 likes · 102 comments · 411 min before first report · Beyoncé is now the first artist in Grammy history with 100 nominations. Her 100th came on 16 November 2026 for “Morning Dew (Donk),” a previously unreleased bonus track from the 20th anniversary editi
 
-### 7. ‘The Hunger Games: Sunrise on the Reaping’ Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada’s Star-Making Turn
+### 7. Trump heads to China after announcing 'very big trade deal' in Manila
+
+**Score** 150 · **First seen** 2026-11-17 09:47 UTC · **Last update** 2026-11-20 02:06 UTC
+
+**Status** Confirmed · independent reports: 2 of 14 feeds · official: none · independent newsrooms: 2
+
+**Wire copies collapsed**: Associated Press ×5.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- President Donald Trump arrived in Manila Philippines — support: 5
+- President Trump is attending the ASEAN summit in the Philippines — support: 3
+- President Trump commented on a report regarding a potential dirty bomb threat from Iran — support: 1
+- President Trump is scheduled to have a summit with China's Xi Jinping — support: 2
+
+> 8 of the 10 independent reports in the cluster cover related updates, not this headline. 14 feeds carry 10 independent reports (wire copies: Associated Press). 1 key claim stated by a single report: “President Trump commented on a report regarding a potential dirty bomb”
+
+President Trump said Tuesday that he takes the threat of the dirty bomb from Iran “very seriously” because “they happen to be crazy.” Trump, speaking to reporters in Manila, Philippines, said the administration was looking into Iran’s reported plans to drop a dirty bomb on Washington. “Well if there is there is they will pay…
+
+Lead: [Fox News — Trump arrives in Philippines ahead of Xi Jinping summit in China after GOP midterm losses](https://www.foxnews.com/politics/trump-philippines-arrival-xi-jinping-china-summit)
+
+**Where it was published**
+
+- 2026-11-17 09:47 UTC · Fox News · [Trump arrives in Philippines ahead of Xi Jinping summit in China after GOP midterm losses](https://www.foxnews.com/politics/trump-philippines-arrival-xi-jinping-china-summit)
+- 2026-11-17 10:28 UTC · NBC News · [President Trump arrives in Manila for the ASEAN summit](https://www.nbcnews.com/video/president-trump-arrives-in-manila-for-the-asean-summit-273630789865)
+- 2026-11-17 11:12 UTC · NBC News · [Trump attends ASEAN summit in the Philippines](https://www.nbcnews.com/video/trump-attends-asean-summit-in-the-philippines-273629253962)
+- 2026-11-17 12:19 UTC · The Hill · [Trump on dirty bomb report: ‘We take it very seriously’](https://thehill.com/policy/defense/6224265-donald-trump-iran-dirty-bomb-threat/)
+- 2026-11-17 13:43 UTC · Fox News · [SPEAK UP: What message should Trump give to China?](https://www.foxnews.com/politics/speak-up-what-message-should-trump-give-china)
+- 2026-11-17 15:32 UTC · WSVN Miami (FL) · [Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies](https://wsvn.com/news/politics/trump-arrives-philippines-asean/)
+- 2026-11-17 15:38 UTC · Fox News · [Far-left US groups battle Trump plan to rival China's tech dominance](https://www.foxnews.com/politics/far-left-us-groups-battle-trump-plan-rival-chinas-tech-dominance)
+- 2026-11-18 08:39 UTC · 9News Denver (CO) · [Trump wants to show strength in China, but a series of technological snafus raises concerns at home](https://www.9news.com/article/news/nation-world/trump-china-technological-snafus-raises-concerns/507-960cc007-9ab5-44aa-b37c-0415c1b2dbea)
+- 2026-11-18 08:39 UTC · KHOU (TX) · [Trump wants to show strength in China, but a series of technological snafus raises concerns at home](https://www.khou.com/article/news/nation-world/trump-china-technological-snafus-raises-concerns/507-960cc007-9ab5-44aa-b37c-0415c1b2dbea)
+- 2026-11-18 08:39 UTC · WFAA Dallas (TX) · [Trump wants to show strength in China, but a series of technological snafus raises concerns at home](https://www.wfaa.com/article/news/nation-world/trump-china-technological-snafus-raises-concerns/507-960cc007-9ab5-44aa-b37c-0415c1b2dbea)
+- 2026-11-18 08:39 UTC · KING5 Seattle (WA) · [Trump wants to show strength in China, but a series of technological snafus raises concerns at home](https://www.king5.com/article/news/nation-world/trump-china-technological-snafus-raises-concerns/507-960cc007-9ab5-44aa-b37c-0415c1b2dbea)
+- 2026-11-18 09:26 UTC · UPI Top · [Trump heads to China after announcing 'very big trade deal' in Manila](https://www.upi.com/Top_News/World-News/2026/11/18/Trump-heads-China/3781794990649/)
+
+**Who posted it on Instagram** (6 pages, 55,957 likes, 12 posts)
+
+- [@davidpakmanshow](https://www.instagram.com/reel/Df2qECyvXtJ/) · 29,799 likes · 3,013 comments · +568 min after first report · Trump left the U.S. as a blonde and arrived in the Philippines as whatever this is...
+- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,834 likes · 2,438 comments · +249 min after first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
+- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,992 likes · 431 comments · +328 min after first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
+- [@newyorkermag](https://www.instagram.com/p/Df0G64FE2Mp/) · 1,602 likes · 267 comments · 857 min before first report · Delcy Rodríguez is an unlikely head of state. For a quarter century, she served as an unswerving loyalist to President Nicolás Maduro, of Venezuela, and to his predecessor, Hugo Chávez. Now she is the
+- [@dailymail](https://www.instagram.com/p/Df5fVrCjW1G/) · 178 likes · 3 comments · +2152 min after first report · President Donald Trump is taking his America First agenda overseas as he kicks off a three-day trip to Asia, beginning with a stop in the Philippines before heading to China for high-stakes talks with
+- [@newsweek](https://www.instagram.com/p/Df44ukyGxX-/) · 56 likes · 6 comments · +1814 min after first report · U.S. intelligence officials have concluded that Ms. Huang was an asset of China’s Ministry of State Security (MSS). That means an MSS asset may have been just one or two steps away from President Dona
+
+### 8. ‘The Hunger Games: Sunrise on the Reaping’ Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada’s Star-Making Turn
 
 **Score** 145 · **First seen** 2026-11-17 14:00 UTC · **Last update** 2026-11-19 23:30 UTC
 
@@ -305,10 +350,10 @@ Lead: [Just Jared — ‘Choosin’ Texas’ Superstar Ella Langley Makes Glamor
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
 - The film The Hunger Games: Sunrise on the Reaping is directed by Francis Lawrence. — support: 1
-- Joseph Zada stars in The Hunger Games: Sunrise on the Reaping. — support: 1
-- The cast of The Hunger Games: Sunrise on the Reaping includes Jesse Plemons, Ralph Fiennes, Glenn Close, Kieran Culkin and Elle Fanning. — support: 1
+- Joseph Zada stars in the film The Hunger Games: Sunrise on the Reaping. — support: 1
+- The cast of the film includes Jesse Plemons, Ralph Fiennes, Glenn Close, Kieran Culkin and Elle Fanning. — support: 1
 
-> 1 independent report only; details may still change. 3 key claims stated by a single report: “The film The Hunger Games: Sunrise on the Reaping is directed by Franc”; “Joseph Zada stars in The Hunger Games: Sunrise on the Reaping.”
+> 1 independent report only; details may still change. 3 key claims stated by a single report: “The film The Hunger Games: Sunrise on the Reaping is directed by Franc”; “Joseph Zada stars in the film The Hunger Games: Sunrise on the Reaping”
 
 The ensemble of Francis Lawrence’s saga of fascism and rebellion also features Jesse Plemons, Ralph Fiennes, Glenn Close, Kieran Culkin and Elle Fanning.
 
@@ -318,7 +363,7 @@ Lead: [Hollywood Reporter — ‘The Hunger Games: Sunrise on the Reaping’ Rev
 
 - 2026-11-17 14:00 UTC · Hollywood Reporter · [‘The Hunger Games: Sunrise on the Reaping’ Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada’s Star-Making Turn](https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-1236755773/)
 
-**Who posted it on Instagram** (12 pages, 358,833 likes, 26 posts)
+**Who posted it on Instagram** (12 pages, 355,535 likes, 25 posts)
 
 - [@hollywoodreporter](https://www.instagram.com/reel/Df0qL6xp71-/) · 117,484 likes · 716 comments · 801 min before first report · #JoshHutcherson and #JenniferLawrence reunite at #TheHungerGames : Sunrise on the Reaping premiere
 - [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · 632 min before first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
@@ -327,7 +372,7 @@ Lead: [Hollywood Reporter — ‘The Hunger Games: Sunrise on the Reaping’ Rev
 - [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,953 likes · 106 comments · +120 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
 - [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 10,697 likes · 39 comments · +330 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
 
-### 8. Waymo suspends freeway rides nationwide after California DMV order
+### 9. Waymo suspends freeway rides nationwide after California DMV order
 
 **Score** 143 · **State** CA · **First seen** 2026-11-17 18:47 UTC · **Last update** 2026-11-19 22:43 UTC
 
@@ -367,9 +412,9 @@ Lead: [ABC7 LA (CA) — California DMV bans Waymos from operating on state freew
 
 - [@dailymail](https://www.instagram.com/p/Df4bDu2DcWu/) · 1,833 likes · 37 comments · +1015 min after first report · Waymo has temporarily suspended robotaxi operations on freeways across its U.S. markets after California regulators barred its driverless vehicles from using highways in the state over safety concerns
 
-### 9. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
+### 10. Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4, Cruising Past Wall Street Estimates
 
-**Score** 140 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-19 21:34 UTC
+**Score** 139 · **Category** trending · **First seen** 2026-11-17 11:37 UTC · **Last update** 2026-11-19 22:04 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -399,49 +444,9 @@ Lead: [Deadline — Disney Rides Streaming, Studio And Parks Gains In Fiscal Q4,
 - [@nypost](https://www.instagram.com/p/DfzrnDQEyR8/) · 6,532 likes · 148 comments · 1087 min before first report · Johnny Depp turns to the Bahamas to experience a private life. During an interview with the Wall Street Journal, Depp opened up about craving privacy and not being able to have it in the United States
 - [@simplyougrow](https://www.instagram.com/p/Df5avj-GUfp/) · 1,489 likes · 3 comments · +2001 min after first report · Tomorrow, two of the biggest launches ever land on the same day. 💸 Rockstar’s GTA 6 finally releases after more than a decade of waiting, with over $1 billion in pre-order sales already locked in. Hou
 
-### 10. President Trump Grants “Complete and Total Pardon” to Pete Rose
-
-**Score** 138 · **Category** trending · **First seen** 2026-11-19 21:36 UTC · **Last update** 2026-11-20 01:16 UTC
-
-**Status** Confirmed · independent reports: 14 of 26 feeds · official: none · independent newsrooms: 14
-
-**Duplicates collapsed**: 12 of 26 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- President Donald Trump announced a posthumous pardon for Pete Rose — support: 6
-- Pete Rose died more than two years ago — support: 4
-- Pete Rose was reinstated by Major League Baseball Commissioner Rob Manfred one year ago — support: 3
-- Pete Rose holds the record for career hits in baseball — support: 4
-
-> 26 feeds carry 14 independent reports (the rest are duplicates). There is no direct contradiction between the reports.
-
-President Trump on Thursday posthumously pardoned famed baseball player Pete Rose, an idea he’s been floating for nearly two years. “I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTAR & LEGEND, whose record of 4,256 Hits in a Season will never be broken,” he wrote…
-
-Lead: [Fox News — Trump announces 'complete and total pardon' for late MLB legend Pete Rose, blasts Hall of Fame exclusion](https://www.foxnews.com/outkick-sports/trump-announces-complete-total-pardon-late-mlb-legend-pete-rose-blasts-hall-fame-exclusion)
-
-**Where it was published**
-
-- 2026-11-19 21:36 UTC · Fox News · [Trump announces 'complete and total pardon' for late MLB legend Pete Rose, blasts Hall of Fame exclusion](https://www.foxnews.com/outkick-sports/trump-announces-complete-total-pardon-late-mlb-legend-pete-rose-blasts-hall-fame-exclusion)
-- 2026-11-19 21:47 UTC · ABC News · [Pete Rose posthumously pardoned by Trump after career hits leader reinstated by MLB](https://abcnews.com/Sports/wireStory/pete-rose-posthumously-pardoned-trump-after-baseballs-career-138302855)
-- 2026-11-19 21:50 UTC · WGN (IL) · [Trump gives posthumous pardon to Pete Rose, baseball's career hits leader](https://wgntv.com/sports/trump-gives-posthumous-pardon-to-pete-rose-baseballs-career-hits-leader/)
-- 2026-11-19 21:51 UTC · The Hill · [Trump posthumously pardons Pete Rose](https://thehill.com/policy/sports-gaming/6231706-trump-posthumously-pardons-pete-rose/)
-- 2026-11-19 21:57 UTC · WFLA Tampa (FL) · [Trump gives posthumous pardon to Pete Rose, baseball's career hits leader](https://www.wfla.com/news/national/trump-gives-posthumous-pardon-to-pete-rose-baseballs-career-hits-leader/)
-- 2026-11-19 22:01 UTC · ABC7 LA (CA) · [Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB](https://abc7.com/story/pete-rose-posthumously-pardoned-trump-baseballs-career-hits-leader-was-reinstated-mlb/20056644/)
-- 2026-11-19 22:01 UTC · ABC13 Houston (TX) · [Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB](https://abc13.com/story/pete-rose-posthumously-pardoned-trump-baseballs-career-hits-leader-was-reinstated-mlb/20056644/)
-- 2026-11-19 22:01 UTC · ABC7 NY (NY) · [Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB](https://abc7ny.com/story/pete-rose-posthumously-pardoned-trump-baseballs-career-hits-leader-was-reinstated-mlb/20056644/)
-- 2026-11-19 22:01 UTC · 6abc Philly (PA) · [Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB](https://6abc.com/story/pete-rose-posthumously-pardoned-trump-baseballs-career-hits-leader-was-reinstated-mlb/20056644/)
-- 2026-11-19 22:01 UTC · ABC7 Chicago (IL) · [Pete Rose posthumously pardoned by Trump after baseball's career hits leader was reinstated by MLB](https://abc7chicago.com/story/pete-rose-posthumously-pardoned-trump-baseballs-career-hits-leader-was-reinstated-mlb/20056644/)
-- 2026-11-19 22:09 UTC · Guardian US · [Donald Trump issues posthumous pardon to MLB ‘superstar and legend’ Pete Rose](https://www.theguardian.com/sport/2026/nov/19/donald-trump-issues-posthumous-pardon-to-mlb-superstar-and-legend-pete-rose)
-- 2026-11-19 22:21 UTC · CBS News · [Trump says he's pardoned deceased MLB slugger Pete Rose](https://www.cbsnews.com/news/pete-rose-pardoned-by-trump/)
-
-**Who posted it on Instagram** (1 pages, 2,503 likes, 1 posts)
-
-- [@nypost](https://www.instagram.com/p/Df7MopVCJQQ/) · 2,503 likes · 272 comments · 462 min before first report · President Donald Trump shared a friendly moment with Russian President Vladimir Putin in Shenzhen, China, joking, “It’s my friend,” as the two leaders greeted each other on the sidelines of the APEC s
-
 ### 11. Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects
 
-**Score** 135 · **First seen** 2026-11-17 02:07 UTC · **Last update** 2026-11-19 18:34 UTC
+**Score** 137 · **First seen** 2026-11-17 03:49 UTC · **Last update** 2026-11-20 02:43 UTC
 
 **Status** Confirmed · independent reports: 25 of 39 feeds · official: none · independent newsrooms: 24
 
@@ -449,20 +454,19 @@ Lead: [Fox News — Trump announces 'complete and total pardon' for late MLB leg
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Democrat Mary Peltola is leading the Alaska Senate race against Republican incumbent Dan Sullivan. — support: 6
-- The Alaska Senate race is the final uncalled race from the November midterm elections. — support: 4
-- Mary Peltola has 141,637 votes and Dan Sullivan has 130,162 votes according to the latest ballot drop. — support: 1
+- Democrat Mary Peltola is running against Republican incumbent Dan Sullivan for a Senate seat in Alaska — support: 6
+- Mary Peltola has 141,637 votes and Dan Sullivan has 130,162 votes according to the latest ballot drop — support: 1
+- Mary Peltola is projected to win the Alaska Senate race — support: 3
+- Peltola has 50.12 percent of the vote and Sullivan has 45.79 percent with 94 percent of precincts reporting — support: 1
 
-> 5 of the 30 independent reports in the cluster cover related updates, not this headline. 39 feeds carry 30 independent reports (wire copies: Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. 1 key claim stated by a single report: “Mary Peltola has 141,637 votes and Dan Sullivan has 130,162 votes acco” Figures from one report only: 50%.
+> 5 of the 30 independent reports in the cluster cover related updates, not this headline. 39 feeds carry 30 independent reports (wire copies: Associated Press). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. Reports 1, 2, 3, and 4 describe the race as ongoing or uncalled, while reports 5 and 6 state that Peltola has already defeated Sullivan. 2 key claims stated by a single report: “Mary Peltola has 141,637 votes and Dan Sullivan has 130,162 votes acco”; “Peltola has 50.12 percent of the vote and Sullivan has 45.79 percent w” Figures from one report only: 50%.
 
 Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live Sign up for US Breaking News email Hello and welcome to the US politics live blog. The final Senate race of this year’s midterm elections could be resolved tomorrow if Alaska election officials run the state’s ranked choice voting system to determine the result. Donald Trump defended his…
 
-Lead: [CBS News — Democrat Mary Peltola leads ongoing Alaska Senate race](https://www.cbsnews.com/video/democrat-mary-peltola-leads-alaska-senate-race-still-remains-uncalled/)
+Lead: [The Hill — Peltola expands lead over Sullivan in latest ballot drop](https://thehill.com/homenews/campaign/6224075-peltola-leads-alaska-senate-race/)
 
 **Where it was published**
 
-- 2026-11-17 02:07 UTC · CBS News · [Democrat Mary Peltola leads ongoing Alaska Senate race](https://www.cbsnews.com/video/democrat-mary-peltola-leads-alaska-senate-race-still-remains-uncalled/)
-- 2026-11-17 02:38 UTC · BBC US & Canada · [Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?](https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss)
 - 2026-11-17 03:49 UTC · The Hill · [Peltola expands lead over Sullivan in latest ballot drop](https://thehill.com/homenews/campaign/6224075-peltola-leads-alaska-senate-race/)
 - 2026-11-17 04:15 UTC · Newsweek · [Dan Sullivan Breaks Silence as Alaska Senate Race Nears Showdown](https://www.newsweek.com/dan-sullivan-breaks-silence-as-alaska-senate-race-nears-showdown-12725062)
 - 2026-11-17 11:50 UTC · Guardian US · [Democrats’ Peltola ahead as counting nears end in Alaska Senate race – US politics live](https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates)
@@ -473,46 +477,17 @@ Lead: [CBS News — Democrat Mary Peltola leads ongoing Alaska Senate race](http
 - 2026-11-18 03:27 UTC · NPR · [Mary Peltola flips Alaska's Senate seat into Democrats' column](https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan)
 - 2026-11-18 03:27 UTC · Fox News · [Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar](https://www.foxnews.com/politics/alaska-dem-peltola-defeats-sullivan-flipping-gop-senate-seat-decoy-dan-uproar)
 - 2026-11-18 03:28 UTC · CBS News · [Mary Peltola wins Alaska Senate race](https://www.cbsnews.com/news/alaska-2026-senate-sullivan-peltola/)
+- 2026-11-18 03:29 UTC · Axios · [Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave](https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola)
+- 2026-11-18 03:30 UTC · WCPO Cincinnati (OH) · [Mary Peltola projected to flip Alaska Senate seat, giving Democrats 56-44 majority](https://www.wcpo.com/politics/america-votes/mary-peltola-projected-to-flip-alaska-senate-seat-giving-democrats-56-44-majority)
 
 **Who posted it on Instagram** (2 pages, 8,683 likes, 2 posts)
 
-- [@nytimes](https://www.instagram.com/p/Df5GEkFE0Hp/) · 5,536 likes · 99 comments · +2408 min after first report · When Mary Peltola was officially elected senator of Alaska on Tuesday night, she became one of the first Native American women to win election to the Senate, joining Peggy Flanagan, a Democrat of Minn
-- [@wsj](https://www.instagram.com/p/Df4dMe4l8Zh/) · 3,147 likes · 165 comments · +2033 min after first report · When Cameron Cushman and his wife walked into the school across the street from their house to vote in the Texas Republican primary runoff in May, a poll worker reminded him that he already had voted 
+- [@nytimes](https://www.instagram.com/p/Df5GEkFE0Hp/) · 5,536 likes · 99 comments · +2305 min after first report · When Mary Peltola was officially elected senator of Alaska on Tuesday night, she became one of the first Native American women to win election to the Senate, joining Peggy Flanagan, a Democrat of Minn
+- [@wsj](https://www.instagram.com/p/Df4dMe4l8Zh/) · 3,147 likes · 165 comments · +1930 min after first report · When Cameron Cushman and his wife walked into the school across the street from their house to vote in the Texas Republican primary runoff in May, a poll worker reminded him that he already had voted 
 
-### 12. Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change
+### 12. Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’
 
-**Score** 132 · **First seen** 2026-11-17 22:10 UTC · **Last update** 2026-11-19 15:49 UTC
-
-**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Carrie Coon called for women to start their own studio at the Elle Women in Hollywood event — support: 1
-- The Elle Women in Hollywood event took place in Beverly Hills — support: 1
-- Carrie Coon, Florence Pugh, Julianne Moore, Penélope Cruz, Elizabeth Debicki, Rosalind Eleazar, Samantha Morton and Inde Navarrette were honored — support: 1
-
-> 1 independent report only; details may still change. 3 key claims stated by a single report: “Carrie Coon called for women to start their own studio at the Elle Wom”; “The Elle Women in Hollywood event took place in Beverly Hills”
-
-Coon was honored alongside Florence Pugh, Julianne Moore, Penélope Cruz, Elizabeth Debicki, Rosalind Eleazar, Samantha Morton and Inde Navarrette at the Beverly Hills event.
-
-Lead: [Hollywood Reporter — Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/)
-
-**Where it was published**
-
-- 2026-11-17 22:10 UTC · Hollywood Reporter · [Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/)
-
-**Who posted it on Instagram** (12 pages, 301,148 likes, 19 posts)
-
-- [@imax](https://www.instagram.com/p/Dfz9uUzN1cs/) · 103,750 likes · 291 comments · 1661 min before first report · From Arrakis With Love. Dune: Part Three, only in theaters and IMAX December 18. Get tickets now. Link in bio. #DuneMovie #FilmedForIMAX
-- [@dailymail](https://www.instagram.com/p/Df5KlNXFDkT/) · 64,645 likes · 542 comments · +1226 min after first report · Tom Holland and Zendaya have bought a £8.25 million ($10.8 million) five-bedroom house in an exclusive London suburb in cash – for £750,000 ($968,000) under the asking price. The Hollywood couple are 
-- [@complex](https://www.instagram.com/p/Df2QXhnlQjg/) · 24,976 likes · 187 comments · 402 min before first report · I’m here for this 👀 Florence Pugh revealed that she reached out to Denis Villeneuve after Robert Pattinson landed the role of 007, congratulating the director on his casting choice while casually thro
-- [@goodlife](https://www.instagram.com/p/Df5E9q9gdnf/) · 10,040 likes · 1,378 comments · +649 min after first report · Florence Pugh, Zendaya, Sydney Sweeney, Margaret Qualley, Lupita Nyong’o, Margot Robbie, Anya Taylor-Joy, and Callina Liang bring different strengths, from action experience to dramatic performances,
-- [@cinephile.club](https://www.instagram.com/p/Df43CIsCDCZ/) · 8,748 likes · 1,012 comments · +1055 min after first report · WHO COULD BE THE NEXT BOND GIRL? 👀 With Robert Pattinson officially announced as the next James Bond, all eyes are now on one big question: who will star alongside him as the next Bond girl? Names lik
-- [@clips](https://www.instagram.com/p/Df59ZQ2omHJ/) · 7,287 likes · 44 comments · +1671 min after first report · Avengers: Doomsday (2026) — Directed by Anthony and Joe Russo, this colossal superhero event stars Robert Downey Jr., Chris Hemsworth, Chris Evans, Pedro Pascal, and Florence Pugh as the Marvel Cinema
-
-### 13. Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’
-
-**Score** 130 · **Category** trending · **First seen** 2026-11-19 17:30 UTC · **Last update** 2026-11-19 22:51 UTC
+**Score** 129 · **Category** trending · **First seen** 2026-11-19 17:30 UTC · **Last update** 2026-11-19 22:51 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -540,9 +515,9 @@ Lead: [Kotaku — Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Bi
 - [@nypost](https://www.instagram.com/p/Df5S7lbk6bq/) · 3,325 likes · 96 comments · 1300 min before first report · BREAKING: PlayStation saw a spike in service disruptions on Wednesday, gamers reported – just hours before highly anticipated GTA 6 was set for release. Downdetector.com registered hundreds of such re
 - [@teachingyouthingsx](https://www.instagram.com/reel/Df5ZOPgxk8s/) · 915 likes · 26 comments · 1245 min before first report · 🎮 Interesting fact: The hair physics in GTA 6 are leaving gamers amazed by just how much Rockstar Games has improved character realism compared to GTA 5. 😳🔥 A clip from GTA 6 shows a woman sitting at 
 
-### 14. Here's how the Secret Service plans to keep the community safe during the LA28 Olympics
+### 13. Here's how the Secret Service plans to keep the community safe during the LA28 Olympics
 
-**Score** 130 · **First seen** 2026-11-17 17:44 UTC · **Last update** 2026-11-20 00:53 UTC
+**Score** 129 · **First seen** 2026-11-17 17:44 UTC · **Last update** 2026-11-20 00:53 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -569,6 +544,37 @@ Lead: [KTLA (CA) — Here's how the Secret Service plans to keep the community s
 - [@media](https://www.instagram.com/p/Df5HqY5IFTc/) · 606 likes · 4 comments · +1467 min after first report · The same map of the United States can tell fifty different stories. Switch from population to housing costs or climate, and a whole new pattern comes into view. 🗺 Even maps of the same topic can look 
 - [@hairs](https://www.instagram.com/p/Df01vjfANyQ/) · 171 likes · 0 comments · 524 min before first report · Did you know that the global average price of a grilled cheese sandwich can vary wildly? In the United States, it often ranges from $3 to $10, depending on the ingredients and location. This beloved c
 - [@vision.motivee](https://www.instagram.com/reel/Df2vTlzBvhw/) · 146 likes · 4 comments · 524 min before first report · The 2004 United States Grand Prix delivered a dramatic restart when Michael Schumacher overtook Ferrari teammate Rubens Barrichello under the safety car. Schumacher went on to win the race, while Taku
+
+### 14. Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change
+
+**Score** 129 · **First seen** 2026-11-17 22:10 UTC · **Last update** 2026-11-19 15:49 UTC
+
+**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Carrie Coon was honored at the Elle Women in Hollywood event in Beverly Hills. — support: 1
+- Florence Pugh, Julianne Moore, Penélope Cruz, Elizabeth Debicki, Rosalind Eleazar, Samantha Morton and Inde Navarrette were honored alongside Carrie Coon. — support: 1
+- Carrie Coon called for women to start their own studio. — support: 1
+
+> 1 independent report only; details may still change. 3 key claims stated by a single report: “Carrie Coon was honored at the Elle Women in Hollywood event in Beverl”; “Florence Pugh, Julianne Moore, Penélope Cruz, Elizabeth Debicki, Rosal”
+
+Coon was honored alongside Florence Pugh, Julianne Moore, Penélope Cruz, Elizabeth Debicki, Rosalind Eleazar, Samantha Morton and Inde Navarrette at the Beverly Hills event.
+
+Lead: [Hollywood Reporter — Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/)
+
+**Where it was published**
+
+- 2026-11-17 22:10 UTC · Hollywood Reporter · [Carrie Coon Calls for Women to Start Their Own Studio as Elle Women in Hollywood Honorees Push for Change](https://www.hollywoodreporter.com/news/general-news/carrie-coon-women-start-own-studio-elle-1236757786/)
+
+**Who posted it on Instagram** (11 pages, 384,935 likes, 13 posts)
+
+- [@pubity](https://www.instagram.com/p/Df0RdSnETUM/) · 204,517 likes · 1,924 comments · 1511 min before first report · Robert Pattinson has officially been announced as the next James Bond, becoming the 7th actor to play 007 in EON Productions history. He’ll star in the franchise’s 26th film, directed by Denis Villene
+- [@complex](https://www.instagram.com/p/Df2QXhnlQjg/) · 24,976 likes · 187 comments · 402 min before first report · I’m here for this 👀 Florence Pugh revealed that she reached out to Denis Villeneuve after Robert Pattinson landed the role of 007, congratulating the director on his casting choice while casually thro
+- [@goodlife](https://www.instagram.com/p/Df5E9q9gdnf/) · 10,040 likes · 1,378 comments · +649 min after first report · Florence Pugh, Zendaya, Sydney Sweeney, Margaret Qualley, Lupita Nyong’o, Margot Robbie, Anya Taylor-Joy, and Callina Liang bring different strengths, from action experience to dramatic performances,
+- [@cinephile.club](https://www.instagram.com/p/Df43CIsCDCZ/) · 8,748 likes · 1,012 comments · +1055 min after first report · WHO COULD BE THE NEXT BOND GIRL? 👀 With Robert Pattinson officially announced as the next James Bond, all eyes are now on one big question: who will star alongside him as the next Bond girl? Names lik
+- [@clips](https://www.instagram.com/p/Df59ZQ2omHJ/) · 7,287 likes · 44 comments · +1671 min after first report · Avengers: Doomsday (2026) — Directed by Anthony and Joe Russo, this colossal superhero event stars Robert Downey Jr., Chris Hemsworth, Chris Evans, Pedro Pascal, and Florence Pugh as the Marvel Cinema
+- [@unilad](https://www.instagram.com/p/Df4x05rF07q/) · 6,803 likes · 386 comments · +1009 min after first report · Robert Pattinson has the tuxedo. Now he needs someone to ruin his day 🍸👀⁠ ⁠ We’ve put together our dream picks for the next Bond villain, from Cillian Murphy and Jesse Plemons to Idris Elba and Floren
 
 ### 15. US officially loses measles elimination status, PAHO says
 
@@ -614,7 +620,7 @@ Lead: [Medical Xpress — A growing public health worry: Prolonged sitting](http
 
 ### 16. Ocarina Of Time Is 2026’s Best-Selling Physical Game In The US, But GTA 6 Is Coming
 
-**Score** 127 · **Category** trending · **First seen** 2026-11-17 14:22 UTC · **Last update** 2026-11-19 20:23 UTC
+**Score** 126 · **Category** trending · **First seen** 2026-11-17 14:22 UTC · **Last update** 2026-11-19 20:23 UTC
 
 **Status** Developing · independent reports: 1 of 2 feeds · official: none · independent newsrooms: 1
 
@@ -686,7 +692,7 @@ Lead: [Fox News — Reagan’s peace through strength won the Cold War. Can Amer
 - The film The Further Mis-Adventures of Cliff Booth is a sequel or spinoff to Once Upon a Time in Hollywood. — support: 6
 - David Fincher directed the film The Further Mis-Adventures of Cliff Booth. — support: 5
 - Brad Pitt reprises his role as the stuntman Cliff Booth in the new film. — support: 5
-- Elizabeth Debicki, Scott Caan, Yahya Abdul-Mateen II, Carla Gugino and Peter Weller are in the cast. — support: 3
+- The cast of the film includes Elizabeth Debicki, Scott Caan, Yahya Abdul-Mateen II, Carla Gugino and Peter Weller. — support: 3
 - Leonardo DiCaprio does not appear in the film. — support: 1
 
 > 8 feeds carry 6 independent reports (the rest are duplicates). 1 key claim stated by a single report: “Leonardo DiCaprio does not appear in the film.”
@@ -717,7 +723,7 @@ Lead: [Hollywood Reporter — David Fincher’s ‘The Further Mis-Adventures of
 
 ### 19. Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip
 
-**Score** 118 · **Category** trending · **First seen** 2026-11-17 13:31 UTC · **Last update** 2026-11-19 16:39 UTC
+**Score** 117 · **Category** trending · **First seen** 2026-11-17 13:31 UTC · **Last update** 2026-11-19 16:39 UTC
 
 **Status** Confirmed · independent reports: 9 of 19 feeds · official: none · independent newsrooms: 5
 
@@ -784,9 +790,42 @@ Lead: [Us Weekly — Lainey Wilson, Vince Gill Open CMAs With Emotional Song Hon
 - [@adley](https://www.instagram.com/reel/Df3gi5rtByC/) · 99,585 likes · 443 comments · 1324 min before first report · I loved it when Dolly Parton said this… 🫶🏻
 - [@dailymail](https://www.instagram.com/p/Df7NpduFZL1/) · 1,144 likes · 24 comments · +747 min after first report · Talk about a night to remember! 🤠 Ella Langley was the big winner at the 2026 CMA Awards, taking home an incredible six trophies, including the night’s biggest prize, Entertainer of the Year. The ‘Cho
 
-### 21. The GTA 6 Map Is Truly, Truly Massive (Of Course)
+### 21. Central Park rape suspect expected to face a judge in NYC after extradition from Miami
 
-**Score** 113 · **Category** trending · **First seen** 2026-11-18 14:08 UTC · **Last update** 2026-11-19 19:54 UTC
+**Score** 114 · **Category** crime · **First seen** 2026-11-18 04:21 UTC · **Last update** 2026-11-19 18:50 UTC
+
+**Status** Confirmed · independent reports: 4 of 6 feeds · official: none · independent newsrooms: 4
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Dereck Rivera-Deleon is a 30-year-old man accused of sexually assaulting women in Central Park. — support: 3
+- Dereck Rivera-Deleon appeared in a Manhattan court on Wednesday following his extradition from Florida. — support: 3
+- New York City will phase out horse-drawn carriages in Central Park by June 2028. — support: 2
+
+> 2 of the 6 independent reports in the cluster cover related updates, not this headline. The reports describe two unrelated events: the court appearance of a rape suspect and the legislative ban on horse-drawn carriages.
+
+NEW YORK (PIX11) — A Bronx man accused of sexually assaulting women in Central Park will remain in jail as his case moves forward after appearing in Manhattan court Wednesday. During the court appearance, Manhattan District Attorney Alvin Bragg said Dereck Rivera-Deleon, 30, was facing two counts of predatory sexual assault. Rivera-Deleon was brought back [...]
+
+Lead: [ABC7 NY (NY) — Central Park rape suspect extradited to New York City](https://abc7ny.com/post/central-park-rape-suspect-dereck-rivera-deleon-extradited-nyc/20049902/)
+
+**Where it was published**
+
+- 2026-11-18 04:21 UTC · ABC7 NY (NY) · [Central Park rape suspect extradited to New York City](https://abc7ny.com/post/central-park-rape-suspect-dereck-rivera-deleon-extradited-nyc/20049902/)
+- 2026-11-18 15:26 UTC · ABC7 NY (NY) · [Central Park rape suspect expected to face a judge in NYC after extradition from Miami](https://abc7ny.com/post/central-park-rape-suspect-dereck-rivera-deleon-arraigned-miami-arrest/20051425/)
+- 2026-11-18 19:15 UTC · PIX11 (NY) · [Central Park assault suspect to remain in jail as DA investigates third case](https://pix11.com/news/central-park-assault-suspect-to-remain-in-jail-as-da-investigates-third-case/)
+- 2026-11-18 22:55 UTC · NBC News · [Man accused of Central Park rapes makes first New York City court appearance](https://www.nbcnews.com/news/us-news/man-accused-central-park-rapes-makes-first-new-york-city-court-appeara-rcna610006)
+- 2026-11-19 15:25 UTC · New York Post · [Mamdani officially bans horse carriages, ending Central Park tradition](https://nypost.com/2026/11/19/us-news/mamdani-officially-bans-horse-carriages-ending-central-park-tradition/)
+- 2026-11-19 17:33 UTC · WSB-TV Atlanta (GA) · [Mamdani signs law that officially bans horse carriages in NYC’s Central Park](https://www.wsbtv.com/news/trending/mamdani-signs-law-that-officially-bans-horse-carriages-nycs-central-park/6RUDBBRPN5C5TF4X5BK2DVISPM/)
+
+**Who posted it on Instagram** (3 pages, 6,362 likes, 3 posts)
+
+- [@spottedhollywood](https://www.instagram.com/reel/Df5orbThGwn/) · 2,713 likes · 12 comments · +1119 min after first report · Madagascar (2005) DreamWorks Animation’s beloved comedy follows a group of spoiled Central Park Zoo animals—Alex the lion, Marty the zebra, Melman the giraffe, and Gloria the hippo—who unexpectedly fi
+- [@nypost](https://www.instagram.com/p/Df5DWrdJYWD/) · 2,364 likes · 156 comments · +794 min after first report · Cops said Dereck Rivera-Deloen is believed to be linked to Central Park rapes in 2021 and 2023 — although it is unclear why he’s currently charged with two of the assaults. Read more at the link in bi
+- [@clips](https://www.instagram.com/p/Df5GdmEoBmg/) · 1,285 likes · 20 comments · +821 min after first report · Friends (1994–2004) — Created by David Crane and Marta Kauffman, this iconic NBC sitcom follows six twenty- and thirty-something friends—Rachel, Monica, Phoebe, Joey, Chandler, and Ross—navigating car
+
+### 22. The GTA 6 Map Is Truly, Truly Massive (Of Course)
+
+**Score** 112 · **Category** trending · **First seen** 2026-11-18 14:08 UTC · **Last update** 2026-11-19 19:54 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -811,7 +850,7 @@ Lead: [GameSpot — The GTA 6 Map Is Truly, Truly Massive (Of Course)](https://w
 - [@clips](https://www.instagram.com/p/Df4xmSHILpl/) · 6,044 likes · 48 comments · +51 min after first report · Grand Theft Auto VI (2026) — Developed and published by Rockstar Games, this monumental open-world action-adventure game returns players to the sun-drenched, neon-lit streets of Vice City and the surr
 - [@dexerto](https://www.instagram.com/p/Df3n9ZIGUF4/) · 1,623 likes · 19 comments · 594 min before first report · GTA 6's completionist grind includes scanning 170 different wildlife species across the map, an RNG-dependent trophy requirement revealed in September 2026 that echoes Red Dead Redemption 2's “Zoologi
 
-### 22. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
+### 23. Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Meal, Featuring Collectible Socks and a New Pizza Sauce
 
 **Score** 112 · **First seen** 2026-11-17 16:23 UTC · **Last update** 2026-11-19 12:40 UTC
 
@@ -849,9 +888,9 @@ Lead: [IGN — Macaulay Culkin Returns as Kevin for the McDonald's Home Alone Me
 - [@markets](https://www.instagram.com/p/Df2V5nNjp7x/) · 0 likes · 4 comments · 443 min before first report · Home Alone 2: Lost in New York is one of the most beloved Christmas movies ever, but some of its secrets might surprise even the biggest fans. From Macaulay Culkin earning a record breaking $4.5 milli
 - [@explain](https://www.instagram.com/p/Df2wrP-nygC/) · 0 likes · 1,333 comments · +229 min after first report · There are certain movies that instantly make it feel like Christmas. 🎄 Home Alone, Elf, The Grinch, The Santa Clause, The Polar Express, Love Actually, Christmas Vacation and the rest have become hol
 
-### 23. Dems put Jeffries one step closer to Speakership — and the history books
+### 24. Dems put Jeffries one step closer to Speakership — and the history books
 
-**Score** 112 · **First seen** 2026-11-17 11:00 UTC · **Last update** 2026-11-20 01:30 UTC
+**Score** 111 · **First seen** 2026-11-17 11:00 UTC · **Last update** 2026-11-20 01:30 UTC
 
 **Status** Developing · independent reports: 1 of 8 feeds · official: none · independent newsrooms: 1
 
@@ -888,9 +927,9 @@ Lead: [The Hill — For Jeffries, the glide path to Speaker has some bumps](http
 - [@hollywoodunlocked](https://www.instagram.com/p/Df48jNFqpCT/) · 3,300 likes · 908 comments · +1775 min after first report · HU Staff: Kecia Gayle @kecia.kae Hakeem Jeffries just took the biggest step yet toward becoming the first Black Speaker of the House in American history. On Wednesday, House Democrats nominated him be
 - [@nypost](https://www.instagram.com/p/Df5ml-_Gcj_/) · 1,326 likes · 464 comments · +2235 min after first report · Awkward. Rep. Alexandria Ocasio-Cortez was pressed on her support for Hakeem Jeffries, prompting her to explain that the speaker race was uncontested.
 
-### 24. Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz
+### 25. Timothée Chalamet and Kylie Jenner witness Lakers shocking loss to the Jazz
 
-**Score** 111 · **Category** trending · **First seen** 2026-11-17 16:03 UTC · **Last update** 2026-11-19 23:13 UTC
+**Score** 110 · **Category** trending · **First seen** 2026-11-17 16:03 UTC · **Last update** 2026-11-19 23:13 UTC
 
 **Status** Confirmed · independent reports: 6 of 8 feeds · official: none · independent newsrooms: 2
 
@@ -924,37 +963,6 @@ Lead: [Just Jared — Timothée Chalamet Won’t Discuss Girlfriend Kylie Jenner
 - [@pagesix](https://www.instagram.com/p/Df7VHflnA_z/) · 560 likes · 20 comments · +2805 min after first report · Timothée Chalamet and Kylie Jenner trade MSG for Crypto.com Arena for a courtside date night at the Lakers vs. Jazz game. 🏀 📸: x / NBA
 - [@dailymail](https://www.instagram.com/p/Df7M_SyEhX8/) · 432 likes · 15 comments · +2732 min after first report · Kylie Jenner and Timothée Chalamet enjoyed a date night at the Los Angeles Lakers game on Wednesday, where they were spotted chatting and sharing a kiss. The couple watched the Lakers take on the Utah
 - [@howsongsweremade](https://www.instagram.com/p/Df5G8gXmKq6/) · 0 likes · 102 comments · +1561 min after first report · Beyoncé is now the first artist in Grammy history with 100 nominations. Her 100th came on 16 November 2026 for “Morning Dew (Donk),” a previously unreleased bonus track from the 20th anniversary editi
-
-### 25. Begich holds Alaska’s lone House seat for GOP
-
-**Score** 111 · **First seen** 2026-11-19 02:32 UTC · **Last update** 2026-11-19 23:49 UTC
-
-**Status** Confirmed · independent reports: 2 of 3 feeds · official: none · independent newsrooms: 2
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Republican Nick Begich won reelection to Alaska's at-large House seat — support: 2
-- The election for Alaska's House seat was a four-way race — support: 1
-
-> 1 key claim stated by a single report: “The election for Alaska's House seat was a four-way race”
-
-House Republicans chose fighter Jim Jordan over the more experienced Steve Scalise to lead them after taking a midterms beatdown. Now they're facing a similar choice over who should lead them on House Oversight. Why it matters: Whoever gets the top Republican spot on the Oversight Committee will be the first line of defense on some of the most deeply personal issues for President Trump and his inner circle. A pair…
-
-Lead: [The Hill — Begich holds Alaska’s lone House seat for GOP](https://thehill.com/homenews/campaign/6184657-nick-begich-alaska-house-district/)
-
-**Where it was published**
-
-- 2026-11-19 02:32 UTC · The Hill · [Begich holds Alaska’s lone House seat for GOP](https://thehill.com/homenews/campaign/6184657-nick-begich-alaska-house-district/)
-- 2026-11-19 12:43 UTC · Fox News · [Republicans hold lone Alaska House seat despite losing Senate, governor races](https://www.foxnews.com/politics/republicans-hold-lone-alaska-house-seat-despite-losing-senate-governor-races)
-- 2026-11-19 23:49 UTC · Axios · [Next GOP battle: Who defends Trump on House Oversight](https://www.axios.com/2026/11/19/republicans-house-oversight-gill-fallon)
-
-**Who posted it on Instagram** (5 pages, 8,727 likes, 6 posts)
-
-- [@wsj](https://www.instagram.com/p/Df4dMe4l8Zh/) · 3,147 likes · 165 comments · 872 min before first report · When Cameron Cushman and his wife walked into the school across the street from their house to vote in the Texas Republican primary runoff in May, a poll worker reminded him that he already had voted 
-- [@motherjonesmag](https://www.instagram.com/p/Df3CzGbl1-t/) · 2,737 likes · 215 comments · 1662 min before first report · Jim Jordan is everything—or just about everything—that’s wrong with Washington. The combative House Republican from Ohio was credibly accused of having been aware of the rampant sexual assault of coll
-- [@nypost](https://www.instagram.com/p/Df4_Z4wgSke/) · 1,495 likes · 281 comments · 557 min before first report · The New York Republican chair of the House Homeland Security Committee rebuked FBI Director Kash Patel for ducking today’s annual hearing on worldwide threats to the US. “I am disappointed that Direct
-- [@hollywoodunlocked](https://www.instagram.com/p/Df6OqyVqqz-/) · 987 likes · 672 comments · +121 min after first report · HU Staff: Ariela Anís @ari.anis While recapping his White House interview with President Donald Trump, Stephen A. Smith explains to critics why he didn’t continuously push back, challenge, and fact-ch
-- [@grantonsoil](https://www.instagram.com/p/Df2cvKAGmHn/) · 304 likes · 13 comments · 1994 min before first report · IT’S OFFICIAL: Colorado passed a law that will make it legal to sell homemade tamales. Until now, selling tamales made in your own kitchen meant renting a licensed commercial kitchen, even though home
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).
