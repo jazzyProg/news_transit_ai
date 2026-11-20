@@ -1,34 +1,34 @@
 # AKM News Radar: most popular US news
 
-Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-20 07:11 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
+Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach, engagement and fresh search demand. Text only, no images. Updated 2026-11-20 08:27 UTC. Machine-readable feed: [`latest/akm-news-radar.json`](../latest/akm-news-radar.json).
 
 | # | Story | Score | Status | Outlets | IG pages | Links |
 |---|---|---:|---|---:|---:|---|
-| 1 | What we know about Trump's meeting with China's Xi, Russia's Putin | 216 | Confirmed | 27 | 8 | [NBC News](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953) |
+| 1 | What we know about Trump's meeting with China's Xi, Russia's Putin | 215 | Confirmed | 26 | 8 | [NBC News](https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953) |
 | 2 | Robert Pattinson's James Bond Casting Process Details Revealed by Amazon's Jeff Bezos | 198 | Confirmed | 22 | 14 | [Yahoo Sports](https://sports.yahoo.com/articles/red-sox-players-could-play-123438740.html) |
-| 3 | Elon Musk feels foolish over massive midterm spending and claims he is not MAGA | 169 | Confirmed | 21 | 6 | [Deadline](https://deadline.com/2026/11/elon-musk-midterms-regrets-1237228534/) |
-| 4 | Disney beats Wall Street expectations on streaming, parks and sports growth | 164 | Confirmed | 7 | 13 | [Hollywood Reporter](https://www.hollywoodreporter.com/business/business-news/disney-earnings-grow-spider-man-theme-parks-1236756582/) |
-| 5 | NASA Voyager Reaches One Full Light Day From Earth | 162 | Confirmed | 21 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
-| 6 | Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big | 154 | Confirmed | 18 | 3 | [Just Jared](https://www.justjared.com/2026/11/18/choosin-texas-superstar-ella-langley-makes-glamorous-arrival-at-cmas-2026/) |
-| 7 | Grand Theft Auto 6 tops $2 billion in sales following long-awaited launch | 149 | Developing | 6 | 7 | [Insider Gaming](https://insider-gaming.com/gta-6-has-62-bird-types-confirms-rockstar-games/) |
-| 8 | Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating amid growing fears of attack on US soil | 148 | Confirmed | 10 | 5 | [New York Post](https://nypost.com/2026/11/17/us-news/trump-responds-to-reported-dirty-bomb-threat-from-iran-they-happen-to-be-crazy/) |
-| 9 | ‘Sunrise On The Reaping’ Epilogue Scene Explained: How Everything Ties Together | 146 | Developing | 1 | 12 | [Deadline](https://deadline.com/2026/11/sunrise-on-the-reaping-epilogue-scene-explained-cameos-1237229907/) |
-| 10 | ‘GTA 6’ Launch Breaks Internet Usage Records; Twitch and Other Livestream Viewership Reaches Nearly 8 Million in First Hours of Release | 145 | Developing | 1 | 17 | [Variety](https://variety.com/2026/gaming/news/gta-6-launch-livestream-internet-traffic-records-1236953145/) |
-| 11 | Huang agrees to testify before Senate Banking panel | 138 | Confirmed | 3 | 9 | [The Hill](https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/) |
-| 12 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 136 | Confirmed | 20 | 2 | [Guardian US](https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates) |
-| 13 | Florence Pugh Celebrates Robert Pattinson’s Bond Casting: “He’s Been the No. 1 Vote in My Household” | 135 | Confirmed | 3 | 11 | [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/florence-pugh-robert-pattinson-bond-casting-1236757542/) |
-| 14 | Miami Heat host Grand Theft Auto VI-themed game against Milwaukee Bucks | 133 | Confirmed | 11 | 5 | [Yahoo Sports](https://sports.yahoo.com/articles/anybody-gets-tribute-days-miami-202649597.html) |
-| 15 | Here's how the Secret Service plans to keep the community safe during the LA28 Olympics | 128 | Developing | 1 | 10 | [KTLA (CA)](https://ktla.com/news/local-news/secret-service-la28-olympics-security-plans/) |
-| 16 | Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike \| First Thing | 126 | Confirmed | 8 | 2 | [Newsweek](https://www.newsweek.com/ukraine-delivers-symbolic-blow-putin-bridge-second-night-strikes-12720290) |
-| 17 | US officially loses measles elimination status, PAHO says | 125 | Confirmed | 15 | 3 | [Medical Xpress](https://medicalxpress.com/news/2026-11-health-prolonged.html) |
-| 18 | Central Park rape suspect expected to face a judge in NYC after extradition from Miami | 123 | Confirmed | 5 | 4 | [ABC7 NY (NY)](https://abc7ny.com/post/central-park-rape-suspect-dereck-rivera-deleon-extradited-nyc/20049902/) |
-| 19 | Trump says "we're looking into" report that Iran may use dirty bomb on D.C. | 121 | Developing | 1 | 5 | [CBS News](https://www.cbsnews.com/video/trump-says-were-looking-report-iran-may-use-dirty-bomb-dc/) |
-| 20 | Reagan’s peace through strength won the Cold War. Can America do it again? | 121 | Developing | 1 | 8 | [Fox News](https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again) |
-| 21 | ‘GTA 6’ Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time | 121 | Developing | 1 | 5 | [Variety](https://variety.com/2026/gaming/news/gta-6-reviews-highest-rated-video-game-1236951803/) |
-| 22 | Elon Musk investment puts him in business with the NFL | 120 | Confirmed | 10 | 5 | [Kotaku](https://kotaku.com/infinity-nikkis-latest-trailer-is-narrated-by-elon-musks-mother-maye-infold-games-2000757651) |
-| 23 | Trump says he doesn’t need help from Russia, China to end Iran war | 118 | Developing | 3 | 2 | [New York Post](https://nypost.com/2026/11/19/us-news/trump-knocks-old-school-diplomacy-as-he-urges-china-and-russia-to-reduce-nukes-during-summit/) |
-| 24 | Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’ | 118 | Confirmed | 4 | 3 | [Us Weekly](https://www.usmagazine.com/entertainment/news/how-the-cma-awards-2026-paid-tribute-to-dolly-parton/) |
-| 25 | Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip | 116 | Confirmed | 15 | 1 | [New York Post](https://nypost.com/2026/11/17/us-news/dhs-secretary-markwayne-mullin-suggests-ai-could-be-behind-recent-outages-at-airlines-banks/) |
+| 3 | Jena Malone reflects on 'Hunger Games' role and wraps indie film 'Kismet' | 182 | Developing | 10 | 12 | [New York Post](https://decider.com/2026/11/17/mckenna-grace-hollywood-child-star-to-hunger-games/) |
+| 4 | Elon Musk feels foolish over massive midterm spending and claims he is not MAGA | 172 | Confirmed | 21 | 6 | [Deadline](https://deadline.com/2026/11/elon-musk-midterms-regrets-1237228534/) |
+| 5 | Disney beats Wall Street expectations on streaming, parks and sports growth | 163 | Confirmed | 7 | 13 | [Hollywood Reporter](https://www.hollywoodreporter.com/business/business-news/disney-earnings-grow-spider-man-theme-parks-1236756582/) |
+| 6 | NASA Voyager Reaches One Full Light Day From Earth | 161 | Confirmed | 21 | 2 | [ABC13 Houston (TX)](https://abc13.com/story/voyager-1-nasa-probe-70s-reach-light-day-away-earth/20047626/) |
+| 7 | Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big | 158 | Confirmed | 16 | 3 | [Just Jared](https://www.justjared.com/2026/11/18/choosin-texas-superstar-ella-langley-makes-glamorous-arrival-at-cmas-2026/) |
+| 8 | Grand Theft Auto 6 tops $2 billion in sales following long-awaited launch | 149 | Developing | 6 | 7 | [Insider Gaming](https://insider-gaming.com/gta-6-has-62-bird-types-confirms-rockstar-games/) |
+| 9 | Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating amid growing fears of attack on US soil | 147 | Confirmed | 10 | 5 | [New York Post](https://nypost.com/2026/11/17/us-news/trump-responds-to-reported-dirty-bomb-threat-from-iran-they-happen-to-be-crazy/) |
+| 10 | How to Watch the CMA Awards (And Taylor Swift’s Performance) Live Online | 145 | Confirmed | 18 | 3 | [Variety](https://variety.com/2026/tv/news/taylor-swift-cma-return-disney-sell-commericals-1236951795/) |
+| 11 | ‘GTA 6’ Launch Breaks Internet Usage Records; Twitch and Other Livestream Viewership Reaches Nearly 8 Million in First Hours of Release | 144 | Developing | 1 | 17 | [Variety](https://variety.com/2026/gaming/news/gta-6-launch-livestream-internet-traffic-records-1236953145/) |
+| 12 | Trump admin permanently pulls funding from LA homeless agency over mounting fraud allegations | 142 | Developing | 19 | 1 | [Yahoo Sports](https://sports.yahoo.com/articles/hornets-vs-lakers-watch-projected-120308739.html) |
+| 13 | Huang agrees to testify before Senate Banking panel | 137 | Confirmed | 3 | 9 | [The Hill](https://thehill.com/homenews/senate/6227038-jensen-huang-senate-testify/) |
+| 14 | Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects | 136 | Confirmed | 20 | 2 | [Guardian US](https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates) |
+| 15 | Florence Pugh Celebrates Robert Pattinson’s Bond Casting: “He’s Been the No. 1 Vote in My Household” | 134 | Confirmed | 3 | 11 | [Hollywood Reporter](https://www.hollywoodreporter.com/movies/movie-news/florence-pugh-robert-pattinson-bond-casting-1236757542/) |
+| 16 | Miami Heat host Grand Theft Auto VI-themed game against Milwaukee Bucks | 133 | Confirmed | 11 | 5 | [Yahoo Sports](https://sports.yahoo.com/articles/anybody-gets-tribute-days-miami-202649597.html) |
+| 17 | NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash | 130 | Confirmed | 14 | 4 | [Yahoo Sports](https://sports.yahoo.com/articles/stephen-smith-says-daughter-loves-084404453.html) |
+| 18 | Anthropic set to price blockbuster IPO above $78 a share | 127 | Confirmed | 13 | 4 | [CBS News](https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/) |
+| 19 | Here's how the Secret Service plans to keep the community safe during the LA28 Olympics | 127 | Developing | 1 | 10 | [KTLA (CA)](https://ktla.com/news/local-news/secret-service-la28-olympics-security-plans/) |
+| 20 | Skydance announces leadership changes following studio merger | 126 | Confirmed | 6 | 4 | [Deadline](https://deadline.com/2026/11/kira-goldberg-leaving-netflix-vp-film-paramount-pictures-1237226627/) |
+| 21 | US officially loses measles elimination status, PAHO says | 125 | Confirmed | 15 | 3 | [Medical Xpress](https://medicalxpress.com/news/2026-11-health-prolonged.html) |
+| 22 | Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’ | 122 | Confirmed | 4 | 3 | [Us Weekly](https://www.usmagazine.com/entertainment/news/how-the-cma-awards-2026-paid-tribute-to-dolly-parton/) |
+| 23 | Central Park rape suspect expected to face a judge in NYC after extradition from Miami | 122 | Confirmed | 4 | 5 | [PIX11 (NY)](https://pix11.com/news/morning/mamdani-to-outline-support-plan-for-central-park-horse-carriage-drivers/) |
+| 24 | Reagan’s peace through strength won the Cold War. Can America do it again? | 121 | Developing | 1 | 8 | [Fox News](https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again) |
+| 25 | ‘GTA 6’ Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time | 120 | Developing | 1 | 5 | [Variety](https://variety.com/2026/gaming/news/gta-6-reviews-highest-rated-video-game-1236951803/) |
 
 **Status** is how the evidence stands, not a fact-check of our own: *Confirmed* = at least two independent newsrooms or one official feed (NWS, USGS, FEMA, FBI…) reported it; *Developing* = carried by feeds but with thin independent confirmation; *Unverified* = one outlet so far; *Disputed* = a later report retracts or questions it. Read `credibility` in the JSON for the exact mix, including how many wire copies were collapsed into one report.
 
@@ -37,9 +37,9 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 
 ### 1. What we know about Trump's meeting with China's Xi, Russia's Putin
 
-**Score** 216 · **First seen** 2026-11-17 08:55 UTC · **Last update** 2026-11-20 01:55 UTC
+**Score** 215 · **First seen** 2026-11-17 08:55 UTC · **Last update** 2026-11-20 01:55 UTC
 
-**Status** Confirmed · independent reports: 69 of 107 feeds · official: none · independent newsrooms: 59
+**Status** Confirmed · independent reports: 66 of 102 feeds · official: none · independent newsrooms: 57
 
 **Wire copies collapsed**: CBS News ×2; Associated Press ×2.
 
@@ -49,7 +49,7 @@ Top 25 stories of the last 24 h, ranked by coverage, competitor Instagram reach,
 - President Donald Trump arrived in the Philippines. — support: 2
 - The purpose of the meetings involves trade deals or nuclear talks. — support: 2
 
-> 22 of the 91 independent reports in the cluster cover related updates, not this headline. 107 feeds carry 91 independent reports (wire copies: Associated Press, CBS News). Reports disagree on whether the primary purpose of the meetings is trade or nuclear talks.
+> 20 of the 86 independent reports in the cluster cover related updates, not this headline. 102 feeds carry 86 independent reports (wire copies: Associated Press, CBS News). Reports disagree on whether the primary purpose of the meetings is trade or nuclear talks.
 
 President Trump's trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin has the makings of an unpredictable spectacle — and that's exactly what has U.S. allies anxious. Why it matters: Trump's stated goal for the first-ever summit between the nations' three leaders is to start a discussion on nuclear disarmament. But the fear is that he could go off script and take positions on…
 
@@ -68,7 +68,7 @@ Lead: [NBC News — Trump heads to Asia ahead of high-stakes meeting with Xi and
 - 2026-11-17 12:06 UTC · NBC News · [Trump’s unprecedented trilateral meeting in Asia and what’s with all the tech glitches?: Morning Rundown](https://www.nbcnews.com/news/us-news/trump-xi-putin-chase-united-outages-morning-rundown-rcna609759)
 - 2026-11-17 12:21 UTC · NBC News · [Trump Arrives in Asia for Historic Meeting With Xi Jinping and Putin](https://www.today.com/video/trump-suggests-north-korea-s-kim-jong-un-may-join-asia-meeting-273634885662)
 - 2026-11-17 12:54 UTC · BBC US & Canada · [Trump lands in Asia ahead of talks with Russian and Chinese presidents](https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss)
-- 2026-11-17 13:36 UTC · WCPO Cincinnati (OH) · [Trump begins Asia trip ahead of high-stakes talks with Xi and Putin](https://www.wcpo.com/politics/the-president/trump-begins-asia-trip-ahead-of-high-stakes-talks-with-xi-and-putin)
+- 2026-11-17 13:53 UTC · CBS News · [Trump's Asia tour kicks off in the Philippines with Modi, Takaichi and Albanese meetings](https://www.cbsnews.com/video/trumps-tour-of-asia-kicks-off-in-the-philippines/)
 
 **Who posted it on Instagram** (8 pages, 76,527 likes, 13 posts)
 
@@ -124,11 +124,64 @@ Lead: [Yahoo Sports — Which Red Sox players could play James Bond instead of R
 - [@cinephile.club](https://www.instagram.com/p/Df43CIsCDCZ/) · 8,748 likes · 1,012 comments · +1631 min after first report · WHO COULD BE THE NEXT BOND GIRL? 👀 With Robert Pattinson officially announced as the next James Bond, all eyes are now on one big question: who will star alongside him as the next Bond girl? Names lik
 - [@apnews](https://www.instagram.com/reel/Df3Njq3Decy/) · 8,728 likes · 43 comments · +1225 min after first report · Former Bond girl Michelle Yeoh shares her thoughts on Robert Pattinson being cast as the next James Bond. She spoke at the premiere of “Blade Runner 2099.”
 
-### 3. Elon Musk feels foolish over massive midterm spending and claims he is not MAGA
+### 3. Jena Malone reflects on 'Hunger Games' role and wraps indie film 'Kismet'
 
-**Score** 169 · **First seen** 2026-11-18 23:25 UTC · **Last update** 2026-11-20 00:58 UTC
+**Score** 182 · **Category** trending · **First seen** 2026-11-17 13:00 UTC · **Last update** 2026-11-20 07:22 UTC
 
-**Status** Confirmed · independent reports: 17 of 26 feeds · official: none · independent newsrooms: 13
+**Status** Developing · independent reports: 5 of 25 feeds · official: none · independent newsrooms: 1
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- The film The Hunger Games: Sunrise on the Reaping is a prequel in the Hunger Games franchise. — support: 6
+- Francis Lawrence is the director of The Hunger Games: Sunrise on the Reaping. — support: 2
+- Mckenna Grace is a star in The Hunger Games: Sunrise on the Reaping. — support: 1
+- The cast of The Hunger Games: Sunrise on the Reaping includes Jesse Plemons, Ralph Fiennes, Glenn Close, Kieran Culkin and Elle Fanning. — support: 1
+
+> 5 independent reports only; details may still change. 20 of the 25 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: AP, Google News: Top US, r/Fauxmoi); open the original. 2 key claims stated by a single report: “Mckenna Grace is a star in The Hunger Games: Sunrise on the Reaping.”; “The cast of The Hunger Games: Sunrise on the Reaping includes Jesse Pl”
+
+At the premiere of 'Sunrise on the Reaping,' Jena Malone imagined Johanna Mason's future as Deadline reported she wrapped the Fire Island indie 'Kismet.'
+
+**Key points**
+
+- Jena Malone attended the Nov. 16 New York premiere of the prequel 'The Hunger Games: Sunrise on the Reaping.'
+- She told E! News she pictures Johanna Mason living in the forest and helping women heal after Panem's revolution.
+- Deadline reported Malone and Suzanna Son also wrapped filming on Giovanna Molina's Fire Island indie 'Kismet.'
+
+Actress Jena Malone recently looked back on her time in the 'Hunger Games' franchise while completing production on a new independent sci-fi drama, according to reports from E! News and Deadline.
+Speaking with E! News at the Nov. 16 New York premiere of 'The Hunger Games: Sunrise on the Reaping,' Malone shared where she imagines District 7 victor Johanna Mason ended up following Panem's revolution. More than a decade after 'Mockingjay—Part 2' debuted, she said she pictures Johanna 'deep in the forest' guiding women through somatic healing exercises to work through grief, adding she would probably 'have her own army basically.' She also expressed curiosity about how Panem rebuilds after the Capitol falls and posited that a Johanna origin story would have to pair her with Sam Claflin's Finnick Odair.
+Malone called reuniting at the premiere with former franchise costars—including Elizabeth Banks, Willow Shields, Jennifer Lawrence, Woody Harrelson and Josh Hutcherson—'kind of like a homecoming.' Opening Nov. 20 and set 25 years before Johanna's introduction, 'Sunrise on the Reaping' features Joseph Zada as a young Haymitch Abernathy alongside McKenna Grace as Maysilee Donner, Whitney Peak and Jesse Plemons. Zada told E! News the project felt 'full circle,' while Grace said joining the franchise felt like a dream.
+
+Lead: [New York Post — ‘Hunger Games’ star Mckenna Grace is a girl on fire](https://decider.com/2026/11/17/mckenna-grace-hollywood-child-star-to-hunger-games/)
+
+**Where it was published**
+
+- 2026-11-17 13:00 UTC · New York Post · [‘Hunger Games’ star Mckenna Grace is a girl on fire](https://decider.com/2026/11/17/mckenna-grace-hollywood-child-star-to-hunger-games/)
+- 2026-11-17 14:00 UTC · Variety · [‘Ramayana’ VFX House DNEG Partners With Meta on 3D Movies for VR Glasses, Including ‘The Hunger Games: Sunrise on the Reaping’ (EXCLUSIVE)](https://variety.com/2026/biz/news/ramayana-vfx-firm-dneg-meta-3d-movies-vr-glasses-1236950144/)
+- 2026-11-17 14:00 UTC · Deadline · [‘The Hunger Games: Sunrise On The Reaping’ Review: Is Time Finally Running Out For The Dystopic Game Show Franchise?](https://deadline.com/2026/11/the-hunger-games-sunrise-on-the-reaping-review-1237224967/)
+- 2026-11-17 14:00 UTC · Hollywood Reporter · [‘The Hunger Games: Sunrise on the Reaping’ Review: A Worthier Prequel to the Dystopian Battle Royale, Powered by Joseph Zada’s Star-Making Turn](https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-1236755773/)
+- 2026-11-17 14:00 UTC · Variety · [‘The Hunger Games: Sunrise on the Reaping’ Review: Not as Deadly as ‘Songbirds & Snakes,’ the Haymitch Origin Story Makes for a Watchable if Meandering Prequel](https://variety.com/2026/film/reviews/the-hunger-games-sunrise-on-the-reaping-review-1236944341/)
+- 2026-11-17 15:00 UTC · New York Post · [How to watch ‘The Hunger Games’ movies in order on streaming ahead of ‘Sunrise on the Reaping’](https://decider.com/2026/11/17/hunger-games-movies-in-order-where-to-watch-hunger-games-movies-streaming/)
+- 2026-11-17 15:48 UTC · E! News · [Where Hunger Games’ Jena Malone Believes Johanna Mason Is Now](https://www.eonline.com/news/1438179/hunger-games-jena-malone-reveals-johanna-masons-fate-after-revolution?cmpid=rss-syndicate-genericrss-us-top_stories)
+- 2026-11-17 15:58 UTC · Page Six · [Mckenna Grace’s ‘Sunrise on the Reaping’ press tour wardrobe is a scavenger hunt of ‘Hunger Games’ nods](https://pagesix.com/style/mckenna-grace-hunger-games-sunrise-on-the-reaping-red-carpet-looks/)
+- 2026-11-17 18:28 UTC · IGN · [The Hunger Games: Sunrise on the Reaping Review](https://www.ign.com/articles/the-hunger-games-sunrise-on-the-reaping-review)
+- 2026-11-17 20:39 UTC · Hollywood Reporter · [Joseph Zada Spent a Month Watching “Everything Woody Harrelson Has Ever Done” to Prepare for ‘Hunger Games’ Role](https://www.hollywoodreporter.com/movies/movie-news/joseph-zada-woody-harrelson-hunger-games-premiere-1236757437/)
+- 2026-11-17 20:39 UTC · IGN · [The Hunger Games: What You Need to Know Before Sunrise on the Reaping](https://www.ign.com/articles/the-hunger-games-what-you-need-to-know-before-sunrise-on-the-reaping)
+- 2026-11-17 21:37 UTC · New York Post · [‘The Hunger Games: Sunrise on the Reaping’: A much improved teen battle to the death](https://nypost.com/2026/11/17/entertainment/the-hunger-games-sunrise-on-the-reaping-a-much-improved-teen-battle-to-the-death/)
+
+**Who posted it on Instagram** (12 pages, 355,535 likes, 25 posts)
+
+- [@hollywoodreporter](https://www.instagram.com/reel/Df0qL6xp71-/) · 117,484 likes · 716 comments · 741 min before first report · #JoshHutcherson and #JenniferLawrence reunite at #TheHungerGames : Sunrise on the Reaping premiere
+- [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · 572 min before first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
+- [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · 739 min before first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
+- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,818 likes · 55 comments · 147 min before first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
+- [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,953 likes · 106 comments · +180 min after first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
+- [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 10,697 likes · 39 comments · +390 min after first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
+
+### 4. Elon Musk feels foolish over massive midterm spending and claims he is not MAGA
+
+**Score** 172 · **First seen** 2026-11-18 23:25 UTC · **Last update** 2026-11-20 07:54 UTC
+
+**Status** Confirmed · independent reports: 17 of 27 feeds · official: none · independent newsrooms: 13
 
 **Wire copies collapsed**: NBC News ×2.
 
@@ -138,7 +191,7 @@ Lead: [Yahoo Sports — Which Red Sox players could play James Bond instead of R
 - Elon Musk stated that he is not MAGA — support: 3
 - Elon Musk spent between 445 million and 500 million dollars on midterm elections — support: 4
 
-> 2 of the 19 independent reports in the cluster cover related updates, not this headline. 26 feeds carry 19 independent reports (wire copies: NBC News). Reports provide varying figures for the amount spent by Elon Musk, ranging from 445 million to nearly 500 million dollars.
+> 3 of the 20 independent reports in the cluster cover related updates, not this headline. 27 feeds carry 20 independent reports (wire copies: NBC News). Reports provide varying figures for the amount spent by Elon Musk, ranging from 445 million to nearly 500 million dollars.
 
 Tech billionaire Elon Musk admits regret over spending nearly $500 million backing losing Republican candidates in the midterm elections.
 
@@ -178,9 +231,9 @@ Lead: [Deadline — Elon Musk Feels “Pretty Foolish” For Donating Mega-Bucks
 - [@markets](https://www.instagram.com/p/Df2Kqg3kgZO/) · 0 likes · 15 comments · 2306 min before first report · Elon Musk celebrated a historic SpaceX milestone by reportedly hugging Starship 42 after its incredible return to Earth. On November 14, SpaceX successfully caught Starship’s upper stage using the gia
 - [@thatsinteresting](https://www.instagram.com/reel/Df4wXCDxC0O/) · 0 likes · 7 comments · 866 min before first report · After spending more than 22 hours orbiting Earth, a massive spacecraft returned through the atmosphere and was caught by two giant mechanical arms. On November 14, 2026, Elon Musk’s SpaceX achieved a
 
-### 4. Disney beats Wall Street expectations on streaming, parks and sports growth
+### 5. Disney beats Wall Street expectations on streaming, parks and sports growth
 
-**Score** 164 · **Category** trending · **First seen** 2026-11-17 11:34 UTC · **Last update** 2026-11-20 03:17 UTC
+**Score** 163 · **Category** trending · **First seen** 2026-11-17 11:34 UTC · **Last update** 2026-11-20 03:17 UTC
 
 **Status** Confirmed · independent reports: 3 of 11 feeds · official: none · independent newsrooms: 3
 
@@ -230,9 +283,9 @@ Lead: [Hollywood Reporter — Disney Beats Wall Street Expectations as Entertain
 - [@dailymail](https://www.instagram.com/p/Df6xg8pkTRJ/) · 614 likes · 9 comments · +2763 min after first report · Anthropic has raised a record-breaking $81.3 billion through its IPO, valuing the company at $1.5 trillion. On November 18, the company priced its shares at $83 each, above its initial target range, r
 - [@bloombergbusiness](https://www.instagram.com/reel/Df3NP5Ih9I-/) · 558 likes · 19 comments · +768 min after first report · Nvidia delivered a sales forecast that exceeded Wall Street estimates, signaling that demand remains strong following the chaotic exit of CEO Jensen Huang. Ed Ludlow reports. Tap the link in bio for m
 
-### 5. NASA Voyager Reaches One Full Light Day From Earth
+### 6. NASA Voyager Reaches One Full Light Day From Earth
 
-**Score** 162 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 21:49 UTC
+**Score** 161 · **First seen** 2026-11-17 12:14 UTC · **Last update** 2026-11-19 21:49 UTC
 
 **Status** Confirmed · independent reports: 9 of 24 feeds · official: none · independent newsrooms: 7
 
@@ -270,22 +323,21 @@ Lead: [ABC13 Houston (TX) — Voyager 1, NASA probe from the '70s, to reach exac
 - [@pubity](https://www.instagram.com/p/Df4kCLljbLN/) · 55,071 likes · 522 comments · +1486 min after first report · NASA’s Voyager 1 has officially become the first human-made object to reach a distance of one light-day from Earth, marking another historic milestone in space exploration. The spacecraft is now appro
 - [@unilad](https://www.instagram.com/p/Df4Im9iF3hf/) · 8,643 likes · 236 comments · +1247 min after first report · Nearly 50 years of travelling, and Voyager 1 is reaching a distance light covers in just one day 🤯🚀⁠ ⁠ Today, on November 18, the spacecraft reaches one light-day from Earth - roughly 16.1 billion mil
 
-### 6. Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big
+### 7. Taylor Swift makes CMA Awards return, Ella Langley's "Choosin' Texas" wins big
 
-**Score** 154 · **Category** trending · **State** TX · **First seen** 2026-11-19 00:56 UTC · **Last update** 2026-11-19 17:31 UTC
+**Score** 158 · **Category** trending · **State** TX · **First seen** 2026-11-19 00:56 UTC · **Last update** 2026-11-20 00:28 UTC
 
-**Status** Confirmed · independent reports: 10 of 21 feeds · official: none · independent newsrooms: 6
+**Status** Confirmed · independent reports: 8 of 19 feeds · official: none · independent newsrooms: 5
 
-**Duplicates collapsed**: 11 of 21 feeds repeat the same report.
+**Duplicates collapsed**: 11 of 19 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
 - Ella Langley attended the 2026 CMA Awards — support: 6
-- Ella Langley won multiple awards including entertainer of the year at the 2026 CMA Awards — support: 4
-- Taylor Swift performed at the 2026 CMA Awards after a long hiatus — support: 3
-- Taylor Swift is 36 years old — support: 1
+- Ella Langley is 27 years old — support: 1
+- Ella Langley won female vocalist, single, song, album and entertainer of the year at the 2026 CMA Awards — support: 4
 
-> 21 feeds carry 10 independent reports (the rest are duplicates). 1 key claim stated by a single report: “Taylor Swift is 36 years old”
+> 19 feeds carry 8 independent reports (the rest are duplicates). 1 key claim stated by a single report: “Ella Langley is 27 years old”
 
 Ella Langley is stepping out for country music’s big night! The 27-year-old “Choosin’ Texas” singer posed for photos on the […] The post ‘Choosin’ Texas’ Superstar Ella Langley Makes Glamorous Arrival at CMAs 2026 appeared first on Just Jared - Celebrity News, Entertainment News & Photos .
 
@@ -294,17 +346,17 @@ Lead: [Just Jared — ‘Choosin’ Texas’ Superstar Ella Langley Makes Glamor
 **Where it was published**
 
 - 2026-11-19 00:56 UTC · Just Jared · [‘Choosin’ Texas’ Superstar Ella Langley Makes Glamorous Arrival at CMAs 2026](https://www.justjared.com/2026/11/18/choosin-texas-superstar-ella-langley-makes-glamorous-arrival-at-cmas-2026/)
-- 2026-11-19 02:16 UTC · Fox News · [Ella Langley dominates CMA Awards with major wins as Taylor Swift makes stunning return to stage](https://www.foxnews.com/entertainment/ella-langley-dominates-cma-awards-major-wins-taylor-swift-makes-stunning-return-stage)
-- 2026-11-19 02:17 UTC · Daily Mail US · [Ella Langley bests Taylor Swift again by winning first honor of the night at CMA Awards 2026](https://www.dailymail.com/tvshowbiz/article-16304391/cma-awards-winners-2026.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- 2026-11-19 03:15 UTC · Daily Mail US · [Taylor Swift leaves fans 'sobbing' as she returns to CMA Awards stage after 13-year hiatus to perform medley of two of her biggest hits](https://www.dailymail.com/tvshowbiz/article-16304473/Taylor-Swift-returns-CMA-Awards-stage-13-years.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 - 2026-11-19 04:45 UTC · KHOU (TX) · [Ella Langley completely sweeps the 2026 CMA Awards, wins entertainer of the year](https://www.khou.com/article/news/nation-world/2026-cma-awards-ella-langley-taylor-swift-dolly-parton/507-4fea0199-2a6d-4fb7-8a48-0b36fdfcf682)
 - 2026-11-19 04:45 UTC · WFAA Dallas (TX) · [Ella Langley completely sweeps the 2026 CMA Awards, wins entertainer of the year](https://www.wfaa.com/article/news/nation-world/2026-cma-awards-ella-langley-taylor-swift-dolly-parton/507-4fea0199-2a6d-4fb7-8a48-0b36fdfcf682)
 - 2026-11-19 04:45 UTC · KING5 Seattle (WA) · [Ella Langley completely sweeps the 2026 CMA Awards, wins entertainer of the year](https://www.king5.com/article/news/nation-world/2026-cma-awards-ella-langley-taylor-swift-dolly-parton/507-4fea0199-2a6d-4fb7-8a48-0b36fdfcf682)
 - 2026-11-19 04:45 UTC · 9News Denver (CO) · [Ella Langley completely sweeps the 2026 CMA Awards, wins entertainer of the year](https://www.9news.com/article/news/nation-world/2026-cma-awards-ella-langley-taylor-swift-dolly-parton/507-4fea0199-2a6d-4fb7-8a48-0b36fdfcf682)
-- 2026-11-19 08:26 UTC · Page Six · [Ella Langley dominates CMA Awards with major wins as Taylor Swift makes stunning return to stage](https://pagesix.com/2026/11/19/entertainment/ella-langley-dominates-at-the-60th-annual-country-music-association-awards/)
+- 2026-11-19 07:32 UTC · WSB-TV Atlanta (GA) · [Ella Langley dominates CMA Awards 2026](https://www.wsbtv.com/news/local/ella-langley-dominates-cma-awards-2026/3H3JWSHLGZG7PDP242OAF6ZOSA/)
 - 2026-11-19 11:24 UTC · WSB-TV Atlanta (GA) · [CMA Awards 2026: Ella Langley dominates with 6 wins](https://www.wsbtv.com/news/trending/cma-awards-2026-ella-langley-dominates-with-6-wins/NYQ4Z3G53FDF5JU2TXSHV4LCZY/)
 - 2026-11-19 13:30 UTC · Fox News · [2026 CMA Awards: Winners and losers](https://www.foxnews.com/entertainment/2026-cma-awards-winners-losers)
 - 2026-11-19 13:54 UTC · ABC7 LA (CA) · [Ella Langley dominates at 2026 CMA Awards, wins entertainer of the year](https://abc7.com/story/ella-langley-dominates-2026-cma-awards-wins-entertainer-year/20055124/)
+- 2026-11-19 13:54 UTC · ABC7 Chicago (IL) · [Ella Langley dominates at 2026 CMA Awards, wins entertainer of the year](https://abc7chicago.com/story/ella-langley-dominates-2026-cma-awards-wins-entertainer-year/20055124/)
+- 2026-11-19 13:54 UTC · 6abc Philly (PA) · [Ella Langley dominates at 2026 CMA Awards, wins entertainer of the year](https://6abc.com/story/ella-langley-dominates-2026-cma-awards-wins-entertainer-year/20055124/)
+- 2026-11-19 13:54 UTC · ABC13 Houston (TX) · [Ella Langley dominates at 2026 CMA Awards, wins entertainer of the year](https://abc13.com/story/ella-langley-dominates-2026-cma-awards-wins-entertainer-year/20055124/)
 
 **Who posted it on Instagram** (3 pages, 2,059 likes, 4 posts)
 
@@ -312,7 +364,7 @@ Lead: [Just Jared — ‘Choosin’ Texas’ Superstar Ella Langley Makes Glamor
 - [@pagesix](https://www.instagram.com/p/Df7spX9iNK3/) · 863 likes · 27 comments · +1100 min after first report · Page Six Style & Shopping Director Elana Fishman shares her best-dressed picks from the 2026 CMA Awards on this episode of "Currently Trending." 🤠👗
 - [@howsongsweremade](https://www.instagram.com/p/Df5G8gXmKq6/) · 0 likes · 102 comments · 411 min before first report · Beyoncé is now the first artist in Grammy history with 100 nominations. Her 100th came on 16 November 2026 for “Morning Dew (Donk),” a previously unreleased bonus track from the 20th anniversary editi
 
-### 7. Grand Theft Auto 6 tops $2 billion in sales following long-awaited launch
+### 8. Grand Theft Auto 6 tops $2 billion in sales following long-awaited launch
 
 **Score** 149 · **Category** trending · **First seen** 2026-11-17 12:29 UTC · **Last update** 2026-11-20 02:54 UTC
 
@@ -362,9 +414,9 @@ Lead: [Insider Gaming — GTA 6 Has 62 Bird Types, Confirms Rockstar Games](http
 - [@nypost](https://www.instagram.com/p/Df5S7lbk6bq/) · 3,325 likes · 96 comments · +1881 min after first report · BREAKING: PlayStation saw a spike in service disruptions on Wednesday, gamers reported – just hours before highly anticipated GTA 6 was set for release. Downdetector.com registered hundreds of such re
 - [@teachingyouthingsx](https://www.instagram.com/reel/Df5ZOPgxk8s/) · 915 likes · 26 comments · +1936 min after first report · 🎮 Interesting fact: The hair physics in GTA 6 are leaving gamers amazed by just how much Rockstar Games has improved character realism compared to GTA 5. 😳🔥 A clip from GTA 6 shows a woman sitting at 
 
-### 8. Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating amid growing fears of attack on US soil
+### 9. Trump reveals 'indications Iran is looking at bioweapons' as he's quizzed over Cabinet members relocating amid growing fears of attack on US soil
 
-**Score** 148 · **First seen** 2026-11-17 11:25 UTC · **Last update** 2026-11-19 19:17 UTC
+**Score** 147 · **First seen** 2026-11-17 11:25 UTC · **Last update** 2026-11-19 19:17 UTC
 
 **Status** Confirmed · independent reports: 8 of 16 feeds · official: none · independent newsrooms: 7
 
@@ -405,39 +457,51 @@ Lead: [New York Post — Trump responds to reported ‘dirty bomb’ threat from
 - [@dailymail](https://www.instagram.com/p/Df8K-2Al5aw/) · 730 likes · 109 comments · +3554 min after first report · US intel reportedly shows Iran is developing plans for a dirty bomb or chemical attack targeting senior Trump officials in Washington DC 🚨 Iran calls the claims baseless, and the white house says ther
 - [@newsweek](https://www.instagram.com/p/Df44ukyGxX-/) · 56 likes · 6 comments · +1716 min after first report · U.S. intelligence officials have concluded that Ms. Huang was an asset of China’s Ministry of State Security (MSS). That means an MSS asset may have been just one or two steps away from President Dona
 
-### 9. ‘Sunrise On The Reaping’ Epilogue Scene Explained: How Everything Ties Together
+### 10. How to Watch the CMA Awards (And Taylor Swift’s Performance) Live Online
 
-**Score** 146 · **First seen** 2026-11-20 04:38 UTC · **Last update** 2026-11-20 06:30 UTC
+**Score** 145 · **Category** trending · **First seen** 2026-11-18 14:00 UTC · **Last update** 2026-11-20 05:50 UTC
 
-**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
+**Status** Confirmed · independent reports: 37 of 48 feeds · official: none · independent newsrooms: 12
+
+**Duplicates collapsed**: 8 of 48 feeds repeat the same report.
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- The Hunger Games: Sunrise on the Reaping includes an epilogue scene that mirrors the ending of the original novel by Suzanne Collins. — support: 1
-- Woody Harrelson, Jennifer Lawrence and Josh Hutcherson appear in the epilogue scene of The Hunger Games: Sunrise on the Reaping. — support: 1
+- The 2026 Country Music Association Awards are taking place on November 18. — support: 3
+- Taylor Swift is returning to perform at the CMA Awards for the first time in 13 years. — support: 4
+- The CMA Awards are being broadcast on ABC and Disney+. — support: 2
+- The 2026 CMA Awards are being held at Bridgestone Arena in Nashville. — support: 1
 
-> 1 independent report only; details may still change. 2 key claims stated by a single report: “The Hunger Games: Sunrise on the Reaping includes an epilogue scene th”; “Woody Harrelson, Jennifer Lawrence and Josh Hutcherson appear in the e”
+> 3 of the 40 independent reports in the cluster cover related updates, not this headline. 48 feeds carry 40 independent reports (the rest are duplicates). Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. 1 key claim stated by a single report: “The 2026 CMA Awards are being held at Bridgestone Arena in Nashville.”
 
-SPOILER ALERT: This post spoils the end of The Hunger Games: Sunrise on the Reaping. The epilogue scene at the end of The Hunger Games: Sunrise On The Reaping echoes the chapter that closes Suzanne Collins’ novel of the same name. Woody Harrelson, Jennifer Lawrence and Josh Hutcherson appear in the final moment of the […]
+The 60th annual Country Music Association Awards, taking place Wednesday, Nov. 18, will be televised from Nashville’s Bridgestone Arena on ABC and Disney+, with next-day streaming on Hulu. The evening will feature a live performance from Taylor Swift, marking her return to the CMAs’ stage for the first time in 13 years. Back in 2013, […]
 
-Lead: [Deadline — ‘Sunrise On The Reaping’ Epilogue Scene Explained: How Everything Ties Together](https://deadline.com/2026/11/sunrise-on-the-reaping-epilogue-scene-explained-cameos-1237229907/)
+Lead: [Variety — Taylor Swift’s CMA Return Helped Disney Sell More Ads](https://variety.com/2026/tv/news/taylor-swift-cma-return-disney-sell-commericals-1236951795/)
 
 **Where it was published**
 
-- 2026-11-20 04:38 UTC · Deadline · [‘Sunrise On The Reaping’ Epilogue Scene Explained: How Everything Ties Together](https://deadline.com/2026/11/sunrise-on-the-reaping-epilogue-scene-explained-cameos-1237229907/)
+- 2026-11-18 14:00 UTC · Variety · [Taylor Swift’s CMA Return Helped Disney Sell More Ads](https://variety.com/2026/tv/news/taylor-swift-cma-return-disney-sell-commericals-1236951795/)
+- 2026-11-18 20:01 UTC · WGN (IL) · [2026 CMA Awards are here: Watch the red carpet pre-show LIVE!](https://wgntv.com/entertainment-news/ap-the-2026-country-music-association-awards-are-here-with-taylor-swift-performing-how-to-watch/)
+- 2026-11-18 20:16 UTC · Variety · [How to Watch the CMA Awards (And Taylor Swift’s Performance) Live Online](https://variety.com/2026/music/news/how-to-watch-cmas-taylor-swift-performance-live-online-1236952238/)
+- 2026-11-18 21:30 UTC · New York Post · [How to watch Taylor Swift perform at CMA Awards 2026 for free: Time, livestream](https://pagesix.com/2026/11/18/entertainment/how-to-watch-taylor-swift-perform-at-cma-awards-2026-for-free/)
+- 2026-11-18 22:05 UTC · Hollywood Reporter · [Where to Watch the 2026 CMA Awards, Featuring Taylor Swift’s Return to the Stage](https://www.hollywoodreporter.com/tv/tv-news/watch-cma-awards-2026-free-stream-taylor-swift-performance-1236758756/)
+- 2026-11-18 22:45 UTC · Just Jared · [What Is Taylor Swift Performing at CMA Awards 2026 & Do We Know What Time She’ll Take the Stage?](https://www.justjared.com/2026/11/18/taylor-swift-cma-awards-2026-performance-song-time-explained/)
+- 2026-11-18 23:54 UTC · E! News · [Taylor Swift Is a Daydream at First CMA Awards Appearance in 10 Years](https://www.eonline.com/news/1438190/cma-awards-2026-taylor-swift-makes-first-appearance-in-10-years?cmpid=rss-syndicate-genericrss-us-top_stories)
+- 2026-11-18 23:54 UTC · New York Post · [Taylor Swift shines in yellow on the CMA Awards 2026 red carpet](https://pagesix.com/2026/11/18/style/taylor-swift-shines-in-yellow-on-cma-awards-2026-red-carpet/)
+- 2026-11-18 23:58 UTC · Us Weekly · [Taylor Swift Wears 'Toy Story' Yellow at 2026 CMA Awards After 10-Years Away](https://www.usmagazine.com/stylish/news/taylor-swift-attends-2026-cmas-for-1st-time-in-10-years/)
+- 2026-11-19 00:03 UTC · Just Jared · [Taylor Swift Goes Bold in Bright Yellow Dress for CMA Awards 2026](https://www.justjared.com/2026/11/18/taylor-swift-goes-bold-in-bright-yellow-dress-for-cma-awards-2026/)
+- 2026-11-19 00:03 UTC · Fox News · [CMA Awards 2026: Taylor Swift, Lainey Wilson dazzle as stars hit the red carpet](https://www.foxnews.com/entertainment/cma-awards-2026-taylor-swift-lainey-wilson-dazzle-stars-hit-red-carpet)
+- 2026-11-19 00:03 UTC · Fox News · [CMA Awards 2026: Taylor Swift, Lainey Wilson and Ella Langley dazzle as stars hit the red carpet](https://www.foxnews.com/entertainment/cma-awards-2026-taylor-swift-lainey-wilson-ella-langley-dazzle-stars-hit-red-carpet)
 
-**Who posted it on Instagram** (12 pages, 355,535 likes, 25 posts)
+**Who posted it on Instagram** (3 pages, 2,343 likes, 5 posts)
 
-- [@hollywoodreporter](https://www.instagram.com/reel/Df0qL6xp71-/) · 117,484 likes · 716 comments · 4559 min before first report · #JoshHutcherson and #JenniferLawrence reunite at #TheHungerGames : Sunrise on the Reaping premiere
-- [@thefilmthusiasts](https://www.instagram.com/p/Df090okilM6/) · 24,452 likes · 78 comments · 4390 min before first report · Katniss and Peeta, together again. 🔥 Jennifer Lawrence and Josh Hutcherson reunited at the #TheHungerGames: Sunrise On the Reaping NY Premiere, more than a decade after their four films together. Wood
-- [@popbase](https://www.instagram.com/reel/Df0qonlpInH/) · 14,282 likes · 63 comments · 4557 min before first report · Jennifer Lawrence and Josh Hutcherson reunite at the premiere of ‘Hunger Games: Sunrise on the Reaping’ in New York. #jenniferlawrence #joshhutcherson #hungergames
-- [@dailymail](https://www.instagram.com/p/Df1uZnhiIvm/) · 13,818 likes · 55 comments · 3965 min before first report · Is it 2012 again? 🥹 Jennifer Lawrence and Josh Hutcherson have reunited on the red carpet, 14 years after first starring together as Katniss and Peeta. The pair were joined by former co-stars Woody Ha
-- [@unilad](https://www.instagram.com/p/Df2T3IuDfkP/) · 10,953 likes · 106 comments · 3638 min before first report · Robert Pattinson’s barely picked up his licence to kill and Ralph Fiennes is already offering him a wand 😭🪄⁠ ⁠ Asked about HBO’s Harry Potter series at the New York premiere of The Hunger Games: Sunri
-- [@pagesix](https://www.instagram.com/p/Df2plDBDh0l/) · 10,697 likes · 39 comments · 3428 min before first report · Jennifer Lawrence shares the story behind the viral paparazzi photo of her doing the iconic “Hunger Games” salute. 📸: @backgrid_USA 📹: Instagram/ jlaw
+- [@dailymail](https://www.instagram.com/p/Df7NpduFZL1/) · 1,144 likes · 24 comments · +1422 min after first report · Talk about a night to remember! 🤠 Ella Langley was the big winner at the 2026 CMA Awards, taking home an incredible six trophies, including the night’s biggest prize, Entertainer of the Year. The ‘Cho
+- [@pagesix](https://www.instagram.com/p/Df7spX9iNK3/) · 863 likes · 27 comments · +1756 min after first report · Page Six Style & Shopping Director Elana Fishman shares her best-dressed picks from the 2026 CMA Awards on this episode of "Currently Trending." 🤠👗
+- [@thesongdetective](https://www.instagram.com/reel/Df3OYfrCrAn/) · 30 likes · 0 comments · 808 min before first report · 🎥: 2001 MTV Movie Awards \| Sketch \| Ben Stiller as "Tom Crooze" \| Comedy Skit Ben Stiller and Tom Cruise delivered one of the most memorable comedy sketches at the MTV Movie Awards, with Stiller pl
 
-### 10. ‘GTA 6’ Launch Breaks Internet Usage Records; Twitch and Other Livestream Viewership Reaches Nearly 8 Million in First Hours of Release
+### 11. ‘GTA 6’ Launch Breaks Internet Usage Records; Twitch and Other Livestream Viewership Reaches Nearly 8 Million in First Hours of Release
 
-**Score** 145 · **Category** trending · **First seen** 2026-11-19 15:09 UTC · **Last update** 2026-11-20 04:13 UTC
+**Score** 144 · **Category** trending · **First seen** 2026-11-19 15:09 UTC · **Last update** 2026-11-20 04:13 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -466,9 +530,49 @@ Lead: [Variety — ‘GTA 6’ Launch Breaks Internet Usage Records; Twitch and 
 - [@nugget](https://www.instagram.com/p/Df0uh4nIDHA/) · 23,444 likes · 152 comments · 3712 min before first report · When GTA V launched in 2013, the most popular apps included Candy Crush, Temple Run, Vine, and Snapchat. Fast forward to the GTA VI era, and the digital landscape looks completely different. Artificia
 - [@gamemes](https://www.instagram.com/p/Df538t5Fqir/) · 17,384 likes · 534 comments · 837 min before first report · 13 years of waiting, and GTA 6 just tied the highest Metacritic score ever recorded 🎮🏆 As critic reviews rolled in on November 18, Grand Theft Auto VI landed at a 99 on Metacritic, matching the record
 
-### 11. Huang agrees to testify before Senate Banking panel
+### 12. Trump admin permanently pulls funding from LA homeless agency over mounting fraud allegations
 
-**Score** 138 · **First seen** 2026-11-18 03:48 UTC · **Last update** 2026-11-20 00:04 UTC
+**Score** 142 · **Category** wildfires · **First seen** 2026-11-17 12:03 UTC · **Last update** 2026-11-20 01:33 UTC
+
+**Status** Developing · independent reports: 2 of 55 feeds · official: none · independent newsrooms: 1
+
+**Duplicates collapsed**: 2 of 55 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- A shooting occurred at a bus stop on Van Nuys Boulevard in Los Angeles at 12:10 a.m. Tuesday. — support: 1
+- A 32-year-old man died following a shooting in Van Nuys. — support: 1
+- A police pursuit involving a stolen car suspect occurred from Los Angeles to the Inland Empire early Tuesday morning. — support: 1
+- The Los Angeles Homeless Services Authority lost 150 million dollars in federal funding. — support: 1
+
+> 2 independent reports only; details may still change. 51 of the 53 independent reports in the cluster cover related updates, not this headline. 55 feeds carry 53 independent reports (the rest are duplicates). 4 key claims stated by a single report: “A shooting occurred at a bus stop on Van Nuys Boulevard in Los Angeles”; “A 32-year-old man died following a shooting in Van Nuys.”
+
+When the Palisades and Eaton wildfires tore through Los Angeles in January 2025, smoke blanketed the region and air quality plunged into the hazardous range. It was a vivid example of a growing problem: After years of improvement, wildfire smoke is pulling air quality back in the wrong direction, and fire season, once confined to hot, dry summers, now stretches across the year.
+
+Lead: [Yahoo Sports — Hornets vs. Lakers: How to watch, projected lineups and more](https://sports.yahoo.com/articles/hornets-vs-lakers-watch-projected-120308739.html)
+
+**Where it was published**
+
+- 2026-11-17 12:03 UTC · Yahoo Sports · [Hornets vs. Lakers: How to watch, projected lineups and more](https://sports.yahoo.com/articles/hornets-vs-lakers-watch-projected-120308739.html)
+- 2026-11-17 12:57 UTC · Motor1 · [Hyundai Confirms Next-Generation Elantra Is Coming To The US](https://www.motor1.com/news/815742/2027-hyundai-elantra-us-debut/)
+- 2026-11-17 13:00 UTC · New York Post · [LA’s top homeless agency cut off from $150M in federal funding after years of fraud allegations, spending scandals](https://nypost.com/2026/11/17/us-news/lahsa-stripped-of-150m-in-hud-funding-after-fraud-allegations/)
+- 2026-11-17 14:20 UTC · Medical Xpress · [Wildfire smoke damages the airway's defenses, blocking one signal can shield them](https://medicalxpress.com/news/2026-11-wildfire-airway-defenses-blocking-shield.html)
+- 2026-11-17 15:04 UTC · KTLA (CA) · [Stolen car suspect dances after police chase ends in Southern California](https://ktla.com/news/california/suspect-dances-after-pursuit-bloomington/)
+- 2026-11-17 15:21 UTC · KTLA (CA) · [L.A. shooting victim was uncooperative with officers before death, police say](https://ktla.com/news/local-news/l-a-shooting-victim-was-uncooperative-with-officers-before-death-police-say/)
+- 2026-11-17 16:00 UTC · Variety · [Rosalía, Hilary Duff, and Slayyyter to Be Honored at Variety’s Hitmakers Event](https://variety.com/2026/music/news/rosalia-hilary-duff-slayyyter-announced-variety-hitmakers-1236949945/)
+- 2026-11-17 16:13 UTC · Newsweek · [8-Foot Metal Fence Goes Up Around Troubled MacArthur Park](https://www.newsweek.com/8-foot-metal-fence-goes-up-around-troubled-macarthur-park-12727819)
+- 2026-11-17 16:30 UTC · Us Weekly · [Jessica Alba Wore a Wild Bag We're Totally Loving — Get the $18 Twin](https://www.usmagazine.com/shopping/news/jessica-alba-leopard-bag-look-for-less/)
+- 2026-11-17 17:04 UTC · ABC7 LA (CA) · [Parents of Franklin High School Senior who fell to his death announce lawsuit against LAUSD](https://abc7.com/story/parents-franklin-high-school-senior-fell-death-announce-lawsuit-lausd/20046146/)
+- 2026-11-17 17:25 UTC · KTLA (CA) · [Feds say that LAHSA will never receive ‘another dollar’ of HUD funding again](https://ktla.com/news/local-news/feds-say-that-lahsa-will-never-receive-another-dollar-of-hud-funding-again/)
+- 2026-11-17 17:53 UTC · Wrestling Inc · [USA Wrestling Announces Collaboration With AEW, Mercedes Mone Ahead Of 2028 Olympics](https://www.wrestlinginc.com/2319442/usa-wrestling-collaboration-aew-mercedes-mone-2028-olympics/)
+
+**Who posted it on Instagram** (1 pages, 47,699 likes, 1 posts)
+
+- [@worldstar](https://www.instagram.com/p/Df3VI-4j75T/) · 47,699 likes · 2,678 comments · +807 min after first report · #NEWS: A massive geyser of decomposing trash and methane gas erupted at a Los Angeles County landfill after workers struck a pressurized gas pocket. Health officials have ordered the operators to prov
+
+### 13. Huang agrees to testify before Senate Banking panel
+
+**Score** 137 · **First seen** 2026-11-18 03:48 UTC · **Last update** 2026-11-20 00:04 UTC
 
 **Status** Confirmed · independent reports: 3 of 3 feeds · official: none · independent newsrooms: 2
 
@@ -500,7 +604,7 @@ Lead: [The Hill — Huang agrees to testify before Senate Banking panel](https:/
 - [@explainscience.ai](https://www.instagram.com/p/Df44qBNEpwh/) · 370 likes · 3 comments · +312 min after first report · Jensen Huang might be coming back 👀 The Financial Times reports that Jensen has talked with allies about returning as Nvidia CEO, days after he stepped down. One ally said they are building a “war roo
 - [@movieshowtime](https://www.instagram.com/p/Df0YVWRHXRX/) · 122 likes · 0 comments · 1128 min before first report · Man 😭 A U.S. intelligence memo alleged Nvidia CEO Jensen Huang had a romantic relationship with a tech executive believed to have been recruited by China's Ministry of State Security, per the Financia
 
-### 12. Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects
+### 14. Election 2026: Mary Peltola wins US Senate seat in Alaska, AP projects
 
 **Score** 136 · **First seen** 2026-11-17 11:50 UTC · **Last update** 2026-11-20 04:34 UTC
 
@@ -541,9 +645,9 @@ Lead: [Guardian US — Democrats’ Peltola ahead as counting nears end in Alask
 - [@nytimes](https://www.instagram.com/p/Df5GEkFE0Hp/) · 5,536 likes · 99 comments · +1825 min after first report · When Mary Peltola was officially elected senator of Alaska on Tuesday night, she became one of the first Native American women to win election to the Senate, joining Peggy Flanagan, a Democrat of Minn
 - [@wsj](https://www.instagram.com/p/Df4dMe4l8Zh/) · 3,147 likes · 165 comments · +1450 min after first report · When Cameron Cushman and his wife walked into the school across the street from their house to vote in the Texas Republican primary runoff in May, a poll worker reminded him that he already had voted 
 
-### 13. Florence Pugh Celebrates Robert Pattinson’s Bond Casting: “He’s Been the No. 1 Vote in My Household”
+### 15. Florence Pugh Celebrates Robert Pattinson’s Bond Casting: “He’s Been the No. 1 Vote in My Household”
 
-**Score** 135 · **Category** trending · **First seen** 2026-11-17 19:41 UTC · **Last update** 2026-11-19 15:49 UTC
+**Score** 134 · **Category** trending · **First seen** 2026-11-17 19:41 UTC · **Last update** 2026-11-19 15:49 UTC
 
 **Status** Confirmed · independent reports: 4 of 4 feeds · official: none · independent newsrooms: 2
 
@@ -576,7 +680,7 @@ Lead: [Hollywood Reporter — Florence Pugh Celebrates Robert Pattinson’s Bond
 - [@cinephile.club](https://www.instagram.com/p/Df43CIsCDCZ/) · 8,748 likes · 1,012 comments · +1205 min after first report · WHO COULD BE THE NEXT BOND GIRL? 👀 With Robert Pattinson officially announced as the next James Bond, all eyes are now on one big question: who will star alongside him as the next Bond girl? Names lik
 - [@clips](https://www.instagram.com/p/Df59ZQ2omHJ/) · 8,689 likes · 55 comments · +1821 min after first report · Avengers: Doomsday (2026) — Directed by Anthony and Joe Russo, this colossal superhero event stars Robert Downey Jr., Chris Hemsworth, Chris Evans, Pedro Pascal, and Florence Pugh as the Marvel Cinema
 
-### 14. Miami Heat host Grand Theft Auto VI-themed game against Milwaukee Bucks
+### 16. Miami Heat host Grand Theft Auto VI-themed game against Milwaukee Bucks
 
 **Score** 133 · **First seen** 2026-11-17 20:26 UTC · **Last update** 2026-11-20 02:46 UTC
 
@@ -630,9 +734,105 @@ Lead: [Yahoo Sports — ‘Anybody gets a tribute these days’ – Miami Heat f
 - [@onlyindade](https://www.instagram.com/p/Df5tmEDBsWt/) · 6,354 likes · 87 comments · +1637 min after first report · Travis Scott pulled up to Miami Heat GTA 6 Vice city night #travisscott #gta6 #vicecity #miamiheat
 - [@complex](https://www.instagram.com/p/Df5oJtAAaGm/) · 4,470 likes · 84 comments · +1589 min after first report · The Miami Heat went all out for 'GTA VI' 🔥 A look into the 'GTA VI' takeover at the Kaseya Center
 
-### 15. Here's how the Secret Service plans to keep the community safe during the LA28 Olympics
+### 17. NYC ban: Mayor Zohran Mamdani signs law ending New York City horse-drawn carriage industry after Romanch Mahajan death in crash
 
-**Score** 128 · **First seen** 2026-11-17 17:44 UTC · **Last update** 2026-11-20 00:53 UTC
+**Score** 130 · **Category** accidents · **State** NY · **First seen** 2026-11-17 08:44 UTC · **Last update** 2026-11-19 23:25 UTC
+
+**Status** Confirmed · independent reports: 10 of 24 feeds · official: none · independent newsrooms: 7
+
+**Duplicates collapsed**: 4 of 24 feeds repeat the same report.
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Zohran Mamdani is the Mayor of New York City — support: 5
+- Stephen A. Smith stated his daughter supports Zohran Mamdani — support: 1
+- Mayor Mamdani announced the disbandment of the NYPD Strategic Response Unit — support: 1
+- Ken Griffin sold a New York City duplex to Woody Johnson for 58 million dollars — support: 1
+- New York City passed a ban on the horse-drawn carriage industry — support: 1
+
+> 10 of the 20 independent reports in the cluster cover related updates, not this headline. 24 feeds carry 20 independent reports (the rest are duplicates). 4 key claims stated by a single report: “Stephen A. Smith stated his daughter supports Zohran Mamdani”; “Mayor Mamdani announced the disbandment of the NYPD Strategic Response”
+
+Stephen A. Smith‘s daughter’s comments about New York City Mayor Zohran Mamdani have gone viral online. The reaction follows the ESPN personality revealing that his teenage daughter supports the politician. However, Smith joked that he has a plan to change her mind once she starts paying taxes. He shared the story during a recent episode […] The post Stephen A. Smith Says His Daughter Loves Zohran Mamdani But He Has…
+
+Lead: [Yahoo Sports — Stephen A. Smith Says His Daughter Loves Zohran Mamdani But He Has a Plan](https://sports.yahoo.com/articles/stephen-smith-says-daughter-loves-084404453.html)
+
+**Where it was published**
+
+- 2026-11-17 08:44 UTC · Yahoo Sports · [Stephen A. Smith Says His Daughter Loves Zohran Mamdani But He Has a Plan](https://sports.yahoo.com/articles/stephen-smith-says-daughter-loves-084404453.html)
+- 2026-11-17 10:00 UTC · PIX11 (NY) · [Mamdani teases transition plan for NYC horse-drawn carriage workers](https://pix11.com/news/local-news/mamdani-teases-transition-plan-for-nyc-horse-drawn-carriage-workers/)
+- 2026-11-17 17:45 UTC · Fox News · [Mamdani takes swipe at Trump administration's response to tech outages: 'Far from what many wanted to hear'](https://www.foxnews.com/politics/mamdani-takes-swipe-trump-administrations-response-tech-outages-far-from-what-many-wanted-hear)
+- 2026-11-17 19:03 UTC · CBS News · [Mamdani disbands NYPD unit accused of excessive force, keeping campaign promise](https://www.cbsnews.com/video/mamdani-keeps-campaign-promise-disbands-nypd-unit-accused-of-excessive-force/)
+- 2026-11-17 23:45 UTC · New York Post · [Ken Griffin sells NYC duplex to Jets owner Woody Johnson for $58M — months after Mayor Mamdani targeted Citadel founder in pied-à-terre tax stunt](https://nypost.com/2026/11/17/real-estate/ken-griffin-sells-nyc-duplex-to-jets-owner-woody-johnson-for-58m-months-after-mayor-mamdani-targeted-him/)
+- 2026-11-18 00:55 UTC · Fox News · ['Mob Wives' star Renee Graziano rejects NYC Mayor Zohran Mamdani as 'not my choice' in public safety clash](https://www.foxnews.com/media/mob-wives-star-renee-graziano-rejects-nyc-mayor-zohran-mamdani-not-my-choice-public-safety-clash)
+- 2026-11-18 02:42 UTC · Fox News · [Ken Griffin, target of Zohran Mamdani, has officially sold his $58 million apartment to NY Jets owner](https://www.foxnews.com/outkick-sports/ken-griffin-target-zohran-mamdani-officially-sold-58-million-apartment-ny-jets-owner)
+- 2026-11-18 11:00 UTC · New York Post · [NYC business that hosted Mamdani for major speech now opposes his plan for disruptive shelter: pol](https://nypost.com/2026/11/18/us-news/nyc-business-that-hosted-mamdani-for-major-speech-now-opposes-his-plan-for-disruptive-shelter-pol/)
+- 2026-11-18 11:30 UTC · New York Post · [Mamdani appoints lefty activists to NYC courts — including jurist nicknamed ‘Judge Let Em Go’](https://nypost.com/2026/11/18/us-news/mamdani-appoints-lefty-activists-to-nyc-courts/)
+- 2026-11-18 15:29 UTC · Daily Mail US · [Billionaire Ken Griffin sells Manhattan mansion for $58million after NYC mayor Mamdani made him the poster boy for luxury home tax plan](https://www.dailymail.com/real-estate/article-16302123/ken-griffin-sells-manhattan-mansion.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- 2026-11-18 17:53 UTC · PIX11 (NY) · [Mamdani signs order to expand halal, kosher meals in NYC programs](https://pix11.com/news/local-news/mamdani-signs-order-to-expand-halal-kosher-meals-in-nyc-programs/)
+- 2026-11-18 23:33 UTC · PIX11 (NY) · ['Notoriously noncompliant landlord' sued $10M by NYC mayor's office](https://pix11.com/news/local-news/notoriously-noncompliant-landlord-sued-10m-by-nyc-mayors-office/)
+
+**Who posted it on Instagram** (4 pages, 87,600 likes, 6 posts)
+
+- [@nypost](https://www.instagram.com/p/Df4xIMHjwH8/) · 30,812 likes · 2,352 comments · +1831 min after first report · A one-man homeless camp sprawling outside City Hall had moved again — relocating just yards away as its lone resident toys with the Mamdani administration’s homeless policies. Mark Roggemann moved his
+- [@dailymail](https://www.instagram.com/p/Df8EERegJNY/) · 26,497 likes · 2,611 comments · +3654 min after first report · On Thursday New York City mayor Zohran Mamdani signed Romanch's Law, a new law that will ban all horse carriages in the five boroughs by June 1, 2028. The law was named after Romanch Mahajan, and 18-y
+- [@complex](https://www.instagram.com/p/Df2Y-hEDvEb/) · 6,266 likes · 580 comments · +482 min after first report · From Chopped Cheese from a frank stand to Mamdani's new look... a lot is going on NYC
+- [@wired](https://www.instagram.com/p/Df5GXx2E3Xz/) · 1,226 likes · 55 comments · +2117 min after first report · EXCLUSIVE: On January 1, Amani Al-Khatahtbeh, an author, activist, and the founder of media company Muslim Girl, posted a selfie from Zohran Mamdani’s inauguration as the first Muslim mayor of New Yor
+
+### 18. Anthropic set to price blockbuster IPO above $78 a share
+
+**Score** 127 · **First seen** 2026-11-17 18:41 UTC · **Last update** 2026-11-20 05:01 UTC
+
+**Status** Confirmed · independent reports: 6 of 33 feeds · official: none · independent newsrooms: 3
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Anthropic is preparing for an initial public offering — support: 6
+- Anthropic developed the Claude chatbot — support: 3
+- The company is targeting a market capitalization of over 1 trillion dollars — support: 2
+- Amazon and Google will collectively own nearly 30 percent of Anthropic after the IPO — support: 1
+- Anthropic is scheduled to go public on Thursday or today — support: 2
+
+> 27 of the 33 independent reports in the cluster cover related updates, not this headline. Aggregator feeds in the chain (Google News: AP, Google News: Reuters, Google News: Top US); open the original. Reports disagree on whether the IPO is scheduled for Thursday or today. 1 key claim stated by a single report: “Amazon and Google will collectively own nearly 30 percent of Anthropic”
+
+Demand for the AI developer's Nasdaq debut has surged past available shares, even as the company reports steep losses and warns of technological risks.
+
+**Key points**
+
+- Anthropic expects to price its IPO above the $70-to-$78 range ahead of its Nov. 19 Nasdaq debut.
+- Amazon will hold a 14.7% stake and Google will own 13.7% following the offering, according to Tuesday filings.
+- Nine-month revenue jumped 1,200% to $33.24 billion, though net losses widened to $104 billion.
+
+Artificial intelligence developer Anthropic plans to price its initial public offering above its previously announced range of $70 to $78 per share, according to CNBC sources cited by the New York Post. The maker of the Claude AI platform intends to finalize investor orders Tuesday afternoon before starting trading on the Nasdaq under the stock symbol "ANT" on Nov. 19. At the top of its earlier price range, the offering would bring in $90.4 billion and value the firm at $1.4 trillion, potentially surpassing SpaceX's record public debut from June.
+Investor appetite has been intense ahead of the listing. Bloomberg reported that bids have reached nearly seven times more shares than the company is offering, including several orders worth $10 billion or more. Major technology companies are also taking large stakes through non-voting shares. According to TechCrunch, disclosures on Tuesday showed Amazon will hold a 14.7% stake and Google will own 13.7% following the debut, alongside a $26 billion private stock purchase involving firms such as Nvidia, Microsoft, AMD, Broadcom, Micron, and TSMC Partners.
+Anthropic's rapid commercial expansion has been fueled largely by its Claude Code tool, though expenses remain massive. Securities and Exchange Commission filings cited by the New York Post show revenue surged 1,200% from a year earlier to reach $33.24 billion across the first three quarters ended Sept. 30. Over that same nine-month span, net losses widened to $104 billion, largely reflecting accounting adjustments, up from $25.1 billion in the comparable 2025 period.
+
+Lead: [CBS News — Anthropic files for IPO as it competes for AI dominance](https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/)
+
+**Where it was published**
+
+- 2026-11-17 18:41 UTC · CBS News · [Anthropic files for IPO as it competes for AI dominance](https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/)
+- 2026-11-17 19:41 UTC · New York Post · [Anthropic will likely price mammoth IPO above current $70- to $78-per-share range: report](https://nypost.com/2026/11/17/business/anthropic-will-likely-price-mammoth-ipo-above-current-range-report/)
+- 2026-11-17 21:00 UTC · New York Post · [Anthropic is about to have the biggest IPO of all time: Is it too late to buy in?](https://nypost.com/2026/11/17/business/is-it-too-late-to-participate-in-anthropics-big-ipo-on-nov-19/)
+- 2026-11-17 22:29 UTC · TechCrunch · [Amazon and Google will together own nearly 30% of Anthropic after its IPO](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/)
+- 2026-11-18 12:00 UTC · New York Post · [Republicans fret Anthropic IPO will enrich ‘evil’ far-left donors: ‘200 George Soroses’](https://nypost.com/2026/11/18/us-news/republicans-fret-anthropic-ipo-will-enrich-far-left-donors-200-george-soroses/)
+- 2026-11-18 12:56 UTC · New York Post · [The major A-list star set for billionaire status thanks to Anthropic IPO](https://pagesix.com/2026/11/18/celebrity-news/ashton-kutcher-is-about-to-hit-billionaire-status-heres-why/)
+- 2026-11-18 15:11 UTC · Newsweek · [Investors Should Beware Anthropic's IPO](https://www.newsweek.com/investors-should-beware-anthropics-ipo-12731980)
+- 2026-11-18 20:59 UTC · Newsweek · [Anthropic IPO: Why $1T Bet Matters Even If You Don’t Own Stocks](https://www.newsweek.com/anthropic-ipo-why-1t-bet-matters-even-if-you-dont-own-stocks-12734879)
+- 2026-11-18 21:28 UTC · BBC US & Canada · [Can Anthropic's record breaking IPO stop the AI bubble bursting?](https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss)
+- 2026-11-18 21:35 UTC · New York Post · [Meet Anthropic’s oddball co-founders: An atheist who met the pope, a punk-rock fan and a shy dating-app entrepreneur](https://nypost.com/2026/11/18/business/meet-anthropics-eccentric-founding-seven-an-atheist-who-met-the-pope-a-punk-rock-fan-and-a-shy-dating-app-entrepreneur/)
+- 2026-11-18 21:44 UTC · New York Post · [Anthropic set to price IPO at $83 per share ahead of historic stock debut: reports](https://nypost.com/2026/11/18/business/anthropic-set-to-price-ipo-at-83-per-share-ahead-of-historic-stock-debut-reports/)
+- 2026-11-18 22:38 UTC · New York Post · [Anthropic IPO will flood more billions to Democrats, far-left causes and cult-y Effective Altruism than anything previously](https://nypost.com/2026/11/18/opinion/anthropic-ipo-will-flood-more-billions-to-democrats-far-left-causes-and-cult-y-effective-altruism-than-anything-previously/)
+
+**Who posted it on Instagram** (4 pages, 3,003 likes, 4 posts)
+
+- [@simplyougrow](https://www.instagram.com/p/Df5avj-GUfp/) · 1,489 likes · 3 comments · +1577 min after first report · Tomorrow, two of the biggest launches ever land on the same day. 💸 Rockstar’s GTA 6 finally releases after more than a decade of waiting, with over $1 billion in pre-order sales already locked in. Hou
+- [@dailymail](https://www.instagram.com/p/Df6xg8pkTRJ/) · 614 likes · 9 comments · +2336 min after first report · Anthropic has raised a record-breaking $81.3 billion through its IPO, valuing the company at $1.5 trillion. On November 18, the company priced its shares at $83 each, above its initial target range, r
+- [@jessinskip_](https://www.instagram.com/reel/Df5wM1BuRzy/) · 501 likes · 16 comments · +1768 min after first report · Anthropic IPO: 2 tickers traders may want to know #ad Anthropic, the company behind Claude, is going public, and it is expected to be one of the largest IPOs EVER. If you are searching for alternative
+- [@deeptech](https://www.instagram.com/p/Df5WoOHkgAT/) · 399 likes · 7 comments · +1541 min after first report · Tomorrow, two of the biggest launches ever land on the same day. 💸 Rockstar’s GTA 6 finally releases after more than a decade of waiting, with over $1 billion in pre-order sales already locked in. Hou
+
+### 19. Here's how the Secret Service plans to keep the community safe during the LA28 Olympics
+
+**Score** 127 · **First seen** 2026-11-17 17:44 UTC · **Last update** 2026-11-20 00:53 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -660,46 +860,58 @@ Lead: [KTLA (CA) — Here's how the Secret Service plans to keep the community s
 - [@hairs](https://www.instagram.com/p/Df01vjfANyQ/) · 171 likes · 0 comments · 524 min before first report · Did you know that the global average price of a grilled cheese sandwich can vary wildly? In the United States, it often ranges from $3 to $10, depending on the ingredients and location. This beloved c
 - [@vision.motivee](https://www.instagram.com/reel/Df2vTlzBvhw/) · 146 likes · 4 comments · 524 min before first report · The 2004 United States Grand Prix delivered a dramatic restart when Michael Schumacher overtook Ferrari teammate Rubens Barrichello under the safety car. Schumacher went on to win the race, while Taku
 
-### 16. Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing
+### 20. Skydance announces leadership changes following studio merger
 
-**Score** 126 · **Category** accidents · **First seen** 2026-11-17 07:33 UTC · **Last update** 2026-11-19 17:48 UTC
+**Score** 126 · **Category** trending · **First seen** 2026-11-17 16:50 UTC · **Last update** 2026-11-19 17:00 UTC
 
-**Status** Confirmed · independent reports: 8 of 13 feeds · official: none · independent newsrooms: 7
+**Status** Confirmed · independent reports: 3 of 17 feeds · official: none · independent newsrooms: 3
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Ukraine launched strikes against the Kerch Bridge connecting Russia and Crimea for a second consecutive night. — support: 3
-- The Kerch Bridge is a key rail and road link between Russia and the Crimean Peninsula. — support: 3
-- The extent of damage to the Kerch Bridge is described differently across reports. — support: 3
-- Russia retaliated against the bridge strikes by firing missiles and drones at Kyiv. — support: 2
+- Kira Goldberg is leaving Netflix to become president of Paramount's Motion Picture Group alongside Don Granger. — support: 3
+- Jeff Goldstein is retiring from his position as head of global theatrical distribution at Warner Bros. — support: 2
+- Jennifer Dodge and Traci Balthazor will oversee animation for both Paramount and Warner Bros. — support: 1
+- Skydance has restructured its cable network division and formed Skydance Global Cable Media. — support: 1
 
-> 5 of the 13 independent reports in the cluster cover related updates, not this headline. Reports disagree on the severity of the damage, ranging from unclear to critically damaged or collapsed.
+> 14 of the 17 independent reports in the cluster cover related updates, not this headline. Reports 4 and 6 suggest different timelines and contexts regarding the acquisition or merger of Paramount and Warner Bros. 2 key claims stated by a single report: “Jennifer Dodge and Traci Balthazor will oversee animation for both Par”; “Skydance has restructured its cable network division and formed Skydan”
 
-Blow to Kremlin as prestigious bridge linking occupied Ukrainian peninsula struck by missile. Plus, what is in store for Robert Pattinson, the new 007? Good morning. Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Ukrainian officials say is a symbolic blow to the Kremlin. The strike follows an earlier attack on Monday that targeted an arch…
+Kira Goldberg moves from Netflix to Paramount as part of a major restructuring at Skydance.
 
-Lead: [Newsweek — Ukraine Delivers Symbolic Blow to Putin’s Bridge in Second Night of Strikes](https://www.newsweek.com/ukraine-delivers-symbolic-blow-putin-bridge-second-night-strikes-12720290)
+**Key points**
+
+- Kira Goldberg leaves Netflix to become a president of Paramount's motion picture group.
+- Jesse Ehrman is promoted to lead the motion picture group at Warner Bros.
+- Skydance is restructuring its film operations to meet a target of 30 releases per year.
+
+Skydance has unveiled a new leadership structure for its film divisions following the company's acquisition of Warner Bros. The reorganization introduces new heads for major studios while consolidating distribution and marketing operations under the parent company's oversight.
+Kira Goldberg is joining Paramount Pictures as a president of the motion picture group. She will work alongside Don Granger, who retains his current title. Goldberg previously served as a vice president at Netflix, where she managed portfolios including family, drama, and thriller films. This transition marks the end of her eight-year tenure at the streaming company.
+At Warner Bros., long-time employee Jesse Ehrman has been promoted to lead the motion picture group. Ehrman, who has spent two decades with the studio, most recently oversaw production and development. He will work with Michael Ireland, who remains in his role as president of production.
+
+Lead: [Deadline — Kira Goldberg Leaving Netflix As VP Film To Join Paramount As President Of Motion Picture Group](https://deadline.com/2026/11/kira-goldberg-leaving-netflix-vp-film-paramount-pictures-1237226627/)
 
 **Where it was published**
 
-- 2026-11-17 07:33 UTC · Newsweek · [Ukraine Delivers Symbolic Blow to Putin’s Bridge in Second Night of Strikes](https://www.newsweek.com/ukraine-delivers-symbolic-blow-putin-bridge-second-night-strikes-12720290)
-- 2026-11-17 09:50 UTC · NPR · [Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea](https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war)
-- 2026-11-17 10:30 UTC · CBS News · [Ukraine strikes major Crimea bridge, Russia retaliates on Kyiv](https://www.cbsnews.com/news/ukraine-war-russia-crimea-kerch-bridge-kyiv/)
-- 2026-11-17 11:26 UTC · Guardian US · [Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing](https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike)
-- 2026-11-17 13:22 UTC · UPI Top · [Crimea cut off after Ukraine strikes on Kerch Bridge](https://www.upi.com/Top_News/World-News/2026/11/17/Ukraine-cripples-Crimean-Bridge/1871794915065/)
-- 2026-11-17 17:41 UTC · Newsweek · [How Crimea Bridge Attack Hampers Putin's Ukraine War Effort](https://www.newsweek.com/how-crimea-bridge-attack-hampers-putins-ukraine-war-effort-12725986)
-- 2026-11-17 21:22 UTC · WCPO Cincinnati (OH) · [Ukraine says it brought down part of Russia's Kerch Bridge, as Russia hits back at Kyiv's bridges](https://www.wcpo.com/investigations/russia-ukraine-war-on-the-ground/ukraine-says-it-brought-down-part-of-russias-kerch-bridge-as-russia-hits-back-at-kyivs-bridges)
-- 2026-11-18 15:39 UTC · Newsweek · [Videos Show Putin's Prized Bridge in Flames as Russia Vows to Rebuild](https://www.newsweek.com/videos-show-putin-prized-bridge-in-flames-russia-vows-to-rebuild-12732115)
-- 2026-11-19 01:48 UTC · UPI Top · [Bridge connecting Crimea to Russia struck again, Russian governor says](https://www.upi.com/Top_News/World-News/2026/11/18/bridge-to-crimea-struck-for-third-time/7211795052272/)
-- 2026-11-19 09:18 UTC · Newsweek · [Ukraine Strikes Crimea Bridge For Third Time in Week as Trump Meets Putin](https://www.newsweek.com/ukraine-strikes-crimea-bridge-third-time-week-trump-putin-12738575)
-- 2026-11-19 13:38 UTC · UPI Top · [Ukraine strikes force suspension of rail, road traffic on Kerch Bridge](https://www.upi.com/Top_News/World-News/2026/11/19/Ukraine-strikes-Kerch-Bridge-again/4411795088239/)
-- 2026-11-19 14:37 UTC · New York Post · [Shocked commuters capture remnants of Putin’s prized bridge to Crimea after Ukraine strike](https://nypost.com/video/shocked-commuters-capture-remnants-of-putins-prized-bridge-to-crimea-after-ukraine-strike/)
+- 2026-11-17 16:50 UTC · Deadline · [Kira Goldberg Leaving Netflix As VP Film To Join Paramount As President Of Motion Picture Group](https://deadline.com/2026/11/kira-goldberg-leaving-netflix-vp-film-paramount-pictures-1237226627/)
+- 2026-11-17 17:04 UTC · Variety · [Skydance Movie Studio Shakeup: Kira Goldberg Departs Netflix to Run Paramount With Don Granger, Jeff Goldstein to Retire, WB Sets Leadership](https://variety.com/2026/film/news/skydance-movie-studio-executives-kira-goldberg-don-granger-jeff-goldstein-jesse-ehrmann-1236950394/)
+- 2026-11-17 17:11 UTC · Hollywood Reporter · [Skydance Film Re-Org: Kira Goldberg Joins Paramount, Jesse Ehrman Upped to Run Warner Bros.](https://www.hollywoodreporter.com/movies/movie-news/kira-goldberg-joins-paramount-jesse-ehrman-upped-at-warner-1236757226/)
+- 2026-11-17 17:16 UTC · Deadline · [Jeff Goldstein After 48-Year Run At Warner Bros, Exits As Global Theatrical Distribution Boss](https://deadline.com/2026/11/warner-bros-jeff-goldstein-distribution-exits-1237148114/)
+- 2026-11-17 17:23 UTC · Deadline · [Jennifer Dodge and Traci Balthazor To Oversee Animation Across Both Paramount And Warner Bros. As Bill Damaschke Departs Studio](https://deadline.com/2026/11/jennifer-dodge-traci-balthazor-paramount-and-warner-bros-bill-damaschke-1237226675/)
+- 2026-11-17 23:25 UTC · Deadline · [Skydance Cable Shake-Up: Betsy Sanner Ayala, Jason Sarlanis, Tina Perry & Michael Ouweleen To Oversee Programming, Howard Lee Exiting](https://deadline.com/2026/11/skydance-global-cable-media-restructure-1237227161/)
+- 2026-11-17 23:47 UTC · Variety · [Longtime Exec Howard Lee Departs as Skydance Confirms New Cable Structure and Division Name Under Channing Dungey](https://variety.com/2026/tv/news/howard-lee-exits-skydance-global-cable-media-1236951079/)
+- 2026-11-18 14:45 UTC · New York Post · [Top exec leaves Netflix for Paramount — what it means for David Ellison’s Skydance mega-studio](https://pagesix.com/2026/11/18/hollywood/top-netflix-film-execs-move-to-paramount-shocks-hollywood-and-reveals-peter-rices-strategy/)
+- 2026-11-18 16:49 UTC · Variety · [Elon Musk Has Invested in Skydance, David Ellison Confirms: ‘To Have Him as a Shareholder Is an Honor’](https://variety.com/2026/tv/news/elon-musk-invested-skydance-david-ellison-dealbook-conference-1236951800/)
+- 2026-11-18 18:15 UTC · Variety · [Skydance to Fold Paramount TV Studios Into Warner Bros. TV Under Channing Dungey and Matt Thunell](https://variety.com/2026/tv/news/skydance-paramount-tv-studios-warner-bros-channing-dungey-1236952011/)
+- 2026-11-18 18:15 UTC · Hollywood Reporter · [Warner Bros. TV, Paramount TV Studios to Combine as a Single Mega-Studio](https://www.hollywoodreporter.com/tv/tv-news/skydance-combining-warner-bros-tv-paramount-tv-studios-1236758476/)
+- 2026-11-18 18:15 UTC · Deadline · [Warner Bros. TV & Paramount TV Studios To Merge With Channing Dungey & Matt Thunell As Presidents](https://deadline.com/2026/11/warner-bros-tv-paramount-tv-studios-merge-dungey-thunell-1237228079/)
 
-**Who posted it on Instagram** (2 pages, 42,430 likes, 2 posts)
+**Who posted it on Instagram** (4 pages, 169,899 likes, 6 posts)
 
-- [@nytimes](https://www.instagram.com/p/Df75YX7Accb/) · 41,984 likes · 2,121 comments · +3631 min after first report · President Trump left Shenzhen, China, on Thursday after a whirlwind trip to Asia that included the first-ever summit of the U.S., Chinese and Russian leaders. Trump, who met with Xi Jinping of China a
-- [@dailymail](https://www.instagram.com/p/Df8K0SaDpi9/) · 446 likes · 44 comments · +3784 min after first report · Trump met with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China today and so far it doesn’t look like anything happened. There was nothing regarding the war in Iran
+- [@pagesix](https://www.instagram.com/p/Df5DlqnkycF/) · 134,412 likes · 464 comments · +1539 min after first report · Dying over this tweet that compares Robert Pattinson to Kirk from "Gilmore" Girls 😭 📸: Getty, Warner Bros.
+- [@cartoon](https://www.instagram.com/reel/Df2M9e1xRfm/) · 33,496 likes · 81 comments · 111 min before first report · 😂 Interesting fact: Hare Trimmed (1953) is a classic Warner Bros. Merrie Melodies animated short directed by Friz Freleng, featuring Bugs Bunny, Yosemite Sam, and Granny. In this story, the greedy Yos
+- [@clips](https://www.instagram.com/p/Df5GdmEoBmg/) · 1,285 likes · 20 comments · +1511 min after first report · Friends (1994–2004) — Created by David Crane and Marta Kauffman, this iconic NBC sitcom follows six twenty- and thirty-something friends—Rachel, Monica, Phoebe, Joey, Chandler, and Ross—navigating car
+- [@nypost](https://www.instagram.com/p/Df5rK8gGOmB/) · 359 likes · 1 comments · +1834 min after first report · Hollywood is buzzing over another major executive shake-up involving Netflix and Paramount. Netflix executive Kira Goldberg is leaving the streamer to become co-president of Paramount’s motion picture
 
-### 17. US officially loses measles elimination status, PAHO says
+### 21. US officially loses measles elimination status, PAHO says
 
 **Score** 125 · **First seen** 2026-11-17 15:40 UTC · **Last update** 2026-11-19 16:40 UTC
 
@@ -741,71 +953,77 @@ Lead: [Medical Xpress — A growing public health worry: Prolonged sitting](http
 - [@dailymail](https://www.instagram.com/p/Df4oj7eiBFv/) · 801 likes · 172 comments · +1320 min after first report · The United States has lost its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) citing the virus's continued spread for more than a year. The announcement co
 - [@maythesciencebewithyou](https://www.instagram.com/p/Df4_eyxoblB/) · 0 likes · 6 comments · +1520 min after first report · Eating instant noodles 2 to 3 times a week is linked to heart disease, stroke and diabetes. One pack can have almost all the salt you need for a whole day. Too much salt makes your heart work harder. 
 
-### 18. Central Park rape suspect expected to face a judge in NYC after extradition from Miami
+### 22. Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’
 
-**Score** 123 · **Category** crime · **First seen** 2026-11-18 04:21 UTC · **Last update** 2026-11-19 18:50 UTC
+**Score** 122 · **Category** trending · **First seen** 2026-11-19 01:15 UTC · **Last update** 2026-11-20 00:00 UTC
 
-**Status** Confirmed · independent reports: 4 of 6 feeds · official: none · independent newsrooms: 4
+**Status** Confirmed · independent reports: 4 of 4 feeds · official: none · independent newsrooms: 2
 
 **Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
 
-- Dereck Rivera-Deleon is a 30-year-old man accused of sexually assaulting women in Central Park. — support: 3
-- Dereck Rivera-Deleon appeared in a Manhattan court on Wednesday following his extradition from Florida. — support: 3
-- New York City will phase out horse-drawn carriages in Central Park by June 2028. — support: 2
+- Lainey Wilson and Vince Gill opened the 2026 CMA Awards with a tribute performance to Dolly Parton. — support: 4
+- Dolly Parton died on August 25 at the age of 80. — support: 1
+- Lainey Wilson served as the host of the 2026 CMA Awards. — support: 1
 
-> 2 of the 6 independent reports in the cluster cover related updates, not this headline. The reports describe two unrelated events: the court appearance of a rape suspect and the legislative ban on horse-drawn carriages.
+> Report 3 identifies Lainey Wilson as the host of the awards show, while other reports do not mention this role. 2 key claims stated by a single report: “Dolly Parton died on August 25 at the age of 80.”; “Lainey Wilson served as the host of the 2026 CMA Awards.”
 
-NEW YORK (PIX11) — A Bronx man accused of sexually assaulting women in Central Park will remain in jail as his case moves forward after appearing in Manhattan court Wednesday. During the court appearance, Manhattan District Attorney Alvin Bragg said Dereck Rivera-Deleon, 30, was facing two counts of predatory sexual assault. Rivera-Deleon was brought back [...]
+Dolly Parton’s life and legacy was celebrated during the first opening moments of the 2026 CMA Awards. Country singer Lainey Wilson kicked off the live award show on Wednesday, November 18, by performing a special tribute to Parton alongside Vince Gill as the country music icon’s photo looked over them lovingly as the backdrop. The […]
 
-Lead: [ABC7 NY (NY) — Central Park rape suspect extradited to New York City](https://abc7ny.com/post/central-park-rape-suspect-dereck-rivera-deleon-extradited-nyc/20049902/)
+Lead: [Us Weekly — Lainey Wilson, Vince Gill Open CMAs With Emotional Song Honoring Dolly Parton](https://www.usmagazine.com/entertainment/news/how-the-cma-awards-2026-paid-tribute-to-dolly-parton/)
 
 **Where it was published**
 
+- 2026-11-19 01:15 UTC · Us Weekly · [Lainey Wilson, Vince Gill Open CMAs With Emotional Song Honoring Dolly Parton](https://www.usmagazine.com/entertainment/news/how-the-cma-awards-2026-paid-tribute-to-dolly-parton/)
+- 2026-11-19 01:39 UTC · ABC News · [2026 CMA Awards open with moving Dolly Parton tribute from Lainey Wilson, Vince Gill](https://abcnews.com/GMA/Culture/cma-awards-2026-dolly-parton-honored-moving-tribute/story?id=138230261)
+- 2026-11-19 01:51 UTC · Just Jared · [Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’](https://www.justjared.com/2026/11/18/lainey-wilson-vince-gill-open-cmas-2026-with-emotional-tribute-to-dolly-parton-we-will-always-love-you/)
+- 2026-11-19 17:24 UTC · Fox News · [CMA Awards pays tribute to Dolly Parton as Lainey Wilson calls her ‘our Tennessee angel’](https://www.foxnews.com/entertainment/cma-awards-pays-tribute-dolly-parton-lainey-wilson-calls-tennessee-angel)
+
+**Who posted it on Instagram** (3 pages, 16,200 likes, 4 posts)
+
+- [@adley](https://www.instagram.com/reel/Df4yvcFNhKP/) · 14,141 likes · 92 comments · 606 min before first report · I loved it when Dolly Parton said this… 🫶🏻
+- [@dailymail](https://www.instagram.com/p/Df7NpduFZL1/) · 1,144 likes · 24 comments · +747 min after first report · Talk about a night to remember! 🤠 Ella Langley was the big winner at the 2026 CMA Awards, taking home an incredible six trophies, including the night’s biggest prize, Entertainer of the Year. The ‘Cho
+- [@pagesix](https://www.instagram.com/p/Df7spX9iNK3/) · 863 likes · 27 comments · +1081 min after first report · Page Six Style & Shopping Director Elana Fishman shares her best-dressed picks from the 2026 CMA Awards on this episode of "Currently Trending." 🤠👗
+
+### 23. Central Park rape suspect expected to face a judge in NYC after extradition from Miami
+
+**Score** 122 · **Category** crime · **First seen** 2026-11-17 11:28 UTC · **Last update** 2026-11-19 18:50 UTC
+
+**Status** Confirmed · independent reports: 6 of 9 feeds · official: none · independent newsrooms: 5
+
+**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
+
+- Dereck Rivera-Deleon was extradited to New York City following his arrest in Florida. — support: 4
+- Dereck Rivera-Deleon is 30 years old. — support: 2
+- Dereck Rivera-Deleon was arrested while working at a Burger King in Florida. — support: 2
+- Mayor Zohran Mamdani announced a plan to replace horse-drawn carriages in Central Park with electric vehicles. — support: 2
+
+> 3 of the 9 independent reports in the cluster cover related updates, not this headline. Reports 4 and 5 provide slightly different names for the suspect, referring to him as Dereck Rivera and Dereck Rivera-Deleon respectively.
+
+The city will look into replacing horse-drawn carriages with electric carriages and pedal-assist e-bikes in Central Park ahead of the looming ban on the longtime equine industry, Mayor Zohran Mamdani revealed Tuesday. City Hall said it would conduct a “feasibility study” into allowing the electric vehicles to act as “potential alternatives” to the hundreds of...
+
+Lead: [PIX11 (NY) — Mamdani to outline support plan for Central Park horse carriage drivers](https://pix11.com/news/morning/mamdani-to-outline-support-plan-for-central-park-horse-carriage-drivers/)
+
+**Where it was published**
+
+- 2026-11-17 11:28 UTC · PIX11 (NY) · [Mamdani to outline support plan for Central Park horse carriage drivers](https://pix11.com/news/morning/mamdani-to-outline-support-plan-for-central-park-horse-carriage-drivers/)
+- 2026-11-17 22:26 UTC · New York Post · [Mamdani floats electric vehicles to replace Central Park horse carriages — but critics question public safety](https://nypost.com/2026/11/17/us-news/mamdani-floats-electric-vehicles-to-replace-central-park-horse-carriages/)
 - 2026-11-18 04:21 UTC · ABC7 NY (NY) · [Central Park rape suspect extradited to New York City](https://abc7ny.com/post/central-park-rape-suspect-dereck-rivera-deleon-extradited-nyc/20049902/)
+- 2026-11-18 11:51 UTC · PIX11 (NY) · [Central Park rape suspect extradited from Florida](https://pix11.com/news/local-news/central-park-rape-suspect-extradited-from-florida/)
 - 2026-11-18 15:26 UTC · ABC7 NY (NY) · [Central Park rape suspect expected to face a judge in NYC after extradition from Miami](https://abc7ny.com/post/central-park-rape-suspect-dereck-rivera-deleon-arraigned-miami-arrest/20051425/)
+- 2026-11-18 16:23 UTC · New York Post · [Central Park rape suspect extradited to NY after cops caught him working at Miami Burger King](https://nypost.com/2026/11/18/us-news/central-park-rape-suspect-extradited-to-ny-after-cops-caught-him-working-at-miami-burger-king/)
 - 2026-11-18 19:15 UTC · PIX11 (NY) · [Central Park assault suspect to remain in jail as DA investigates third case](https://pix11.com/news/central-park-assault-suspect-to-remain-in-jail-as-da-investigates-third-case/)
-- 2026-11-18 22:55 UTC · NBC News · [Man accused of Central Park rapes makes first New York City court appearance](https://www.nbcnews.com/news/us-news/man-accused-central-park-rapes-makes-first-new-york-city-court-appeara-rcna610006)
 - 2026-11-19 15:25 UTC · New York Post · [Mamdani officially bans horse carriages, ending Central Park tradition](https://nypost.com/2026/11/19/us-news/mamdani-officially-bans-horse-carriages-ending-central-park-tradition/)
 - 2026-11-19 17:33 UTC · WSB-TV Atlanta (GA) · [Mamdani signs law that officially bans horse carriages in NYC’s Central Park](https://www.wsbtv.com/news/trending/mamdani-signs-law-that-officially-bans-horse-carriages-nycs-central-park/6RUDBBRPN5C5TF4X5BK2DVISPM/)
 
-**Who posted it on Instagram** (4 pages, 57,614 likes, 5 posts)
+**Who posted it on Instagram** (5 pages, 63,880 likes, 6 posts)
 
-- [@dailymail](https://www.instagram.com/p/Df8EERegJNY/) · 26,497 likes · 2,611 comments · +2477 min after first report · On Thursday New York City mayor Zohran Mamdani signed Romanch's Law, a new law that will ban all horse carriages in the five boroughs by June 1, 2028. The law was named after Romanch Mahajan, and 18-y
-- [@nypost](https://www.instagram.com/p/Df7bKv_AAH9/) · 22,598 likes · 5,932 comments · +2154 min after first report · Mayor Zohran Mamdani signed a controversial bill Thursday that bans horse-drawn carriages in the Big Apple — ending a century-old Central Park tradition as he vowed to use taxpayer money to buy out th
-- [@spottedhollywood](https://www.instagram.com/reel/Df5orbThGwn/) · 4,736 likes · 19 comments · +1119 min after first report · Madagascar (2005) DreamWorks Animation’s beloved comedy follows a group of spoiled Central Park Zoo animals—Alex the lion, Marty the zebra, Melman the giraffe, and Gloria the hippo—who unexpectedly fi
-- [@clips](https://www.instagram.com/p/Df5GdmEoBmg/) · 1,285 likes · 20 comments · +821 min after first report · Friends (1994–2004) — Created by David Crane and Marta Kauffman, this iconic NBC sitcom follows six twenty- and thirty-something friends—Rachel, Monica, Phoebe, Joey, Chandler, and Ross—navigating car
+- [@dailymail](https://www.instagram.com/p/Df8EERegJNY/) · 26,497 likes · 2,611 comments · +3489 min after first report · On Thursday New York City mayor Zohran Mamdani signed Romanch's Law, a new law that will ban all horse carriages in the five boroughs by June 1, 2028. The law was named after Romanch Mahajan, and 18-y
+- [@nypost](https://www.instagram.com/p/Df7bKv_AAH9/) · 22,598 likes · 5,932 comments · +3166 min after first report · Mayor Zohran Mamdani signed a controversial bill Thursday that bans horse-drawn carriages in the Big Apple — ending a century-old Central Park tradition as he vowed to use taxpayer money to buy out th
+- [@complex](https://www.instagram.com/p/Df2Y-hEDvEb/) · 6,266 likes · 580 comments · +317 min after first report · From Chopped Cheese from a frank stand to Mamdani's new look... a lot is going on NYC
+- [@spottedhollywood](https://www.instagram.com/reel/Df5orbThGwn/) · 4,736 likes · 19 comments · +2131 min after first report · Madagascar (2005) DreamWorks Animation’s beloved comedy follows a group of spoiled Central Park Zoo animals—Alex the lion, Marty the zebra, Melman the giraffe, and Gloria the hippo—who unexpectedly fi
+- [@clips](https://www.instagram.com/p/Df5GdmEoBmg/) · 1,285 likes · 20 comments · +1833 min after first report · Friends (1994–2004) — Created by David Crane and Marta Kauffman, this iconic NBC sitcom follows six twenty- and thirty-something friends—Rachel, Monica, Phoebe, Joey, Chandler, and Ross—navigating car
 
-### 19. Trump says "we're looking into" report that Iran may use dirty bomb on D.C.
-
-**Score** 121 · **First seen** 2026-11-18 00:23 UTC · **Last update** 2026-11-19 21:25 UTC
-
-**Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- President Trump stated he is looking into a report regarding potential Iranian plans for a dirty bomb attack in Washington D.C. — support: 1
-- The president responded to a CNN report about possible Iranian plans for an attack in Washington D.C. — support: 1
-- President Trump is currently on his first stop of an Asia trip in the Philippines. — support: 1
-
-> 1 independent report only; details may still change. 3 key claims stated by a single report: “President Trump stated he is looking into a report regarding potential”; “The president responded to a CNN report about possible Iranian plans f”
-
-President Trump responded to a CNN report about possible plans by Iran for a devastating attack in Washington, D.C. Weijia Jiang reports from the Philippines, the president's first stop on his historic Asia trip.
-
-Lead: [CBS News — Trump says "we're looking into" report that Iran may use dirty bomb on D.C.](https://www.cbsnews.com/video/trump-says-were-looking-report-iran-may-use-dirty-bomb-dc/)
-
-**Where it was published**
-
-- 2026-11-18 00:23 UTC · CBS News · [Trump says "we're looking into" report that Iran may use dirty bomb on D.C.](https://www.cbsnews.com/video/trump-says-were-looking-report-iran-may-use-dirty-bomb-dc/)
-
-**Who posted it on Instagram** (5 pages, 87,622 likes, 6 posts)
-
-- [@nytimes](https://www.instagram.com/p/Df75YX7Accb/) · 41,984 likes · 2,121 comments · +2620 min after first report · President Trump left Shenzhen, China, on Thursday after a whirlwind trip to Asia that included the first-ever summit of the U.S., Chinese and Russian leaders. Trump, who met with Xi Jinping of China a
-- [@davidpakmanshow](https://www.instagram.com/reel/Df2qECyvXtJ/) · 29,799 likes · 3,013 comments · 309 min before first report · Trump left the U.S. as a blonde and arrived in the Philippines as whatever this is...
-- [@hollywoodunlocked](https://www.instagram.com/p/Df2FnIYqqlL/) · 7,834 likes · 2,438 comments · 628 min before first report · HU Staff: Kecia Gayle @kecia.kae While folks back home were checking their balances twice and sitting hours on airport floors, President Donald Trump was in the Philippines telling reporters he isn’t 
-- [@nypost](https://www.instagram.com/p/Df2MS1dG_kJ/) · 6,992 likes · 431 comments · 549 min before first report · President Trump is on a multi-day trip to Asia with summits in the Philippines and China that will conclude with a historic trilateral meeting with Chinese President Xi Jinping and Russian President V
-- [@dailymail](https://www.instagram.com/p/Df5fVrCjW1G/) · 178 likes · 3 comments · +1275 min after first report · President Donald Trump is taking his America First agenda overseas as he kicks off a three-day trip to Asia, beginning with a stop in the Philippines before heading to China for high-stakes talks with
-
-### 20. Reagan’s peace through strength won the Cold War. Can America do it again?
+### 24. Reagan’s peace through strength won the Cold War. Can America do it again?
 
 **Score** 121 · **Category** public-safety · **First seen** 2026-11-19 09:50 UTC · **Last update** 2026-11-19 23:55 UTC
 
@@ -835,9 +1053,9 @@ Lead: [Fox News — Reagan’s peace through strength won the Cold War. Can Amer
 - [@explain](https://www.instagram.com/p/Df2UfrkEfNy/) · 0 likes · 753 comments · 2506 min before first report · Height can be surprisingly uncommon depending on where you fall on the scale. In the United States, the average adult man stands around 5’9” (175 cm), while the average adult woman is approximately 5’
 - [@thetrillionairelife](https://www.instagram.com/p/Df2cZyNI0xs/) · 0 likes · 15 comments · 2436 min before first report · Alexander Zverev wore the $460,000 @JacobAndCo The Godfather II at the inaugural ATP No. 1 Club Gala. Limited to 74 pieces, the watch can play two melodies from The Godfather on demand 🎬 Inside, a mec
 
-### 21. ‘GTA 6’ Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time
+### 25. ‘GTA 6’ Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time
 
-**Score** 121 · **Category** trending · **First seen** 2026-11-18 14:23 UTC · **Last update** 2026-11-19 20:23 UTC
+**Score** 120 · **Category** trending · **First seen** 2026-11-18 14:23 UTC · **Last update** 2026-11-19 20:23 UTC
 
 **Status** Developing · independent reports: 1 of 1 feeds · official: none · independent newsrooms: 1
 
@@ -864,149 +1082,6 @@ Lead: [Variety — ‘GTA 6’ Earns Rave Reviews and Lands 99 Metacritic Score,
 - [@unilad](https://www.instagram.com/p/Df4X44qF1oS/) · 15,294 likes · 352 comments · 190 min before first report · Thirteen years of waiting, and the critics are making it sound worth every second 😭🎮⁠ ⁠ GTA VI has scored 99/100 on Metacritic based on 100 critic reviews, earning “Universal Acclaim” and matching The
 - [@dailymail](https://www.instagram.com/p/Df4hklXCnzk/) · 14,209 likes · 233 comments · 105 min before first report · 13 years of waiting, and GTA 6 is already making gaming history 🎮 Rockstar’s highly anticipated sequel has landed a score of 99/100 on Metacritic as the first reviews roll in, matching the record held
 - [@theatlantic](https://www.instagram.com/p/Df2Dk7KEU5X/) · 408 likes · 43 comments · 1486 min before first report · Nintendo’s new “Zelda” is as good as you remember it—but is that enough? Ian Bogost asks.⁠ ⁠ Nintendo has released a remake of “The Legend of Zelda: The Ocarina of Time,” a 1998 title widely regarded 
-
-### 22. Elon Musk investment puts him in business with the NFL
-
-**Score** 120 · **Category** trending · **First seen** 2026-11-17 14:30 UTC · **Last update** 2026-11-19 23:37 UTC
-
-**Status** Confirmed · independent reports: 3 of 15 feeds · official: none · independent newsrooms: 2
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Maye Musk appears in trailers for the game Infinity Nikki. — support: 4
-- SpaceX successfully caught the Starship spacecraft with its launch tower mechanical arms. — support: 1
-- Elon Musk invested in Skydance. — support: 2
-- HBO plans to air a documentary critical of Elon Musk. — support: 1
-
-> 12 of the 15 independent reports in the cluster cover related updates, not this headline. 2 key claims stated by a single report: “SpaceX successfully caught the Starship spacecraft with its launch tow”; “HBO plans to air a documentary critical of Elon Musk.”
-
-The SpaceX CEO was spotted examining the spacecraft’s heat-shield tiles at Starbase, Texas, a day after Starship made history by being caught midair by its launch tower’s giant mechanical arms.
-
-Lead: [Kotaku — Infinity Nikki’s Latest Trailers Are Narrated By…Elon Musk’s Mom?](https://kotaku.com/infinity-nikkis-latest-trailer-is-narrated-by-elon-musks-mother-maye-infold-games-2000757651)
-
-**Where it was published**
-
-- 2026-11-17 14:30 UTC · Kotaku · [Infinity Nikki’s Latest Trailers Are Narrated By…Elon Musk’s Mom?](https://kotaku.com/infinity-nikkis-latest-trailer-is-narrated-by-elon-musks-mother-maye-infold-games-2000757651)
-- 2026-11-17 16:09 UTC · New York Post · [Elon Musk inspects Starship after SpaceX pulls off historic first-ever tower catch](https://nypost.com/video/elon-musk-inspects-starship-after-spacex-pulls-off-historic-first-ever-tower-catch/)
-- 2026-11-17 22:56 UTC · IGN · [Infinity Nikki Players Baffled After Elon Musk's Mom Appears in Game's Update Trailers](https://www.ign.com/articles/infinity-nikki-players-baffled-after-elon-musks-mom-appears-in-games-update-trailers)
-- 2026-11-18 09:11 UTC · PC Gamer · [Elon Musk's mother is promoting a dress-up gacha game, for some reason](https://www.pcgamer.com/games/adventure/elon-musks-mother-is-promoting-a-dress-up-gacha-game-for-some-reason/)
-- 2026-11-18 17:30 UTC · TechCrunch · [David Ellison says HBO will air critical Elon Musk documentary despite $1B investment in Skydance](https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/)
-- 2026-11-18 18:03 UTC · Hollywood Reporter · [David Ellison’s Open to Elon Musk Collaboration: “It Would Be a Privilege”](https://www.hollywoodreporter.com/business/business-news/david-ellisons-open-to-elon-musk-collaboration-it-would-be-a-privilege-1236758547/)
-- 2026-11-18 20:46 UTC · New York Post · [David Ellison confirms Elon Musk’s major investment in Skydance: ‘The greatest entrepreneur of our time’](https://nypost.com/2026/11/18/media/david-ellison-confirms-elon-musks-major-investment-in-skydance-the-greatest-entrepreneur-of-our-time/)
-- 2026-11-18 23:25 UTC · TechCrunch · [Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/)
-- 2026-11-19 02:59 UTC · BBC US & Canada · [Elon Musk says record spending on US midterms was 'pretty foolish'](https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss)
-- 2026-11-19 05:11 UTC · New York Post · [Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink](https://nypost.com/2026/11/19/world-news/elon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink/)
-- 2026-11-19 13:00 UTC · The Hill · [Elon Musk is giving away $11 billion in SpaceX stock — and coming out ahead](https://thehill.com/opinion/finance/6227645-trump-accounts-tax-loophole/)
-- 2026-11-19 17:48 UTC · The Hill · [Flake knocks Musk campaign spending: ‘You probably ought to know what these candidates are standing for’](https://thehill.com/homenews/campaign/6230774-flake-criticizes-musk-midterm-spending/)
-
-**Who posted it on Instagram** (5 pages, 1,790 likes, 5 posts)
-
-- [@dailymail](https://www.instagram.com/p/Df64hHPEbsI/) · 838 likes · 106 comments · +2647 min after first report · Elon Musk said he felt 'pretty foolish' about spending nearly half a billion dollars backing Republican candidates in the U.S. midterm elections after the party suffered major losses. Speaking at the 
-- [@theatlantic](https://www.instagram.com/reel/Df5vxhpDEVL/) · 513 likes · 22 comments · +2014 min after first report · Elon Musk’s influence over national security “is squarely within our purview,” Representative Jason Crow, a member of the House Armed Services Committee, tells @anneapplebaum2000.⁠ ⁠ Watch Autocracy i
-- [@nypost](https://www.instagram.com/p/Df7z8-jlMEJ/) · 439 likes · 174 comments · +3284 min after first report · In an interview with CNBC Elon Musk shared that his political donations were aimed at preventing a Democratic supermajority in 2029, arguing neither party should wield unchecked power as he rejects th
-- [@markets](https://www.instagram.com/p/Df2Kqg3kgZO/) · 0 likes · 15 comments · 331 min before first report · Elon Musk celebrated a historic SpaceX milestone by reportedly hugging Starship 42 after its incredible return to Earth. On November 14, SpaceX successfully caught Starship’s upper stage using the gia
-- [@thatsinteresting](https://www.instagram.com/reel/Df4wXCDxC0O/) · 0 likes · 7 comments · +1109 min after first report · After spending more than 22 hours orbiting Earth, a massive spacecraft returned through the atmosphere and was caught by two giant mechanical arms. On November 14, 2026, Elon Musk’s SpaceX achieved a
-
-### 23. Trump says he doesn’t need help from Russia, China to end Iran war
-
-**Score** 118 · **First seen** 2026-11-19 09:04 UTC · **Last update** 2026-11-19 22:52 UTC
-
-**Status** Developing · independent reports: 2 of 4 feeds · official: none · independent newsrooms: 1
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Donald Trump is meeting with the leaders of China and Russia for a trilateral summit in China. — support: 4
-- Trump stated that nuclear arms reduction is a primary topic for the summit. — support: 2
-- Trump stated that he does not need help from Russia and China to end the war in Iran. — support: 2
-- The summit discussions are expected to cover the wars in Ukraine and Iran. — support: 2
-
-> 2 independent reports only; details may still change. 2 of the 4 independent reports in the cluster cover related updates, not this headline.
-
-President Trump on Wednesday said he does not need Russia and China’s help to conclude the Iran war, before meeting with the leaders of both countries for an unprecedented summit in China the following day. “Well, you know, we don’t need any help,” Trump told Fox News’s Jacqui Heinrich while in Shenzhen, China. “We’ve defeated…
-
-Lead: [New York Post — Trump knocks ‘old school’ diplomacy as he urges China and Russia to reduce nukes in opening trilateral remarks](https://nypost.com/2026/11/19/us-news/trump-knocks-old-school-diplomacy-as-he-urges-china-and-russia-to-reduce-nukes-during-summit/)
-
-**Where it was published**
-
-- 2026-11-19 09:04 UTC · New York Post · [Trump knocks ‘old school’ diplomacy as he urges China and Russia to reduce nukes in opening trilateral remarks](https://nypost.com/2026/11/19/us-news/trump-knocks-old-school-diplomacy-as-he-urges-china-and-russia-to-reduce-nukes-during-summit/)
-- 2026-11-19 10:35 UTC · Fox News · [Trump's historic summit with Xi, Putin marks diplomatic milestone, but breakthroughs remain elusive](https://www.foxnews.com/politics/trumps-historic-summit-xi-putin-marks-diplomatic-milestone-breakthroughs-remain-elusive)
-- 2026-11-19 15:33 UTC · New York Post · [Trump says US will ‘see what happens’ in conflict with Iran after Jan. 1](https://nypost.com/2026/11/19/us-news/trump-says-us-will-see-what-happens-in-conflict-with-iran-after-january-1/)
-- 2026-11-19 20:07 UTC · The Hill · [Trump says he doesn’t need help from Russia, China to end Iran war](https://thehill.com/homenews/administration/6231130-trump-china-russia-summit-iran-war/)
-
-**Who posted it on Instagram** (2 pages, 42,608 likes, 3 posts)
-
-- [@nytimes](https://www.instagram.com/p/Df75YX7Accb/) · 41,984 likes · 2,121 comments · +660 min after first report · President Trump left Shenzhen, China, on Thursday after a whirlwind trip to Asia that included the first-ever summit of the U.S., Chinese and Russian leaders. Trump, who met with Xi Jinping of China a
-- [@dailymail](https://www.instagram.com/p/Df8K0SaDpi9/) · 446 likes · 44 comments · +813 min after first report · Trump met with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China today and so far it doesn’t look like anything happened. There was nothing regarding the war in Iran
-
-### 24. Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’
-
-**Score** 118 · **Category** trending · **First seen** 2026-11-19 01:15 UTC · **Last update** 2026-11-20 00:00 UTC
-
-**Status** Confirmed · independent reports: 4 of 4 feeds · official: none · independent newsrooms: 2
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- Lainey Wilson and Vince Gill opened the 2026 CMA Awards with a tribute performance to Dolly Parton. — support: 4
-- Dolly Parton died on August 25 at the age of 80. — support: 1
-- Lainey Wilson served as the host of the 2026 CMA Awards. — support: 1
-
-> Report 3 identifies Lainey Wilson as the host of the awards show, while other reports do not mention this role. 2 key claims stated by a single report: “Dolly Parton died on August 25 at the age of 80.”; “Lainey Wilson served as the host of the 2026 CMA Awards.”
-
-Dolly Parton’s life and legacy was celebrated during the first opening moments of the 2026 CMA Awards. Country singer Lainey Wilson kicked off the live award show on Wednesday, November 18, by performing a special tribute to Parton alongside Vince Gill as the country music icon’s photo looked over them lovingly as the backdrop. The […]
-
-Lead: [Us Weekly — Lainey Wilson, Vince Gill Open CMAs With Emotional Song Honoring Dolly Parton](https://www.usmagazine.com/entertainment/news/how-the-cma-awards-2026-paid-tribute-to-dolly-parton/)
-
-**Where it was published**
-
-- 2026-11-19 01:15 UTC · Us Weekly · [Lainey Wilson, Vince Gill Open CMAs With Emotional Song Honoring Dolly Parton](https://www.usmagazine.com/entertainment/news/how-the-cma-awards-2026-paid-tribute-to-dolly-parton/)
-- 2026-11-19 01:39 UTC · ABC News · [2026 CMA Awards open with moving Dolly Parton tribute from Lainey Wilson, Vince Gill](https://abcnews.com/GMA/Culture/cma-awards-2026-dolly-parton-honored-moving-tribute/story?id=138230261)
-- 2026-11-19 01:51 UTC · Just Jared · [Lainey Wilson & Vince Gill Open CMAs 2026 with Emotional Tribute to Dolly Parton: ‘We Will Always Love You’](https://www.justjared.com/2026/11/18/lainey-wilson-vince-gill-open-cmas-2026-with-emotional-tribute-to-dolly-parton-we-will-always-love-you/)
-- 2026-11-19 17:24 UTC · Fox News · [CMA Awards pays tribute to Dolly Parton as Lainey Wilson calls her ‘our Tennessee angel’](https://www.foxnews.com/entertainment/cma-awards-pays-tribute-dolly-parton-lainey-wilson-calls-tennessee-angel)
-
-**Who posted it on Instagram** (3 pages, 115,785 likes, 5 posts)
-
-- [@adley](https://www.instagram.com/reel/Df3gi5rtByC/) · 99,585 likes · 443 comments · 1324 min before first report · I loved it when Dolly Parton said this… 🫶🏻
-- [@dailymail](https://www.instagram.com/p/Df7NpduFZL1/) · 1,144 likes · 24 comments · +747 min after first report · Talk about a night to remember! 🤠 Ella Langley was the big winner at the 2026 CMA Awards, taking home an incredible six trophies, including the night’s biggest prize, Entertainer of the Year. The ‘Cho
-- [@pagesix](https://www.instagram.com/p/Df7spX9iNK3/) · 863 likes · 27 comments · +1081 min after first report · Page Six Style & Shopping Director Elana Fishman shares her best-dressed picks from the 2026 CMA Awards on this episode of "Currently Trending." 🤠👗
-
-### 25. Under-fire DHS boss Markwayne Mullin sidelined by White House after disastrous TV interviews, college football trip
-
-**Score** 116 · **Category** trending · **First seen** 2026-11-17 13:31 UTC · **Last update** 2026-11-19 16:39 UTC
-
-**Status** Confirmed · independent reports: 9 of 19 feeds · official: none · independent newsrooms: 5
-
-**Duplicates collapsed**: 5 of 19 feeds repeat the same report.
-
-**Key claims** (LLM check, support = reports stating it · gemini-3.1-flash-lite)
-
-- DHS Secretary Markwayne Mullin faces a congressional hearing regarding recent nationwide ground stops and technology outages. — support: 2
-- Markwayne Mullin used a government plane to travel to a college football game during a nationwide FAA ground stop. — support: 2
-- Markwayne Mullin suggested that artificial intelligence could be responsible for recent technology outages at airlines and banks. — support: 2
-
-> 5 of the 14 independent reports in the cluster cover related updates, not this headline. 19 feeds carry 14 independent reports (the rest are duplicates).
-
-WASHINGTON — Homeland Security Secretary Markwayne Mullin shrugged off criticism Tuesday after he used a government plane to fly to a college football game Saturday night while thousands of Americans were dealing with canceled and delayed flights. “I would have never taken airspace if the airspace wasn’t open, and we still got to live our...
-
-Lead: [New York Post — DHS Secretary Markwayne Mullin suggests AI could be behind recent outages at airlines, banks](https://nypost.com/2026/11/17/us-news/dhs-secretary-markwayne-mullin-suggests-ai-could-be-behind-recent-outages-at-airlines-banks/)
-
-**Where it was published**
-
-- 2026-11-17 13:31 UTC · New York Post · [DHS Secretary Markwayne Mullin suggests AI could be behind recent outages at airlines, banks](https://nypost.com/2026/11/17/us-news/dhs-secretary-markwayne-mullin-suggests-ai-could-be-behind-recent-outages-at-airlines-banks/)
-- 2026-11-17 16:40 UTC · New York Post · [DHS boss Markwayne Mullin defends flying to college football game as Americans struggled with FAA outage: ‘We still gotta live our life’](https://nypost.com/2026/11/17/us-news/markwayne-mullin-defends-flying-to-football-game-amid-faa-outage/)
-- 2026-11-17 21:20 UTC · WCPO Cincinnati (OH) · [Mullin flew to a football game while Americans were stranded after FAA ground stop](https://www.wcpo.com/politics/mullin-flew-to-a-football-game-while-americans-were-stranded-after-faa-ground-stop)
-- 2026-11-18 04:55 UTC · Newsweek · [Megyn Kelly Rips Markwayne Mullin Over Tech Outage Remark](https://www.newsweek.com/megyn-kelly-rips-markwayne-mullin-over-tech-outage-remark-12731478)
-- 2026-11-18 10:30 UTC · ABC News · [Mullin faces congressional hearing in the wake of historic nationwide ground stop](https://abcnews.com/Politics/mullin-faces-congressional-hearing-wake-historic-nationwide-ground/story?id=138226960)
-- 2026-11-18 12:47 UTC · ABC7 LA (CA) · [DHS Secretary Markwayne Mullin faces congressional hearing in the wake of historic nationwide ground stop](https://abc7.com/story/dhs-secretary-markwayne-mullin-faces-congressional-hearing-wake-historic-nationwide-ground-stop/20050959/)
-- 2026-11-18 12:47 UTC · ABC13 Houston (TX) · [DHS Secretary Markwayne Mullin faces congressional hearing in the wake of historic nationwide ground stop](https://abc13.com/story/dhs-secretary-markwayne-mullin-faces-congressional-hearing-wake-historic-nationwide-ground-stop/20050959/)
-- 2026-11-18 12:47 UTC · ABC7 Chicago (IL) · [DHS Secretary Markwayne Mullin faces congressional hearing in the wake of historic nationwide ground stop](https://abc7chicago.com/story/dhs-secretary-markwayne-mullin-faces-congressional-hearing-wake-historic-nationwide-ground-stop/20050959/)
-- 2026-11-18 12:47 UTC · 6abc Philly (PA) · [DHS Secretary Markwayne Mullin faces congressional hearing in the wake of historic nationwide ground stop](https://6abc.com/story/dhs-secretary-markwayne-mullin-faces-congressional-hearing-wake-historic-nationwide-ground-stop/20050959/)
-- 2026-11-18 12:47 UTC · ABC7 NY (NY) · [DHS Secretary Markwayne Mullin faces congressional hearing in the wake of historic nationwide ground stop](https://abc7ny.com/story/dhs-secretary-markwayne-mullin-faces-congressional-hearing-wake-historic-nationwide-ground-stop/20050959/)
-- 2026-11-18 15:05 UTC · The Hill · [Watch live: Mullin, FBI deputy chief testify before House on national security threats](https://thehill.com/homenews/administration/6227463-watch-live-markwayne-mullin-house-hearing-us-national-security-threats/)
-- 2026-11-18 15:30 UTC · TMZ · [Markwayne Mullin Testifies in Front of Congress After Ground Stop, Tech Outages, Live Stream](https://www.tmz.com/2026/11/18/markwayne-mullin-testifies-in-front-of-congress/)
-
-**Who posted it on Instagram** (1 pages, 1,277 likes, 1 posts)
-
-- [@nypost](https://www.instagram.com/p/Df5d5fxiilf/) · 1,277 likes · 415 comments · +2023 min after first report · Homeland Security Secretary Markwayne Mullin delivered a furious defense Wednesday of his use of a government plane to attend Saturday’s LSU-Texas college football game while thousands of Americans st
 
 ---
 Generated by `akm-news-radar` from AKM News Radar. Protocol: [PROTOCOL.md](../PROTOCOL.md).
